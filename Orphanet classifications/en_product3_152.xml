@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:22" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:20:51" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -1444,7 +1444,7 @@
                               <Disorder id="23177">
                                 <OrphaNumber>423975</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423975</ExpertLink>
-                                <Name lang="en">Neuroendocrine tumor of small intestine</Name>
+                                <Name lang="en">Neuroendocrine tumor of the small intestine</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="3">
                                 <ClassificationNode>
@@ -1599,7 +1599,7 @@
                           <Disorder id="14654">
                             <OrphaNumber>100082</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
-                            <Name lang="en">Neuroendocrine tumor of anal canal</Name>
+                            <Name lang="en">Neuroendocrine tumor of the anal canal</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1608,14 +1608,14 @@
                           <Disorder id="23184">
                             <OrphaNumber>424013</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424013</ExpertLink>
-                            <Name lang="en">Carcinoma of anal canal</Name>
+                            <Name lang="en">Carcinoma of the anal canal</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="23185">
                                 <OrphaNumber>424016</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424016</ExpertLink>
-                                <Name lang="en">Adenocarcinoma of anal canal</Name>
+                                <Name lang="en">Adenocarcinoma of the anal canal</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1624,7 +1624,7 @@
                               <Disorder id="23186">
                                 <OrphaNumber>424019</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424019</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of anal canal</Name>
+                                <Name lang="en">Squamous cell carcinoma of the anal canal</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

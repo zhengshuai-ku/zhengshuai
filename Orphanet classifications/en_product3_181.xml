@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:32" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:21:01" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -2281,7 +2281,7 @@
                               <Disorder id="2320">
                                 <OrphaNumber>2508</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2508</ExpertLink>
-                                <Name lang="en">Microcephaly-corpus callosum agenesis-abnormal genitalia syndrome</Name>
+                                <Name lang="en">Corpus callosum agenesis-abnormal genitalia syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6250,7 +6250,7 @@
                               <Disorder id="21482">
                                 <OrphaNumber>314404</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                                <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                                <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9512,7 +9512,7 @@
                       <Disorder id="13934">
                         <OrphaNumber>98917</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98917</ExpertLink>
-                        <Name lang="en">Acute motor-sensory axonal neuropathy</Name>
+                        <Name lang="en">Acute motor and sensory axonal neuropathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -10446,7 +10446,7 @@
                           <Disorder id="21482">
                             <OrphaNumber>314404</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                            <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                            <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -11756,7 +11756,7 @@
                                   <Disorder id="24230">
                                     <OrphaNumber>468661</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468661</ExpertLink>
-                                    <Name lang="en">Autosomal recessive spastic paraplegia 74</Name>
+                                    <Name lang="en">Autosomal recessive spastic paraplegia type 74</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -13689,7 +13689,7 @@
                                       <Disorder id="21482">
                                         <OrphaNumber>314404</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                                        <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                                        <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -15130,7 +15130,7 @@
                   <Disorder id="21482">
                     <OrphaNumber>314404</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                    <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                    <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -17647,7 +17647,7 @@
                                           <Disorder id="22659">
                                             <OrphaNumber>394529</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394529</ExpertLink>
-                                            <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, severe neonatal type</Name>
+                                            <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -17656,7 +17656,7 @@
                                           <Disorder id="22660">
                                             <OrphaNumber>394532</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394532</ExpertLink>
-                                            <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, mild type</Name>
+                                            <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, mild type</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -22807,7 +22807,7 @@
                   <Disorder id="23121">
                     <OrphaNumber>420728</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420728</ExpertLink>
-                    <Name lang="en">Combined oxidative phosphorylation deficiency type 20</Name>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 20</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -22816,7 +22816,7 @@
                   <Disorder id="23122">
                     <OrphaNumber>420733</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420733</ExpertLink>
-                    <Name lang="en">Combined oxidative phosphorylation deficiency type 21</Name>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 21</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -22861,7 +22861,7 @@
                   <Disorder id="23474">
                     <OrphaNumber>444013</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444013</ExpertLink>
-                    <Name lang="en">Combined oxidative phosphorylation deficiency type 23</Name>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 23</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -22951,7 +22951,7 @@
                   <Disorder id="23553">
                     <OrphaNumber>447954</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447954</ExpertLink>
-                    <Name lang="en">Combined oxidative phosphorylation deficiency type 25</Name>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 25</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -23039,7 +23039,7 @@
                       <Disorder id="21496">
                         <OrphaNumber>314572</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314572</ExpertLink>
-                        <Name lang="en">Autosomal recessive leukoencephalopathy with ischemic stroke-retinitis pigmentosa syndrome</Name>
+                        <Name lang="en">Autosomal recessive leukoencephalopathy-ischemic stroke-retinitis pigmentosa syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23871,7 +23871,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="389">
+                  <ClassificationNodeChildList count="384">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -24362,7 +24362,7 @@
                       <Disorder id="1392">
                         <OrphaNumber>1110</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1110</ExpertLink>
-                        <Name lang="en">Aortic arch anomaly-peculiar facies-intellectual disability syndrome</Name>
+                        <Name lang="en">Aortic arch anomaly-facial dysmorphism-intellectual disability syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24488,7 +24488,7 @@
                       <Disorder id="1600">
                         <OrphaNumber>1394</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1394</ExpertLink>
-                        <Name lang="en">Cerebro-facio-thoracic dysplasia</Name>
+                        <Name lang="en">Cerebrofaciothoracic dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24623,7 +24623,7 @@
                       <Disorder id="1945">
                         <OrphaNumber>2008</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2008</ExpertLink>
-                        <Name lang="en">Acro-cardio-facial syndrome</Name>
+                        <Name lang="en">Acrocardiofacial syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26297,7 +26297,7 @@
                       <Disorder id="10884">
                         <OrphaNumber>66625</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66625</ExpertLink>
-                        <Name lang="en">Cerebro-oculo-nasal syndrome</Name>
+                        <Name lang="en">Cerebrooculonasal syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26781,7 +26781,7 @@
                           <Disorder id="1604">
                             <OrphaNumber>1397</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1397</ExpertLink>
-                            <Name lang="en">Cerebellum agenesis-hydrocephaly syndrome</Name>
+                            <Name lang="en">Hydrocephaly-cerebellar agenesis syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28318,7 +28318,7 @@
                               <Disorder id="2320">
                                 <OrphaNumber>2508</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2508</ExpertLink>
-                                <Name lang="en">Microcephaly-corpus callosum agenesis-abnormal genitalia syndrome</Name>
+                                <Name lang="en">Corpus callosum agenesis-abnormal genitalia syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -28495,7 +28495,34 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182073</ExpertLink>
                         <Name lang="en">Syndromic neurometabolic disease with non-X-linked intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="12">
+                        <ClassificationNode>
+                          <Disorder id="24236">
+                            <OrphaNumber>468699</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468699</ExpertLink>
+                            <Name lang="en">SLC39A8-CDG</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23468">
+                            <OrphaNumber>443811</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443811</ExpertLink>
+                            <Name lang="en">PGM3-CDG</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23516">
+                            <OrphaNumber>445038</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=445038</ExpertLink>
+                            <Name lang="en">3-methylglutaconic aciduria type 7</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="763">
                             <OrphaNumber>46</OrphaNumber>
@@ -28964,6 +28991,24 @@
                             </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19596">
+                            <OrphaNumber>250977</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250977</ExpertLink>
+                            <Name lang="en">AICA-ribosiduria</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25150">
+                            <OrphaNumber>477774</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477774</ExpertLink>
+                            <Name lang="en">Combined oxidative phosphorylation defect type 27</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -29097,15 +29142,6 @@
                         <OrphaNumber>250972</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250972</ExpertLink>
                         <Name lang="en">Polymicrogyria with optic nerve hypoplasia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19596">
-                        <OrphaNumber>250977</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250977</ExpertLink>
-                        <Name lang="en">AICA-ribosiduria</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -29465,7 +29501,7 @@
                       <Disorder id="21513">
                         <OrphaNumber>314679</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314679</ExpertLink>
-                        <Name lang="en">Cerebro-facio-articular syndrome</Name>
+                        <Name lang="en">Cerebrofacioarticular syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -30164,15 +30200,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="23468">
-                        <OrphaNumber>443811</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443811</ExpertLink>
-                        <Name lang="en">PGM3-CDG</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="23473">
                         <OrphaNumber>444002</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444002</ExpertLink>
@@ -30185,7 +30212,7 @@
                       <Disorder id="23474">
                         <OrphaNumber>444013</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444013</ExpertLink>
-                        <Name lang="en">Combined oxidative phosphorylation deficiency type 23</Name>
+                        <Name lang="en">Combined oxidative phosphorylation defect type 23</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -30213,15 +30240,6 @@
                         <OrphaNumber>444077</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
                         <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23516">
-                        <OrphaNumber>445038</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=445038</ExpertLink>
-                        <Name lang="en">3-methylglutaconic aciduria type 7</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -30362,15 +30380,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="25150">
-                        <OrphaNumber>477774</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477774</ExpertLink>
-                        <Name lang="en">Combined oxidative phosphorylation defect type 27</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="25160">
                         <OrphaNumber>477817</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477817</ExpertLink>
@@ -30429,15 +30438,6 @@
                         <OrphaNumber>468678</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468678</ExpertLink>
                         <Name lang="en">Intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="24236">
-                        <OrphaNumber>468699</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468699</ExpertLink>
-                        <Name lang="en">SLC39A8-CDG</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -32155,7 +32155,7 @@
                                           <Disorder id="21482">
                                             <OrphaNumber>314404</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                                            <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                                            <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -35716,7 +35716,7 @@
                               <Disorder id="2320">
                                 <OrphaNumber>2508</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2508</ExpertLink>
-                                <Name lang="en">Microcephaly-corpus callosum agenesis-abnormal genitalia syndrome</Name>
+                                <Name lang="en">Corpus callosum agenesis-abnormal genitalia syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -36573,7 +36573,7 @@
                           <Disorder id="10884">
                             <OrphaNumber>66625</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66625</ExpertLink>
-                            <Name lang="en">Cerebro-oculo-nasal syndrome</Name>
+                            <Name lang="en">Cerebrooculonasal syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -38002,7 +38002,7 @@
                               <Disorder id="24230">
                                 <OrphaNumber>468661</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468661</ExpertLink>
-                                <Name lang="en">Autosomal recessive spastic paraplegia 74</Name>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 74</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -40225,7 +40225,7 @@
                               <Disorder id="13934">
                                 <OrphaNumber>98917</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98917</ExpertLink>
-                                <Name lang="en">Acute motor-sensory axonal neuropathy</Name>
+                                <Name lang="en">Acute motor and sensory axonal neuropathy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

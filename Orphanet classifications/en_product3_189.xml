@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:48" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:21:18" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -375,7 +375,7 @@
                           <Disorder id="13989">
                             <OrphaNumber>98972</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98972</ExpertLink>
-                            <Name lang="en">Central cloudy dystrophy of Francois</Name>
+                            <Name lang="en">Central cloudy dystrophy of François</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -847,7 +847,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98554</ExpertLink>
                         <Name lang="en">Major induction processes eye anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="6018">
                             <OrphaNumber>77</OrphaNumber>
@@ -960,7 +960,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=202948</ExpertLink>
                                 <Name lang="en">Syndromic microphthalmia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="15">
+                              <ClassificationNodeChildList count="16">
                                 <ClassificationNode>
                                   <Disorder id="281">
                                     <OrphaNumber>568</OrphaNumber>
@@ -1096,17 +1096,17 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="17163">
+                                    <OrphaNumber>157962</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157962</ExpertLink>
+                                    <Name lang="en">Oculoauricular syndrome, Schorderet type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17163">
-                            <OrphaNumber>157962</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157962</ExpertLink>
-                            <Name lang="en">Oculoauricular syndrome, Schorderet type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -1210,7 +1210,7 @@
                               <Disorder id="13964">
                                 <OrphaNumber>98947</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98947</ExpertLink>
-                                <Name lang="en">Coloboma of optic papilla</Name>
+                                <Name lang="en">Coloboma of optic disc</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1320,7 +1320,7 @@
                           <Disorder id="11812">
                             <OrphaNumber>88632</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88632</ExpertLink>
-                            <Name lang="en">Familial ocular anterior segment mesenchymal dysgenesis</Name>
+                            <Name lang="en">Anterior segment dysgenesis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2110,7 +2110,7 @@
                               <Disorder id="13595">
                                 <OrphaNumber>98578</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98578</ExpertLink>
-                                <Name lang="en">Ptosis</Name>
+                                <Name lang="en">Rare disorder with ptosis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="36">
                                 <ClassificationNode>
@@ -2315,7 +2315,7 @@
                                   <Disorder id="2686">
                                     <OrphaNumber>2980</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2980</ExpertLink>
-                                    <Name lang="en">Acro-oto-ocular syndrome</Name>
+                                    <Name lang="en">Acrootoocular syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6088,7 +6088,7 @@
                               <Disorder id="21496">
                                 <OrphaNumber>314572</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314572</ExpertLink>
-                                <Name lang="en">Autosomal recessive leukoencephalopathy with ischemic stroke-retinitis pigmentosa syndrome</Name>
+                                <Name lang="en">Autosomal recessive leukoencephalopathy-ischemic stroke-retinitis pigmentosa syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7834,7 +7834,7 @@
                               <Disorder id="24230">
                                 <OrphaNumber>468661</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=468661</ExpertLink>
-                                <Name lang="en">Autosomal recessive spastic paraplegia 74</Name>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 74</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

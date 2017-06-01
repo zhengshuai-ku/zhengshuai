@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:19" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:20:48" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -5420,7 +5420,7 @@
                                   <Disorder id="16706">
                                     <OrphaNumber>137681</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137681</ExpertLink>
-                                    <Name lang="en">Hepatoencephalopathy due to combined oxidative phosphorylation deficiency type 1</Name>
+                                    <Name lang="en">Hepatoencephalopathy due to combined oxidative phosphorylation defect type 1</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5456,7 +5456,7 @@
                                   <Disorder id="17773">
                                     <OrphaNumber>168566</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168566</ExpertLink>
-                                    <Name lang="en">Fatal mitochondrial disease due to combined oxidative phosphorylation deficiency 3</Name>
+                                    <Name lang="en">Fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5636,7 +5636,7 @@
                                   <Disorder id="23121">
                                     <OrphaNumber>420728</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420728</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 20</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 20</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5645,7 +5645,7 @@
                                   <Disorder id="23122">
                                     <OrphaNumber>420733</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420733</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 21</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 21</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5663,7 +5663,7 @@
                                   <Disorder id="23474">
                                     <OrphaNumber>444013</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444013</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 23</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 23</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5672,7 +5672,7 @@
                                   <Disorder id="23489">
                                     <OrphaNumber>444458</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444458</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 24</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 24</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5681,7 +5681,7 @@
                                   <Disorder id="23553">
                                     <OrphaNumber>447954</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447954</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 25</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 25</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5690,7 +5690,7 @@
                                   <Disorder id="23709">
                                     <OrphaNumber>457223</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457223</ExpertLink>
-                                    <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation deficiency</Name>
+                                    <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation defect</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5726,7 +5726,7 @@
                                   <Disorder id="25139">
                                     <OrphaNumber>477684</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477684</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation deficiency type 26</Name>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 26</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6923,7 +6923,7 @@
                                   <Disorder id="22659">
                                     <OrphaNumber>394529</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394529</ExpertLink>
-                                    <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, severe neonatal type</Name>
+                                    <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6932,7 +6932,7 @@
                                   <Disorder id="22660">
                                     <OrphaNumber>394532</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394532</ExpertLink>
-                                    <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, mild type</Name>
+                                    <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, mild type</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

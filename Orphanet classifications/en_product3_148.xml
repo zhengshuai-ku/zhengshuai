@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:16" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:20:45" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12983">
       <OrphaNumber>97965</OrphaNumber>
@@ -355,7 +355,7 @@
                               <Disorder id="14834">
                                 <OrphaNumber>101206</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -643,7 +643,7 @@
                               <Disorder id="14834">
                                 <OrphaNumber>101206</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1066,7 +1066,7 @@
                               <Disorder id="14085">
                                 <OrphaNumber>99068</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99068</ExpertLink>
-                                <Name lang="en">Complete atrioventricular canal-Fallot tetralogy syndrome</Name>
+                                <Name lang="en">Complete atrioventricular canal-tetralogy of Fallot syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1390,7 +1390,7 @@
                               <Disorder id="14834">
                                 <OrphaNumber>101206</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

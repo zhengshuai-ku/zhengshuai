@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:20:02" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:21:32" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -5534,7 +5534,7 @@
                       <Disorder id="1599">
                         <OrphaNumber>1393</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1393</ExpertLink>
-                        <Name lang="en">Cerebro-costo-mandibular syndrome</Name>
+                        <Name lang="en">Cerebrocostomandibular syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5543,7 +5543,7 @@
                       <Disorder id="1600">
                         <OrphaNumber>1394</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1394</ExpertLink>
-                        <Name lang="en">Cerebro-facio-thoracic dysplasia</Name>
+                        <Name lang="en">Cerebrofaciothoracic dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6268,7 +6268,7 @@
                               <Disorder id="1786">
                                 <OrphaNumber>1784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1784</ExpertLink>
-                                <Name lang="en">Acro-fronto-facio-nasal dysostosis</Name>
+                                <Name lang="en">Acrofrontofacionasal dysostosis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8610,7 +8610,7 @@
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85203</ExpertLink>
-                            <Name lang="en">Acro-pectoral syndrome</Name>
+                            <Name lang="en">Acropectoral syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8835,7 +8835,7 @@
                           <Disorder id="1277">
                             <OrphaNumber>956</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=956</ExpertLink>
-                            <Name lang="en">Acro-pectoro-renal dysplasia</Name>
+                            <Name lang="en">Acropectororenal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9265,7 +9265,7 @@
                               <Disorder id="1786">
                                 <OrphaNumber>1784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1784</ExpertLink>
-                                <Name lang="en">Acro-fronto-facio-nasal dysostosis</Name>
+                                <Name lang="en">Acrofrontofacionasal dysostosis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

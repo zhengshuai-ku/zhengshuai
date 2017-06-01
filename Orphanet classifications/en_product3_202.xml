@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:20:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:21:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -4655,7 +4655,7 @@
                                   <Disorder id="23177">
                                     <OrphaNumber>423975</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423975</ExpertLink>
-                                    <Name lang="en">Neuroendocrine tumor of small intestine</Name>
+                                    <Name lang="en">Neuroendocrine tumor of the small intestine</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="3">
                                     <ClassificationNode>
@@ -4810,7 +4810,7 @@
                               <Disorder id="14654">
                                 <OrphaNumber>100082</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
-                                <Name lang="en">Neuroendocrine tumor of anal canal</Name>
+                                <Name lang="en">Neuroendocrine tumor of the anal canal</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4819,14 +4819,14 @@
                               <Disorder id="23184">
                                 <OrphaNumber>424013</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424013</ExpertLink>
-                                <Name lang="en">Carcinoma of anal canal</Name>
+                                <Name lang="en">Carcinoma of the anal canal</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="23185">
                                     <OrphaNumber>424016</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424016</ExpertLink>
-                                    <Name lang="en">Adenocarcinoma of anal canal</Name>
+                                    <Name lang="en">Adenocarcinoma of the anal canal</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -4835,7 +4835,7 @@
                                   <Disorder id="23186">
                                     <OrphaNumber>424019</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424019</ExpertLink>
-                                    <Name lang="en">Squamous cell carcinoma of anal canal</Name>
+                                    <Name lang="en">Squamous cell carcinoma of the anal canal</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6500,7 +6500,7 @@
                                   <Disorder id="18759">
                                     <OrphaNumber>213630</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213630</ExpertLink>
-                                    <Name lang="en">Malignant peripheral neuroectodermal tumor of corpus uteri</Name>
+                                    <Name lang="en">Primitive neuroectodermal tumor of the corpus uteri</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6547,7 +6547,7 @@
                               <Disorder id="18764">
                                 <OrphaNumber>213731</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213731</ExpertLink>
-                                <Name lang="en">Poorly differentiated endocrine carcinoma of the corpus uteri</Name>
+                                <Name lang="en">High-grade neuroendocrine carcinoma of the corpus uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6556,7 +6556,7 @@
                               <Disorder id="18765">
                                 <OrphaNumber>213736</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213736</ExpertLink>
-                                <Name lang="en">Well-differentiated neuroendocrine neoplasm of corpus uteri</Name>
+                                <Name lang="en">Low-grade neuroendocrine tumor of the corpus uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6619,7 +6619,7 @@
                               <Disorder id="18772">
                                 <OrphaNumber>213777</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213777</ExpertLink>
-                                <Name lang="en">Poorly differentiated endocrine carcinoma of the cervix uteri</Name>
+                                <Name lang="en">High-grade neuroendocrine carcinoma of the cervix uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6680,7 +6680,7 @@
                                   <Disorder id="18779">
                                     <OrphaNumber>213812</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213812</ExpertLink>
-                                    <Name lang="en">Malignant peripheral neuroectodermal tumor of cervix uteri</Name>
+                                    <Name lang="en">Primitive neuroectodermal tumor of the cervix uteri</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -7496,7 +7496,7 @@
                       <Disorder id="8594">
                         <OrphaNumber>874</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=874</ExpertLink>
-                        <Name lang="en">Adult heart tumor</Name>
+                        <Name lang="en">Primary adult heart tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7505,7 +7505,7 @@
                       <Disorder id="8607">
                         <OrphaNumber>875</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=875</ExpertLink>
-                        <Name lang="en">Heart tumor of the child</Name>
+                        <Name lang="en">Primary pediatric cardiac tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7942,7 +7942,7 @@
                               <Disorder id="14654">
                                 <OrphaNumber>100082</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
-                                <Name lang="en">Neuroendocrine tumor of anal canal</Name>
+                                <Name lang="en">Neuroendocrine tumor of the anal canal</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:12" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:20:41" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -773,7 +773,7 @@
                       <Disorder id="1277">
                         <OrphaNumber>956</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=956</ExpertLink>
-                        <Name lang="en">Acro-pectoro-renal dysplasia</Name>
+                        <Name lang="en">Acropectororenal dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -827,7 +827,7 @@
                       <Disorder id="1603">
                         <OrphaNumber>1396</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1396</ExpertLink>
-                        <Name lang="en">Cerebro-reno-digital syndrome</Name>
+                        <Name lang="en">Cerebrorenodigital syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1550,7 +1550,7 @@
                                   <Disorder id="14834">
                                     <OrphaNumber>101206</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                    <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                    <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1838,7 +1838,7 @@
                                   <Disorder id="14834">
                                     <OrphaNumber>101206</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                    <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                    <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2261,7 +2261,7 @@
                                   <Disorder id="14085">
                                     <OrphaNumber>99068</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99068</ExpertLink>
-                                    <Name lang="en">Complete atrioventricular canal-Fallot tetralogy syndrome</Name>
+                                    <Name lang="en">Complete atrioventricular canal-tetralogy of Fallot syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2585,7 +2585,7 @@
                                   <Disorder id="14834">
                                     <OrphaNumber>101206</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                    <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                    <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -7735,7 +7735,7 @@
                               <Disorder id="2320">
                                 <OrphaNumber>2508</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2508</ExpertLink>
-                                <Name lang="en">Microcephaly-corpus callosum agenesis-abnormal genitalia syndrome</Name>
+                                <Name lang="en">Corpus callosum agenesis-abnormal genitalia syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8592,7 +8592,7 @@
                           <Disorder id="10884">
                             <OrphaNumber>66625</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66625</ExpertLink>
-                            <Name lang="en">Cerebro-oculo-nasal syndrome</Name>
+                            <Name lang="en">Cerebrooculonasal syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9636,7 +9636,7 @@
                           <Disorder id="13964">
                             <OrphaNumber>98947</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98947</ExpertLink>
-                            <Name lang="en">Coloboma of optic papilla</Name>
+                            <Name lang="en">Coloboma of optic disc</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -10079,7 +10079,7 @@
                       <Disorder id="11812">
                         <OrphaNumber>88632</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88632</ExpertLink>
-                        <Name lang="en">Familial ocular anterior segment mesenchymal dysgenesis</Name>
+                        <Name lang="en">Anterior segment dysgenesis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -11105,7 +11105,7 @@
                       <Disorder id="2686">
                         <OrphaNumber>2980</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2980</ExpertLink>
-                        <Name lang="en">Acro-oto-ocular syndrome</Name>
+                        <Name lang="en">Acrootoocular syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -17268,7 +17268,7 @@
                           <Disorder id="1599">
                             <OrphaNumber>1393</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1393</ExpertLink>
-                            <Name lang="en">Cerebro-costo-mandibular syndrome</Name>
+                            <Name lang="en">Cerebrocostomandibular syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17277,7 +17277,7 @@
                           <Disorder id="1600">
                             <OrphaNumber>1394</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1394</ExpertLink>
-                            <Name lang="en">Cerebro-facio-thoracic dysplasia</Name>
+                            <Name lang="en">Cerebrofaciothoracic dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -18002,7 +18002,7 @@
                                   <Disorder id="1786">
                                     <OrphaNumber>1784</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1784</ExpertLink>
-                                    <Name lang="en">Acro-fronto-facio-nasal dysostosis</Name>
+                                    <Name lang="en">Acrofrontofacionasal dysostosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -20344,7 +20344,7 @@
                               <Disorder id="11661">
                                 <OrphaNumber>85203</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85203</ExpertLink>
-                                <Name lang="en">Acro-pectoral syndrome</Name>
+                                <Name lang="en">Acropectoral syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -20569,7 +20569,7 @@
                               <Disorder id="1277">
                                 <OrphaNumber>956</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=956</ExpertLink>
-                                <Name lang="en">Acro-pectoro-renal dysplasia</Name>
+                                <Name lang="en">Acropectororenal dysplasia</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -20999,7 +20999,7 @@
                                   <Disorder id="1786">
                                     <OrphaNumber>1784</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1784</ExpertLink>
-                                    <Name lang="en">Acro-fronto-facio-nasal dysostosis</Name>
+                                    <Name lang="en">Acrofrontofacionasal dysostosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -21259,7 +21259,7 @@
                   <Disorder id="1918">
                     <OrphaNumber>1974</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1974</ExpertLink>
-                    <Name lang="en">Autosomal recessive facio-digito-genital syndrome</Name>
+                    <Name lang="en">Autosomal recessive faciodigitogenital syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -23192,7 +23192,7 @@
                       <Disorder id="1198">
                         <OrphaNumber>1946</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1946</ExpertLink>
-                        <Name lang="en">Amelo-cerebro-hypohidrotic syndrome</Name>
+                        <Name lang="en">Amelocerebrohypohidrotic syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23228,7 +23228,7 @@
                       <Disorder id="1336">
                         <OrphaNumber>1028</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1028</ExpertLink>
-                        <Name lang="en">Amelo-onycho-hypohidrotic syndrome</Name>
+                        <Name lang="en">Ameloonychohypohidrotic syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -25840,7 +25840,7 @@
                   <Disorder id="1198">
                     <OrphaNumber>1946</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1946</ExpertLink>
-                    <Name lang="en">Amelo-cerebro-hypohidrotic syndrome</Name>
+                    <Name lang="en">Amelocerebrohypohidrotic syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -28689,7 +28689,7 @@
                           <Disorder id="1945">
                             <OrphaNumber>2008</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2008</ExpertLink>
-                            <Name lang="en">Acro-cardio-facial syndrome</Name>
+                            <Name lang="en">Acrocardiofacial syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -33034,7 +33034,7 @@
                               <Disorder id="1081">
                                 <OrphaNumber>1450</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1450</ExpertLink>
-                                <Name lang="en">Chromosome 8-derived supernumerary ring /marker</Name>
+                                <Name lang="en">Chromosome 8-derived supernumerary ring/marker</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -34127,7 +34127,7 @@
                       <Disorder id="10884">
                         <OrphaNumber>66625</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66625</ExpertLink>
-                        <Name lang="en">Cerebro-oculo-nasal syndrome</Name>
+                        <Name lang="en">Cerebrooculonasal syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -34937,7 +34937,7 @@
                       <Disorder id="21513">
                         <OrphaNumber>314679</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314679</ExpertLink>
-                        <Name lang="en">Cerebro-facio-articular syndrome</Name>
+                        <Name lang="en">Cerebrofacioarticular syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -35414,7 +35414,7 @@
                       <Disorder id="1945">
                         <OrphaNumber>2008</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2008</ExpertLink>
-                        <Name lang="en">Acro-cardio-facial syndrome</Name>
+                        <Name lang="en">Acrocardiofacial syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -36917,7 +36917,7 @@
                       <Disorder id="1392">
                         <OrphaNumber>1110</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1110</ExpertLink>
-                        <Name lang="en">Aortic arch anomaly-peculiar facies-intellectual disability syndrome</Name>
+                        <Name lang="en">Aortic arch anomaly-facial dysmorphism-intellectual disability syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37061,7 +37061,7 @@
                       <Disorder id="1600">
                         <OrphaNumber>1394</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1394</ExpertLink>
-                        <Name lang="en">Cerebro-facio-thoracic dysplasia</Name>
+                        <Name lang="en">Cerebrofaciothoracic dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37601,7 +37601,7 @@
                       <Disorder id="1599">
                         <OrphaNumber>1393</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1393</ExpertLink>
-                        <Name lang="en">Cerebro-costo-mandibular syndrome</Name>
+                        <Name lang="en">Cerebrocostomandibular syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37997,7 +37997,7 @@
                       <Disorder id="18947">
                         <OrphaNumber>221139</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221139</ExpertLink>
-                        <Name lang="en">Combined immunodeficiency with facio-oculo-skeletal anomalies</Name>
+                        <Name lang="en">Combined immunodeficiency with faciooculoskeletal anomalies</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39356,7 +39356,7 @@
                       <Disorder id="1918">
                         <OrphaNumber>1974</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1974</ExpertLink>
-                        <Name lang="en">Autosomal recessive facio-digito-genital syndrome</Name>
+                        <Name lang="en">Autosomal recessive faciodigitogenital syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -40189,7 +40189,7 @@
                               <Disorder id="1786">
                                 <OrphaNumber>1784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1784</ExpertLink>
-                                <Name lang="en">Acro-fronto-facio-nasal dysostosis</Name>
+                                <Name lang="en">Acrofrontofacionasal dysostosis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -40522,7 +40522,7 @@
                               <Disorder id="424">
                                 <OrphaNumber>1154</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1154</ExpertLink>
-                                <Name lang="en">Arthrogryposis with oculomotor limitation and electroretinal anomalies</Name>
+                                <Name lang="en">Arthrogryposis- oculomotor limitation-electroretinal anomalies syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -41541,7 +41541,7 @@
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85203</ExpertLink>
-                            <Name lang="en">Acro-pectoral syndrome</Name>
+                            <Name lang="en">Acropectoral syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -41766,7 +41766,7 @@
                           <Disorder id="1277">
                             <OrphaNumber>956</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=956</ExpertLink>
-                            <Name lang="en">Acro-pectoro-renal dysplasia</Name>
+                            <Name lang="en">Acropectororenal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -44156,7 +44156,7 @@
                                   <Disorder id="14834">
                                     <OrphaNumber>101206</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101206</ExpertLink>
-                                    <Name lang="en">Pulmonary valve agenesis-Fallot's tetralogy-absence of ductus arteriosus syndrome</Name>
+                                    <Name lang="en">Pulmonary valve agenesis-tetralogy of Fallot-absence of ductus arteriosus syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -46556,7 +46556,7 @@
                       <Disorder id="1918">
                         <OrphaNumber>1974</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1974</ExpertLink>
-                        <Name lang="en">Autosomal recessive facio-digito-genital syndrome</Name>
+                        <Name lang="en">Autosomal recessive faciodigitogenital syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -46779,7 +46779,7 @@
                           <Disorder id="2320">
                             <OrphaNumber>2508</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2508</ExpertLink>
-                            <Name lang="en">Microcephaly-corpus callosum agenesis-abnormal genitalia syndrome</Name>
+                            <Name lang="en">Corpus callosum agenesis-abnormal genitalia syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -46927,7 +46927,7 @@
                   <Disorder id="21482">
                     <OrphaNumber>314404</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                    <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                    <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -47728,7 +47728,7 @@
                   <Disorder id="23709">
                     <OrphaNumber>457223</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457223</ExpertLink>
-                    <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation deficiency</Name>
+                    <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation defect</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -48493,7 +48493,7 @@
                   <Disorder id="23553">
                     <OrphaNumber>447954</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447954</ExpertLink>
-                    <Name lang="en">Combined oxidative phosphorylation deficiency type 25</Name>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 25</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

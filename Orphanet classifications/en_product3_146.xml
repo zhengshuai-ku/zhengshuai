@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:19:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:20:37" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12948">
       <OrphaNumber>97929</OrphaNumber>
@@ -382,7 +382,7 @@
                               <Disorder id="23474">
                                 <OrphaNumber>444013</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444013</ExpertLink>
-                                <Name lang="en">Combined oxidative phosphorylation deficiency type 23</Name>
+                                <Name lang="en">Combined oxidative phosphorylation defect type 23</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -443,7 +443,7 @@
                                   <Disorder id="22659">
                                     <OrphaNumber>394529</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394529</ExpertLink>
-                                    <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, severe neonatal type</Name>
+                                    <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -452,7 +452,7 @@
                                   <Disorder id="22660">
                                     <OrphaNumber>394532</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=394532</ExpertLink>
-                                    <Name lang="en">Multiple acyl-CoA dehydrogenation deficiency, mild type</Name>
+                                    <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency, mild type</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1756,7 +1756,7 @@
                   <Disorder id="8594">
                     <OrphaNumber>874</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=874</ExpertLink>
-                    <Name lang="en">Adult heart tumor</Name>
+                    <Name lang="en">Primary adult heart tumor</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1765,7 +1765,7 @@
                   <Disorder id="8607">
                     <OrphaNumber>875</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=875</ExpertLink>
-                    <Name lang="en">Heart tumor of the child</Name>
+                    <Name lang="en">Primary pediatric cardiac tumor</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

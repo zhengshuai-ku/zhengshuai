@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:20:04" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-06-01 04:21:34" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -170,7 +170,7 @@
                       <Disorder id="21482">
                         <OrphaNumber>314404</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314404</ExpertLink>
-                        <Name lang="en">Autosomal dominant cerebellar ataxia, deafness and narcolepsy</Name>
+                        <Name lang="en">Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -998,7 +998,7 @@
                       <Disorder id="23709">
                         <OrphaNumber>457223</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457223</ExpertLink>
-                        <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation deficiency</Name>
+                        <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation defect</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1763,7 +1763,7 @@
                       <Disorder id="23553">
                         <OrphaNumber>447954</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447954</ExpertLink>
-                        <Name lang="en">Combined oxidative phosphorylation deficiency type 25</Name>
+                        <Name lang="en">Combined oxidative phosphorylation defect type 25</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3698,7 +3698,7 @@
                       <Disorder id="1945">
                         <OrphaNumber>2008</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2008</ExpertLink>
-                        <Name lang="en">Acro-cardio-facial syndrome</Name>
+                        <Name lang="en">Acrocardiofacial syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-05-01 04:07:14" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
-  <HPODisorderSetStatusList count="2629">
+<JDBOR date="2017-06-01 04:08:04" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+  <HPODisorderSetStatusList count="2671">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -9944,7 +9944,7 @@
     <HPODisorderSetStatus id="868">
       <Disorder id="1907">
         <OrphaNumber>1962</OrphaNumber>
-        <Name lang="it">Esostosi - anectodermia - brachidattilia tipo E</Name>
+        <Name lang="it">Esostosi - anetodermia - brachidattilia tipo E</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -30057,6 +30057,450 @@
       <CreationDate>2016-09-12 15:01:42.873</CreationDate>
       <UpdateDate>2016-09-12 15:01:42.873</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2724">
+      <Disorder id="10670">
+        <OrphaNumber>51083</OrphaNumber>
+        <Name lang="it">Sindrome familiare del QT corto</Name>
+      </Disorder>
+      <Source>15159330[PMID]_14676148[PMID]_15890322[PMID]_24818999[PMID]_14676148[PMID]_12925462[PMID]_11173780[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-31 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-31 15:12:58.52</CreationDate>
+      <UpdateDate>2017-05-31 15:12:58.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2723">
+      <Disorder id="2534">
+        <OrphaNumber>2786</OrphaNumber>
+        <Name lang="it">sindrome osteoporosi-ipopigmentazione oculocutanea</Name>
+      </Disorder>
+      <Source>8721572[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-30 10:42:51.506</CreationDate>
+      <UpdateDate>2017-05-30 10:42:51.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2722">
+      <Disorder id="12431">
+        <OrphaNumber>93598</OrphaNumber>
+        <Name lang="it">Iperossaluria primitiva, tipo 1</Name>
+      </Disorder>
+      <Source>20301460[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-11 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 14:12:21.51</CreationDate>
+      <UpdateDate>2017-05-29 14:12:21.51</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2721">
+      <Disorder id="2237">
+        <OrphaNumber>2410</OrphaNumber>
+        <Name lang="it">Sindrome ipogonadismo ipergonadotropo-cataratta</Name>
+      </Disorder>
+      <Source>6418006[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-01 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 12:42:19.153</CreationDate>
+      <UpdateDate>2017-05-29 12:42:19.153</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2720">
+      <Disorder id="10941">
+        <OrphaNumber>69744</OrphaNumber>
+        <Name lang="it">Ipocheratosi palmoplantare circoscritta</Name>
+      </Disorder>
+      <Source>24068139[PMID],28502096[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 12:25:57.356</CreationDate>
+      <UpdateDate>2017-05-29 12:25:57.356</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2716">
+      <Disorder id="10903">
+        <OrphaNumber>67043</OrphaNumber>
+        <Name lang="it">Cheratite da Acantamoeba</Name>
+      </Disorder>
+      <Source>19660733[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-15 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:37:23.736</CreationDate>
+      <UpdateDate>2017-05-29 11:37:23.736</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2717">
+      <Disorder id="10746">
+        <OrphaNumber>54057</OrphaNumber>
+        <Name lang="it">Porpora trombocitopenica trombotica</Name>
+      </Disorder>
+      <Source>28416507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-15 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:56:14.693</CreationDate>
+      <UpdateDate>2017-05-29 11:56:14.693</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2718">
+      <Disorder id="2110">
+        <OrphaNumber>2237</OrphaNumber>
+        <Name lang="it">Ipoparatiroidismo - sordità - malattia renale</Name>
+      </Disorder>
+      <Source>874665[PMID]_19659764[PMID]_1522843[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-29 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 12:11:33.066</CreationDate>
+      <UpdateDate>2017-05-29 12:11:33.066</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2719">
+      <Disorder id="10923">
+        <OrphaNumber>69125</OrphaNumber>
+        <Name lang="it">Anonichia con pigmentazione delle pieghe di flessione</Name>
+      </Disorder>
+      <Source>1156563[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 12:16:06.96</CreationDate>
+      <UpdateDate>2017-05-29 12:16:06.96</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2712">
+      <Disorder id="2109">
+        <OrphaNumber>2235</OrphaNumber>
+        <Name lang="it">Ipogonadismo ipogonadotropo - retinite pigmentosa</Name>
+      </Disorder>
+      <Source>6795223[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-01 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:16:01.616</CreationDate>
+      <UpdateDate>2017-05-29 11:16:01.616</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2713">
+      <Disorder id="11041">
+        <OrphaNumber>73247</OrphaNumber>
+        <Name lang="it">Esofagite eosinofila</Name>
+      </Disorder>
+      <Source>27158535[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:20:49.28</CreationDate>
+      <UpdateDate>2017-05-29 11:20:49.28</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2714">
+      <Disorder id="10373">
+        <OrphaNumber>35122</OrphaNumber>
+        <Name lang="it">Deficit congenito di sucrasi-isomaltasi</Name>
+      </Disorder>
+      <Source>26163121[PMID],23103650[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-10 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:24:50.563</CreationDate>
+      <UpdateDate>2017-05-29 11:24:50.563</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2715">
+      <Disorder id="11941">
+        <OrphaNumber>90050</OrphaNumber>
+        <Name lang="it">Retinopatia del prematuro</Name>
+      </Disorder>
+      <Source>28420777[PMID],3839410[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-10 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-29 11:29:46.776</CreationDate>
+      <UpdateDate>2017-05-29 11:29:46.776</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2708">
+      <Disorder id="14513">
+        <OrphaNumber>99940</OrphaNumber>
+        <Name lang="it">Malattia di Charcot-Marie-Tooth autosomica dominante, tipo 2F</Name>
+      </Disorder>
+      <Source>11528513[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-03 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-23 11:40:21.186</CreationDate>
+      <UpdateDate>2017-05-23 11:40:21.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2709">
+      <Disorder id="858">
+        <OrphaNumber>2764</OrphaNumber>
+        <Name lang="it">Osteocondrite dissecante</Name>
+      </Disorder>
+      <Source>21979791[PMID],16794036[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-03 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-23 11:50:37.516</CreationDate>
+      <UpdateDate>2017-05-23 11:50:37.516</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2710">
+      <Disorder id="11718">
+        <OrphaNumber>85445</OrphaNumber>
+        <Name lang="it">Amiloidosi AA</Name>
+      </Disorder>
+      <Source>28462876[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-23 11:58:26.646</CreationDate>
+      <UpdateDate>2017-05-23 11:58:26.646</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2711">
+      <Disorder id="10948">
+        <OrphaNumber>70475</OrphaNumber>
+        <Name lang="it">Proctite da radiazioni</Name>
+      </Disorder>
+      <Source>27504391[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-23 12:09:37.716</CreationDate>
+      <UpdateDate>2017-05-23 12:09:37.716</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2704">
+      <Disorder id="13784">
+        <OrphaNumber>98767</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 11</Name>
+      </Disorder>
+      <Source>20301723[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-25 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-19 17:19:05.18</CreationDate>
+      <UpdateDate>2017-05-19 17:19:05.18</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2705">
+      <Disorder id="13774">
+        <OrphaNumber>98757</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 3</Name>
+      </Disorder>
+      <Source>20301375[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-26 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-19 17:27:10.74</CreationDate>
+      <UpdateDate>2017-05-19 17:27:10.74</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2706">
+      <Disorder id="13776">
+        <OrphaNumber>98759</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 17</Name>
+      </Disorder>
+      <Source>20301611[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-22 09:52:14.333</CreationDate>
+      <UpdateDate>2017-05-22 09:52:14.333</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2707">
+      <Disorder id="13828">
+        <OrphaNumber>98811</OrphaNumber>
+        <Name lang="it">Discinesia parossistica indotta da sforzo</Name>
+      </Disorder>
+      <Source>18577546[PMID],11076005[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-27 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-23 11:35:01.543</CreationDate>
+      <UpdateDate>2017-05-23 11:35:01.543</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2701">
+      <Disorder id="12805">
+        <OrphaNumber>96181</OrphaNumber>
+        <Name lang="it">Disomia uniparentale materna del cromosoma 6</Name>
+      </Disorder>
+      <Source>25633059[PMID]_23499059[PMID]_21166787[PMID]_20583164[PMID]_16906568[PMID]_16470696[PMID]_11334617[PMID]_10541311[PMID]_8655360[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-17 13:49:48.173</CreationDate>
+      <UpdateDate>2017-05-17 13:49:48.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2700">
+      <Disorder id="19602">
+        <OrphaNumber>251009</OrphaNumber>
+        <Name lang="it">Disomia uniparentale materna del cromosoma 1</Name>
+      </Disorder>
+      <Source>9326326[PMID]_9758608[PMID]_17702006[PMID]_20583171[PMID]_22689986[PMID]_23684670[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-17 12:36:26.6</CreationDate>
+      <UpdateDate>2017-05-17 12:36:26.6</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2703">
+      <Disorder id="13783">
+        <OrphaNumber>98766</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 5</Name>
+      </Disorder>
+      <Source>7874171[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-25 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-19 17:14:26.666</CreationDate>
+      <UpdateDate>2017-05-19 17:14:26.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2702">
+      <Disorder id="12815">
+        <OrphaNumber>96191</OrphaNumber>
+        <Name lang="it">Disomia uniparentale paterna del cromosoma 6</Name>
+      </Disorder>
+      <Source>11448939[PMID]_10936046[PMID]_18486206[PMID]_11515731[PMID]_11038325[PMID]_9039998[PMID]_9894800[PMID]_11334617[PMID]_19114626[PMID]_20186794[PMID]_20412110[PMID]_25124546[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-17 14:23:58.83</CreationDate>
+      <UpdateDate>2017-05-17 14:23:58.83</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2697">
+      <Disorder id="20370">
+        <OrphaNumber>276280</OrphaNumber>
+        <Name lang="it">Sindrome emiiperplasia-lipomatosi multipla</Name>
+      </Disorder>
+      <Source>24782230[PMID]_25557259[PMID]_25915946[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-15 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-15 11:45:09.146</CreationDate>
+      <UpdateDate>2017-05-15 11:45:09.146</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2696">
+      <Disorder id="2271">
+        <OrphaNumber>2457</OrphaNumber>
+        <Name lang="it">Displasia mandiboloacrale</Name>
+      </Disorder>
+      <Source>27710244[PMID]_12788894[PMID]_1951457[PMID]_1939519[PMID]_25629449[PMID]_12913070[PMID]_18796515[PMID]_11836320[PMID]_1939519[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-12 11:33:23.826</CreationDate>
+      <UpdateDate>2017-05-12 11:33:23.826</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2699">
+      <Disorder id="19601">
+        <OrphaNumber>251004</OrphaNumber>
+        <Name lang="it">Disomia uniparentale paterna del cromosoma 1</Name>
+      </Disorder>
+      <Source>21270828[PMID]_17277736[PMID]_11071380[PMID]_10951251[PMID]_15663509[PMID]_21270828[PMID]_24334170[PMID]_26846731[PMID]_23275530[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-17 11:58:55.843</CreationDate>
+      <UpdateDate>2017-05-17 11:58:55.843</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2698">
+      <Disorder id="12804">
+        <OrphaNumber>96180</OrphaNumber>
+        <Name lang="it">Disomia uniparentale materna del cromosoma 4</Name>
+      </Disorder>
+      <Source>26169481[PMID]_25994769[PMID]_22150066[PMID]_21480868[PMID]_16331669[PMID]_10446076[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-15 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-15 14:27:23.55</CreationDate>
+      <UpdateDate>2017-05-15 14:27:23.55</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2693">
+      <Disorder id="12433">
+        <OrphaNumber>93600</OrphaNumber>
+        <Name lang="it">Iperossaluria primitiva, tipo 3</Name>
+      </Disorder>
+      <Source>26401545[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 12:05:45.973</CreationDate>
+      <UpdateDate>2017-05-03 12:05:45.973</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2692">
+      <Disorder id="12432">
+        <OrphaNumber>93599</OrphaNumber>
+        <Name lang="it">Iperossaluria primitiva, tipo 2</Name>
+      </Disorder>
+      <Source>9243228[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 11:57:34.853</CreationDate>
+      <UpdateDate>2017-05-03 11:57:34.853</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2695">
+      <Disorder id="11325">
+        <OrphaNumber>79299</OrphaNumber>
+        <Name lang="it">Iperinsulinismo da deficit di glucochinasi</Name>
+      </Disorder>
+      <Source>9435328[PMID]_17003566[PMID]_21967988[PMID]_15133749[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-12 10:34:22.46</CreationDate>
+      <UpdateDate>2017-05-12 10:34:22.46</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2694">
+      <Disorder id="23376">
+        <OrphaNumber>439167</OrphaNumber>
+        <Name lang="it">Insufficienza placentare</Name>
+      </Disorder>
+      <Source>15383103[PMID]_26098843[PMID]_25485869[PMID]_23320863[PMID]_22521456[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-03 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 16:38:06.7</CreationDate>
+      <UpdateDate>2017-05-03 16:38:06.7</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2689">
+      <Disorder id="13046">
+        <OrphaNumber>98028</OrphaNumber>
+        <Name lang="it">Malattia rara del sistema circolatorio</Name>
+      </Disorder>
+      <Source>13149051[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-20 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 10:47:44.213</CreationDate>
+      <UpdateDate>2017-05-03 10:47:44.213</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2688">
+      <Disorder id="18687">
+        <OrphaNumber>210136</OrphaNumber>
+        <Name lang="it">Fibrosi polmonare - iperplasia epatica - ipoplasia del midollo osseo</Name>
+      </Disorder>
+      <Source>19401489[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 10:43:05.0</CreationDate>
+      <UpdateDate>2017-05-03 10:43:05.0</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2691">
+      <Disorder id="12803">
+        <OrphaNumber>96179</OrphaNumber>
+        <Name lang="it">Disomia uniparentale materna del cromosoma 2</Name>
+      </Disorder>
+      <Source>8533806[PMID]_23167750[PMID]_23276565[PMID]_24075380[PMID]_24243683[PMID]_8938070[PMID]_9178319[PMID]_9178319[PMID]_11746120[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-03 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 11:37:08.19</CreationDate>
+      <UpdateDate>2017-05-03 11:37:08.19</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2690">
+      <Disorder id="11175">
+        <OrphaNumber>79149</OrphaNumber>
+        <Name lang="it">Distrofia dermo-condro-corneale</Name>
+      </Disorder>
+      <Source>20574610(PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-20 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 11:11:51.906</CreationDate>
+      <UpdateDate>2017-05-03 11:11:51.906</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2615">
       <Disorder id="11022">
         <OrphaNumber>71529</OrphaNumber>
@@ -30897,6 +31341,18 @@
       <CreationDate>2017-04-24 15:03:55.566</CreationDate>
       <UpdateDate>2017-04-24 15:03:55.566</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2683">
+      <Disorder id="3316">
+        <OrphaNumber>158</OrphaNumber>
+        <Name lang="it">Deficit primitivo sistemico di carnitina</Name>
+      </Disorder>
+      <Source>234182[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 09:40:18.09</CreationDate>
+      <UpdateDate>2017-05-03 09:40:18.09</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2682">
       <Disorder id="17174">
         <OrphaNumber>158008</OrphaNumber>
@@ -30932,6 +31388,54 @@
       <UpdateDate>2017-04-26 00:00:00.0</UpdateDate>
       <CreationDate>2017-04-26 13:55:56.896</CreationDate>
       <UpdateDate>2017-04-26 13:55:56.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2687">
+      <Disorder id="17946">
+        <OrphaNumber>171866</OrphaNumber>
+        <Name lang="it">Displasia spondiloepimetafisaria, tipo aggrecano</Name>
+      </Disorder>
+      <Source>19110214[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 10:35:18.253</CreationDate>
+      <UpdateDate>2017-05-03 10:35:18.253</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2686">
+      <Disorder id="20058">
+        <OrphaNumber>263463</OrphaNumber>
+        <Name lang="it">Displasia scheletrica associata a CHST3</Name>
+      </Disorder>
+      <Source>19320654[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 10:19:49.68</CreationDate>
+      <UpdateDate>2017-05-03 10:19:49.68</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2685">
+      <Disorder id="18879">
+        <OrphaNumber>217622</OrphaNumber>
+        <Name lang="it">Sordità neurosensoriale con cardiomiopatia dilatativa</Name>
+      </Disorder>
+      <Source>10769282[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 10:07:55.4</CreationDate>
+      <UpdateDate>2017-05-03 10:07:55.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2684">
+      <Disorder id="3331">
+        <OrphaNumber>335</OrphaNumber>
+        <Name lang="it">Deficit congenito di fibrinogeno</Name>
+      </Disorder>
+      <Source>7363509</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-04-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-05-03 09:52:46.766</CreationDate>
+      <UpdateDate>2017-05-03 09:52:46.766</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2658">
       <Disorder id="779">
