@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:27" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:58" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13041">
       <OrphaNumber>98023</OrphaNumber>
@@ -2048,7 +2048,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182231</ExpertLink>
                 <Name lang="en">Rare rheumatologic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="20">
+              <ClassificationNodeChildList count="21">
+                <ClassificationNode>
+                  <Disorder id="11651">
+                    <OrphaNumber>85193</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85193</ExpertLink>
+                    <Name lang="en">Idiopathic juvenile osteoporosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="720">
                     <OrphaNumber>92</OrphaNumber>

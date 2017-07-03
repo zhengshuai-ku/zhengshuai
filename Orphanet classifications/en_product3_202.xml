@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:21:10" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -1739,7 +1739,7 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300846</ExpertLink>
                                         <Name lang="en">Aggressive B-cell non-Hodgkin lymphoma</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="8">
+                                      <ClassificationNodeChildList count="9">
                                         <ClassificationNode>
                                           <Disorder id="3747">
                                             <OrphaNumber>543</OrphaNumber>
@@ -1889,6 +1889,15 @@
                                             <OrphaNumber>289666</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289666</ExpertLink>
                                             <Name lang="en">Plasmablastic lymphoma</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="25216">
+                                            <OrphaNumber>480541</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480541</ExpertLink>
+                                            <Name lang="en">High grade B-cell lymphoma with MYC and/ or BCL2 and/or BCL6 rearrangement</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -2658,7 +2667,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68411</ExpertLink>
                     <Name lang="en">Rare bone tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="12">
+                    <ClassificationNode>
+                      <Disorder id="25218">
+                        <OrphaNumber>480553</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480553</ExpertLink>
+                        <Name lang="en">Aneurysmal bone cyst</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="2257">
                         <OrphaNumber>296</OrphaNumber>
@@ -4418,7 +4436,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306636</ExpertLink>
                             <Name lang="en">Rare tumor of liver and intrahepatic biliary tract</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="5">
+                          <ClassificationNodeChildList count="6">
                             <ClassificationNode>
                               <Disorder id="836">
                                 <OrphaNumber>449</OrphaNumber>
@@ -4561,6 +4579,15 @@
                                     </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="14608">
+                                <OrphaNumber>100035</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100035</ExpertLink>
+                                <Name lang="en">Solitary necrotic nodule of the liver</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -7473,7 +7500,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168194</ExpertLink>
                     <Name lang="en">Rare cardiac tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="2389">
                         <OrphaNumber>1359</OrphaNumber>
@@ -7505,16 +7532,7 @@
                       <Disorder id="8607">
                         <OrphaNumber>875</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=875</ExpertLink>
-                        <Name lang="en">Primary pediatric cardiac tumor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="18612">
-                        <OrphaNumber>208600</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=208600</ExpertLink>
-                        <Name lang="en">Papillary fibroelastoma of the heart</Name>
+                        <Name lang="en">Primary pediatric heart tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7651,7 +7669,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363472</ExpertLink>
                         <Name lang="en">Tumor of testis and paratestis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="22309">
                             <OrphaNumber>363478</OrphaNumber>
@@ -7713,6 +7731,15 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18502">
+                            <OrphaNumber>206484</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206484</ExpertLink>
+                            <Name lang="en">Gonadoblastoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -9446,12 +9473,21 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140162</ExpertLink>
                 <Name lang="en">Inherited cancer-predisposing syndrome</Name>
               </Disorder>
-              <ClassificationNodeChildList count="30">
+              <ClassificationNodeChildList count="31">
                 <ClassificationNode>
                   <Disorder id="19732">
                     <OrphaNumber>252206</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252206</ExpertLink>
                     <Name lang="en">Melanoma and neural system tumor syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="3384">
+                    <OrphaNumber>145</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=145</ExpertLink>
+                    <Name lang="en">Hereditary breast and ovarian cancer syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10808,7 +10844,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220460</ExpertLink>
                             <Name lang="en">Attenuated familial adenomatous polyposis</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="5">
+                          <ClassificationNodeChildList count="6">
                             <ClassificationNode>
                               <Disorder id="19549">
                                 <OrphaNumber>247798</OrphaNumber>
@@ -10832,6 +10868,15 @@
                                 <OrphaNumber>401911</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401911</ExpertLink>
                                 <Name lang="en">AXIN2-related attenuated familial adenomatous polyposis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25215">
+                                <OrphaNumber>480536</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480536</ExpertLink>
+                                <Name lang="en">MSH3-related attenuated familial adenomatous polyposis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

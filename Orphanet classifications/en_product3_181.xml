@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:01" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:33" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -2854,12 +2854,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=799</ExpertLink>
                         <Name lang="en">Schizencephaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="25245">
                             <OrphaNumber>481986</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481986</ExpertLink>
                             <Name lang="en">Familial schizencephaly</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25305">
+                            <OrphaNumber>485275</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485275</ExpertLink>
+                            <Name lang="en">Acquired schizencephaly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3307,16 +3316,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=208444</ExpertLink>
                                     <Name lang="en">Bilateral frontal polymicrogyria</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="1">
-                                    <ClassificationNode>
-                                      <Disorder id="21133">
-                                        <OrphaNumber>300573</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
-                                        <Name lang="en">Polymicrogyria due to TUBB2B mutation</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -5140,7 +5140,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=225713</ExpertLink>
                         <Name lang="en">Other metabolic disease with epilepsy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="2219">
                             <OrphaNumber>2388</OrphaNumber>
@@ -5173,6 +5173,15 @@
                             <OrphaNumber>319651</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319651</ExpertLink>
                             <Name lang="en">Constitutional megaloblastic anemia with severe neurologic disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25224">
+                            <OrphaNumber>480864</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480864</ExpertLink>
+                            <Name lang="en">Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9539,7 +9548,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231416</ExpertLink>
                             <Name lang="en">Regional variant of Guillain-Barré syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="11164">
                                 <OrphaNumber>79138</OrphaNumber>
@@ -9563,6 +9572,15 @@
                                 <OrphaNumber>231426</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231426</ExpertLink>
                                 <Name lang="en">Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25221">
+                                <OrphaNumber>480701</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480701</ExpertLink>
+                                <Name lang="en">Facial diplegia with paresthesias</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -10220,7 +10238,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182070</ExpertLink>
                 <Name lang="en">Rare neurodegenerative disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="45">
+              <ClassificationNodeChildList count="46">
+                <ClassificationNode>
+                  <Disorder id="25224">
+                    <OrphaNumber>480864</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480864</ExpertLink>
+                    <Name lang="en">Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="2">
                     <OrphaNumber>58</OrphaNumber>
@@ -11411,7 +11438,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100981</ExpertLink>
                             <Name lang="en">Autosomal recessive complex spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="37">
+                          <ClassificationNodeChildList count="38">
                             <ClassificationNode>
                               <Disorder id="24010">
                                 <OrphaNumber>464282</OrphaNumber>
@@ -11768,6 +11795,15 @@
                                 <OrphaNumber>447760</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447760</ExpertLink>
                                 <Name lang="en">Autosomal recessive complex spastic paraplegia type 9B</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21924">
+                                <OrphaNumber>329308</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329308</ExpertLink>
+                                <Name lang="en">Fatty acid hydroxylase-associated neurodegeneration</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -16010,23 +16046,23 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=599</ExpertLink>
                             <Name lang="en">Distal myopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="13914">
-                                <OrphaNumber>98897</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98897</ExpertLink>
-                                <Name lang="en">Oculopharyngodistal myopathy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="18541">
                                 <OrphaNumber>206650</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206650</ExpertLink>
                                 <Name lang="en">Autosomal dominant distal myopathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="14">
+                              <ClassificationNodeChildList count="15">
+                                <ClassificationNode>
+                                  <Disorder id="13914">
+                                    <OrphaNumber>98897</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98897</ExpertLink>
+                                    <Name lang="en">Oculopharyngodistal myopathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="8727">
                                     <OrphaNumber>603</OrphaNumber>
@@ -16161,7 +16197,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206653</ExpertLink>
                                 <Name lang="en">Autosomal recessive distal myopathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="5">
+                              <ClassificationNodeChildList count="7">
                                 <ClassificationNode>
                                   <Disorder id="8729">
                                     <OrphaNumber>602</OrphaNumber>
@@ -16203,6 +16239,24 @@
                                     <OrphaNumber>399103</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399103</ExpertLink>
                                     <Name lang="en">Nebulin-related early-onset distal myopathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="13914">
+                                    <OrphaNumber>98897</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98897</ExpertLink>
+                                    <Name lang="en">Oculopharyngodistal myopathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25255">
+                                    <OrphaNumber>482601</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482601</ExpertLink>
+                                    <Name lang="en">Adenylosuccinate synthetase-like 1-related distal myopathy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -16661,7 +16715,16 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102015</ExpertLink>
                                         <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="26">
+                                      <ClassificationNodeChildList count="27">
+                                        <ClassificationNode>
+                                          <Disorder id="25220">
+                                            <OrphaNumber>480682</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480682</ExpertLink>
+                                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2Z</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
                                         <ClassificationNode>
                                           <Disorder id="678">
                                             <OrphaNumber>62</OrphaNumber>
@@ -18487,7 +18550,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206638</ExpertLink>
                         <Name lang="en">Acquired skeletal muscle disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="10">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="3644">
                             <OrphaNumber>1320</OrphaNumber>
@@ -18738,33 +18801,6 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18567">
-                            <OrphaNumber>207003</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207003</ExpertLink>
-                            <Name lang="en">Endocrine myopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18568">
-                            <OrphaNumber>207006</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207006</ExpertLink>
-                            <Name lang="en">Acquired amyloid myopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18569">
-                            <OrphaNumber>207009</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207009</ExpertLink>
-                            <Name lang="en">Acquired rod-body myopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -23025,7 +23061,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477754</ExpertLink>
                     <Name lang="en">Genetic cerebral small vessel disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="19537">
                         <OrphaNumber>247691</OrphaNumber>
@@ -23121,15 +23157,6 @@
                         <OrphaNumber>313838</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=313838</ExpertLink>
                         <Name lang="en">Coats plus syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="791">
-                        <OrphaNumber>1249</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1249</ExpertLink>
-                        <Name lang="en">Binswanger disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23871,7 +23898,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="384">
+                  <ClassificationNodeChildList count="389">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -25908,16 +25935,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=208444</ExpertLink>
                                 <Name lang="en">Bilateral frontal polymicrogyria</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="21133">
-                                    <OrphaNumber>300573</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
-                                    <Name lang="en">Polymicrogyria due to TUBB2B mutation</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -26533,7 +26551,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="137">
+                      <ClassificationNodeChildList count="139">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -27780,7 +27798,7 @@
                           <Disorder id="17555">
                             <OrphaNumber>163961</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163961</ExpertLink>
-                            <Name lang="en">X-linked intellectual disability, Kroes type</Name>
+                            <Name lang="en">X-linked cerebral-cerebellar-coloboma syndrome syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28357,6 +28375,24 @@
                             <OrphaNumber>457260</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457260</ExpertLink>
                             <Name lang="en">X-linked intellectual disability-hypotonia-movement disorder syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25228">
+                            <OrphaNumber>480880</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480880</ExpertLink>
+                            <Name lang="en">X-linked female restricted facial dysmorphism-short stature-choanal atresia-intellectual disability</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25230">
+                            <OrphaNumber>480907</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480907</ExpertLink>
+                            <Name lang="en">X-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -30254,10 +30290,28 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="21133">
+                        <OrphaNumber>300573</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
+                        <Name lang="en">Polymicrogyria due to TUBB2B mutation</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="1539">
                         <OrphaNumber>1313</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1313</ExpertLink>
                         <Name lang="en">Infantile choroidocerebral calcification syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="147">
+                        <OrphaNumber>280</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280</ExpertLink>
+                        <Name lang="en">Wolf-Hirschhorn syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -30402,6 +30456,33 @@
                         <OrphaNumber>477668</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
                         <Name lang="en">Aymé-Gripp syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25224">
+                        <OrphaNumber>480864</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480864</ExpertLink>
+                        <Name lang="en">Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25229">
+                        <OrphaNumber>480898</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480898</ExpertLink>
+                        <Name lang="en">Global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25232">
+                        <OrphaNumber>481152</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481152</ExpertLink>
+                        <Name lang="en">PYCR2-related microcephaly-progressive leukoencephalopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -33301,16 +33382,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98549</ExpertLink>
                         <Name lang="en">Cerebrovascular dementia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
-                        <ClassificationNode>
-                          <Disorder id="791">
-                            <OrphaNumber>1249</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1249</ExpertLink>
-                            <Name lang="en">Binswanger disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="1001">
                             <OrphaNumber>136</OrphaNumber>
@@ -34760,16 +34832,7 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=208444</ExpertLink>
                                         <Name lang="en">Bilateral frontal polymicrogyria</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="1">
-                                        <ClassificationNode>
-                                          <Disorder id="21133">
-                                            <OrphaNumber>300573</OrphaNumber>
-                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
-                                            <Name lang="en">Polymicrogyria due to TUBB2B mutation</Name>
-                                          </Disorder>
-                                          <ClassificationNodeChildList count="0">
-                                          </ClassificationNodeChildList>
-                                        </ClassificationNode>
+                                      <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                     <ClassificationNode>
@@ -35088,12 +35151,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=799</ExpertLink>
                                 <Name lang="en">Schizencephaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="25245">
                                     <OrphaNumber>481986</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481986</ExpertLink>
                                     <Name lang="en">Familial schizencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25305">
+                                    <OrphaNumber>485275</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485275</ExpertLink>
+                                    <Name lang="en">Acquired schizencephaly</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -35785,7 +35857,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269523</ExpertLink>
                         <Name lang="en">Syndrome with a cerebellar malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="27">
+                      <ClassificationNodeChildList count="28">
                         <ClassificationNode>
                           <Disorder id="23772">
                             <OrphaNumber>459070</OrphaNumber>
@@ -35952,7 +36024,7 @@
                           <Disorder id="17555">
                             <OrphaNumber>163961</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163961</ExpertLink>
-                            <Name lang="en">X-linked intellectual disability, Kroes type</Name>
+                            <Name lang="en">X-linked cerebral-cerebellar-coloboma syndrome syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -36128,6 +36200,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25229">
+                            <OrphaNumber>480898</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480898</ExpertLink>
+                            <Name lang="en">Global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -36136,7 +36217,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269528</ExpertLink>
                         <Name lang="en">Syndrome with microcephaly as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="22">
+                      <ClassificationNodeChildList count="23">
+                        <ClassificationNode>
+                          <Disorder id="25232">
+                            <OrphaNumber>481152</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481152</ExpertLink>
+                            <Name lang="en">PYCR2-related microcephaly-progressive leukoencephalopathy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1506">
                             <OrphaNumber>1270</OrphaNumber>
@@ -36433,7 +36523,25 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269531</ExpertLink>
                         <Name lang="en">Other syndrome with a central nervous system malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="30">
+                      <ClassificationNodeChildList count="32">
+                        <ClassificationNode>
+                          <Disorder id="25213">
+                            <OrphaNumber>480528</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480528</ExpertLink>
+                            <Name lang="en">Lethal hydranencephaly-diaphragmatic hernia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21133">
+                            <OrphaNumber>300573</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
+                            <Name lang="en">Polymicrogyria due to TUBB2B mutation</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="280">
                             <OrphaNumber>564</OrphaNumber>
@@ -40022,7 +40130,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207025</ExpertLink>
                             <Name lang="en">Rare hereditary neurologic disease with peripheral neuropathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="1">
                             <ClassificationNode>
                               <Disorder id="18575">
                                 <OrphaNumber>207028</OrphaNumber>
@@ -40057,15 +40165,6 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="18576">
-                                <OrphaNumber>207031</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207031</ExpertLink>
-                                <Name lang="en">Rare disease with corpus callosum agenesis associated with peripheral neuropathy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -40252,7 +40351,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231416</ExpertLink>
                                     <Name lang="en">Regional variant of Guillain-Barré syndrome</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="3">
+                                  <ClassificationNodeChildList count="4">
                                     <ClassificationNode>
                                       <Disorder id="11164">
                                         <OrphaNumber>79138</OrphaNumber>
@@ -40276,6 +40375,15 @@
                                         <OrphaNumber>231426</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231426</ExpertLink>
                                         <Name lang="en">Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="25221">
+                                        <OrphaNumber>480701</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480701</ExpertLink>
+                                        <Name lang="en">Facial diplegia with paresthesias</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -41023,7 +41131,7 @@
                   <Disorder id="2092">
                     <OrphaNumber>2215</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2215</ExpertLink>
-                    <Name lang="en">Malignant hyperthermia-arthrogryposis-torticollis syndrome</Name>
+                    <Name lang="en">Multiple pterygium-malignant hyperthermia syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

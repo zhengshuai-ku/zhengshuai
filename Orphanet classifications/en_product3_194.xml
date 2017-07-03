@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:23" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:54" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13010">
       <OrphaNumber>97992</OrphaNumber>
@@ -1417,7 +1417,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300846</ExpertLink>
                                     <Name lang="en">Aggressive B-cell non-Hodgkin lymphoma</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="8">
+                                  <ClassificationNodeChildList count="9">
                                     <ClassificationNode>
                                       <Disorder id="3747">
                                         <OrphaNumber>543</OrphaNumber>
@@ -1567,6 +1567,15 @@
                                         <OrphaNumber>289666</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289666</ExpertLink>
                                         <Name lang="en">Plasmablastic lymphoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="25216">
+                                        <OrphaNumber>480541</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480541</ExpertLink>
+                                        <Name lang="en">High grade B-cell lymphoma with MYC and/ or BCL2 and/or BCL6 rearrangement</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>

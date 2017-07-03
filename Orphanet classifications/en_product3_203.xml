@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:41" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:21:12" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10557">
       <OrphaNumber>68416</OrphaNumber>
@@ -689,7 +689,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163585</ExpertLink>
                 <Name lang="en">Rare viral disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="20">
+              <ClassificationNodeChildList count="19">
                 <ClassificationNode>
                   <Disorder id="793">
                     <OrphaNumber>3020</OrphaNumber>
@@ -920,15 +920,6 @@
                     <OrphaNumber>35062</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35062</ExpertLink>
                     <Name lang="en">Idiopathic disseminated cytomegalovirus infection</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="10361">
-                    <OrphaNumber>35063</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35063</ExpertLink>
-                    <Name lang="en">Fulminant viral hepatitis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

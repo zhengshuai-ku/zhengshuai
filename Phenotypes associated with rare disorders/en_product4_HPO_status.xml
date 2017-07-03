@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:07:56" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
-  <HPODisorderSetStatusList count="2671">
+<JDBOR date="2017-07-01 04:07:49" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+  <HPODisorderSetStatusList count="2708">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2864,18 +2864,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:48:35.6</CreationDate>
       <UpdateDate>2016-05-31 11:48:35.6</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="243">
-      <Disorder id="492">
-        <OrphaNumber>2005</OrphaNumber>
-        <Name lang="en">Laryngo-tracheo-esophageal cleft-pulmonary hypoplasia syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:48:35.686</CreationDate>
-      <UpdateDate>2016-05-31 11:48:35.686</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="240">
       <Disorder id="488">
@@ -8481,18 +8469,6 @@
       <CreationDate>2016-05-31 11:49:19.286</CreationDate>
       <UpdateDate>2016-05-31 11:49:19.286</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="755">
-      <Disorder id="1698">
-        <OrphaNumber>1535</OrphaNumber>
-        <Name lang="en">Craniosynostosis-dysmorphism-brachydactyly syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:19.363</CreationDate>
-      <UpdateDate>2016-05-31 11:49:19.363</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="752">
       <Disorder id="1695">
         <OrphaNumber>1529</OrphaNumber>
@@ -10172,7 +10148,7 @@
     <HPODisorderSetStatus id="852">
       <Disorder id="1877">
         <OrphaNumber>1914</OrphaNumber>
-        <Name lang="en">Embryofetopathy due to oral anticoagulant therapy</Name>
+        <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10352,7 +10328,7 @@
     <HPODisorderSetStatus id="836">
       <Disorder id="1853">
         <OrphaNumber>1816</OrphaNumber>
-        <Name lang="en">Ectodermal dysplasia, Berlin type</Name>
+        <Name lang="en">Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -19288,7 +19264,7 @@
     <HPODisorderSetStatus id="1539">
       <Disorder id="10788">
         <OrphaNumber>59303</OrphaNumber>
-        <Name lang="en">Ichthyosis-hypotrichosis-sclerosing cholangitis syndrome</Name>
+        <Name lang="en">Neonatal ichthyosis-sclerosing cholangitis syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -28250,7 +28226,7 @@
         <OrphaNumber>447</OrphaNumber>
         <Name lang="en">Paroxysmal nocturnal hemoglobinuria</Name>
       </Disorder>
-      <Source>27884975[[[[[[PMID],27536121[PMID],22967383[PMID],25818818[PMID]</Source>
+      <Source>27884975[PMID],27536121[PMID],22967383[PMID],25818818[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-12-21 00:00:00.0</UpdateDate>
@@ -29894,7 +29870,7 @@
         <OrphaNumber>79086</OrphaNumber>
         <Name lang="en">Acquired generalized lipodystrophy</Name>
       </Disorder>
-      <Source>11078466[PMID]_22748602[PMID]_25864863[PMID]_20551664[PMID]_19924491[PMID]_20616664[PMID]_19924491[PMID]_17097389[PMID]</Source>
+      <Source>11078466[PMID]_22748602[PMID]_25864863[PMID]_20551664[PMID]_19924491[PMID]_20616664[PMID]_19924491[PMID]_17097389[PMID]_26252356[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-09-05 00:00:00.0</UpdateDate>
@@ -30056,6 +30032,318 @@
       <UpdateDate>2016-09-12 00:00:00.0</UpdateDate>
       <CreationDate>2016-09-12 15:01:42.873</CreationDate>
       <UpdateDate>2016-09-12 15:01:42.873</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2750">
+      <Disorder id="12600">
+        <OrphaNumber>95459</OrphaNumber>
+        <Name lang="en">Congenital tricuspid stenosis</Name>
+      </Disorder>
+      <Source>7788951[PMID]_7743689[PMID]_7720297[PMID]_5837153[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-26 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-26 15:17:10.093</CreationDate>
+      <UpdateDate>2017-06-26 15:17:10.093</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2751">
+      <Disorder id="12112">
+        <OrphaNumber>91135</OrphaNumber>
+        <Name lang="en">Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency</Name>
+      </Disorder>
+      <Source>17110937[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-26 16:47:00.23</CreationDate>
+      <UpdateDate>2017-06-26 16:47:00.23</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2748">
+      <Disorder id="12807">
+        <OrphaNumber>96183</OrphaNumber>
+        <Name lang="en">Maternal uniparental disomy of chromosome 9</Name>
+      </Disorder>
+      <Source>1433238[PMID]_8734817[PMID]_20484477[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-21 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-21 15:40:19.003</CreationDate>
+      <UpdateDate>2017-06-21 15:40:19.003</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2749">
+      <Disorder id="12814">
+        <OrphaNumber>96190</OrphaNumber>
+        <Name lang="en">Paternal uniparental disomy of chromosome 5</Name>
+      </Disorder>
+      <Source>24458706[PMID]_16763011[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-21 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-21 15:47:52.85</CreationDate>
+      <UpdateDate>2017-06-21 15:47:52.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2746">
+      <Disorder id="21106">
+        <OrphaNumber>300298</OrphaNumber>
+        <Name lang="en">Severe congenital hypochromic anemia with ringed sideroblasts</Name>
+      </Disorder>
+      <Source>22031863[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-20 11:20:12.056</CreationDate>
+      <UpdateDate>2017-06-20 11:20:12.056</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2744">
+      <Disorder id="13887">
+        <OrphaNumber>98870</OrphaNumber>
+        <Name lang="en">Congenital dyserythropoietic anemia type III</Name>
+      </Disorder>
+      <Source>14886400[PMID],13867810[PMID],4432872[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-15 11:10:16.616</CreationDate>
+      <UpdateDate>2017-06-15 11:10:16.616</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2745">
+      <Disorder id="11050">
+        <OrphaNumber>73274</OrphaNumber>
+        <Name lang="en">Acquired hemophilia</Name>
+      </Disorder>
+      <Source>28470674[PMID],26679396[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-15 11:18:22.0</CreationDate>
+      <UpdateDate>2017-06-15 11:18:22.0</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2742">
+      <Disorder id="1642">
+        <OrphaNumber>1449</OrphaNumber>
+        <Name lang="en">Ring chromosome 7</Name>
+      </Disorder>
+      <Source>15337469[PMID]_15580634[PMID]_21303521[PMID]_2395166[PMID]_23509645[PMID]_24677512[PMID]_26669311[PMID]_10905891[PMID]_10797441[PMID]_8362903[PMID]_8428052[PMID]_1746606[PMID]_4145271[PMID]_7172483[PMID]_6705244[PMID]_3150243[PMID]_2189730[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-14 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-14 15:09:45.44</CreationDate>
+      <UpdateDate>2017-06-14 15:09:45.44</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2743">
+      <Disorder id="3335">
+        <OrphaNumber>79</OrphaNumber>
+        <Name lang="en">Congenital alpha2-antiplasmin deficiency</Name>
+      </Disorder>
+      <Source>82839[PMID],11472338[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-15 10:30:38.506</CreationDate>
+      <UpdateDate>2017-06-15 10:30:38.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2740">
+      <Disorder id="10999">
+        <OrphaNumber>71277</OrphaNumber>
+        <Name lang="en">Encephalopathy due to GLUT1 deficiency</Name>
+      </Disorder>
+      <Source>17718830[PMID]_15132717[PMID]_19304421[PMID]_NBK1430[PMID]_20063428[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 14:45:36.326</CreationDate>
+      <UpdateDate>2017-06-12 14:45:36.326</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2741">
+      <Disorder id="2390">
+        <OrphaNumber>2608</OrphaNumber>
+        <Name lang="en">N syndrome</Name>
+      </Disorder>
+      <Source>4216437[PMID]_3130873[PMID]_1689958[PMID]_[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-14 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-14 13:03:12.12</CreationDate>
+      <UpdateDate>2017-06-14 13:03:12.12</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2738">
+      <Disorder id="19694">
+        <OrphaNumber>251912</OrphaNumber>
+        <Name lang="en">Pineocytoma</Name>
+      </Disorder>
+      <Source>10668895[PMID]_6986979[PMID]_20136388[PMID]_19329860[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 12:28:17.356</CreationDate>
+      <UpdateDate>2017-06-12 12:28:17.356</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2739">
+      <Disorder id="19695">
+        <OrphaNumber>251915</OrphaNumber>
+        <Name lang="en">Papillary tumor of the pineal region</Name>
+      </Disorder>
+      <Source>17598824[PMID]_10668895[PMID]_6986979[PMID]_20136388[PMID]_1919667327[PMID]_329860[PMID]_17021405[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 12:44:36.436</CreationDate>
+      <UpdateDate>2017-06-12 12:44:36.436</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2736">
+      <Disorder id="4511">
+        <OrphaNumber>329</OrphaNumber>
+        <Name lang="en">Congenital factor XI deficiency</Name>
+      </Disorder>
+      <Source>27216469[PMID],1952475[PMID],27710856[PMID],19141157[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-02 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 09:36:34.923</CreationDate>
+      <UpdateDate>2017-06-12 09:36:34.923</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2737">
+      <Disorder id="20749">
+        <OrphaNumber>289601</OrphaNumber>
+        <Name lang="en">Hereditary arterial and articular multiple calcification syndrome</Name>
+      </Disorder>
+      <Source>21288095[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 09:40:16.1</CreationDate>
+      <UpdateDate>2017-06-12 09:40:16.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2735">
+      <Disorder id="3257">
+        <OrphaNumber>766</OrphaNumber>
+        <Name lang="en">Hemolytic anemia due to red cell pyruvate kinase deficiency</Name>
+      </Disorder>
+      <Source>463878[PMID],15982340[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-02 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-12 09:30:56.153</CreationDate>
+      <UpdateDate>2017-06-12 09:30:56.153</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2734">
+      <Disorder id="916">
+        <OrphaNumber>327</OrphaNumber>
+        <Name lang="en">Congenital factor VII deficiency</Name>
+      </Disorder>
+      <Source>19141157[PMID],28350321[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-01 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-09 09:59:24.42</CreationDate>
+      <UpdateDate>2017-06-09 09:59:24.42</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2733">
+      <Disorder id="18935">
+        <OrphaNumber>221061</OrphaNumber>
+        <Name lang="en">Familial cerebral cavernous malformation</Name>
+      </Disorder>
+      <Source>20301470[PMID],24265337[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-01 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-08 15:23:40.3</CreationDate>
+      <UpdateDate>2017-06-08 15:23:40.3</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2732">
+      <Disorder id="12501">
+        <OrphaNumber>93941</OrphaNumber>
+        <Name lang="en">Laryngotracheoesophageal cleft type 4</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-08 10:20:55.083</CreationDate>
+      <UpdateDate>2017-06-08 10:20:55.083</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2731">
+      <Disorder id="22877">
+        <OrphaNumber>402075</OrphaNumber>
+        <Name lang="en">Familial bicuspid aortic valve</Name>
+      </Disorder>
+      <Source>16025100[PMID]_22275001[PMID]_9631276[PMID]_16025100[PMID]_[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-07 16:51:01.363</CreationDate>
+      <UpdateDate>2017-06-07 16:51:01.363</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2730">
+      <Disorder id="23186">
+        <OrphaNumber>424019</OrphaNumber>
+        <Name lang="en">Squamous cell carcinoma of the anal canal</Name>
+      </Disorder>
+      <Source>26602415[PMID]_21043813[PMID]_26988618[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-07 15:20:33.856</CreationDate>
+      <UpdateDate>2017-06-07 15:20:33.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2729">
+      <Disorder id="23185">
+        <OrphaNumber>424016</OrphaNumber>
+        <Name lang="en">Adenocarcinoma of the anal canal</Name>
+      </Disorder>
+      <Source>10223561[PMID]_23809885[PMID]_24705191[PMID]_27510691[PMID]_25544486[PMID]_19702687[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-07 11:35:59.23</CreationDate>
+      <UpdateDate>2017-06-07 11:35:59.23</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2728">
+      <Disorder id="17135">
+        <OrphaNumber>156728</OrphaNumber>
+        <Name lang="en">Spondyloepimetaphyseal dysplasia, matrilin-3 type</Name>
+      </Disorder>
+      <Source>15121775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-02 14:15:14.71</CreationDate>
+      <UpdateDate>2017-06-02 14:15:14.71</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2727">
+      <Disorder id="11646">
+        <OrphaNumber>85184</OrphaNumber>
+        <Name lang="en">Craniometadiaphyseal dysplasia, wormian bone type</Name>
+      </Disorder>
+      <Source>9605592[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-02 13:42:33.976</CreationDate>
+      <UpdateDate>2017-06-02 13:42:33.976</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2726">
+      <Disorder id="17514">
+        <OrphaNumber>163649</OrphaNumber>
+        <Name lang="en">Spondyloepiphyseal dysplasia, Nishimura type</Name>
+      </Disorder>
+      <Source>9557884[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-02 12:49:21.67</CreationDate>
+      <UpdateDate>2017-06-02 12:49:21.67</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2725">
+      <Disorder id="17515">
+        <OrphaNumber>163654</OrphaNumber>
+        <Name lang="en">Spondyloepiphyseal dysplasia, Cantu type</Name>
+      </Disorder>
+      <Source>17515304[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-05-29 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-02 11:58:27.293</CreationDate>
+      <UpdateDate>2017-06-02 11:58:27.293</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2724">
       <Disorder id="10670">
@@ -30500,6 +30788,162 @@
       <UpdateDate>2017-04-20 00:00:00.0</UpdateDate>
       <CreationDate>2017-05-03 11:11:51.906</CreationDate>
       <UpdateDate>2017-05-03 11:11:51.906</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2761">
+      <Disorder id="14430">
+        <OrphaNumber>99857</OrphaNumber>
+        <Name lang="en">Secondary syringomyelia</Name>
+      </Disorder>
+      <Source>19991056[PMID]_2377746[PMID]_10967183[PMID]_11239955[PMID]_12181709[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-28 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-28 13:40:14.4</CreationDate>
+      <UpdateDate>2017-06-28 13:40:14.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2760">
+      <Disorder id="19766">
+        <OrphaNumber>254704</OrphaNumber>
+        <Name lang="en">Genetic hyperferritinemia without iron overload</Name>
+      </Disorder>
+      <Source>9378401[PMID]_19176363[PMID]_28052375[PMID]_7492760[PMID]_7493028[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-28 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-28 11:13:59.95</CreationDate>
+      <UpdateDate>2017-06-28 11:13:59.95</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2763">
+      <Disorder id="12636">
+        <OrphaNumber>95512</OrphaNumber>
+        <Name lang="en">Adenohypophysitis</Name>
+      </Disorder>
+      <Source>23885185[PMID]_27008424[PMID]_18987830[PMID]_17273922[PMID]_14606714[PMID]_27165294[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-30 11:21:17.536</CreationDate>
+      <UpdateDate>2017-06-30 11:21:17.536</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2762">
+      <Disorder id="12637">
+        <OrphaNumber>95513</OrphaNumber>
+        <Name lang="en">Panhypophysitis</Name>
+      </Disorder>
+      <Source>23885185[PMID]_27008424[PMID]_18987830[PMID]_17273922[PMID]_14606714[PMID]_27165294[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-28 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-28 15:14:51.183</CreationDate>
+      <UpdateDate>2017-06-28 15:14:51.183</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2764">
+      <Disorder id="12129">
+        <OrphaNumber>91355</OrphaNumber>
+        <Name lang="en">Sheehan syndrome</Name>
+      </Disorder>
+      <Source>12583962[PMID]_17012482[PMID]_22201118[PMID]_25223643[PMID]_24842349[PMID]_21041170[PMID]_21041172[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-30 11:22:02.463</CreationDate>
+      <UpdateDate>2017-06-30 11:22:02.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2753">
+      <Disorder id="20074">
+        <OrphaNumber>263665</OrphaNumber>
+        <Name lang="en">NK-cell enteropathy</Name>
+      </Disorder>
+      <Source>20966166[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-14 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-26 17:04:09.816</CreationDate>
+      <UpdateDate>2017-06-26 17:04:09.816</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2752">
+      <Disorder id="22734">
+        <OrphaNumber>398189</OrphaNumber>
+        <Name lang="en">Focal facial dermal dysplasia type IV</Name>
+      </Disorder>
+      <Source>16530710[PMID],23161670[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-26 16:56:30.93</CreationDate>
+      <UpdateDate>2017-06-26 16:56:30.93</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2755">
+      <Disorder id="10441">
+        <OrphaNumber>37202</OrphaNumber>
+        <Name lang="en">Interstitial cystitis</Name>
+      </Disorder>
+      <Source>22057291[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-20 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-27 11:46:24.396</CreationDate>
+      <UpdateDate>2017-06-27 11:46:24.396</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2754">
+      <Disorder id="10897">
+        <OrphaNumber>67036</OrphaNumber>
+        <Name lang="en">Autosomal dominant optic atrophy and cataract</Name>
+      </Disorder>
+      <Source>15342707[PMID],15924081[PMID],22797356[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-14 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-26 17:12:36.163</CreationDate>
+      <UpdateDate>2017-06-26 17:12:36.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2757">
+      <Disorder id="20863">
+        <OrphaNumber>293621</OrphaNumber>
+        <Name lang="en">X-linked endothelial corneal dystrophy</Name>
+      </Disorder>
+      <Source>16490493[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-27 13:58:07.293</CreationDate>
+      <UpdateDate>2017-06-27 13:58:07.293</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2756">
+      <Disorder id="10991">
+        <OrphaNumber>71269</OrphaNumber>
+        <Name lang="en">Benign exophthalmos syndrome</Name>
+      </Disorder>
+      <Source>16329069[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-27 13:52:59.4</CreationDate>
+      <UpdateDate>2017-06-27 13:52:59.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2759">
+      <Disorder id="2225">
+        <OrphaNumber>2396</OrphaNumber>
+        <Name lang="en">Encephalocraniocutaneous lipomatosis</Name>
+      </Disorder>
+      <Source>26942290[PMID],24881613[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-20 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-28 10:43:48.43</CreationDate>
+      <UpdateDate>2017-06-28 10:43:48.43</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2758">
+      <Disorder id="10904">
+        <OrphaNumber>67044</OrphaNumber>
+        <Name lang="en">Thrombocytopenia with congenital dyserythropoietic anemia</Name>
+      </Disorder>
+      <Source>11809723[PMID],10700180[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-06-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-06-27 14:02:46.86</CreationDate>
+      <UpdateDate>2017-06-27 14:02:46.86</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2615">
       <Disorder id="11022">
@@ -31058,7 +31502,7 @@
         <OrphaNumber>96121</OrphaNumber>
         <Name lang="en">7q11.23 microduplication syndrome</Name>
       </Disorder>
-      <Source>27615053[PMID]_16236740[PMID]_25428557[PMID]_26333794[PMID]_25900101[PMID]_24722762[PMID]_18337728[PMID]_17400790[PMID]_17666889[PMID]_19249392[PMID]_NBK327268[PMID]</Source>
+      <Source>27617154[PMID]_27615053[PMID]_16236740[PMID]_25428557[PMID]_26333794[PMID]_25900101[PMID]_24722762[PMID]_18337728[PMID]_17400790[PMID]_17666889[PMID]_19249392[PMID]_NBK327268[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-01-16 00:00:00.0</UpdateDate>
@@ -31526,7 +31970,7 @@
         <OrphaNumber>171</OrphaNumber>
         <Name lang="en">Primary sclerosing cholangitis</Name>
       </Disorder>
-      <Source>17062136[PMID]_27653566[PMID]_28025879[PMID]_9296539[PMID]_ 21151127[PMID]_21793028[PMID]_23810223[PMID]_23050548[PMID]_19224956[PMID]_17317411[PMID]_10907383[PMID]</Source>
+      <Source>22821403[PMID]_17062136[PMID]_27653566[PMID]_28025879[PMID]_9296539[PMID]_ 21151127[PMID]_21793028[PMID]_23810223[PMID]_23050548[PMID]_19224956[PMID]_17317411[PMID]_10907383[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-04-10 00:00:00.0</UpdateDate>

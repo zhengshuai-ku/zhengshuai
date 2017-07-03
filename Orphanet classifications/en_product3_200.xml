@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:34" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:21:06" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -2658,16 +2658,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156252</ExpertLink>
                     <Name lang="en">Tracheal anomaly</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
-                    <ClassificationNode>
-                      <Disorder id="492">
-                        <OrphaNumber>2005</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2005</ExpertLink>
-                        <Name lang="en">Laryngo-tracheo-esophageal cleft-pulmonary hypoplasia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="597">
                         <OrphaNumber>3346</OrphaNumber>
@@ -3034,7 +3025,7 @@
                   <Disorder id="2092">
                     <OrphaNumber>2215</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2215</ExpertLink>
-                    <Name lang="en">Malignant hyperthermia-arthrogryposis-torticollis syndrome</Name>
+                    <Name lang="en">Multiple pterygium-malignant hyperthermia syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3471,7 +3462,7 @@
                           <Disorder id="1877">
                             <OrphaNumber>1914</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1914</ExpertLink>
-                            <Name lang="en">Embryofetopathy due to oral anticoagulant therapy</Name>
+                            <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

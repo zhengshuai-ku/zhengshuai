@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:40" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12974">
       <OrphaNumber>97955</OrphaNumber>
@@ -480,16 +480,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182111</ExpertLink>
                     <Name lang="en">Respiratory malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="22">
-                    <ClassificationNode>
-                      <Disorder id="492">
-                        <OrphaNumber>2005</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2005</ExpertLink>
-                        <Name lang="en">Laryngo-tracheo-esophageal cleft-pulmonary hypoplasia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="21">
                     <ClassificationNode>
                       <Disorder id="534">
                         <OrphaNumber>2414</OrphaNumber>
@@ -1013,7 +1004,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101944</ExpertLink>
                 <Name lang="en">Rare pulmonary disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="31">
+              <ClassificationNodeChildList count="30">
                 <ClassificationNode>
                   <Disorder id="49">
                     <OrphaNumber>586</OrphaNumber>
@@ -1228,15 +1219,6 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="12429">
-                    <OrphaNumber>93594</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93594</ExpertLink>
-                    <Name lang="en">Alpha-1-antichymotrypsin deficiency</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

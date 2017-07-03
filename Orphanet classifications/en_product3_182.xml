@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:05" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:37" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="17578">
       <OrphaNumber>165711</OrphaNumber>
@@ -1344,7 +1344,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108979</ExpertLink>
                     <Name lang="en">Syndromic diaphragmatic or abdominal wall malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="22">
+                  <ClassificationNodeChildList count="23">
                     <ClassificationNode>
                       <Disorder id="147">
                         <OrphaNumber>280</OrphaNumber>
@@ -1701,6 +1701,15 @@
                         <OrphaNumber>314432</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314432</ExpertLink>
                         <Name lang="en">Spigelian hernia-cryptorchidism syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25213">
+                        <OrphaNumber>480528</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480528</ExpertLink>
+                        <Name lang="en">Lethal hydranencephaly-diaphragmatic hernia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

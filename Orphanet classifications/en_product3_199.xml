@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:32" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:21:04" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -14,7 +14,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68411</ExpertLink>
                 <Name lang="en">Rare bone tumor</Name>
               </Disorder>
-              <ClassificationNodeChildList count="11">
+              <ClassificationNodeChildList count="12">
+                <ClassificationNode>
+                  <Disorder id="25218">
+                    <OrphaNumber>480553</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480553</ExpertLink>
+                    <Name lang="en">Aneurysmal bone cyst</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="2257">
                     <OrphaNumber>296</OrphaNumber>
@@ -4816,7 +4825,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139393</ExpertLink>
                         <Name lang="en">Syndromic craniosynostosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="41">
+                      <ClassificationNodeChildList count="40">
                         <ClassificationNode>
                           <Disorder id="244">
                             <OrphaNumber>207</OrphaNumber>
@@ -4966,15 +4975,6 @@
                             <OrphaNumber>1533</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1533</ExpertLink>
                             <Name lang="en">Craniosynostosis-fibular aplasia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1698">
-                            <OrphaNumber>1535</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1535</ExpertLink>
-                            <Name lang="en">Craniosynostosis-dysmorphism-brachydactyly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8092,7 +8092,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="46">
+                      <ClassificationNodeChildList count="47">
+                        <ClassificationNode>
+                          <Disorder id="25222">
+                            <OrphaNumber>480773</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
+                            <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="595">
                             <OrphaNumber>3320</OrphaNumber>
@@ -8605,7 +8614,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="46">
+                      <ClassificationNodeChildList count="47">
                         <ClassificationNode>
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
@@ -9133,6 +9142,15 @@
                             <OrphaNumber>476119</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476119</ExpertLink>
                             <Name lang="en">Autosomal dominant preaxial polydactyly-upperback hypertrichosis syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25222">
+                            <OrphaNumber>480773</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
+                            <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

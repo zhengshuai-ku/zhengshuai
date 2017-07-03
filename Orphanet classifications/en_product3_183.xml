@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-06-01 04:21:06" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-07-01 04:20:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10772">
       <OrphaNumber>57146</OrphaNumber>
@@ -7,7 +7,7 @@
       <Name lang="en">Rare hepatic disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="8">
+          <ClassificationNodeChildList count="9">
             <ClassificationNode>
               <Disorder id="838">
                 <OrphaNumber>2312</OrphaNumber>
@@ -23,12 +23,48 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101938</ExpertLink>
                 <Name lang="en">Rare vascular liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="6">
+              <ClassificationNodeChildList count="10">
                 <ClassificationNode>
                   <Disorder id="236">
                     <OrphaNumber>774</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=774</ExpertLink>
                     <Name lang="en">Hereditary hemorrhagic telangiectasia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25212">
+                    <OrphaNumber>480524</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480524</ExpertLink>
+                    <Name lang="en">Idiopathic peliosis hepatis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="12631">
+                    <OrphaNumber>95507</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95507</ExpertLink>
+                    <Name lang="en">Congenital anomaly of hepatic vein</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="10615">
+                    <OrphaNumber>48372</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=48372</ExpertLink>
+                    <Name lang="en">Nodular regenerative hyperplasia of the liver</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25214">
+                    <OrphaNumber>480531</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480531</ExpertLink>
+                    <Name lang="en">Congenital portosystemic shunt</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -55,7 +91,7 @@
                   <Disorder id="8029">
                     <OrphaNumber>854</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=854</ExpertLink>
-                    <Name lang="en">Portal vein thrombosis</Name>
+                    <Name lang="en">Primitive portal vein thrombosis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -86,7 +122,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101939</ExpertLink>
                 <Name lang="en">Rare parenchymal liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="20">
+              <ClassificationNodeChildList count="18">
                 <ClassificationNode>
                   <Disorder id="11953">
                     <OrphaNumber>90062</OrphaNumber>
@@ -97,19 +133,10 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="437">
-                    <OrphaNumber>1414</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1414</ExpertLink>
-                    <Name lang="en">Cholestasis-lymphedema syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="873">
                     <OrphaNumber>2137</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2137</ExpertLink>
-                    <Name lang="en">Chronic autoimmune hepatitis</Name>
+                    <Name lang="en">Autoimmune hepatitis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -128,15 +155,6 @@
                     <OrphaNumber>35063</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35063</ExpertLink>
                     <Name lang="en">Fulminant viral hepatitis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="10615">
-                    <OrphaNumber>48372</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=48372</ExpertLink>
-                    <Name lang="en">Nodular regenerative hyperplasia of the liver</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -165,16 +183,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90003</ExpertLink>
                     <Name lang="en">IgG4-related hepatopathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="1">
-                    <ClassificationNode>
-                      <Disorder id="14608">
-                        <OrphaNumber>100035</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100035</ExpertLink>
-                        <Name lang="en">Solitary necrotic tumor of the liver</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -284,7 +293,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101940</ExpertLink>
                 <Name lang="en">Rare metabolic liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="32">
+              <ClassificationNodeChildList count="33">
                 <ClassificationNode>
                   <Disorder id="15">
                     <OrphaNumber>366</OrphaNumber>
@@ -299,6 +308,15 @@
                     <OrphaNumber>79239</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79239</ExpertLink>
                     <Name lang="en">Classic galactosemia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="22704">
+                    <OrphaNumber>397922</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397922</ExpertLink>
+                    <Name lang="en">Ferro-cerebro-cutaneous syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -610,12 +628,57 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="12429">
-                    <OrphaNumber>93594</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93594</ExpertLink>
-                    <Name lang="en">Alpha-1-antichymotrypsin deficiency</Name>
+                  <Disorder id="19792">
+                    <OrphaNumber>254871</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254871</ExpertLink>
+                    <Name lang="en">Mitochondrial DNA depletion syndrome, hepatocerebral form</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="5">
+                    <ClassificationNode>
+                      <Disorder id="20419">
+                        <OrphaNumber>279934</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=279934</ExpertLink>
+                        <Name lang="en">Mitochondrial DNA depletion syndrome, hepatocerebral form due to DGUOK deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22319">
+                        <OrphaNumber>363534</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363534</ExpertLink>
+                        <Name lang="en">Mitochondrial DNA depletion syndrome, hepatocerebrorenal form</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19812">
+                        <OrphaNumber>255229</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255229</ExpertLink>
+                        <Name lang="en">Navajo neurohepatopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1443">
+                        <OrphaNumber>1186</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1186</ExpertLink>
+                        <Name lang="en">Infantile onset spinocerebellar ataxia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1730">
+                        <OrphaNumber>726</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=726</ExpertLink>
+                        <Name lang="en">Alpers-Huttenlocher syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -732,14 +795,14 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284385</ExpertLink>
                     <Name lang="en">Familial intrahepatic cholestasis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="3">
                     <ClassificationNode>
                       <Disorder id="1073">
                         <OrphaNumber>172</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=172</ExpertLink>
                         <Name lang="en">Progressive familial intrahepatic cholestasis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="11330">
                             <OrphaNumber>79304</OrphaNumber>
@@ -763,6 +826,42 @@
                             <OrphaNumber>79306</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79306</ExpertLink>
                             <Name lang="en">Progressive familial intrahepatic cholestasis type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25206">
+                            <OrphaNumber>480483</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480483</ExpertLink>
+                            <Name lang="en">Progressive familial intrahepatic cholestasis type 4</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25207">
+                            <OrphaNumber>480491</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480491</ExpertLink>
+                            <Name lang="en">MYO5B-related progressive familial intrahepatic cholestasis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17777">
+                            <OrphaNumber>168583</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168583</ExpertLink>
+                            <Name lang="en">Hereditary North American Indian childhood cirrhosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25205">
+                            <OrphaNumber>480476</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480476</ExpertLink>
+                            <Name lang="en">Progressive familial intrahepatic cholestasis type 5</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -802,7 +901,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163631</ExpertLink>
                         <Name lang="en">Bile acid synthesis defect with cholestasis and malabsorption</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="605">
                             <OrphaNumber>909</OrphaNumber>
@@ -813,39 +912,48 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="11137">
-                            <OrphaNumber>79095</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79095</ExpertLink>
-                            <Name lang="en">Congenital bile acid synthesis defect type 4</Name>
+                          <Disorder id="25322">
+                            <OrphaNumber>485631</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485631</ExpertLink>
+                            <Name lang="en">Congenital bile acid synthesis defect</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11327">
-                            <OrphaNumber>79301</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79301</ExpertLink>
-                            <Name lang="en">Congenital bile acid synthesis defect type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11328">
-                            <OrphaNumber>79302</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79302</ExpertLink>
-                            <Name lang="en">Congenital bile acid synthesis defect type 3</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11329">
-                            <OrphaNumber>79303</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79303</ExpertLink>
-                            <Name lang="en">Congenital bile acid synthesis defect type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="11137">
+                                <OrphaNumber>79095</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79095</ExpertLink>
+                                <Name lang="en">Congenital bile acid synthesis defect type 4</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11328">
+                                <OrphaNumber>79302</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79302</ExpertLink>
+                                <Name lang="en">Congenital bile acid synthesis defect type 3</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11329">
+                                <OrphaNumber>79303</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79303</ExpertLink>
+                                <Name lang="en">Congenital bile acid synthesis defect type 2</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11327">
+                                <OrphaNumber>79301</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79301</ExpertLink>
+                                <Name lang="en">Congenital bile acid synthesis defect type 1</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -866,15 +974,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="17777">
-                        <OrphaNumber>168583</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168583</ExpertLink>
-                        <Name lang="en">Hereditary North American Indian childhood cirrhosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -1049,14 +1148,77 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101941</ExpertLink>
                 <Name lang="en">Rare biliary tract disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="14">
+              <ClassificationNodeChildList count="18">
+                <ClassificationNode>
+                  <Disorder id="25312">
+                    <OrphaNumber>485426</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485426</ExpertLink>
+                    <Name lang="en">Isolated congenital hepatic fibrosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25211">
+                    <OrphaNumber>480520</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480520</ExpertLink>
+                    <Name lang="en">Caroli syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25210">
+                    <OrphaNumber>480512</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480512</ExpertLink>
+                    <Name lang="en">Idiopathic ductopenia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25209">
+                    <OrphaNumber>480506</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480506</ExpertLink>
+                    <Name lang="en">Primary intrahepatic lithiasis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25208">
+                    <OrphaNumber>480501</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480501</ExpertLink>
+                    <Name lang="en">Choledochal cyst</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="23540">
                     <OrphaNumber>447771</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447771</ExpertLink>
                     <Name lang="en">Sclerosing cholangitis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="5">
+                    <ClassificationNode>
+                      <Disorder id="10788">
+                        <OrphaNumber>59303</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59303</ExpertLink>
+                        <Name lang="en">Neonatal ichthyosis-sclerosing cholangitis syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25219">
+                        <OrphaNumber>480556</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480556</ExpertLink>
+                        <Name lang="en">Isolated neonatal sclerosing cholangitis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="783">
                         <OrphaNumber>171</OrphaNumber>
@@ -1186,15 +1348,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="10788">
-                    <OrphaNumber>59303</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59303</ExpertLink>
-                    <Name lang="en">Ichthyosis-hypotrichosis-sclerosing cholangitis syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="10932">
                     <OrphaNumber>69663</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69663</ExpertLink>
@@ -1308,7 +1461,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306636</ExpertLink>
                     <Name lang="en">Rare tumor of liver and intrahepatic biliary tract</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="836">
                         <OrphaNumber>449</OrphaNumber>
@@ -1453,6 +1606,15 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14608">
+                        <OrphaNumber>100035</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100035</ExpertLink>
+                        <Name lang="en">Solitary necrotic nodule of the liver</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -1462,6 +1624,15 @@
                 <OrphaNumber>276405</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276405</ExpertLink>
                 <Name lang="en">Hyperbiliverdinemia</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="437">
+                <OrphaNumber>1414</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1414</ExpertLink>
+                <Name lang="en">Cholestasis-lymphedema syndrome</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
