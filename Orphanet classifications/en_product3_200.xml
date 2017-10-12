@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:06" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:55" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -39,7 +39,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                     <Name lang="en">Syndromic genetic deafness</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="165">
+                  <ClassificationNodeChildList count="167">
                     <ClassificationNode>
                       <Disorder id="23675">
                         <OrphaNumber>456298</OrphaNumber>
@@ -512,7 +512,7 @@
                       <Disorder id="384">
                         <OrphaNumber>3085</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3085</ExpertLink>
-                        <Name lang="en">Retinitis pigmentosa-intellectual disability-deafness-hypogenitalism syndrome</Name>
+                        <Name lang="en">Retinitis pigmentosa-intellectual disability-deafness-hypogonadism syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -972,6 +972,15 @@
                         <OrphaNumber>3216</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3216</ExpertLink>
                         <Name lang="en">Conductive deafness-malformed external ear syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22690">
+                        <OrphaNumber>397623</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397623</ExpertLink>
+                        <Name lang="en">Short stature-auditory canal atresia-mandibular hypoplasia-skeletal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1745,7 +1754,7 @@
                       <Disorder id="17538">
                         <OrphaNumber>163746</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
-                        <Name lang="en">Neurologic Waardenburg-Shah syndrome</Name>
+                        <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1791,6 +1800,15 @@
                         <OrphaNumber>477668</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
                         <Name lang="en">Aymé-Gripp syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25392">
+                        <OrphaNumber>488232</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488232</ExpertLink>
+                        <Name lang="en">Split-foot malformation-mesoaxial polydactyly syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2217,7 +2235,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156243</ExpertLink>
                     <Name lang="en">Pinnae and external auditory canal anomaly</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="11575">
                         <OrphaNumber>83463</OrphaNumber>
@@ -2250,6 +2268,15 @@
                         <OrphaNumber>3023</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3023</ExpertLink>
                         <Name lang="en">External auditory canal atresia-vertical talus-hypertelorism syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22690">
+                        <OrphaNumber>397623</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397623</ExpertLink>
+                        <Name lang="en">Short stature-auditory canal atresia-mandibular hypoplasia-skeletal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2330,7 +2357,7 @@
                       <Disorder id="3181">
                         <OrphaNumber>1134</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1134</ExpertLink>
-                        <Name lang="en">Arrhinia</Name>
+                        <Name lang="en">Isolated arrhinia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3304,7 +3331,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=138059</ExpertLink>
                         <Name lang="en">Teratogenic Pierre Robin syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="19">
+                      <ClassificationNodeChildList count="20">
                         <ClassificationNode>
                           <Disorder id="1881">
                             <OrphaNumber>1919</OrphaNumber>
@@ -3472,6 +3499,15 @@
                             <OrphaNumber>1917</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1917</ExpertLink>
                             <Name lang="en">Fetal methylmercury syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25307">
+                            <OrphaNumber>485358</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485358</ExpertLink>
+                            <Name lang="en">Propylthiouracil embryofetopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3734,7 +3770,7 @@
                       <Disorder id="2026">
                         <OrphaNumber>2117</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
-                        <Name lang="en">Hartsfield-Bixler-Demyer syndrome</Name>
+                        <Name lang="en">Hartsfield syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

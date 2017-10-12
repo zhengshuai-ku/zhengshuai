@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:10" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:59" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -998,7 +998,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98274</ExpertLink>
                             <Name lang="en">Myeloproliferative neoplasm</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="10">
+                          <ClassificationNodeChildList count="11">
+                            <ClassificationNode>
+                              <Disorder id="25397">
+                                <OrphaNumber>488280</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488280</ExpertLink>
+                                <Name lang="en">14q32 duplication syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="3599">
                                 <OrphaNumber>3318</OrphaNumber>
@@ -1176,14 +1185,14 @@
                           <Disorder id="17801">
                             <OrphaNumber>168943</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168943</ExpertLink>
-                            <Name lang="en">Myeloid neoplasms associated with eosinophilia and abnormality of PDGFRA, PDGFRB or FGFR1</Name>
+                            <Name lang="en">Myeloid/lymphoid neoplasms associated with eosinophilia and abnormality of PDGFRA, PDGFRB or FGFR1</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="17802">
                                 <OrphaNumber>168947</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168947</ExpertLink>
-                                <Name lang="en">Myeloid neoplasm associated with PDGFRA rearrangement</Name>
+                                <Name lang="en">Myeloid/lymphoid neoplasm associated with PDGFRA rearrangement</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1192,7 +1201,7 @@
                               <Disorder id="17803">
                                 <OrphaNumber>168950</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168950</ExpertLink>
-                                <Name lang="en">Myeloid neoplasm associated with PDGFRB rearrangement</Name>
+                                <Name lang="en">Myeloid/lymphoid neoplasm associated with PDGFRB rearrangement</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1201,7 +1210,7 @@
                               <Disorder id="17804">
                                 <OrphaNumber>168953</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168953</ExpertLink>
-                                <Name lang="en">Myeloid neoplasm associated with FGFR1 rearrangement</Name>
+                                <Name lang="en">Myeloid/lymphoid neoplasm associated with FGFR1 rearrangement</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1627,7 +1636,7 @@
                                           <Disorder id="10778">
                                             <OrphaNumber>58017</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=58017</ExpertLink>
-                                            <Name lang="en">Hairy cell leukemia</Name>
+                                            <Name lang="en">Classic hairy cell leukemia</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -2969,12 +2978,21 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3148</ExpertLink>
                             <Name lang="en">Malignant peripheral nerve sheath tumor</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="19733">
                                 <OrphaNumber>252212</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252212</ExpertLink>
                                 <Name lang="en">Malignant triton tumor</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="19722">
+                                <OrphaNumber>252128</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252128</ExpertLink>
+                                <Name lang="en">Malignant peripheral nerve sheath tumor with perineurial differentiation</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3772,16 +3790,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199257</ExpertLink>
                         <Name lang="en">Superficial fibromatosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="11168">
-                            <OrphaNumber>79142</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79142</ExpertLink>
-                            <Name lang="en">Familial Dupuytren contracture</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="18382">
                             <OrphaNumber>199251</OrphaNumber>
@@ -4403,7 +4412,7 @@
                                   <Disorder id="23206">
                                     <OrphaNumber>424991</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424991</ExpertLink>
-                                    <Name lang="en">Adenocarcinoma of gallbladder and extrahepatic biliary tract</Name>
+                                    <Name lang="en">Adenocarcinoma of the gallbladder and extrahepatic biliary tract</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5159,7 +5168,7 @@
                                   <Disorder id="23189">
                                     <OrphaNumber>424039</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424039</ExpertLink>
-                                    <Name lang="en">Squamous cell carcinoma of pancreas</Name>
+                                    <Name lang="en">Squamous cell carcinoma of the pancreas</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5195,7 +5204,7 @@
                                   <Disorder id="23193">
                                     <OrphaNumber>424065</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424065</ExpertLink>
-                                    <Name lang="en">Solid pseudopapillary carcinoma of pancreas</Name>
+                                    <Name lang="en">Solid pseudopapillary carcinoma of the pancreas</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6263,12 +6272,21 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3148</ExpertLink>
                             <Name lang="en">Malignant peripheral nerve sheath tumor</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="19733">
                                 <OrphaNumber>252212</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252212</ExpertLink>
                                 <Name lang="en">Malignant triton tumor</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="19722">
+                                <OrphaNumber>252128</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252128</ExpertLink>
+                                <Name lang="en">Malignant peripheral nerve sheath tumor with perineurial differentiation</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6281,7 +6299,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85102</ExpertLink>
                             <Name lang="en">Perineurioma</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="14575">
                                 <OrphaNumber>100002</OrphaNumber>
@@ -6314,15 +6332,6 @@
                                 <OrphaNumber>100003</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100003</ExpertLink>
                                 <Name lang="en">Intraneural perineurioma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="19722">
-                                <OrphaNumber>252128</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252128</ExpertLink>
-                                <Name lang="en">Malignant perineurioma</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6423,7 +6432,7 @@
                           <Disorder id="18503">
                             <OrphaNumber>206489</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206489</ExpertLink>
-                            <Name lang="en">Vaginal germ cell malignant tumor</Name>
+                            <Name lang="en">Malignant germ cell tumor of the vagina</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9473,7 +9482,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140162</ExpertLink>
                 <Name lang="en">Inherited cancer-predisposing syndrome</Name>
               </Disorder>
-              <ClassificationNodeChildList count="31">
+              <ClassificationNodeChildList count="33">
                 <ClassificationNode>
                   <Disorder id="19732">
                     <OrphaNumber>252206</OrphaNumber>
@@ -10441,7 +10450,7 @@
                   <Disorder id="21457">
                     <OrphaNumber>313846</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=313846</ExpertLink>
-                    <Name lang="en">Familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome</Name>
+                    <Name lang="en">Familial cutaneous telangiectasia and oropharyngeal cancer predisposition syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10964,6 +10973,24 @@
                     <OrphaNumber>435953</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435953</ExpertLink>
                     <Name lang="en">Progeroid features-hepatocellular carcinoma predisposition syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="2080">
+                    <OrphaNumber>2198</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2198</ExpertLink>
+                    <Name lang="en">Palmoplantar keratoderma-esophageal carcinoma syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25413">
+                    <OrphaNumber>488647</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488647</ExpertLink>
+                    <Name lang="en">DDX41-related hematologic malignancy predisposition syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

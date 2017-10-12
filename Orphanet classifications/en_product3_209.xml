@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:18" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:21:07" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -1261,7 +1261,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=138059</ExpertLink>
                         <Name lang="en">Teratogenic Pierre Robin syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="19">
+                      <ClassificationNodeChildList count="20">
                         <ClassificationNode>
                           <Disorder id="1881">
                             <OrphaNumber>1919</OrphaNumber>
@@ -1429,6 +1429,15 @@
                             <OrphaNumber>1917</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1917</ExpertLink>
                             <Name lang="en">Fetal methylmercury syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25307">
+                            <OrphaNumber>485358</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485358</ExpertLink>
+                            <Name lang="en">Propylthiouracil embryofetopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1700,7 +1709,7 @@
                       <Disorder id="2026">
                         <OrphaNumber>2117</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
-                        <Name lang="en">Hartsfield-Bixler-Demyer syndrome</Name>
+                        <Name lang="en">Hartsfield syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

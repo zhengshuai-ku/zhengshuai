@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:57" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13065">
       <OrphaNumber>98047</OrphaNumber>
@@ -1774,7 +1774,7 @@
                   <Disorder id="22784">
                     <OrphaNumber>399877</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399877</ExpertLink>
-                    <Name lang="en">Female infertility due to gonadal dysgenesis</Name>
+                    <Name lang="en">Rare female infertility due to gonadal dysgenesis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="5">
                     <ClassificationNode>
@@ -1855,7 +1855,7 @@
                   <Disorder id="22785">
                     <OrphaNumber>399882</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399882</ExpertLink>
-                    <Name lang="en">Female infertility due to an implantation defect</Name>
+                    <Name lang="en">Rare female infertility due to an implantation defect</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="5">
                     <ClassificationNode>
@@ -1945,9 +1945,18 @@
                   <Disorder id="22926">
                     <OrphaNumber>404469</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404469</ExpertLink>
-                    <Name lang="en">Female infertility due to fertilization defect</Name>
+                    <Name lang="en">Rare female infertility due to oocyte maturation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="1">
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="25389">
+                        <OrphaNumber>488191</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488191</ExpertLink>
+                        <Name lang="en">Female infertility due to oocyte meiotic arrest</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="22925">
                         <OrphaNumber>404466</OrphaNumber>

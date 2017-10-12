@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:23" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:10" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -14,7 +14,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101936</ExpertLink>
                 <Name lang="en">Rare gastroesophageal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="10">
+              <ClassificationNodeChildList count="12">
                 <ClassificationNode>
                   <Disorder id="302">
                     <OrphaNumber>930</OrphaNumber>
@@ -258,6 +258,24 @@
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="1987">
+                    <OrphaNumber>2069</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2069</ExpertLink>
+                    <Name lang="en">Gastrocutaneous syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25368">
+                    <OrphaNumber>487809</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=487809</ExpertLink>
+                    <Name lang="en">Pediatric collagenous gastritis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -463,7 +481,7 @@
                               <Disorder id="23189">
                                 <OrphaNumber>424039</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424039</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of pancreas</Name>
+                                <Name lang="en">Squamous cell carcinoma of the pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -499,7 +517,7 @@
                               <Disorder id="23193">
                                 <OrphaNumber>424065</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424065</ExpertLink>
-                                <Name lang="en">Solid pseudopapillary carcinoma of pancreas</Name>
+                                <Name lang="en">Solid pseudopapillary carcinoma of the pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -795,7 +813,52 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94075</ExpertLink>
                     <Name lang="en">Severe immune-mediated enteropathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="10">
+                    <ClassificationNode>
+                      <Disorder id="19132">
+                        <OrphaNumber>228426</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228426</ExpertLink>
+                        <Name lang="en">Syndromic multisystem autoimmune disease due to Itch deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3279">
+                        <OrphaNumber>572</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=572</ExpertLink>
+                        <Name lang="en">Immunodeficiency by defective expression of HLA class 2</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22712">
+                        <OrphaNumber>397959</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397959</ExpertLink>
+                        <Name lang="en">TCR-alpha-beta-positive T-cell deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20431">
+                        <OrphaNumber>280142</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280142</ExpertLink>
+                        <Name lang="en">Severe combined immunodeficiency due to LCK deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="23329">
+                        <OrphaNumber>436159</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436159</ExpertLink>
+                        <Name lang="en">Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="10440">
                         <OrphaNumber>37042</OrphaNumber>
@@ -1259,7 +1322,7 @@
                       <Disorder id="17538">
                         <OrphaNumber>163746</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
-                        <Name lang="en">Neurologic Waardenburg-Shah syndrome</Name>
+                        <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

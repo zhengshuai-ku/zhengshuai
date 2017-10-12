@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:52" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:41" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -1979,14 +1979,59 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95495</ExpertLink>
                             <Name lang="en">Disease associated with non-acquired combined pituitary hormone deficiency</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="14">
+                          <ClassificationNodeChildList count="11">
                             <ClassificationNode>
                               <Disorder id="301">
                                 <OrphaNumber>2162</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2162</ExpertLink>
                                 <Name lang="en">Holoprosencephaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
+                              <ClassificationNodeChildList count="5">
+                                <ClassificationNode>
+                                  <Disorder id="12485">
+                                    <OrphaNumber>93925</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93925</ExpertLink>
+                                    <Name lang="en">Alobar holoprosencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12486">
+                                    <OrphaNumber>93926</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93926</ExpertLink>
+                                    <Name lang="en">Midline interhemispheric variant of holoprosencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="18904">
+                                    <OrphaNumber>220386</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220386</ExpertLink>
+                                    <Name lang="en">Semilobar holoprosencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12484">
+                                    <OrphaNumber>93924</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
+                                    <Name lang="en">Lobar holoprosencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20435">
+                                    <OrphaNumber>280195</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
+                                    <Name lang="en">Septopreoptic holoprosencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -2044,46 +2089,10 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="12484">
-                                <OrphaNumber>93924</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
-                                <Name lang="en">Lobar holoprosencephaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="20435">
-                                    <OrphaNumber>280195</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
-                                    <Name lang="en">Septopreoptic holoprosencephaly</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12485">
-                                <OrphaNumber>93925</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93925</ExpertLink>
-                                <Name lang="en">Alobar holoprosencephaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="17162">
                                 <OrphaNumber>157954</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157954</ExpertLink>
                                 <Name lang="en">ANE syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="18904">
-                                <OrphaNumber>220386</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220386</ExpertLink>
-                                <Name lang="en">Semilobar holoprosencephaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3277,7 +3286,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98087</ExpertLink>
                         <Name lang="en">Syndrome with 46,XY disorder of sex development</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="17">
+                      <ClassificationNodeChildList count="18">
                         <ClassificationNode>
                           <Disorder id="230">
                             <OrphaNumber>893</OrphaNumber>
@@ -3427,6 +3436,15 @@
                             <OrphaNumber>456328</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456328</ExpertLink>
                             <Name lang="en">X-linked myotubular myopathy-abnormal genitalia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1991">
+                            <OrphaNumber>2075</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
+                            <Name lang="en">Genito-palato-cardiac syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4215,7 +4233,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181368</ExpertLink>
                     <Name lang="en">Rare insulin-resistance syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="172">
                         <OrphaNumber>508</OrphaNumber>
@@ -4293,15 +4311,6 @@
                         <OrphaNumber>90301</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90301</ExpertLink>
                         <Name lang="en">Acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="16733">
-                        <OrphaNumber>137871</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137871</ExpertLink>
-                        <Name lang="en">Laminopathy type Decaudain-Vigouroux</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4602,7 +4611,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181422</ExpertLink>
                     <Name lang="en">Rare hyperlipidemia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="11237">
                         <OrphaNumber>79211</OrphaNumber>
@@ -4619,15 +4628,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="16733">
-                        <OrphaNumber>137871</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137871</ExpertLink>
-                        <Name lang="en">Laminopathy type Decaudain-Vigouroux</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -6873,14 +6873,59 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95495</ExpertLink>
                                 <Name lang="en">Disease associated with non-acquired combined pituitary hormone deficiency</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="14">
+                              <ClassificationNodeChildList count="11">
                                 <ClassificationNode>
                                   <Disorder id="301">
                                     <OrphaNumber>2162</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2162</ExpertLink>
                                     <Name lang="en">Holoprosencephaly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="0">
+                                  <ClassificationNodeChildList count="5">
+                                    <ClassificationNode>
+                                      <Disorder id="12485">
+                                        <OrphaNumber>93925</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93925</ExpertLink>
+                                        <Name lang="en">Alobar holoprosencephaly</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12486">
+                                        <OrphaNumber>93926</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93926</ExpertLink>
+                                        <Name lang="en">Midline interhemispheric variant of holoprosencephaly</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="18904">
+                                        <OrphaNumber>220386</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220386</ExpertLink>
+                                        <Name lang="en">Semilobar holoprosencephaly</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12484">
+                                        <OrphaNumber>93924</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
+                                        <Name lang="en">Lobar holoprosencephaly</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="20435">
+                                        <OrphaNumber>280195</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
+                                        <Name lang="en">Septopreoptic holoprosencephaly</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -6938,46 +6983,10 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="12484">
-                                    <OrphaNumber>93924</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
-                                    <Name lang="en">Lobar holoprosencephaly</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="1">
-                                    <ClassificationNode>
-                                      <Disorder id="20435">
-                                        <OrphaNumber>280195</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
-                                        <Name lang="en">Septopreoptic holoprosencephaly</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="12485">
-                                    <OrphaNumber>93925</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93925</ExpertLink>
-                                    <Name lang="en">Alobar holoprosencephaly</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
                                   <Disorder id="17162">
                                     <OrphaNumber>157954</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157954</ExpertLink>
                                     <Name lang="en">ANE syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="18904">
-                                    <OrphaNumber>220386</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220386</ExpertLink>
-                                    <Name lang="en">Semilobar holoprosencephaly</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

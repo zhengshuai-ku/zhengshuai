@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:04" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:53" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -653,12 +653,21 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364526</ExpertLink>
                 <Name lang="en">Primary bone dysplasia</Name>
               </Disorder>
-              <ClassificationNodeChildList count="25">
+              <ClassificationNodeChildList count="26">
                 <ClassificationNode>
                   <Disorder id="25161">
                     <OrphaNumber>477831</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477831</ExpertLink>
                     <Name lang="en">Skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25395">
+                    <OrphaNumber>488265</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488265</ExpertLink>
+                    <Name lang="en">Osteofibrous dysplasia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1488,7 +1497,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93426</ExpertLink>
                     <Name lang="en">Short rib dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="537">
                         <OrphaNumber>1505</OrphaNumber>
@@ -1602,6 +1611,15 @@
                         <OrphaNumber>464366</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464366</ExpertLink>
                         <Name lang="en">NEK9-related lethal skeletal dysplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1838">
+                        <OrphaNumber>1861</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1861</ExpertLink>
+                        <Name lang="en">Thoracic dysplasia-hydrocephalus syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4580,7 +4598,7 @@
                       <Disorder id="19622">
                         <OrphaNumber>251290</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251290</ExpertLink>
-                        <Name lang="en">Parietal foramina with cleidocranial dysplasia</Name>
+                        <Name lang="en">Parietal foramina with clavicular hypoplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5338,7 +5356,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250</ExpertLink>
                         <Name lang="en">Frontonasal dysplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="10">
+                      <ClassificationNodeChildList count="11">
                         <ClassificationNode>
                           <Disorder id="1686">
                             <OrphaNumber>1519</OrphaNumber>
@@ -5429,6 +5447,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25401">
+                            <OrphaNumber>488437</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488437</ExpertLink>
+                            <Name lang="en">SIX2-related frontonasal dysplasia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -5445,15 +5472,6 @@
                         <OrphaNumber>2769</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2769</ExpertLink>
                         <Name lang="en">Familial osteodysplasia, Anderson type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2914">
-                        <OrphaNumber>3262</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3262</ExpertLink>
-                        <Name lang="en">Syngnathia multiple anomalies</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5499,6 +5517,15 @@
                         <OrphaNumber>459061</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=459061</ExpertLink>
                         <Name lang="en">Craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2914">
+                        <OrphaNumber>3262</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3262</ExpertLink>
+                        <Name lang="en">Syngnathia multiple anomalies</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5817,7 +5844,25 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364568</ExpertLink>
                     <Name lang="en">Dysostosis with limb anomaly as a major feature</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="17">
+                    <ClassificationNode>
+                      <Disorder id="25256">
+                        <OrphaNumber>482606</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482606</ExpertLink>
+                        <Name lang="en">X-linked keloid scarring-reduced joint mobility-increased optic cup-to-disc ratio syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25400">
+                        <OrphaNumber>488434</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488434</ExpertLink>
+                        <Name lang="en">Camptodactyly syndrome, Guadalajara type 3</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="10909">
                         <OrphaNumber>69028</OrphaNumber>
@@ -8092,7 +8137,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="47">
+                      <ClassificationNodeChildList count="50">
+                        <ClassificationNode>
+                          <Disorder id="25392">
+                            <OrphaNumber>488232</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488232</ExpertLink>
+                            <Name lang="en">Split-foot malformation-mesoaxial polydactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="25222">
                             <OrphaNumber>480773</OrphaNumber>
@@ -8215,15 +8269,6 @@
                             <OrphaNumber>1897</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1897</ExpertLink>
                             <Name lang="en">EEM syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1893">
-                            <OrphaNumber>1940</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1940</ExpertLink>
-                            <Name lang="en">Shoulder and thorax deformity-congenital heart disease syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8534,6 +8579,33 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1860">
+                            <OrphaNumber>1891</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1891</ExpertLink>
+                            <Name lang="en">Intellectual disability-spasticity-ectrodactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2026">
+                            <OrphaNumber>2117</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
+                            <Name lang="en">Hartsfield syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1549">
+                            <OrphaNumber>1326</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1326</ExpertLink>
+                            <Name lang="en">Camptodactyly syndrome, Guadalajara type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -8614,7 +8686,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="47">
+                      <ClassificationNodeChildList count="48">
                         <ClassificationNode>
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
@@ -9151,6 +9223,15 @@
                             <OrphaNumber>480773</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
                             <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25392">
+                            <OrphaNumber>488232</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488232</ExpertLink>
+                            <Name lang="en">Split-foot malformation-mesoaxial polydactyly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

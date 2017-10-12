@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:50" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -238,16 +238,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=708</ExpertLink>
                                     <Name lang="en">Peters anomaly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="13958">
-                                        <OrphaNumber>98941</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98941</ExpertLink>
-                                        <Name lang="en">Von Hippel anomaly</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="1">
                                     <ClassificationNode>
                                       <Disorder id="14744">
                                         <OrphaNumber>101033</OrphaNumber>
@@ -636,7 +627,7 @@
                           <Disorder id="13973">
                             <OrphaNumber>98956</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98956</ExpertLink>
-                            <Name lang="en">Microcystic corneal dystrophy</Name>
+                            <Name lang="en">Epithelial basement membrane dystrophy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1135,7 +1126,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98558</ExpertLink>
                         <Name lang="en">Rare eye disease due to a differentiation anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="15">
+                      <ClassificationNodeChildList count="16">
                         <ClassificationNode>
                           <Disorder id="16899">
                             <OrphaNumber>139450</OrphaNumber>
@@ -1241,16 +1232,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=708</ExpertLink>
                             <Name lang="en">Peters anomaly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="13958">
-                                <OrphaNumber>98941</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98941</ExpertLink>
-                                <Name lang="en">Von Hippel anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="1">
                             <ClassificationNode>
                               <Disorder id="14744">
                                 <OrphaNumber>101033</OrphaNumber>
@@ -1330,6 +1312,15 @@
                             <OrphaNumber>88632</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88632</ExpertLink>
                             <Name lang="en">Anterior segment dysgenesis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25390">
+                            <OrphaNumber>488197</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488197</ExpertLink>
+                            <Name lang="en">Familial progressive retinal dystrophy-iris coloboma-congenital cataract syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4418,7 +4409,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98641</ExpertLink>
                             <Name lang="en">Syndromic cataract</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="32">
+                          <ClassificationNodeChildList count="34">
                             <ClassificationNode>
                               <Disorder id="190">
                                 <OrphaNumber>649</OrphaNumber>
@@ -5464,6 +5455,24 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
+                              <Disorder id="25388">
+                                <OrphaNumber>488168</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488168</ExpertLink>
+                                <Name lang="en">Microcephaly-congenital cataract-psoriasiform dermatitis syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25390">
+                                <OrphaNumber>488197</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488197</ExpertLink>
+                                <Name lang="en">Familial progressive retinal dystrophy-iris coloboma-congenital cataract syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
                               <Disorder id="24042">
                                 <OrphaNumber>464738</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464738</ExpertLink>
@@ -6020,7 +6029,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98661</ExpertLink>
                             <Name lang="en">Syndromic retinitis pigmentosa</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="25">
+                          <ClassificationNodeChildList count="26">
                             <ClassificationNode>
                               <Disorder id="17156">
                                 <OrphaNumber>157850</OrphaNumber>
@@ -6124,7 +6133,7 @@
                               <Disorder id="384">
                                 <OrphaNumber>3085</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3085</ExpertLink>
-                                <Name lang="en">Retinitis pigmentosa-intellectual disability-deafness-hypogenitalism syndrome</Name>
+                                <Name lang="en">Retinitis pigmentosa-intellectual disability-deafness-hypogonadism syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6323,6 +6332,15 @@
                                 <OrphaNumber>140976</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140976</ExpertLink>
                                 <Name lang="en">RHYNS syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25390">
+                                <OrphaNumber>488197</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488197</ExpertLink>
+                                <Name lang="en">Familial progressive retinal dystrophy-iris coloboma-congenital cataract syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7561,12 +7579,30 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=441434</ExpertLink>
                         <Name lang="en">Syndromic hereditary optic neuropathy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="25">
+                      <ClassificationNodeChildList count="27">
+                        <ClassificationNode>
+                          <Disorder id="25256">
+                            <OrphaNumber>482606</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482606</ExpertLink>
+                            <Name lang="en">X-linked keloid scarring-reduced joint mobility-increased optic cup-to-disc ratio syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25311">
+                            <OrphaNumber>485421</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
+                            <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="23727">
                             <OrphaNumber>457406</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                            <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                            <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8374,7 +8410,7 @@
                               <Disorder id="17538">
                                 <OrphaNumber>163746</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
-                                <Name lang="en">Neurologic Waardenburg-Shah syndrome</Name>
+                                <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9615,7 +9651,25 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140653</ExpertLink>
                     <Name lang="en">Neuro-ophthalmological disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="9">
+                    <ClassificationNode>
+                      <Disorder id="25407">
+                        <OrphaNumber>488613</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488613</ExpertLink>
+                        <Name lang="en">Global developmental delay-neuro-ophthalmological abnormalities-seizures-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25412">
+                        <OrphaNumber>488642</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488642</ExpertLink>
+                        <Name lang="en">TELO2-related intellectual disability-neurodevelopmental disorder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="13698">
                         <OrphaNumber>98681</OrphaNumber>
@@ -10951,15 +11005,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="10991">
-                    <OrphaNumber>71269</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71269</ExpertLink>
-                    <Name lang="en">Benign exophthalmos syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="11015">
                     <OrphaNumber>71505</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71505</ExpertLink>
@@ -11686,6 +11731,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25393">
+                    <OrphaNumber>488239</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488239</ExpertLink>
+                    <Name lang="en">Acute macular neuroretinopathy</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

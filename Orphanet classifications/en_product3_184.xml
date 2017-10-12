@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:40" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:29" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12974">
       <OrphaNumber>97955</OrphaNumber>
@@ -255,7 +255,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182108</ExpertLink>
                     <Name lang="en">Thoracic malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="537">
                         <OrphaNumber>1505</OrphaNumber>
@@ -378,15 +378,6 @@
                         <OrphaNumber>1861</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1861</ExpertLink>
                         <Name lang="en">Thoracic dysplasia-hydrocephalus syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1893">
-                        <OrphaNumber>1940</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1940</ExpertLink>
-                        <Name lang="en">Shoulder and thorax deformity-congenital heart disease syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -665,7 +656,7 @@
                       <Disorder id="2125">
                         <OrphaNumber>2257</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2257</ExpertLink>
-                        <Name lang="en">Familial primary pulmonary hypoplasia</Name>
+                        <Name lang="en">Primary pulmonary hypoplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

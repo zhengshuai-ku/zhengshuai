@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:33" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:21" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -199,7 +199,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98257</ExpertLink>
                         <Name lang="en">Neonatal epilepsy syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="889">
                             <OrphaNumber>1934</OrphaNumber>
@@ -264,15 +264,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="22444">
-                            <OrphaNumber>369894</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369894</ExpertLink>
-                            <Name lang="en">Early infantile epileptic encephalopathy without suppression burst</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="23427">
                             <OrphaNumber>442835</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=442835</ExpertLink>
@@ -289,7 +280,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98258</ExpertLink>
                         <Name lang="en">Infantile epilepsy syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="892">
                             <OrphaNumber>1943</OrphaNumber>
@@ -462,15 +453,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="22444">
-                            <OrphaNumber>369894</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369894</ExpertLink>
-                            <Name lang="en">Early infantile epileptic encephalopathy without suppression burst</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="22603">
                             <OrphaNumber>391316</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391316</ExpertLink>
@@ -589,7 +571,7 @@
                               <Disorder id="13836">
                                 <OrphaNumber>98819</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98819</ExpertLink>
-                                <Name lang="en">Familial temporal epilepsy</Name>
+                                <Name lang="en">Familial temporal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -897,12 +879,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                                 <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="19105">
                                     <OrphaNumber>228329</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                                     <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20066">
+                                    <OrphaNumber>263516</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                    <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1072,15 +1063,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="20066">
-                                <OrphaNumber>263516</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                                <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="20482">
                                 <OrphaNumber>280620</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280620</ExpertLink>
@@ -1130,6 +1112,15 @@
                                 <OrphaNumber>457265</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457265</ExpertLink>
                                 <Name lang="en">Progressive myoclonic epilepsy type 9</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="2387">
+                                <OrphaNumber>2590</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2590</ExpertLink>
+                                <Name lang="en">Spinal muscular atrophy-progressive myoclonic epilepsy syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1327,7 +1318,7 @@
                               <Disorder id="13836">
                                 <OrphaNumber>98819</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98819</ExpertLink>
-                                <Name lang="en">Familial temporal epilepsy</Name>
+                                <Name lang="en">Familial temporal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1608,12 +1599,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                                 <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="19105">
                                     <OrphaNumber>228329</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                                     <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20066">
+                                    <OrphaNumber>263516</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                    <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1783,15 +1783,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="20066">
-                                <OrphaNumber>263516</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                                <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="20482">
                                 <OrphaNumber>280620</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280620</ExpertLink>
@@ -1841,6 +1832,15 @@
                                 <OrphaNumber>457265</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457265</ExpertLink>
                                 <Name lang="en">Progressive myoclonic epilepsy type 9</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="2387">
+                                <OrphaNumber>2590</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2590</ExpertLink>
+                                <Name lang="en">Spinal muscular atrophy-progressive myoclonic epilepsy syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1983,7 +1983,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166469</ExpertLink>
                     <Name lang="en">Chromosomal anomaly with epilepsy as a major feature</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="15">
                     <ClassificationNode>
                       <Disorder id="90">
                         <OrphaNumber>72</OrphaNumber>
@@ -2119,6 +2119,42 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19888">
+                        <OrphaNumber>261537</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261537</ExpertLink>
+                        <Name lang="en">Mowat-Wilson syndrome due to monosomy 2q22</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="18850">
+                        <OrphaNumber>217377</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217377</ExpertLink>
+                        <Name lang="en">Microduplication Xp11.22-p11.23 syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19119">
+                        <OrphaNumber>228384</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228384</ExpertLink>
+                        <Name lang="en">5q14.3 microdeletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19125">
+                        <OrphaNumber>228402</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228402</ExpertLink>
+                        <Name lang="en">2q23.1 microdeletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -2127,7 +2163,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166472</ExpertLink>
                     <Name lang="en">Monogenic disease with epilepsy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="20">
+                  <ClassificationNodeChildList count="29">
+                    <ClassificationNode>
+                      <Disorder id="5543">
+                        <OrphaNumber>428</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=428</ExpertLink>
+                        <Name lang="en">Autosomal dominant hypocalcemia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="91">
                         <OrphaNumber>778</OrphaNumber>
@@ -2380,7 +2425,7 @@
                               <Disorder id="13836">
                                 <OrphaNumber>98819</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98819</ExpertLink>
-                                <Name lang="en">Familial temporal epilepsy</Name>
+                                <Name lang="en">Familial temporal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2516,10 +2561,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="22444">
-                        <OrphaNumber>369894</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369894</ExpertLink>
-                        <Name lang="en">Early infantile epileptic encephalopathy without suppression burst</Name>
+                      <Disorder id="1502">
+                        <OrphaNumber>127</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=127</ExpertLink>
+                        <Name lang="en">Borjeson-Forssman-Lehmann syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2605,6 +2650,123 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20051">
+                        <OrphaNumber>263417</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263417</ExpertLink>
+                        <Name lang="en">Bartter syndrome with hypocalcemia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="10444">
+                        <OrphaNumber>37612</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37612</ExpertLink>
+                        <Name lang="en">Episodic ataxia type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="18950">
+                        <OrphaNumber>221150</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221150</ExpertLink>
+                        <Name lang="en">Pitt-Hopkins-like syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25407">
+                        <OrphaNumber>488613</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488613</ExpertLink>
+                        <Name lang="en">Global developmental delay-neuro-ophthalmological abnormalities-seizures-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2051">
+                        <OrphaNumber>2152</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2152</ExpertLink>
+                        <Name lang="en">Mowat-Wilson syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="19888">
+                            <OrphaNumber>261537</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261537</ExpertLink>
+                            <Name lang="en">Mowat-Wilson syndrome due to monosomy 2q22</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19889">
+                            <OrphaNumber>261552</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261552</ExpertLink>
+                            <Name lang="en">Mowat-Wilson syndrome due to a ZEB2 point mutation</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2624">
+                        <OrphaNumber>2896</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2896</ExpertLink>
+                        <Name lang="en">Pitt-Hopkins syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22707">
+                        <OrphaNumber>397933</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397933</ExpertLink>
+                        <Name lang="en">Severe intellectual disability-progressive postnatal microcephaly-midline stereotypic hand movements syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14865">
+                        <OrphaNumber>101685</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101685</ExpertLink>
+                        <Name lang="en">Rare non-syndromic intellectual disability</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="3256">
+                            <OrphaNumber>777</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=777</ExpertLink>
+                            <Name lang="en">X-linked non-syndromic intellectual disability</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11804">
+                            <OrphaNumber>88616</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88616</ExpertLink>
+                            <Name lang="en">Autosomal recessive non-syndromic intellectual disability</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18028">
+                            <OrphaNumber>178469</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178469</ExpertLink>
+                            <Name lang="en">Autosomal dominant non-syndromic intellectual disability</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -2688,7 +2850,7 @@
                           <Disorder id="13836">
                             <OrphaNumber>98819</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98819</ExpertLink>
-                            <Name lang="en">Familial temporal epilepsy</Name>
+                            <Name lang="en">Familial temporal lobe epilepsy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2766,7 +2928,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166478</ExpertLink>
                     <Name lang="en">Cerebral malformation with epilepsy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="18">
                     <ClassificationNode>
                       <Disorder id="254">
                         <OrphaNumber>50</OrphaNumber>
@@ -2789,16 +2951,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
                             <Name lang="en">Lobar holoprosencephaly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="20435">
-                                <OrphaNumber>280195</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
-                                <Name lang="en">Septopreoptic holoprosencephaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -2829,21 +2982,12 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="20436">
-                            <OrphaNumber>280200</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
-                            <Name lang="en">Microform holoprosencephaly</Name>
+                          <Disorder id="20435">
+                            <OrphaNumber>280195</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
+                            <Name lang="en">Septopreoptic holoprosencephaly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="2153">
-                                <OrphaNumber>2286</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                                <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -3532,6 +3676,123 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="16724">
+                        <OrphaNumber>137831</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137831</ExpertLink>
+                        <Name lang="en">X-linked intellectual disability-cerebellar hypoplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11668">
+                        <OrphaNumber>85278</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85278</ExpertLink>
+                        <Name lang="en">Christianson syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="13540">
+                        <OrphaNumber>98523</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98523</ExpertLink>
+                        <Name lang="en">Non-syndromic pontocerebellar hypoplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="10">
+                        <ClassificationNode>
+                          <Disorder id="2334">
+                            <OrphaNumber>2524</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2524</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3132">
+                            <OrphaNumber>2254</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2254</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12868">
+                            <OrphaNumber>97249</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97249</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 3</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17608">
+                            <OrphaNumber>166063</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166063</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 4</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17609">
+                            <OrphaNumber>166068</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166068</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 5</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17610">
+                            <OrphaNumber>166073</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166073</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 6</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20597">
+                            <OrphaNumber>284339</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284339</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 7</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21786">
+                            <OrphaNumber>324569</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324569</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 8</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22448">
+                            <OrphaNumber>369920</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369920</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 9</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23012">
+                            <OrphaNumber>411493</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=411493</ExpertLink>
+                            <Name lang="en">Pontocerebellar hypoplasia type 10</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -3608,7 +3869,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216</ExpertLink>
                             <Name lang="en">Neuronal ceroid lipofuscinosis</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="8">
+                          <ClassificationNodeChildList count="7">
                             <ClassificationNode>
                               <Disorder id="353">
                                 <OrphaNumber>1947</OrphaNumber>
@@ -3696,12 +3957,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                                 <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="19105">
                                     <OrphaNumber>228329</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                                     <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20066">
+                                    <OrphaNumber>263516</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                    <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -3859,15 +4129,6 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20066">
-                                <OrphaNumber>263516</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                                <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -4796,7 +5057,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=225700</ExpertLink>
                             <Name lang="en">Mitochondrial disease with epilepsy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="12">
+                          <ClassificationNodeChildList count="15">
                             <ClassificationNode>
                               <Disorder id="61">
                                 <OrphaNumber>480</OrphaNumber>
@@ -5022,6 +5283,69 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="532">
+                                <OrphaNumber>506</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506</ExpertLink>
+                                <Name lang="en">Leigh syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="4">
+                                <ClassificationNode>
+                                  <Disorder id="10945">
+                                    <OrphaNumber>70472</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70472</ExpertLink>
+                                    <Name lang="en">Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="10947">
+                                    <OrphaNumber>70474</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70474</ExpertLink>
+                                    <Name lang="en">Leigh syndrome with cardiomyopathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19814">
+                                    <OrphaNumber>255241</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255241</ExpertLink>
+                                    <Name lang="en">Leigh syndrome with leukodystrophy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19815">
+                                    <OrphaNumber>255249</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255249</ExpertLink>
+                                    <Name lang="en">Leigh syndrome with nephrotic syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22842">
+                                <OrphaNumber>401859</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401859</ExpertLink>
+                                <Name lang="en">Lipoic acid synthetase deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="369">
+                                <OrphaNumber>2609</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2609</ExpertLink>
+                                <Name lang="en">Isolated complex I deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -5140,7 +5464,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=225713</ExpertLink>
                         <Name lang="en">Other metabolic disease with epilepsy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="9">
                         <ClassificationNode>
                           <Disorder id="2219">
                             <OrphaNumber>2388</OrphaNumber>
@@ -5178,6 +5502,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="763">
+                            <OrphaNumber>46</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=46</ExpertLink>
+                            <Name lang="en">Adenylosuccinate lyase deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="25224">
                             <OrphaNumber>480864</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480864</ExpertLink>
@@ -5195,6 +5528,24 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="465">
+                            <OrphaNumber>395</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=395</ExpertLink>
+                            <Name lang="en">Homocystinuria due to methylene tetrahydrofolate reductase deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18851">
+                            <OrphaNumber>217382</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217382</ExpertLink>
+                            <Name lang="en">Neurodegenerative syndrome due to cerebral folate transport deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -5203,7 +5554,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=371071</ExpertLink>
                         <Name lang="en">Congenital disorder of glycosylation with epilepsy as a major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="34">
+                      <ClassificationNodeChildList count="35">
                         <ClassificationNode>
                           <Disorder id="11348">
                             <OrphaNumber>79322</OrphaNumber>
@@ -5533,6 +5884,15 @@
                             <OrphaNumber>79321</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79321</ExpertLink>
                             <Name lang="en">ALG3-CDG</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25411">
+                            <OrphaNumber>488635</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488635</ExpertLink>
+                            <Name lang="en">Early-onset epilepsy-intellectual disability-brain anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8119,7 +8479,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306666</ExpertLink>
                         <Name lang="en">Rare parkinsonian syndrome due to neurodegenerative disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="21">
+                      <ClassificationNodeChildList count="22">
                         <ClassificationNode>
                           <Disorder id="932">
                             <OrphaNumber>2828</OrphaNumber>
@@ -8309,6 +8669,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1923">
+                            <OrphaNumber>1980</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1980</ExpertLink>
+                            <Name lang="en">Bilateral striopallidodentate calcinosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -8373,7 +8742,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306695</ExpertLink>
                     <Name lang="en">Miscellaneous movement disorder due to neurodegenerative disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="358">
                         <OrphaNumber>385</OrphaNumber>
@@ -8514,15 +8883,6 @@
                         <OrphaNumber>204</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=204</ExpertLink>
                         <Name lang="en">Sporadic Creutzfeldt-Jakob disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1923">
-                        <OrphaNumber>1980</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1980</ExpertLink>
-                        <Name lang="en">Bilateral striopallidodentate calcinosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -10848,7 +11208,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216</ExpertLink>
                     <Name lang="en">Neuronal ceroid lipofuscinosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="353">
                         <OrphaNumber>1947</OrphaNumber>
@@ -10936,12 +11296,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                         <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="19105">
                             <OrphaNumber>228329</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                             <Name lang="en">CLN1 disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20066">
+                            <OrphaNumber>263516</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                            <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -11099,15 +11468,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20066">
-                        <OrphaNumber>263516</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                        <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -11438,7 +11798,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100981</ExpertLink>
                             <Name lang="en">Autosomal recessive complex spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="38">
+                          <ClassificationNodeChildList count="39">
                             <ClassificationNode>
                               <Disorder id="24010">
                                 <OrphaNumber>464282</OrphaNumber>
@@ -11804,6 +12164,15 @@
                                 <OrphaNumber>329308</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329308</ExpertLink>
                                 <Name lang="en">Fatty acid hydroxylase-associated neurodegeneration</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25404">
+                                <OrphaNumber>488594</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488594</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 76</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -12837,7 +13206,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98534</ExpertLink>
                     <Name lang="en">Neurodegenerative disease with dementia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="14">
+                  <ClassificationNodeChildList count="17">
                     <ClassificationNode>
                       <Disorder id="118">
                         <OrphaNumber>399</OrphaNumber>
@@ -14108,6 +14477,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="2523">
+                        <OrphaNumber>2770</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2770</ExpertLink>
+                        <Name lang="en">Nasu-Hakola disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="10770">
                         <OrphaNumber>56970</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=56970</ExpertLink>
@@ -14351,10 +14729,28 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="23022">
+                        <OrphaNumber>411602</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=411602</ExpertLink>
+                        <Name lang="en">Hereditary late-onset Parkinson disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="23677">
                         <OrphaNumber>456318</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456318</ExpertLink>
                         <Name lang="en">Hereditary sensory neuropathy-deafness-dementia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21453">
+                        <OrphaNumber>313808</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=313808</ExpertLink>
+                        <Name lang="en">Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -14644,7 +15040,7 @@
                   <Disorder id="23727">
                     <OrphaNumber>457406</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                    <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                    <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -14698,7 +15094,7 @@
                   <Disorder id="18678">
                     <OrphaNumber>209973</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=209973</ExpertLink>
-                    <Name lang="en">Benign familial nocturnal alternating hemiplegia of childhood</Name>
+                    <Name lang="en">Benign nocturnal alternating hemiplegia of childhood</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -15202,7 +15598,7 @@
                   <Disorder id="23727">
                     <OrphaNumber>457406</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                    <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                    <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -15670,7 +16066,7 @@
                   <Disorder id="17538">
                     <OrphaNumber>163746</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
-                    <Name lang="en">Neurologic Waardenburg-Shah syndrome</Name>
+                    <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -15681,16 +16077,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280270</ExpertLink>
                     <Name lang="en">Pelizaeus-Merzbacher-like disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
-                    <ClassificationNode>
-                      <Disorder id="1315">
-                        <OrphaNumber>59</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59</ExpertLink>
-                        <Name lang="en">Allan-Herndon-Dudley syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="3">
                     <ClassificationNode>
                       <Disorder id="20447">
                         <OrphaNumber>280282</OrphaNumber>
@@ -16053,7 +16440,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206650</ExpertLink>
                                 <Name lang="en">Autosomal dominant distal myopathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="15">
+                              <ClassificationNodeChildList count="16">
                                 <ClassificationNode>
                                   <Disorder id="13914">
                                     <OrphaNumber>98897</OrphaNumber>
@@ -16189,6 +16576,15 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25414">
+                                    <OrphaNumber>488650</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488650</ExpertLink>
+                                    <Name lang="en">Distal myopathy, Tateyama type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -16287,7 +16683,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97242</ExpertLink>
                                 <Name lang="en">Congenital muscular dystrophy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="14">
+                              <ClassificationNodeChildList count="15">
                                 <ClassificationNode>
                                   <Disorder id="284">
                                     <OrphaNumber>258</OrphaNumber>
@@ -16500,6 +16896,15 @@
                                     <OrphaNumber>371007</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=371007</ExpertLink>
                                     <Name lang="en">Congenital muscular dystrophy with hyperlaxity</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25330">
+                                    <OrphaNumber>486815</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=486815</ExpertLink>
+                                    <Name lang="en">Congenital muscular dystrophy-respiratory failure-skin abnormalities-joint hyperlaxity syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -17768,7 +18173,7 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206966</ExpertLink>
                                         <Name lang="en">Mitochondrial myopathy</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="17">
+                                      <ClassificationNodeChildList count="19">
                                         <ClassificationNode>
                                           <Disorder id="61">
                                             <OrphaNumber>480</OrphaNumber>
@@ -17918,6 +18323,24 @@
                                             <OrphaNumber>352470</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352470</ExpertLink>
                                             <Name lang="en">Mitochondrial DNA deletion syndrome with progressive myopathy</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="19793">
+                                            <OrphaNumber>254875</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254875</ExpertLink>
+                                            <Name lang="en">Mitochondrial DNA depletion syndrome, myopathic form</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="22063">
+                                            <OrphaNumber>352447</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352447</ExpertLink>
+                                            <Name lang="en">Progressive external ophthalmoplegia-myopathy-emaciation syndrome</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -18550,7 +18973,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206638</ExpertLink>
                         <Name lang="en">Acquired skeletal muscle disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="3644">
                             <OrphaNumber>1320</OrphaNumber>
@@ -18738,15 +19161,6 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18561">
-                            <OrphaNumber>206985</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206985</ExpertLink>
-                            <Name lang="en">Drug and/or toxic myopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -19063,7 +19477,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98505</ExpertLink>
                         <Name lang="en">Genetic motor neuron disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="14">
                         <ClassificationNode>
                           <Disorder id="10744">
                             <OrphaNumber>53739</OrphaNumber>
@@ -19515,6 +19929,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="25329">
+                            <OrphaNumber>486811</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=486811</ExpertLink>
+                            <Name lang="en">Prenatal-onset spinal muscular atrophy with congenital bone fractures</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="2387">
                             <OrphaNumber>2590</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2590</ExpertLink>
@@ -19589,7 +20012,52 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68385</ExpertLink>
                 <Name lang="en">Neurometabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="128">
+              <ClassificationNodeChildList count="135">
+                <ClassificationNode>
+                  <Disorder id="19793">
+                    <OrphaNumber>254875</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254875</ExpertLink>
+                    <Name lang="en">Mitochondrial DNA depletion syndrome, myopathic form</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19796">
+                    <OrphaNumber>254892</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254892</ExpertLink>
+                    <Name lang="en">Autosomal dominant progressive external ophthalmoplegia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19795">
+                    <OrphaNumber>254886</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254886</ExpertLink>
+                    <Name lang="en">Autosomal recessive progressive external ophthalmoplegia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="3558">
+                    <OrphaNumber>663</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=663</ExpertLink>
+                    <Name lang="en">Maternally-inherited progressive external ophthalmoplegia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="22063">
+                    <OrphaNumber>352447</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352447</ExpertLink>
+                    <Name lang="en">Progressive external ophthalmoplegia-myopathy-emaciation syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="3">
                     <OrphaNumber>61</OrphaNumber>
@@ -20170,14 +20638,14 @@
                   <Disorder id="20743">
                     <OrphaNumber>289573</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289573</ExpertLink>
-                    <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome</Name>
+                    <Name lang="en">Multiple mitochondrial dysfunctions syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="22845">
                         <OrphaNumber>401869</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401869</ExpertLink>
-                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 1</Name>
+                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -20186,7 +20654,7 @@
                       <Disorder id="22846">
                         <OrphaNumber>401874</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401874</ExpertLink>
-                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 2</Name>
+                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -20195,7 +20663,7 @@
                       <Disorder id="22301">
                         <OrphaNumber>363424</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363424</ExpertLink>
-                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 3</Name>
+                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 3</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -20204,7 +20672,7 @@
                       <Disorder id="23727">
                         <OrphaNumber>457406</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                        <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -20415,7 +20883,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216</ExpertLink>
                     <Name lang="en">Neuronal ceroid lipofuscinosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="353">
                         <OrphaNumber>1947</OrphaNumber>
@@ -20503,12 +20971,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                         <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="19105">
                             <OrphaNumber>228329</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                             <Name lang="en">CLN1 disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20066">
+                            <OrphaNumber>263516</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                            <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -20666,15 +21143,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20066">
-                        <OrphaNumber>263516</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                        <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -22420,7 +22888,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=371071</ExpertLink>
                         <Name lang="en">Congenital disorder of glycosylation with epilepsy as a major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="34">
+                      <ClassificationNodeChildList count="35">
                         <ClassificationNode>
                           <Disorder id="11348">
                             <OrphaNumber>79322</OrphaNumber>
@@ -22755,6 +23223,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="25411">
+                            <OrphaNumber>488635</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488635</ExpertLink>
+                            <Name lang="en">Early-onset epilepsy-intellectual disability-brain anomalies syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="24178">
                             <OrphaNumber>466926</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466926</ExpertLink>
@@ -22939,6 +23416,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="25311">
+                    <OrphaNumber>485421</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
+                    <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25150">
                     <OrphaNumber>477774</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477774</ExpertLink>
@@ -22961,6 +23447,15 @@
                     <OrphaNumber>457375</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457375</ExpertLink>
                     <Name lang="en">ITPA-related encephalopathy</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="22842">
+                    <OrphaNumber>401859</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401859</ExpertLink>
+                    <Name lang="en">Lipoic acid synthetase deficiency</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -23054,7 +23549,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71281</ExpertLink>
                 <Name lang="en">Rare central nervous system and retinal vascular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="21">
+              <ClassificationNodeChildList count="22">
                 <ClassificationNode>
                   <Disorder id="25144">
                     <OrphaNumber>477754</OrphaNumber>
@@ -23820,6 +24315,15 @@
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="16677">
+                    <OrphaNumber>137577</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137577</ExpertLink>
+                    <Name lang="en">Neonatal hypoxic and ischemic brain injury</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -23898,7 +24402,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="389">
+                  <ClassificationNodeChildList count="400">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -24020,16 +24524,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
                             <Name lang="en">Lobar holoprosencephaly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="20435">
-                                <OrphaNumber>280195</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
-                                <Name lang="en">Septopreoptic holoprosencephaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -24060,21 +24555,12 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="20436">
-                            <OrphaNumber>280200</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
-                            <Name lang="en">Microform holoprosencephaly</Name>
+                          <Disorder id="20435">
+                            <OrphaNumber>280195</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
+                            <Name lang="en">Septopreoptic holoprosencephaly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="2153">
-                                <OrphaNumber>2286</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                                <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -25484,15 +25970,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="2740">
-                        <OrphaNumber>3050</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3050</ExpertLink>
-                        <Name lang="en">Intellectual disability-hypotonia-skin hyperpigmentation syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="2756">
                         <OrphaNumber>3067</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3067</ExpertLink>
@@ -26551,7 +27028,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="139">
+                      <ClassificationNodeChildList count="141">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -26985,15 +27462,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="2751">
-                            <OrphaNumber>3062</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3062</ExpertLink>
-                            <Name lang="en">X-linked intellectual disability, Schutz type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="2752">
                             <OrphaNumber>3063</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3063</ExpertLink>
@@ -27412,6 +27880,15 @@
                             <OrphaNumber>85277</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85277</ExpertLink>
                             <Name lang="en">X-linked intellectual disability, Cantagrel type</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25306">
+                            <OrphaNumber>485350</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485350</ExpertLink>
+                            <Name lang="en">CLCN4-related X-linked intellectual disability syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28320,7 +28797,7 @@
                           <Disorder id="22707">
                             <OrphaNumber>397933</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397933</ExpertLink>
-                            <Name lang="en">Severe intellectual disability-progressive postnatal microcephaly- midline stereotypic hand movements syndrome</Name>
+                            <Name lang="en">Severe intellectual disability-progressive postnatal microcephaly-midline stereotypic hand movements syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28357,6 +28834,24 @@
                             <OrphaNumber>435938</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435938</ExpertLink>
                             <Name lang="en">X-linked microcephaly-growth retardation-prognathism-cryptorchidism syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12492">
+                            <OrphaNumber>93932</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93932</ExpertLink>
+                            <Name lang="en">FG syndrome type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19639">
+                            <OrphaNumber>251383</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251383</ExpertLink>
+                            <Name lang="en">CK syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -29183,15 +29678,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="19639">
-                        <OrphaNumber>251383</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251383</ExpertLink>
-                        <Name lang="en">CK syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="19756">
                         <OrphaNumber>254516</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254516</ExpertLink>
@@ -29231,7 +29717,7 @@
                       <Disorder id="19757">
                         <OrphaNumber>254519</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254519</ExpertLink>
-                        <Name lang="en">Multiple congenital anomalies due to 14q32.2 maternally expressed gene defect</Name>
+                        <Name lang="en">Kagami-Ogata syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>
@@ -30488,6 +30974,114 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="25309">
+                        <OrphaNumber>485405</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485405</ExpertLink>
+                        <Name lang="en">16p12.1p12.3 triplication syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25311">
+                        <OrphaNumber>485421</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
+                        <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25364">
+                        <OrphaNumber>487796</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=487796</ExpertLink>
+                        <Name lang="en">Macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25371">
+                        <OrphaNumber>487825</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=487825</ExpertLink>
+                        <Name lang="en">Pierpont syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25400">
+                        <OrphaNumber>488434</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488434</ExpertLink>
+                        <Name lang="en">Camptodactyly syndrome, Guadalajara type 3</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25407">
+                        <OrphaNumber>488613</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488613</ExpertLink>
+                        <Name lang="en">Global developmental delay-neuro-ophthalmological abnormalities-seizures-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25408">
+                        <OrphaNumber>488618</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488618</ExpertLink>
+                        <Name lang="en">Transketolase deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25409">
+                        <OrphaNumber>488627</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488627</ExpertLink>
+                        <Name lang="en">Severe growth deficiency-strabismus-extensive dermal melanocytosis-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25410">
+                        <OrphaNumber>488632</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488632</ExpertLink>
+                        <Name lang="en">TBCK-related intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25411">
+                        <OrphaNumber>488635</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488635</ExpertLink>
+                        <Name lang="en">Early-onset epilepsy-intellectual disability-brain anomalies syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25412">
+                        <OrphaNumber>488642</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488642</ExpertLink>
+                        <Name lang="en">TELO2-related intellectual disability-neurodevelopmental disorder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2026">
+                        <OrphaNumber>2117</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
+                        <Name lang="en">Hartsfield syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464282</ExpertLink>
@@ -30555,6 +31149,15 @@
                         <OrphaNumber>466934</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466934</ExpertLink>
                         <Name lang="en">VPS11-related autosomal recessive hypomyelinating leukodystrophy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19125">
+                        <OrphaNumber>228402</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228402</ExpertLink>
+                        <Name lang="en">2q23.1 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -31287,7 +31890,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=89043</ExpertLink>
                     <Name lang="en">Rare dementia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="12">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="1923">
                         <OrphaNumber>1980</OrphaNumber>
@@ -31348,7 +31951,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98534</ExpertLink>
                         <Name lang="en">Neurodegenerative disease with dementia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="14">
+                      <ClassificationNodeChildList count="17">
                         <ClassificationNode>
                           <Disorder id="118">
                             <OrphaNumber>399</OrphaNumber>
@@ -32619,6 +33222,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="2523">
+                            <OrphaNumber>2770</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2770</ExpertLink>
+                            <Name lang="en">Nasu-Hakola disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="10770">
                             <OrphaNumber>56970</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=56970</ExpertLink>
@@ -32862,10 +33474,28 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="23022">
+                            <OrphaNumber>411602</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=411602</ExpertLink>
+                            <Name lang="en">Hereditary late-onset Parkinson disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="23677">
                             <OrphaNumber>456318</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456318</ExpertLink>
                             <Name lang="en">Hereditary sensory neuropathy-deafness-dementia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21453">
+                            <OrphaNumber>313808</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=313808</ExpertLink>
+                            <Name lang="en">Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -32968,7 +33598,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98543</ExpertLink>
                         <Name lang="en">Metabolic disease with dementia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="112">
                             <OrphaNumber>512</OrphaNumber>
@@ -33288,12 +33918,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                                 <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="19105">
                                     <OrphaNumber>228329</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                                     <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20066">
+                                    <OrphaNumber>263516</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                    <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -33368,6 +34007,285 @@
                                 <OrphaNumber>206448</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206448</ExpertLink>
                                 <Name lang="en">Adult Krabbe disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="650">
+                            <OrphaNumber>216</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216</ExpertLink>
+                            <Name lang="en">Neuronal ceroid lipofuscinosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="7">
+                            <ClassificationNode>
+                              <Disorder id="353">
+                                <OrphaNumber>1947</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1947</ExpertLink>
+                                <Name lang="en">Progressive epilepsy-intellectual disability syndrome, Finnish type</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11288">
+                                <OrphaNumber>79262</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79262</ExpertLink>
+                                <Name lang="en">Adult neuronal ceroid lipofuscinosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="7">
+                                <ClassificationNode>
+                                  <Disorder id="19105">
+                                    <OrphaNumber>228329</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
+                                    <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19106">
+                                    <OrphaNumber>228337</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228337</ExpertLink>
+                                    <Name lang="en">CLN10 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19107">
+                                    <OrphaNumber>228340</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228340</ExpertLink>
+                                    <Name lang="en">CLN4A disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19108">
+                                    <OrphaNumber>228343</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228343</ExpertLink>
+                                    <Name lang="en">CLN4B disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19114">
+                                    <OrphaNumber>228363</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228363</ExpertLink>
+                                    <Name lang="en">CLN6 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="21505">
+                                    <OrphaNumber>314629</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314629</ExpertLink>
+                                    <Name lang="en">CLN11 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22104">
+                                    <OrphaNumber>352709</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352709</ExpertLink>
+                                    <Name lang="en">CLN13 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11289">
+                                <OrphaNumber>79263</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
+                                <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="19105">
+                                    <OrphaNumber>228329</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
+                                    <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20066">
+                                    <OrphaNumber>263516</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                    <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11290">
+                                <OrphaNumber>79264</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79264</ExpertLink>
+                                <Name lang="en">Juvenile neuronal ceroid lipofuscinosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="6">
+                                <ClassificationNode>
+                                  <Disorder id="19105">
+                                    <OrphaNumber>228329</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
+                                    <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19106">
+                                    <OrphaNumber>228337</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228337</ExpertLink>
+                                    <Name lang="en">CLN10 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19109">
+                                    <OrphaNumber>228346</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228346</ExpertLink>
+                                    <Name lang="en">CLN3 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19110">
+                                    <OrphaNumber>228349</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228349</ExpertLink>
+                                    <Name lang="en">CLN2 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19111">
+                                    <OrphaNumber>228354</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228354</ExpertLink>
+                                    <Name lang="en">CLN8 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19112">
+                                    <OrphaNumber>228357</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228357</ExpertLink>
+                                    <Name lang="en">CLN9 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17765">
+                                <OrphaNumber>168486</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168486</ExpertLink>
+                                <Name lang="en">Congenital neuronal ceroid lipofuscinosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="1">
+                                <ClassificationNode>
+                                  <Disorder id="19106">
+                                    <OrphaNumber>228337</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228337</ExpertLink>
+                                    <Name lang="en">CLN10 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17766">
+                                <OrphaNumber>168491</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168491</ExpertLink>
+                                <Name lang="en">Late infantile neuronal ceroid lipofuscinosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="7">
+                                <ClassificationNode>
+                                  <Disorder id="19105">
+                                    <OrphaNumber>228329</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
+                                    <Name lang="en">CLN1 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19106">
+                                    <OrphaNumber>228337</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228337</ExpertLink>
+                                    <Name lang="en">CLN10 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19110">
+                                    <OrphaNumber>228349</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228349</ExpertLink>
+                                    <Name lang="en">CLN2 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19111">
+                                    <OrphaNumber>228354</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228354</ExpertLink>
+                                    <Name lang="en">CLN8 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19113">
+                                    <OrphaNumber>228360</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228360</ExpertLink>
+                                    <Name lang="en">CLN5 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19114">
+                                    <OrphaNumber>228363</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228363</ExpertLink>
+                                    <Name lang="en">CLN6 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19115">
+                                    <OrphaNumber>228366</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228366</ExpertLink>
+                                    <Name lang="en">CLN7 disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21506">
+                                <OrphaNumber>314632</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314632</ExpertLink>
+                                <Name lang="en">Parkinsonism due to ATP13A2 deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33644,6 +34562,42 @@
                         <Name lang="en">Normal pressure hydrocephalus</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1001">
+                        <OrphaNumber>136</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=136</ExpertLink>
+                        <Name lang="en">CADASIL</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25246">
+                        <OrphaNumber>482072</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482072</ExpertLink>
+                        <Name lang="en">HTRA1-related cerebral small vessel disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="18409">
+                            <OrphaNumber>199354</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199354</ExpertLink>
+                            <Name lang="en">CARASIL</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25247">
+                            <OrphaNumber>482077</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482077</ExpertLink>
+                            <Name lang="en">HTRA1-related autosomal dominant cerebral small vessel disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -35023,7 +35977,7 @@
                               <Disorder id="2325">
                                 <OrphaNumber>2514</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2514</ExpertLink>
-                                <Name lang="en">Autosomal dominant microcephaly</Name>
+                                <Name lang="en">Autosomal dominant primary microcephaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -35036,7 +35990,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=268926</ExpertLink>
                             <Name lang="en">Midline cerebral malformation</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="301">
                                 <OrphaNumber>2162</OrphaNumber>
@@ -35050,16 +36004,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93924</ExpertLink>
                                     <Name lang="en">Lobar holoprosencephaly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="1">
-                                    <ClassificationNode>
-                                      <Disorder id="20435">
-                                        <OrphaNumber>280195</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
-                                        <Name lang="en">Septopreoptic holoprosencephaly</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -35090,21 +36035,12 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="20436">
-                                    <OrphaNumber>280200</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
-                                    <Name lang="en">Microform holoprosencephaly</Name>
+                                  <Disorder id="20435">
+                                    <OrphaNumber>280195</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280195</ExpertLink>
+                                    <Name lang="en">Septopreoptic holoprosencephaly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="1">
-                                    <ClassificationNode>
-                                      <Disorder id="2153">
-                                        <OrphaNumber>2286</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                                        <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -35125,6 +36061,24 @@
                                 <Name lang="en">Duplication of the pituitary gland</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20436">
+                                <OrphaNumber>280200</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
+                                <Name lang="en">Microform holoprosencephaly</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="1">
+                                <ClassificationNode>
+                                  <Disorder id="2153">
+                                    <OrphaNumber>2286</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
+                                    <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -35961,7 +36915,7 @@
                           <Disorder id="3049">
                             <OrphaNumber>3469</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3469</ExpertLink>
-                            <Name lang="en">XK aprosencephaly</Name>
+                            <Name lang="en">XK aprosencephaly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -36523,7 +37477,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269531</ExpertLink>
                         <Name lang="en">Other syndrome with a central nervous system malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="32">
+                      <ClassificationNodeChildList count="34">
                         <ClassificationNode>
                           <Disorder id="25213">
                             <OrphaNumber>480528</OrphaNumber>
@@ -36808,6 +37762,24 @@
                             <OrphaNumber>444069</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444069</ExpertLink>
                             <Name lang="en">Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2026">
+                            <OrphaNumber>2117</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
+                            <Name lang="en">Hartsfield syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1838">
+                            <OrphaNumber>1861</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1861</ExpertLink>
+                            <Name lang="en">Thoracic dysplasia-hydrocephalus syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -37657,12 +38629,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3148</ExpertLink>
                         <Name lang="en">Malignant peripheral nerve sheath tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="19733">
                             <OrphaNumber>252212</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252212</ExpertLink>
                             <Name lang="en">Malignant triton tumor</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19722">
+                            <OrphaNumber>252128</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252128</ExpertLink>
+                            <Name lang="en">Malignant peripheral nerve sheath tumor with perineurial differentiation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -37675,7 +38656,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85102</ExpertLink>
                         <Name lang="en">Perineurioma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="14575">
                             <OrphaNumber>100002</OrphaNumber>
@@ -37708,15 +38689,6 @@
                             <OrphaNumber>100003</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100003</ExpertLink>
                             <Name lang="en">Intraneural perineurioma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="19722">
-                            <OrphaNumber>252128</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252128</ExpertLink>
-                            <Name lang="en">Malignant perineurioma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -38504,7 +39476,7 @@
                                   <Disorder id="19117">
                                     <OrphaNumber>228374</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228374</ExpertLink>
-                                    <Name lang="en">Severe early-onset axonal neuropathy due to NEFL deficiency</Name>
+                                    <Name lang="en">Charcot-Marie-Tooth disease type 2B5</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -38623,7 +39595,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=64746</ExpertLink>
                                     <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="24">
+                                  <ClassificationNodeChildList count="26">
                                     <ClassificationNode>
                                       <Disorder id="14509">
                                         <OrphaNumber>99936</OrphaNumber>
@@ -38808,7 +39780,7 @@
                                       <Disorder id="23294">
                                         <OrphaNumber>435387</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435387</ExpertLink>
-                                        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2 due to VCP mutation</Name>
+                                        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2Y</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -38836,6 +39808,24 @@
                                         <OrphaNumber>466768</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466768</ExpertLink>
                                         <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2Z</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="25369">
+                                        <OrphaNumber>487814</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=487814</ExpertLink>
+                                        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2 due to DGAT2 mutation</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="25399">
+                                        <OrphaNumber>488333</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488333</ExpertLink>
+                                        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2W</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -39293,7 +40283,7 @@
                       <Disorder id="17538">
                         <OrphaNumber>163746</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
-                        <Name lang="en">Neurologic Waardenburg-Shah syndrome</Name>
+                        <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39347,7 +40337,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207018</ExpertLink>
                             <Name lang="en">Rare hereditary metabolic disease with peripheral neuropathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="30">
+                          <ClassificationNodeChildList count="31">
                             <ClassificationNode>
                               <Disorder id="7">
                                 <OrphaNumber>118</OrphaNumber>
@@ -40086,6 +41076,15 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25311">
+                                <OrphaNumber>485421</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
+                                <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -40094,7 +41093,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207021</ExpertLink>
                             <Name lang="en">Rare hereditary systemic disease with peripheral neuropathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="9288">
                                 <OrphaNumber>31150</OrphaNumber>
@@ -40118,6 +41117,15 @@
                                 <OrphaNumber>85448</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85448</ExpertLink>
                                 <Name lang="en">AGel amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25310">
+                                <OrphaNumber>485418</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485418</ExpertLink>
+                                <Name lang="en">EMILIN-1-related connective tissue disease</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -40184,7 +41192,7 @@
                       <Disorder id="18854">
                         <OrphaNumber>217396</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217396</ExpertLink>
-                        <Name lang="en">Progressive demyelinating neuropathy with bilateral striatal necrosis</Name>
+                        <Name lang="en">Progressive polyneuropathy with bilateral striatal necrosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

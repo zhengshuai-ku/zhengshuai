@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:21:25" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:21:14" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="20456">
       <OrphaNumber>280342</OrphaNumber>
@@ -604,7 +604,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324933</ExpertLink>
                         <Name lang="en">Mixed autoinflammatory and autoimmune syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="21782">
                             <OrphaNumber>324530</OrphaNumber>
@@ -619,6 +619,15 @@
                             <OrphaNumber>329173</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329173</ExpertLink>
                             <Name lang="en">Autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21115">
+                            <OrphaNumber>300359</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300359</ExpertLink>
+                            <Name lang="en">PLCG2-associated antibody deficiency and immune dysregulation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -766,7 +775,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324942</ExpertLink>
                         <Name lang="en">Pyogenic autoinflammatory syndrome of childhood</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="21817">
                             <OrphaNumber>324964</OrphaNumber>
@@ -804,10 +813,28 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="20902">
+                            <OrphaNumber>294023</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294023</ExpertLink>
+                            <Name lang="en">Neonatal inflammatory skin and bowel disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="22937">
                             <OrphaNumber>404546</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404546</ExpertLink>
                             <Name lang="en">DITRA</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19644">
+                            <OrphaNumber>251523</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251523</ExpertLink>
+                            <Name lang="en">Hyperzincemia and hypercalprotectinemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -847,7 +874,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324953</ExpertLink>
                         <Name lang="en">Unclassified autoinflammatory syndrome of childhood</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="703">
                             <OrphaNumber>117</OrphaNumber>
@@ -907,6 +934,15 @@
                             <OrphaNumber>476102</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476102</ExpertLink>
                             <Name lang="en">Hereditary pediatric Behçet-like disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="996">
+                            <OrphaNumber>184</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=184</ExpertLink>
+                            <Name lang="en">Cherubism</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

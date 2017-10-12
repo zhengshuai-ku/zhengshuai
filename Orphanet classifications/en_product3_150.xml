@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:20" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -570,7 +570,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309515</ExpertLink>
                     <Name lang="en">Disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="21120">
                         <OrphaNumber>300496</OrphaNumber>
@@ -648,6 +648,24 @@
                         <OrphaNumber>280633</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280633</ExpertLink>
                         <Name lang="en">Multiple congenital anomalies-hypotonia-seizures syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25411">
+                        <OrphaNumber>488635</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488635</ExpertLink>
+                        <Name lang="en">Early-onset epilepsy-intellectual disability-brain anomalies syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22433">
+                        <OrphaNumber>369837</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369837</ExpertLink>
+                        <Name lang="en">Intellectual disability-seizures-hypotonia-ophthalmologic-skeletal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -948,7 +966,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216</ExpertLink>
                     <Name lang="en">Neuronal ceroid lipofuscinosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="353">
                         <OrphaNumber>1947</OrphaNumber>
@@ -1036,12 +1054,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                         <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="19105">
                             <OrphaNumber>228329</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                             <Name lang="en">CLN1 disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20066">
+                            <OrphaNumber>263516</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                            <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1199,15 +1226,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20066">
-                        <OrphaNumber>263516</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
-                        <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -2564,7 +2582,7 @@
                       <Disorder id="19271">
                         <OrphaNumber>238517</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238517</ExpertLink>
-                        <Name lang="en">Hypotonia-cystinuria syndrome type 1</Name>
+                        <Name lang="en">Hypotonia-cystinuria type 1 syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>
@@ -5185,7 +5203,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79186</ExpertLink>
                         <Name lang="en">Disorder of pentose phosphate metabolism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="25408">
+                            <OrphaNumber>488618</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488618</ExpertLink>
+                            <Name lang="en">Transketolase deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="14739">
                             <OrphaNumber>101028</OrphaNumber>
@@ -5757,7 +5784,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254822</ExpertLink>
                                 <Name lang="en">Mitochondrial oxidative phosphorylation disorder with no known mechanism</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="10">
+                              <ClassificationNodeChildList count="11">
+                                <ClassificationNode>
+                                  <Disorder id="25311">
+                                    <OrphaNumber>485421</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
+                                    <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="10651">
                                     <OrphaNumber>50812</OrphaNumber>
@@ -5933,14 +5969,14 @@
                                   <Disorder id="20743">
                                     <OrphaNumber>289573</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289573</ExpertLink>
-                                    <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome</Name>
+                                    <Name lang="en">Multiple mitochondrial dysfunctions syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="4">
                                     <ClassificationNode>
                                       <Disorder id="22301">
                                         <OrphaNumber>363424</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363424</ExpertLink>
-                                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 3</Name>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 3</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -5949,7 +5985,7 @@
                                       <Disorder id="22845">
                                         <OrphaNumber>401869</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401869</ExpertLink>
-                                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 1</Name>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 1</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -5958,7 +5994,7 @@
                                       <Disorder id="22846">
                                         <OrphaNumber>401874</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401874</ExpertLink>
-                                        <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 2</Name>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 2</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -5967,7 +6003,7 @@
                                       <Disorder id="23727">
                                         <OrphaNumber>457406</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                                        <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -6711,14 +6747,14 @@
                           <Disorder id="20743">
                             <OrphaNumber>289573</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289573</ExpertLink>
-                            <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome</Name>
+                            <Name lang="en">Multiple mitochondrial dysfunctions syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="22301">
                                 <OrphaNumber>363424</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363424</ExpertLink>
-                                <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 3</Name>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 3</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6727,7 +6763,7 @@
                               <Disorder id="22845">
                                 <OrphaNumber>401869</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401869</ExpertLink>
-                                <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 1</Name>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 1</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6736,7 +6772,7 @@
                               <Disorder id="22846">
                                 <OrphaNumber>401874</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401874</ExpertLink>
-                                <Name lang="en">Fatal multiple mitochondrial dysfunctions syndrome type 2</Name>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 2</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6745,7 +6781,7 @@
                               <Disorder id="23727">
                                 <OrphaNumber>457406</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
-                                <Name lang="en">Fatal mutiple mitochondrial dysfunctions syndrome type 4</Name>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7984,7 +8020,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79195</ExpertLink>
                         <Name lang="en">Sterol biosynthesis disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="8">
+                      <ClassificationNodeChildList count="10">
+                        <ClassificationNode>
+                          <Disorder id="25388">
+                            <OrphaNumber>488168</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488168</ExpertLink>
+                            <Name lang="en">Microcephaly-congenital cataract-psoriasiform dermatitis syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1632">
                             <OrphaNumber>1426</OrphaNumber>
@@ -8071,6 +8116,15 @@
                             <OrphaNumber>401973</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401973</ExpertLink>
                             <Name lang="en">MEND syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19639">
+                            <OrphaNumber>251383</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251383</ExpertLink>
+                            <Name lang="en">CK syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9370,7 +9424,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=298644</ExpertLink>
                         <Name lang="en">Disorder of thiamine metabolism and transport</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="7">
+                        <ClassificationNode>
+                          <Disorder id="18854">
+                            <OrphaNumber>217396</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217396</ExpertLink>
+                            <Name lang="en">Progressive polyneuropathy with bilateral striatal necrosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="10643">
                             <OrphaNumber>49827</OrphaNumber>
@@ -9412,6 +9475,15 @@
                             <OrphaNumber>293955</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293955</ExpertLink>
                             <Name lang="en">Childhood encephalopathy due to thiamine pyrophosphokinase deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="14315">
+                            <OrphaNumber>99742</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99742</ExpertLink>
+                            <Name lang="en">Amish lethal microcephaly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9762,7 +9834,7 @@
                           <Disorder id="19644">
                             <OrphaNumber>251523</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251523</ExpertLink>
-                            <Name lang="en">Recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome</Name>
+                            <Name lang="en">Hyperzincemia and hypercalprotectinemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

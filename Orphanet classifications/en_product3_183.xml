@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:27" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10772">
       <OrphaNumber>57146</OrphaNumber>
@@ -122,7 +122,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101939</ExpertLink>
                 <Name lang="en">Rare parenchymal liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="18">
+              <ClassificationNodeChildList count="22">
                 <ClassificationNode>
                   <Disorder id="11953">
                     <OrphaNumber>90062</OrphaNumber>
@@ -250,6 +250,24 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="25312">
+                    <OrphaNumber>485426</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485426</ExpertLink>
+                    <Name lang="en">Isolated congenital hepatic fibrosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="2725">
+                    <OrphaNumber>3032</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3032</ExpertLink>
+                    <Name lang="en">NPHP3-related Meckel-like syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="24040">
                     <OrphaNumber>464724</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464724</ExpertLink>
@@ -277,6 +295,24 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="1644">
+                    <OrphaNumber>1454</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1454</ExpertLink>
+                    <Name lang="en">Joubert syndrome with hepatic defect</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="20908">
+                    <OrphaNumber>294415</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294415</ExpertLink>
+                    <Name lang="en">Renal-hepatic-pancreatic dysplasia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="18849">
                     <OrphaNumber>217371</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217371</ExpertLink>
@@ -293,7 +329,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101940</ExpertLink>
                 <Name lang="en">Rare metabolic liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="33">
+              <ClassificationNodeChildList count="38">
                 <ClassificationNode>
                   <Disorder id="15">
                     <OrphaNumber>366</OrphaNumber>
@@ -1140,6 +1176,51 @@
                     </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="10737">
+                    <OrphaNumber>53693</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53693</ExpertLink>
+                    <Name lang="en">GRACILE syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19798">
+                    <OrphaNumber>254902</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254902</ExpertLink>
+                    <Name lang="en">Renal tubulopathy-encephalopathy-liver failure syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="11067">
+                    <OrphaNumber>75233</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75233</ExpertLink>
+                    <Name lang="en">Wolman disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="11068">
+                    <OrphaNumber>75234</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75234</ExpertLink>
+                    <Name lang="en">Cholesteryl ester storage disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19528">
+                    <OrphaNumber>247585</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247585</ExpertLink>
+                    <Name lang="en">Citrullinemia type II</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -1149,15 +1230,6 @@
                 <Name lang="en">Rare biliary tract disease</Name>
               </Disorder>
               <ClassificationNodeChildList count="18">
-                <ClassificationNode>
-                  <Disorder id="25312">
-                    <OrphaNumber>485426</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485426</ExpertLink>
-                    <Name lang="en">Isolated congenital hepatic fibrosis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="25211">
                     <OrphaNumber>480520</OrphaNumber>
@@ -1383,6 +1455,15 @@
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="2459">
+                    <OrphaNumber>2697</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2697</ExpertLink>
+                    <Name lang="en">Arthrogryposis-renal dysfunction-cholestasis syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -1428,7 +1509,7 @@
                           <Disorder id="23206">
                             <OrphaNumber>424991</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424991</ExpertLink>
-                            <Name lang="en">Adenocarcinoma of gallbladder and extrahepatic biliary tract</Name>
+                            <Name lang="en">Adenocarcinoma of the gallbladder and extrahepatic biliary tract</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

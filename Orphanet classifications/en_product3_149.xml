@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-07-01 04:20:18" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-10-01 04:20:06" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="16780">
       <OrphaNumber>138221</OrphaNumber>
@@ -228,7 +228,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=138059</ExpertLink>
                     <Name lang="en">Teratogenic Pierre Robin syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="19">
+                  <ClassificationNodeChildList count="20">
                     <ClassificationNode>
                       <Disorder id="1882">
                         <OrphaNumber>1920</OrphaNumber>
@@ -396,6 +396,15 @@
                         <OrphaNumber>1919</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1919</ExpertLink>
                         <Name lang="en">Phenobarbital embryopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25307">
+                        <OrphaNumber>485358</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485358</ExpertLink>
+                        <Name lang="en">Propylthiouracil embryofetopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1181,12 +1190,21 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79263</ExpertLink>
                                         <Name lang="en">Infantile neuronal ceroid lipofuscinosis</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="1">
+                                      <ClassificationNodeChildList count="2">
                                         <ClassificationNode>
                                           <Disorder id="19105">
                                             <OrphaNumber>228329</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228329</ExpertLink>
                                             <Name lang="en">CLN1 disease</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="20066">
+                                            <OrphaNumber>263516</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263516</ExpertLink>
+                                            <Name lang="en">Progressive myoclonic epilepsy type 3</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -2474,7 +2492,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=109007</ExpertLink>
                             <Name lang="en">Arthrogryposis syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
+                          <ClassificationNodeChildList count="5">
                             <ClassificationNode>
                               <Disorder id="2459">
                                 <OrphaNumber>2697</OrphaNumber>
@@ -2611,12 +2629,21 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
+                              <Disorder id="25403">
+                                <OrphaNumber>488586</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488586</ExpertLink>
+                                <Name lang="en">Congenital amyoplasia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
                               <Disorder id="1344">
                                 <OrphaNumber>1037</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1037</ExpertLink>
                                 <Name lang="en">Arthrogryposis multiplex congenita</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="7">
+                              <ClassificationNodeChildList count="9">
                                 <ClassificationNode>
                                   <Disorder id="420">
                                     <OrphaNumber>1143</OrphaNumber>
@@ -2676,6 +2703,24 @@
                                     <OrphaNumber>1155</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1155</ExpertLink>
                                     <Name lang="en">Arthrogryposis due to muscular dystrophy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="18691">
+                                    <OrphaNumber>210163</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=210163</ExpertLink>
+                                    <Name lang="en">Congenital lethal myopathy, Compton-North type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25329">
+                                    <OrphaNumber>486811</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=486811</ExpertLink>
+                                    <Name lang="en">Prenatal-onset spinal muscular atrophy with congenital bone fractures</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
