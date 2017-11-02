@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:07:18" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
-  <HPODisorderSetStatusList count="2847">
+<JDBOR date="2017-11-01 04:08:03" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+  <HPODisorderSetStatusList count="2898">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -594,7 +594,7 @@
         <OrphaNumber>138</OrphaNumber>
         <Name lang="en">CHARGE syndrome</Name>
       </Disorder>
-      <Source/>
+      <Source>21378379[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
@@ -1626,7 +1626,7 @@
         <OrphaNumber>1598</OrphaNumber>
         <Name lang="en">Monosomy 18p</Name>
       </Disorder>
-      <Source/>
+      <Source>18284672[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
@@ -6240,7 +6240,7 @@
     <HPODisorderSetStatus id="568">
       <Disorder id="1342">
         <OrphaNumber>1035</OrphaNumber>
-        <Name lang="en">Encephalopathy due to beta-mercaptolactate-cysteine disulfiduria</Name>
+        <Name lang="en">Beta-mercaptolactate cysteine disulfiduria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7092,7 +7092,7 @@
     <HPODisorderSetStatus id="582">
       <Disorder id="1368">
         <OrphaNumber>1074</OrphaNumber>
-        <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+        <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10112,7 +10112,7 @@
     <HPODisorderSetStatus id="852">
       <Disorder id="1877">
         <OrphaNumber>1914</OrphaNumber>
-        <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
+        <Name lang="en">Vitamin K antagonist embryofetopathy</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10832,7 +10832,7 @@
     <HPODisorderSetStatus id="923">
       <Disorder id="1991">
         <OrphaNumber>2075</OrphaNumber>
-        <Name lang="en">Genito-palato-cardiac syndrome</Name>
+        <Name lang="en">Genitopalatocardiac syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11852,7 +11852,7 @@
     <HPODisorderSetStatus id="967">
       <Disorder id="2062">
         <OrphaNumber>2167</OrphaNumber>
-        <Name lang="en">Holzgreve-Wagner-Rehder syndrome</Name>
+        <Name lang="en">Holzgreve syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20288,7 +20288,7 @@
     <HPODisorderSetStatus id="1719">
       <Disorder id="11599">
         <OrphaNumber>83628</OrphaNumber>
-        <Name lang="en">PELVIS syndrome</Name>
+        <Name lang="en">LUMBAR syndrome</Name>
       </Disorder>
       <Source>16847205[PMID]_23278237[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -23918,7 +23918,7 @@
         <OrphaNumber>261483</OrphaNumber>
         <Name lang="en">Xq27.3q28 duplication syndrome</Name>
       </Disorder>
-      <Source>_19844254[PMID]</Source>
+      <Source>19844254[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
@@ -26808,7 +26808,7 @@
     <HPODisorderSetStatus id="2159">
       <Disorder id="19213">
         <OrphaNumber>231720</OrphaNumber>
-        <Name lang="en">Non-acquired combined pituitary hormone deficiency with spine abnormalities</Name>
+        <Name lang="en">Non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome</Name>
       </Disorder>
       <Source>18407919[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27324,7 +27324,7 @@
     <HPODisorderSetStatus id="2476">
       <Disorder id="16994">
         <OrphaNumber>140905</OrphaNumber>
-        <Name lang="en">Hyperlipidemia due to hepatic triglyceride lipase deficiency</Name>
+        <Name lang="en">Hyperlipidemia due to hepatic triacylglycerol lipase deficiency</Name>
       </Disorder>
       <Source>1968704[PMID]_6961921[PMID]_1671786[PMID]_12777476[PMID]_22798447[PMID]_1933710[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32592,7 +32592,7 @@
     <HPODisorderSetStatus id="2647">
       <Disorder id="12124">
         <OrphaNumber>91350</OrphaNumber>
-        <Name lang="en">Pituitary deficiency due to Rathke's pouch cysts</Name>
+        <Name lang="en">Pituitary deficiency due to Rathke's cleft cysts</Name>
       </Disorder>
       <Source>15739543[PMID]_26305621[PMID]_20509729[PMID]_28272259[PMID]_22969141[PMID]_22336224[PMID]_22099688[PMID]_22336224[PMID]_14264977[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32901,6 +32901,318 @@
       <CreationDate>2017-03-15 11:25:43.836</CreationDate>
       <UpdateDate>2017-03-15 11:25:43.836</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2959">
+      <Disorder id="2913">
+        <OrphaNumber>3258</OrphaNumber>
+        <Name lang="en">Cenani-Lenz syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 15:29:57.85</CreationDate>
+      <UpdateDate>2017-10-23 15:29:57.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2958">
+      <Disorder id="2905">
+        <OrphaNumber>3248</OrphaNumber>
+        <Name lang="en">Distal symphalangism</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 15:04:44.773</CreationDate>
+      <UpdateDate>2017-10-23 15:04:44.773</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2957">
+      <Disorder id="2167">
+        <OrphaNumber>2306</OrphaNumber>
+        <Name lang="en">Isotretinoin-like syndrome</Name>
+      </Disorder>
+      <Source>12548746[PMID]_15602090[PMID]_3478461[PMID]_6587131[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 14:58:27.59</CreationDate>
+      <UpdateDate>2017-10-23 14:58:27.59</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2956">
+      <Disorder id="2602">
+        <OrphaNumber>2871</OrphaNumber>
+        <Name lang="en">Pfeiffer-Palm-Teller syndrome</Name>
+      </Disorder>
+      <Source>144791[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 14:42:49.756</CreationDate>
+      <UpdateDate>2017-10-23 14:42:49.756</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2955">
+      <Disorder id="23337">
+        <OrphaNumber>436271</OrphaNumber>
+        <Name lang="en">Non-progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy</Name>
+      </Disorder>
+      <Source>16782708[PMID]_25175347[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 14:09:35.383</CreationDate>
+      <UpdateDate>2017-10-23 14:09:35.383</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2954">
+      <Disorder id="2603">
+        <OrphaNumber>2872</OrphaNumber>
+        <Name lang="en">Cardiocranial syndrome, Pfeiffer type</Name>
+      </Disorder>
+      <Source>2624274[PMID]_3582410[PMID]_8592338[PMID]_9415478[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 13:26:31.683</CreationDate>
+      <UpdateDate>2017-10-23 13:26:31.683</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2953">
+      <Disorder id="3004">
+        <OrphaNumber>3408</OrphaNumber>
+        <Name lang="en">Upington disease</Name>
+      </Disorder>
+      <Source>5316541[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 13:19:19.95</CreationDate>
+      <UpdateDate>2017-10-23 13:19:19.95</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2952">
+      <Disorder id="2900">
+        <OrphaNumber>3242</OrphaNumber>
+        <Name lang="en">Renpenning syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 12:18:42.663</CreationDate>
+      <UpdateDate>2017-10-23 12:18:42.663</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2951">
+      <Disorder id="2898">
+        <OrphaNumber>3239</OrphaNumber>
+        <Name lang="en">Deafness-vitiligo-achalasia syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 12:09:16.163</CreationDate>
+      <UpdateDate>2017-10-23 12:09:16.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2950">
+      <Disorder id="2897">
+        <OrphaNumber>3238</OrphaNumber>
+        <Name lang="en">Cardiospondylocarpofacial syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 11:41:01.613</CreationDate>
+      <UpdateDate>2017-10-23 11:41:01.613</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2949">
+      <Disorder id="2896">
+        <OrphaNumber>3237</OrphaNumber>
+        <Name lang="en">Multiple synostoses syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-17 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 11:23:56.746</CreationDate>
+      <UpdateDate>2017-10-23 11:23:56.746</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2948">
+      <Disorder id="2883">
+        <OrphaNumber>3226</OrphaNumber>
+        <Name lang="en">Deafness-lymphedema-leukemia syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 17:17:33.876</CreationDate>
+      <UpdateDate>2017-10-19 17:17:33.876</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2947">
+      <Disorder id="2881">
+        <OrphaNumber>3224</OrphaNumber>
+        <Name lang="en">Deafness-genital anomalies-metacarpal and metatarsal synostosis syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 16:53:21.083</CreationDate>
+      <UpdateDate>2017-10-19 16:53:21.083</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2946">
+      <Disorder id="2879">
+        <OrphaNumber>3222</OrphaNumber>
+        <Name lang="en">Phosphoribosylpyrophosphate synthetase superactivity</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 16:30:39.436</CreationDate>
+      <UpdateDate>2017-10-19 16:30:39.436</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2945">
+      <Disorder id="2877">
+        <OrphaNumber>3220</OrphaNumber>
+        <Name lang="en">Deafness-enamel hypoplasia-nail defects syndrome</Name>
+      </Disorder>
+      <Source>2063923[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 15:52:14.663</CreationDate>
+      <UpdateDate>2017-10-19 15:52:14.663</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2944">
+      <Disorder id="2873">
+        <OrphaNumber>3217</OrphaNumber>
+        <Name lang="en">Deafness-small bowel diverticulosis-neuropathy syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-12 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 15:13:44.453</CreationDate>
+      <UpdateDate>2017-10-19 15:13:44.453</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2968">
+      <Disorder id="2436">
+        <OrphaNumber>2669</OrphaNumber>
+        <Name lang="en">Nephrosis-deafness-urinary tract-digital malformations syndrome</Name>
+      </Disorder>
+      <Source>13872585[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-30 14:43:37.64</CreationDate>
+      <UpdateDate>2017-10-30 14:43:37.64</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2969">
+      <Disorder id="2986">
+        <OrphaNumber>3369</OrphaNumber>
+        <Name lang="en">Trigonocephaly-short stature-developmental delay syndrome</Name>
+      </Disorder>
+      <Source>6168197[PMID]_1271432[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-30 15:00:48.153</CreationDate>
+      <UpdateDate>2017-10-30 15:00:48.153</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2966">
+      <Disorder id="2226">
+        <OrphaNumber>2399</OrphaNumber>
+        <Name lang="en">Nasopalpebral lipoma-coloboma syndrome</Name>
+      </Disorder>
+      <Source>27139419[PMID]_23636874[PMID]_21836344[PMID]_11115270[PMID]_1756608[PMID]_7091184[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-30 12:23:02.946</CreationDate>
+      <UpdateDate>2017-10-30 12:23:02.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2967">
+      <Disorder id="2952">
+        <OrphaNumber>3327</OrphaNumber>
+        <Name lang="en">Thyrocerebrorenal syndrome</Name>
+      </Disorder>
+      <Source>728567[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-30 14:33:18.02</CreationDate>
+      <UpdateDate>2017-10-30 14:33:18.02</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2964">
+      <Disorder id="3444">
+        <OrphaNumber>422</OrphaNumber>
+        <Name lang="en">Idiopathic and/or familial pulmonary arterial hypertension</Name>
+      </Disorder>
+      <Source>20301658[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-27 10:29:07.106</CreationDate>
+      <UpdateDate>2017-10-27 10:29:07.106</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2965">
+      <Disorder id="3482">
+        <OrphaNumber>747</OrphaNumber>
+        <Name lang="en">Autoimmune pulmonary alveolar proteinosis</Name>
+      </Disorder>
+      <Source>21632797[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-27 11:31:58.02</CreationDate>
+      <UpdateDate>2017-10-27 11:31:58.02</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2962">
+      <Disorder id="2147">
+        <OrphaNumber>2278</OrphaNumber>
+        <Name lang="en">Ichthyosis-intellectual disability-dwarfism-renal impairment syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-24 11:31:09.613</CreationDate>
+      <UpdateDate>2017-10-24 11:31:09.613</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2963">
+      <Disorder id="2607">
+        <OrphaNumber>2876</OrphaNumber>
+        <Name lang="en">PHAVER syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-19 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-24 16:57:56.466</CreationDate>
+      <UpdateDate>2017-10-24 16:57:56.466</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2960">
+      <Disorder id="12261">
+        <OrphaNumber>93324</OrphaNumber>
+        <Name lang="en">Autosomal recessive Kenny-Caffey syndrome</Name>
+      </Disorder>
+      <Source>12389028[PMID]_1308349[PMID]_2843457[PMID]_23087875[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 15:55:01.673</CreationDate>
+      <UpdateDate>2017-10-23 15:55:01.673</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2961">
+      <Disorder id="12262">
+        <OrphaNumber>93325</OrphaNumber>
+        <Name lang="en">Autosomal dominant Kenny-Caffey syndrome</Name>
+      </Disorder>
+      <Source>1308349[PMID]_6023894[PMID]_5322798[PMID]_444124[PMID]_6342392[PMID]_3746537[PMID]_3381667[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-23 16:46:07.11</CreationDate>
+      <UpdateDate>2017-10-23 16:46:07.11</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2852">
       <Disorder id="3214">
         <OrphaNumber>1655</OrphaNumber>
@@ -33156,7 +33468,7 @@
     <HPODisorderSetStatus id="2867">
       <Disorder id="11598">
         <OrphaNumber>83620</OrphaNumber>
-        <Name lang="en">Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells</Name>
+        <Name lang="en">Enteric anendocrinosis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -33741,6 +34053,306 @@
       <CreationDate>2017-09-28 16:43:35.176</CreationDate>
       <UpdateDate>2017-09-28 16:43:35.176</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2919">
+      <Disorder id="3167">
+        <OrphaNumber>2326</OrphaNumber>
+        <Name lang="en">Kallmann syndrome-heart disease syndrome</Name>
+      </Disorder>
+      <Source>8322819[PMID]_1423001[PMID]_21378379[PMID]_25077900[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-02 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-02 11:13:31.833</CreationDate>
+      <UpdateDate>2017-10-02 11:13:31.833</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2920">
+      <Disorder id="3708">
+        <OrphaNumber>1333</OrphaNumber>
+        <Name lang="en">Familial pancreatic carcinoma</Name>
+      </Disorder>
+      <Source>7545954[PMID]_19264984[PMID]_7597059[PMID]_2296965[PMID]_</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-02 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-02 12:14:14.656</CreationDate>
+      <UpdateDate>2017-10-02 12:14:14.656</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2921">
+      <Disorder id="3455">
+        <OrphaNumber>3093</OrphaNumber>
+        <Name lang="en">Congenital aortic valve stenosis</Name>
+      </Disorder>
+      <Source>5659398[PMID]_3627218[PMID]_17382664[PMID]_20643258[PMID]_21109119[PMID]_5104978[PMID]_568478[PMID]_7378217[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-04 12:19:25.93</CreationDate>
+      <UpdateDate>2017-10-04 12:19:25.93</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2922">
+      <Disorder id="896">
+        <OrphaNumber>1446</OrphaNumber>
+        <Name lang="en">Ring chromosome 22</Name>
+      </Disorder>
+      <Source>26043508[PMID]_25286802[PMID]_24700634[PMID]_21271667[PMID]_20709628[PMID]_19940762[PMID]_16059935[PMID]_15372517[PMID]_15305353[PMID]_12752574[PMID]_10706359[PMID]_10204853[PMID]_1424240[PMID]_519902[PMID]_912941[PMID]_4697858[PMID]_</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-04 16:20:35.776</CreationDate>
+      <UpdateDate>2017-10-04 16:20:35.776</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2923">
+      <Disorder id="631">
+        <OrphaNumber>1020</OrphaNumber>
+        <Name lang="en">Early-onset autosomal dominant Alzheimer disease</Name>
+      </Disorder>
+      <Source>20301414[PMID],28093855[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-02 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 11:29:48.07</CreationDate>
+      <UpdateDate>2017-10-09 11:29:48.07</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2924">
+      <Disorder id="10338">
+        <OrphaNumber>34516</OrphaNumber>
+        <Name lang="en">Autosomal dominant limb-girdle muscular dystrophy type 1D</Name>
+      </Disorder>
+      <Source>26847086[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-03 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 11:50:47.973</CreationDate>
+      <UpdateDate>2017-10-09 11:50:47.973</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2925">
+      <Disorder id="10437">
+        <OrphaNumber>36899</OrphaNumber>
+        <Name lang="en">Myoclonus-dystonia syndrome</Name>
+      </Disorder>
+      <Source>20301587[PMID],17853490[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 11:57:44.316</CreationDate>
+      <UpdateDate>2017-10-09 11:57:44.316</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2926">
+      <Disorder id="10583">
+        <OrphaNumber>43393</OrphaNumber>
+        <Name lang="en">Lambert-Eaton myasthenic syndrome</Name>
+      </Disorder>
+      <Source>22094130[PMID].</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 12:18:36.163</CreationDate>
+      <UpdateDate>2017-10-09 12:18:36.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2927">
+      <Disorder id="10698">
+        <OrphaNumber>52430</OrphaNumber>
+        <Name lang="en">Inclusion body myopathy with Paget disease of bone and frontotemporal dementia</Name>
+      </Disorder>
+      <Source>20301649[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-05 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 12:30:27.326</CreationDate>
+      <UpdateDate>2017-10-09 12:30:27.326</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2929">
+      <Disorder id="19947">
+        <OrphaNumber>261920</OrphaNumber>
+        <Name lang="en">Partial deletion of the short arm of chromosome 8</Name>
+      </Disorder>
+      <Source>527246[PMID]_7211950[PMID]_19041960[PMID]_2267231[PMID]_6982667[PMID]_1126055[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 15:45:12.98</CreationDate>
+      <UpdateDate>2017-10-09 15:45:12.98</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2928">
+      <Disorder id="20100">
+        <OrphaNumber>264450</OrphaNumber>
+        <Name lang="en">Trisomy 8p</Name>
+      </Disorder>
+      <Source>527246[PMID]_7211950[PMID]_19041960[PMID]_2267231[PMID]_6982667[PMID]_1126055[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 12:34:41.37</CreationDate>
+      <UpdateDate>2017-10-09 12:34:41.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2931">
+      <Disorder id="10965">
+        <OrphaNumber>70594</OrphaNumber>
+        <Name lang="en">Dopa-responsive dystonia due to sepiapterin reductase deficiency</Name>
+      </Disorder>
+      <Source>26131547[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-05 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-10 16:27:41.283</CreationDate>
+      <UpdateDate>2017-10-10 16:27:41.283</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2930">
+      <Disorder id="12721">
+        <OrphaNumber>96097</OrphaNumber>
+        <Name lang="en">Distal trisomy 5q</Name>
+      </Disorder>
+      <Source>9070658[PMID]_11050625[PMID]_16770806[PMID]_17955513[PMID]_23342975[PMID]_500089[PMID]_445868[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-09 16:02:09.693</CreationDate>
+      <UpdateDate>2017-10-09 16:02:09.693</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2933">
+      <Disorder id="11039">
+        <OrphaNumber>73245</OrphaNumber>
+        <Name lang="en">Spinal muscular atrophy-Dandy-Walker malformation-cataracts syndrome</Name>
+      </Disorder>
+      <Source>16024908</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-16 10:36:01.733</CreationDate>
+      <UpdateDate>2017-10-16 10:36:01.733</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2932">
+      <Disorder id="11037">
+        <OrphaNumber>73229</OrphaNumber>
+        <Name lang="en">HANAC syndrome</Name>
+      </Disorder>
+      <Source>26260163</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-16 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-16 10:18:44.1</CreationDate>
+      <UpdateDate>2017-10-16 10:18:44.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2935">
+      <Disorder id="23336">
+        <OrphaNumber>436252</OrphaNumber>
+        <Name lang="en">Combined immunodeficiency-enteropathy spectrum</Name>
+      </Disorder>
+      <Source>23423984[PMID]_2240032[PMID]_15137007[PMID]_5091250[PMID]_4752999[PMID]_4470900[PMID]_1250662[PMID]_2240032[PMID]_514679[PMID]_6637476[PMID]_7554349[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 15:30:33.23</CreationDate>
+      <UpdateDate>2017-10-18 15:30:33.23</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2934">
+      <Disorder id="3144">
+        <OrphaNumber>2898</OrphaNumber>
+        <Name lang="en">X-linked intellectual disability-plagiocephaly syndrome</Name>
+      </Disorder>
+      <Source>1433236[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 14:55:58.193</CreationDate>
+      <UpdateDate>2017-10-18 14:55:58.193</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2937">
+      <Disorder id="2805">
+        <OrphaNumber>3134</OrphaNumber>
+        <Name lang="en">SCARF syndrome</Name>
+      </Disorder>
+      <Source>2596519[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-18 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 15:57:26.743</CreationDate>
+      <UpdateDate>2017-10-18 15:57:26.743</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2936">
+      <Disorder id="2808">
+        <OrphaNumber>3138</OrphaNumber>
+        <Name lang="en">Ulnar-mammary syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-09 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 15:43:45.573</CreationDate>
+      <UpdateDate>2017-10-18 15:43:45.573</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2939">
+      <Disorder id="2862">
+        <OrphaNumber>3197</OrphaNumber>
+        <Name lang="en">Hereditary hyperekplexia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-10 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 17:16:01.226</CreationDate>
+      <UpdateDate>2017-10-18 17:16:01.226</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2938">
+      <Disorder id="2842">
+        <OrphaNumber>1855</OrphaNumber>
+        <Name lang="en">Spondyloenchondrodysplasia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-10 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-18 17:07:46.71</CreationDate>
+      <UpdateDate>2017-10-18 17:07:46.71</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2941">
+      <Disorder id="2864">
+        <OrphaNumber>3201</OrphaNumber>
+        <Name lang="en">Ventricular extrasystoles with syncopal episodes-perodactyly-Robin sequence syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-11 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 13:23:55.786</CreationDate>
+      <UpdateDate>2017-10-19 13:23:55.786</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2940">
+      <Disorder id="2863">
+        <OrphaNumber>3199</OrphaNumber>
+        <Name lang="en">Stimmler syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-11 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 13:04:25.163</CreationDate>
+      <UpdateDate>2017-10-19 13:04:25.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2943">
+      <Disorder id="2869">
+        <OrphaNumber>3214</OrphaNumber>
+        <Name lang="en">Deaf blind hypopigmentation syndrome, Yemenite type</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-11 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 14:29:04.68</CreationDate>
+      <UpdateDate>2017-10-19 14:29:04.68</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2942">
+      <Disorder id="2865">
+        <OrphaNumber>3210</OrphaNumber>
+        <Name lang="en">Summitt syndrome</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-11 00:00:00.0</UpdateDate>
+      <CreationDate>2017-10-19 14:15:57.066</CreationDate>
+      <UpdateDate>2017-10-19 14:15:57.066</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2882">
       <Disorder id="2365">
         <OrphaNumber>2564</OrphaNumber>
@@ -33888,7 +34500,7 @@
     <HPODisorderSetStatus id="2894">
       <Disorder id="2643">
         <OrphaNumber>2926</OrphaNumber>
-        <Name lang="en">Polyneuropathy-hand defect syndrome</Name>
+        <Name lang="en">Digital extensor muscle aplasia-polyneuropathy</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>

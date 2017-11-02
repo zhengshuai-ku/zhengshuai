@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:20:00" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:21:02" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -1205,7 +1205,7 @@
                       <Disorder id="14112">
                         <OrphaNumber>99095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99095</ExpertLink>
-                        <Name lang="en">Gerbode defect</Name>
+                        <Name lang="en">Congenital Gerbode defect</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4533,7 +4533,7 @@
                           <Disorder id="1368">
                             <OrphaNumber>1074</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                            <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+                            <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4803,7 +4803,7 @@
                           <Disorder id="11599">
                             <OrphaNumber>83628</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83628</ExpertLink>
-                            <Name lang="en">PELVIS syndrome</Name>
+                            <Name lang="en">LUMBAR syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8754,7 +8754,7 @@
                           <Disorder id="11599">
                             <OrphaNumber>83628</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83628</ExpertLink>
-                            <Name lang="en">PELVIS syndrome</Name>
+                            <Name lang="en">LUMBAR syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -10934,7 +10934,7 @@
                       <Disorder id="1368">
                         <OrphaNumber>1074</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                        <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+                        <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23822,7 +23822,7 @@
                       <Disorder id="2363">
                         <OrphaNumber>2561</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2561</ExpertLink>
-                        <Name lang="en">Ackerman syndrome</Name>
+                        <Name lang="en">Pyramidal molar-glaucoma-upper abnormal lip syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26263,7 +26263,7 @@
                   <Disorder id="2363">
                     <OrphaNumber>2561</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2561</ExpertLink>
-                    <Name lang="en">Ackerman syndrome</Name>
+                    <Name lang="en">Pyramidal molar-glaucoma-upper abnormal lip syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -28223,7 +28223,7 @@
                       <Disorder id="1368">
                         <OrphaNumber>1074</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                        <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+                        <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -28687,7 +28687,7 @@
                               <Disorder id="1877">
                                 <OrphaNumber>1914</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1914</ExpertLink>
-                                <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
+                                <Name lang="en">Vitamin K antagonist embryofetopathy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -28959,7 +28959,7 @@
                           <Disorder id="1991">
                             <OrphaNumber>2075</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
-                            <Name lang="en">Genito-palato-cardiac syndrome</Name>
+                            <Name lang="en">Genitopalatocardiac syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28986,7 +28986,7 @@
                           <Disorder id="2062">
                             <OrphaNumber>2167</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2167</ExpertLink>
-                            <Name lang="en">Holzgreve-Wagner-Rehder syndrome</Name>
+                            <Name lang="en">Holzgreve syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -38681,7 +38681,7 @@
                       <Disorder id="2363">
                         <OrphaNumber>2561</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2561</ExpertLink>
-                        <Name lang="en">Ackerman syndrome</Name>
+                        <Name lang="en">Pyramidal molar-glaucoma-upper abnormal lip syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39059,7 +39059,7 @@
                       <Disorder id="11599">
                         <OrphaNumber>83628</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83628</ExpertLink>
-                        <Name lang="en">PELVIS syndrome</Name>
+                        <Name lang="en">LUMBAR syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39896,7 +39896,7 @@
                       <Disorder id="1991">
                         <OrphaNumber>2075</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
-                        <Name lang="en">Genito-palato-cardiac syndrome</Name>
+                        <Name lang="en">Genitopalatocardiac syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39968,7 +39968,7 @@
                       <Disorder id="2062">
                         <OrphaNumber>2167</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2167</ExpertLink>
-                        <Name lang="en">Holzgreve-Wagner-Rehder syndrome</Name>
+                        <Name lang="en">Holzgreve syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -45393,7 +45393,7 @@
                           <Disorder id="11599">
                             <OrphaNumber>83628</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83628</ExpertLink>
-                            <Name lang="en">PELVIS syndrome</Name>
+                            <Name lang="en">LUMBAR syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -45537,7 +45537,7 @@
                           <Disorder id="16702">
                             <OrphaNumber>137667</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137667</ExpertLink>
-                            <Name lang="en">Capillary malformation-arteriovenous malformation syndrome</Name>
+                            <Name lang="en">Capillary malformation-arteriovenous malformation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -46223,7 +46223,7 @@
                       <Disorder id="1877">
                         <OrphaNumber>1914</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1914</ExpertLink>
-                        <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
+                        <Name lang="en">Vitamin K antagonist embryofetopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -47363,7 +47363,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                 <Name lang="en">Syndromic genetic deafness</Name>
               </Disorder>
-              <ClassificationNodeChildList count="162">
+              <ClassificationNodeChildList count="163">
                 <ClassificationNode>
                   <Disorder id="22690">
                     <OrphaNumber>397623</OrphaNumber>
@@ -48287,6 +48287,15 @@
                     <OrphaNumber>457223</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457223</ExpertLink>
                     <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation defect</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19213">
+                    <OrphaNumber>231720</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231720</ExpertLink>
+                    <Name lang="en">Non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -49542,7 +49551,7 @@
                           <Disorder id="1991">
                             <OrphaNumber>2075</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
-                            <Name lang="en">Genito-palato-cardiac syndrome</Name>
+                            <Name lang="en">Genitopalatocardiac syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

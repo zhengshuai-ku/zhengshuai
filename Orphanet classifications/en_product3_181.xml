@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:20:21" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:21:22" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -6454,7 +6454,7 @@
                   <Disorder id="8711">
                     <OrphaNumber>831</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=831</ExpertLink>
-                    <Name lang="en">Congenital narrowing of cervical spinal canal</Name>
+                    <Name lang="en">Congenital cervical spinal stenosis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -7321,7 +7321,7 @@
                               <Disorder id="12564">
                                 <OrphaNumber>94124</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94124</ExpertLink>
-                                <Name lang="en">Spinocerebellar ataxia type 1 with axonal neuropathy</Name>
+                                <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7872,7 +7872,7 @@
                           <Disorder id="22844">
                             <OrphaNumber>401866</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401866</ExpertLink>
-                            <Name lang="en">Spasticity-ataxia-gait anomalies syndrome</Name>
+                            <Name lang="en">Childhood-onset spasticity with hyperglycinemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -10598,7 +10598,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182070</ExpertLink>
                 <Name lang="en">Rare neurodegenerative disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="46">
+              <ClassificationNodeChildList count="45">
                 <ClassificationNode>
                   <Disorder id="25224">
                     <OrphaNumber>480864</OrphaNumber>
@@ -11798,7 +11798,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100981</ExpertLink>
                             <Name lang="en">Autosomal recessive complex spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="39">
+                          <ClassificationNodeChildList count="40">
                             <ClassificationNode>
                               <Disorder id="24010">
                                 <OrphaNumber>464282</OrphaNumber>
@@ -11998,15 +11998,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="21720">
-                                <OrphaNumber>320396</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320396</ExpertLink>
-                                <Name lang="en">Autosomal recessive spastic paraplegia type 45</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="21721">
                                 <OrphaNumber>320401</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320401</ExpertLink>
@@ -12160,6 +12151,24 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
+                              <Disorder id="14712">
+                                <OrphaNumber>101001</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101001</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 21</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17916">
+                                <OrphaNumber>171629</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171629</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 35</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
                               <Disorder id="21924">
                                 <OrphaNumber>329308</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329308</ExpertLink>
@@ -12275,7 +12284,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320346</ExpertLink>
                             <Name lang="en">Pure or complex autosomal recessive spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="10">
+                          <ClassificationNodeChildList count="9">
                             <ClassificationNode>
                               <Disorder id="2249">
                                 <OrphaNumber>2429</OrphaNumber>
@@ -12322,15 +12331,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="14712">
-                                <OrphaNumber>101001</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101001</ExpertLink>
-                                <Name lang="en">Autosomal recessive spastic paraplegia type 21</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="14721">
                                 <OrphaNumber>101010</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101010</ExpertLink>
@@ -12340,10 +12340,10 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="17916">
-                                <OrphaNumber>171629</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171629</ExpertLink>
-                                <Name lang="en">Autosomal recessive spastic paraplegia type 35</Name>
+                              <Disorder id="21720">
+                                <OrphaNumber>320396</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320396</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 45</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -12541,15 +12541,6 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="1342">
-                    <OrphaNumber>1035</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1035</ExpertLink>
-                    <Name lang="en">Encephalopathy due to beta-mercaptolactate-cysteine disulfiduria</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -12867,7 +12858,7 @@
                           <Disorder id="12564">
                             <OrphaNumber>94124</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94124</ExpertLink>
-                            <Name lang="en">Spinocerebellar ataxia type 1 with axonal neuropathy</Name>
+                            <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -13716,7 +13707,7 @@
                                       <Disorder id="12564">
                                         <OrphaNumber>94124</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94124</ExpertLink>
-                                        <Name lang="en">Spinocerebellar ataxia type 1 with axonal neuropathy</Name>
+                                        <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -17495,7 +17486,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206656</ExpertLink>
                             <Name lang="en">Non-dystrophic myopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="12">
+                          <ClassificationNodeChildList count="13">
                             <ClassificationNode>
                               <Disorder id="68">
                                 <OrphaNumber>593</OrphaNumber>
@@ -18792,6 +18783,15 @@
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18932">
+                                <OrphaNumber>221043</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221043</ExpertLink>
+                                <Name lang="en">Hereditary fibrosing poikiloderma-tendon contractures-myopathy-pulmonary fibrosis syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -20012,7 +20012,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68385</ExpertLink>
                 <Name lang="en">Neurometabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="135">
+              <ClassificationNodeChildList count="136">
                 <ClassificationNode>
                   <Disorder id="19793">
                     <OrphaNumber>254875</OrphaNumber>
@@ -23506,6 +23506,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="22844">
+                    <OrphaNumber>401866</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401866</ExpertLink>
+                    <Name lang="en">Childhood-onset spasticity with hyperglycinemia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25167">
                     <OrphaNumber>478042</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478042</ExpertLink>
@@ -23683,7 +23692,7 @@
                               <Disorder id="11037">
                                 <OrphaNumber>73229</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=73229</ExpertLink>
-                                <Name lang="en">Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</Name>
+                                <Name lang="en">HANAC syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -24121,7 +24130,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477771</ExpertLink>
                         <Name lang="en">Moyamoya syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="12">
+                      <ClassificationNodeChildList count="13">
                         <ClassificationNode>
                           <Disorder id="20497">
                             <OrphaNumber>280679</OrphaNumber>
@@ -24271,6 +24280,15 @@
                             <OrphaNumber>42775</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=42775</ExpertLink>
                             <Name lang="en">PHACE syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22353">
+                            <OrphaNumber>363972</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363972</ExpertLink>
+                            <Name lang="en">Noonan syndrome-like disorder with juvenile myelomonocytic leukemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -32461,7 +32479,7 @@
                                           <Disorder id="12564">
                                             <OrphaNumber>94124</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94124</ExpertLink>
-                                            <Name lang="en">Spinocerebellar ataxia type 1 with axonal neuropathy</Name>
+                                            <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -37653,7 +37671,7 @@
                           <Disorder id="11599">
                             <OrphaNumber>83628</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83628</ExpertLink>
-                            <Name lang="en">PELVIS syndrome</Name>
+                            <Name lang="en">LUMBAR syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -39032,7 +39050,7 @@
                       <Disorder id="12564">
                         <OrphaNumber>94124</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94124</ExpertLink>
-                        <Name lang="en">Spinocerebellar ataxia type 1 with axonal neuropathy</Name>
+                        <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39048,7 +39066,7 @@
                           <Disorder id="2643">
                             <OrphaNumber>2926</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2926</ExpertLink>
-                            <Name lang="en">Polyneuropathy-hand defect syndrome</Name>
+                            <Name lang="en">Digital extensor muscle aplasia-polyneuropathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

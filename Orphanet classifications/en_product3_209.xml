@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:21:07" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:22:06" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -937,7 +937,7 @@
                   <Disorder id="1368">
                     <OrphaNumber>1074</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                    <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+                    <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1419,7 +1419,7 @@
                           <Disorder id="1877">
                             <OrphaNumber>1914</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1914</ExpertLink>
-                            <Name lang="en">Vitamin K-antagonist embryofetopathy</Name>
+                            <Name lang="en">Vitamin K antagonist embryofetopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1691,7 +1691,7 @@
                       <Disorder id="1991">
                         <OrphaNumber>2075</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
-                        <Name lang="en">Genito-palato-cardiac syndrome</Name>
+                        <Name lang="en">Genitopalatocardiac syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1718,7 +1718,7 @@
                       <Disorder id="2062">
                         <OrphaNumber>2167</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2167</ExpertLink>
-                        <Name lang="en">Holzgreve-Wagner-Rehder syndrome</Name>
+                        <Name lang="en">Holzgreve syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

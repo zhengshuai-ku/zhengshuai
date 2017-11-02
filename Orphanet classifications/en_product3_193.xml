@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:20:41" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:21:41" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -2101,7 +2101,7 @@
                               <Disorder id="19213">
                                 <OrphaNumber>231720</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231720</ExpertLink>
-                                <Name lang="en">Non-acquired combined pituitary hormone deficiency with spine abnormalities</Name>
+                                <Name lang="en">Non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3444,7 +3444,7 @@
                           <Disorder id="1991">
                             <OrphaNumber>2075</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2075</ExpertLink>
-                            <Name lang="en">Genito-palato-cardiac syndrome</Name>
+                            <Name lang="en">Genitopalatocardiac syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4704,7 +4704,7 @@
                           <Disorder id="16994">
                             <OrphaNumber>140905</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140905</ExpertLink>
-                            <Name lang="en">Hyperlipidemia due to hepatic triglyceride lipase deficiency</Name>
+                            <Name lang="en">Hyperlipidemia due to hepatic triacylglycerol lipase deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6371,7 +6371,7 @@
                       <Disorder id="17596">
                         <OrphaNumber>165994</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165994</ExpertLink>
-                        <Name lang="en">Selective pituitary resistance to thyroid hormone</Name>
+                        <Name lang="en">Pituitary resistance to thyroid hormone</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6995,7 +6995,7 @@
                                   <Disorder id="19213">
                                     <OrphaNumber>231720</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231720</ExpertLink>
-                                    <Name lang="en">Non-acquired combined pituitary hormone deficiency with spine abnormalities</Name>
+                                    <Name lang="en">Non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -7537,7 +7537,7 @@
                               <Disorder id="12124">
                                 <OrphaNumber>91350</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91350</ExpertLink>
-                                <Name lang="en">Pituitary deficiency due to Rathke's pouch cysts</Name>
+                                <Name lang="en">Pituitary deficiency due to Rathke's cleft cysts</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

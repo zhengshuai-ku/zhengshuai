@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:20:38" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:21:39" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -1503,7 +1503,7 @@
                                       <Disorder id="1368">
                                         <OrphaNumber>1074</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                                        <Name lang="en">Ankyloblepharon filiforme-imperforate anus syndrome</Name>
+                                        <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -6833,7 +6833,7 @@
                                   <Disorder id="10783">
                                     <OrphaNumber>59181</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59181</ExpertLink>
-                                    <Name lang="en">Sorsby's fundus dystrophy</Name>
+                                    <Name lang="en">Sorsby pseudoinflammatory fundus dystrophy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -9676,21 +9676,12 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98681</ExpertLink>
                         <Name lang="en">Rare strabismus and restriction syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="10835">
                             <OrphaNumber>64686</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=64686</ExpertLink>
                             <Name lang="en">Tolosa-Hunt syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="13699">
-                            <OrphaNumber>98682</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98682</ExpertLink>
-                            <Name lang="en">Essential strabismus</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

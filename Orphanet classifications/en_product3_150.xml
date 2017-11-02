@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-10-01 04:20:08" version="1.2.4 / 4.1.6 [2016-04-08] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-11-01 04:21:09" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -2820,7 +2820,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79173</ExpertLink>
                     <Name lang="en">Disorder of methionine cycle and sulfur amino acid metabolism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="173">
                         <OrphaNumber>394</OrphaNumber>
@@ -2961,6 +2961,15 @@
                         <OrphaNumber>289891</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289891</ExpertLink>
                         <Name lang="en">Hypermethioninemia due to glycine N-methyltransferase deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1342">
+                        <OrphaNumber>1035</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1035</ExpertLink>
+                        <Name lang="en">Beta-mercaptolactate cysteine disulfiduria</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6583,7 +6592,7 @@
                               <Disorder id="3378">
                                 <OrphaNumber>1460</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1460</ExpertLink>
-                                <Name lang="en">Isolated CoQ-cytochrome C reductase deficiency</Name>
+                                <Name lang="en">Isolated complex III deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6810,7 +6819,7 @@
                           <Disorder id="22844">
                             <OrphaNumber>401866</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401866</ExpertLink>
-                            <Name lang="en">Spasticity-ataxia-gait anomalies syndrome</Name>
+                            <Name lang="en">Childhood-onset spasticity with hyperglycinemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8239,7 +8248,7 @@
                               <Disorder id="16994">
                                 <OrphaNumber>140905</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140905</ExpertLink>
-                                <Name lang="en">Hyperlipidemia due to hepatic triglyceride lipase deficiency</Name>
+                                <Name lang="en">Hyperlipidemia due to hepatic triacylglycerol lipase deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
