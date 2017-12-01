@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:37" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:32" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12456">
       <OrphaNumber>93626</OrphaNumber>
@@ -1178,7 +1178,7 @@
                       <Disorder id="19537">
                         <OrphaNumber>247691</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247691</ExpertLink>
-                        <Name lang="en">Retinal vasculopathy and cerebral leukoencephalopathy</Name>
+                        <Name lang="en">Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2336,7 +2336,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93587</ExpertLink>
                 <Name lang="en">Familial cystic renal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="16">
+              <ClassificationNodeChildList count="17">
                 <ClassificationNode>
                   <Disorder id="97">
                     <OrphaNumber>731</OrphaNumber>
@@ -2468,6 +2468,15 @@
                     <OrphaNumber>443988</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443988</ExpertLink>
                     <Name lang="en">Ventriculomegaly-cystic kidney disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="823">
+                    <OrphaNumber>730</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=730</ExpertLink>
+                    <Name lang="en">Autosomal dominant polycystic kidney disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

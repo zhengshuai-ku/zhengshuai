@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:31" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:26" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="14860">
       <OrphaNumber>101433</OrphaNumber>
@@ -1288,7 +1288,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98087</ExpertLink>
                         <Name lang="en">Syndrome with 46,XY disorder of sex development</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="18">
+                      <ClassificationNodeChildList count="19">
                         <ClassificationNode>
                           <Disorder id="230">
                             <OrphaNumber>893</OrphaNumber>
@@ -1438,6 +1438,15 @@
                             <OrphaNumber>456328</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456328</ExpertLink>
                             <Name lang="en">X-linked myotubular myopathy-abnormal genitalia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25674">
+                            <OrphaNumber>494433</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494433</ExpertLink>
+                            <Name lang="en">MIRAGE syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:39" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:34" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -6029,7 +6029,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98661</ExpertLink>
                             <Name lang="en">Syndromic retinitis pigmentosa</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="26">
+                          <ClassificationNodeChildList count="27">
                             <ClassificationNode>
                               <Disorder id="17156">
                                 <OrphaNumber>157850</OrphaNumber>
@@ -6341,6 +6341,15 @@
                                 <OrphaNumber>488197</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488197</ExpertLink>
                                 <Name lang="en">Familial progressive retinal dystrophy-iris coloboma-congenital cataract syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25675">
+                                <OrphaNumber>494439</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                                <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6999,7 +7008,7 @@
                           <Disorder id="19537">
                             <OrphaNumber>247691</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247691</ExpertLink>
-                            <Name lang="en">Retinal vasculopathy and cerebral leukoencephalopathy</Name>
+                            <Name lang="en">Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8497,12 +8506,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98704</ExpertLink>
                         <Name lang="en">Onycho-patellar syndrome with eye involvement</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="392">
                             <OrphaNumber>2614</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2614</ExpertLink>
                             <Name lang="en">Nail-patella syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25800">
+                            <OrphaNumber>495818</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                            <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:51" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:46" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13046">
       <OrphaNumber>98028</OrphaNumber>
@@ -7,39 +7,516 @@
       <Name lang="en">Rare circulatory system disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="2">
+          <ClassificationNodeChildList count="3">
+            <ClassificationNode>
+              <Disorder id="12450">
+                <OrphaNumber>93618</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93618</ExpertLink>
+                <Name lang="en">Rare cause of hypertension</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="3">
+                <ClassificationNode>
+                  <Disorder id="3731">
+                    <OrphaNumber>1501</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1501</ExpertLink>
+                    <Name lang="en">Adrenocortical carcinoma</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="12937">
+                    <OrphaNumber>97598</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97598</ExpertLink>
+                    <Name lang="en">Congenital renal artery stenosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="17131">
+                    <OrphaNumber>156629</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156629</ExpertLink>
+                    <Name lang="en">Genetic hypertension</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="13">
+                    <ClassificationNode>
+                      <Disorder id="145">
+                        <OrphaNumber>904</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=904</ExpertLink>
+                        <Name lang="en">Williams syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="185">
+                        <OrphaNumber>636</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=636</ExpertLink>
+                        <Name lang="en">Neurofibromatosis type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="12945">
+                            <OrphaNumber>97685</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97685</ExpertLink>
+                            <Name lang="en">17q11 microdeletion syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22341">
+                            <OrphaNumber>363700</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363700</ExpertLink>
+                            <Name lang="en">Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="560">
+                        <OrphaNumber>717</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=717</ExpertLink>
+                        <Name lang="en">Catecholamine-producing tumor</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="99">
+                            <OrphaNumber>892</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=892</ExpertLink>
+                            <Name lang="en">Von Hippel-Lindau disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="8775">
+                            <OrphaNumber>29072</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=29072</ExpertLink>
+                            <Name lang="en">Hereditary pheochromocytoma-paraganglioma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="913">
+                        <OrphaNumber>403</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
+                        <Name lang="en">Familial hyperaldosteronism type I</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="927">
+                        <OrphaNumber>526</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=526</ExpertLink>
+                        <Name lang="en">Liddle syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1511">
+                        <OrphaNumber>1276</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1276</ExpertLink>
+                        <Name lang="en">Brachydactyly-arterial hypertension syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3266">
+                        <OrphaNumber>424</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424</ExpertLink>
+                        <Name lang="en">Familial hyperthyroidism due to mutations in TSH receptor</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3723">
+                        <OrphaNumber>757</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=757</ExpertLink>
+                        <Name lang="en">Pseudohypoaldosteronism type 2</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="5">
+                        <ClassificationNode>
+                          <Disorder id="11870">
+                            <OrphaNumber>88938</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88938</ExpertLink>
+                            <Name lang="en">Pseudohypoaldosteronism type 2A</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11871">
+                            <OrphaNumber>88939</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88939</ExpertLink>
+                            <Name lang="en">Pseudohypoaldosteronism type 2B</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11872">
+                            <OrphaNumber>88940</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88940</ExpertLink>
+                            <Name lang="en">Pseudohypoaldosteronism type 2C</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21125">
+                            <OrphaNumber>300525</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300525</ExpertLink>
+                            <Name lang="en">Pseudohypoaldosteronism type 2D</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21126">
+                            <OrphaNumber>300530</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300530</ExpertLink>
+                            <Name lang="en">Pseudohypoaldosteronism type 2E</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3728">
+                        <OrphaNumber>758</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=758</ExpertLink>
+                        <Name lang="en">Pseudoxanthoma elasticum</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="8740">
+                        <OrphaNumber>320</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320</ExpertLink>
+                        <Name lang="en">Apparent mineralocorticoid excess</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11821">
+                        <OrphaNumber>88659</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88659</ExpertLink>
+                        <Name lang="en">Autosomal dominant progressive nephropathy with hypertension</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11822">
+                        <OrphaNumber>88660</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88660</ExpertLink>
+                        <Name lang="en">Hypertension due to gain-of-function mutations in the mineralocorticoid receptor</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14392">
+                        <OrphaNumber>99819</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99819</ExpertLink>
+                        <Name lang="en">Familial gestational hyperthyroidism</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+              </ClassificationNodeChildList>
+            </ClassificationNode>
             <ClassificationNode>
               <Disorder id="10501">
                 <OrphaNumber>68362</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68362</ExpertLink>
                 <Name lang="en">Rare vascular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="2">
                 <ClassificationNode>
-                  <Disorder id="3327">
-                    <OrphaNumber>820</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=820</ExpertLink>
-                    <Name lang="en">Sneddon syndrome</Name>
+                  <Disorder id="25857">
+                    <OrphaNumber>496924</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496924</ExpertLink>
+                    <Name lang="en">Non-inflammatory vasculopathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="23749">
-                    <OrphaNumber>458718</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=458718</ExpertLink>
-                    <Name lang="en">Idiopathic spontaneous coronary artery dissection</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="1762">
-                    <OrphaNumber>1682</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1682</ExpertLink>
-                    <Name lang="en">Arterial dissection-lentiginosis syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="7">
+                    <ClassificationNode>
+                      <Disorder id="1762">
+                        <OrphaNumber>1682</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1682</ExpertLink>
+                        <Name lang="en">Arterial dissection-lentiginosis syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3327">
+                        <OrphaNumber>820</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=820</ExpertLink>
+                        <Name lang="en">Sneddon syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="19238">
+                        <OrphaNumber>233655</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=233655</ExpertLink>
+                        <Name lang="en">Rare genetic vascular disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="7">
+                        <ClassificationNode>
+                          <Disorder id="1010">
+                            <OrphaNumber>86</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86</ExpertLink>
+                            <Name lang="en">Familial abdominal aortic aneurysm</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10675">
+                            <OrphaNumber>51608</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=51608</ExpertLink>
+                            <Name lang="en">Generalized arterial calcification of infancy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19143">
+                            <OrphaNumber>230845</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
+                            <Name lang="en">Ehlers-Danlos syndrome, vascular-like type</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20633">
+                            <OrphaNumber>285014</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=285014</ExpertLink>
+                            <Name lang="en">Rare disease with thoracic aortic aneurysm and aortic dissection</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="11">
+                            <ClassificationNode>
+                              <Disorder id="109">
+                                <OrphaNumber>558</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=558</ExpertLink>
+                                <Name lang="en">Marfan syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="20628">
+                                    <OrphaNumber>284963</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284963</ExpertLink>
+                                    <Name lang="en">Marfan syndrome type 1</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20629">
+                                    <OrphaNumber>284973</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284973</ExpertLink>
+                                    <Name lang="en">Marfan syndrome type 2</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="2965">
+                                <OrphaNumber>3342</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3342</ExpertLink>
+                                <Name lang="en">Arterial tortuosity syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="4042">
+                                <OrphaNumber>286</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=286</ExpertLink>
+                                <Name lang="en">Ehlers-Danlos syndrome, vascular type</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="10799">
+                                <OrphaNumber>60030</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=60030</ExpertLink>
+                                <Name lang="en">Loeys-Dietz syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11546">
+                                <OrphaNumber>82004</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=82004</ExpertLink>
+                                <Name lang="en">Ehlers-Danlos syndrome with periventricular heterotopia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12138">
+                                <OrphaNumber>91387</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91387</ExpertLink>
+                                <Name lang="en">Familial thoracic aortic aneurysm and aortic dissection</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20630">
+                                <OrphaNumber>284979</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284979</ExpertLink>
+                                <Name lang="en">Neonatal Marfan syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20631">
+                                <OrphaNumber>284984</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284984</ExpertLink>
+                                <Name lang="en">Aneurysm-osteoarthritis syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22877">
+                                <OrphaNumber>402075</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=402075</ExpertLink>
+                                <Name lang="en">Familial bicuspid aortic valve</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22924">
+                                <OrphaNumber>404463</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404463</ExpertLink>
+                                <Name lang="en">Multisystemic smooth muscle dysfunction syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="3258">
+                                <OrphaNumber>229</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=229</ExpertLink>
+                                <Name lang="en">Familial aortic dissection</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20749">
+                            <OrphaNumber>289601</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289601</ExpertLink>
+                            <Name lang="en">Hereditary arterial and articular multiple calcification syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21520">
+                            <OrphaNumber>314718</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314718</ExpertLink>
+                            <Name lang="en">Lethal arteriopathy syndrome due to fibulin-4 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12025">
+                            <OrphaNumber>90349</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90349</ExpertLink>
+                            <Name lang="en">Autosomal recessive cutis laxa type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20422">
+                        <OrphaNumber>280062</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280062</ExpertLink>
+                        <Name lang="en">Calciphylaxis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="20423">
+                            <OrphaNumber>280065</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280065</ExpertLink>
+                            <Name lang="en">Calciphylaxis cutis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20424">
+                            <OrphaNumber>280068</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280068</ExpertLink>
+                            <Name lang="en">Visceral calciphylaxis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="23377">
+                        <OrphaNumber>439175</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439175</ExpertLink>
+                        <Name lang="en">Pediatric arterial ischemic stroke</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="23749">
+                        <OrphaNumber>458718</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=458718</ExpertLink>
+                        <Name lang="en">Idiopathic spontaneous coronary artery dissection</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="8614">
+                        <OrphaNumber>838</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=838</ExpertLink>
+                        <Name lang="en">Susac syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -375,465 +852,6 @@
                     </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="12450">
-                    <OrphaNumber>93618</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93618</ExpertLink>
-                    <Name lang="en">Rare cause of hypertension</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="3">
-                    <ClassificationNode>
-                      <Disorder id="3731">
-                        <OrphaNumber>1501</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1501</ExpertLink>
-                        <Name lang="en">Adrenocortical carcinoma</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12937">
-                        <OrphaNumber>97598</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97598</ExpertLink>
-                        <Name lang="en">Congenital renal artery stenosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="17131">
-                        <OrphaNumber>156629</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156629</ExpertLink>
-                        <Name lang="en">Genetic hypertension</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="13">
-                        <ClassificationNode>
-                          <Disorder id="145">
-                            <OrphaNumber>904</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=904</ExpertLink>
-                            <Name lang="en">Williams syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="185">
-                            <OrphaNumber>636</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=636</ExpertLink>
-                            <Name lang="en">Neurofibromatosis type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="12945">
-                                <OrphaNumber>97685</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97685</ExpertLink>
-                                <Name lang="en">17q11 microdeletion syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22341">
-                                <OrphaNumber>363700</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363700</ExpertLink>
-                                <Name lang="en">Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="560">
-                            <OrphaNumber>717</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=717</ExpertLink>
-                            <Name lang="en">Catecholamine-producing tumor</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="99">
-                                <OrphaNumber>892</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=892</ExpertLink>
-                                <Name lang="en">Von Hippel-Lindau disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="8775">
-                                <OrphaNumber>29072</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=29072</ExpertLink>
-                                <Name lang="en">Hereditary pheochromocytoma-paraganglioma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="913">
-                            <OrphaNumber>403</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
-                            <Name lang="en">Familial hyperaldosteronism type I</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="927">
-                            <OrphaNumber>526</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=526</ExpertLink>
-                            <Name lang="en">Liddle syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1511">
-                            <OrphaNumber>1276</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1276</ExpertLink>
-                            <Name lang="en">Brachydactyly-arterial hypertension syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3266">
-                            <OrphaNumber>424</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424</ExpertLink>
-                            <Name lang="en">Familial hyperthyroidism due to mutations in TSH receptor</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3723">
-                            <OrphaNumber>757</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=757</ExpertLink>
-                            <Name lang="en">Pseudohypoaldosteronism type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="5">
-                            <ClassificationNode>
-                              <Disorder id="11870">
-                                <OrphaNumber>88938</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88938</ExpertLink>
-                                <Name lang="en">Pseudohypoaldosteronism type 2A</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="11871">
-                                <OrphaNumber>88939</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88939</ExpertLink>
-                                <Name lang="en">Pseudohypoaldosteronism type 2B</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="11872">
-                                <OrphaNumber>88940</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88940</ExpertLink>
-                                <Name lang="en">Pseudohypoaldosteronism type 2C</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21125">
-                                <OrphaNumber>300525</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300525</ExpertLink>
-                                <Name lang="en">Pseudohypoaldosteronism type 2D</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21126">
-                                <OrphaNumber>300530</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300530</ExpertLink>
-                                <Name lang="en">Pseudohypoaldosteronism type 2E</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3728">
-                            <OrphaNumber>758</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=758</ExpertLink>
-                            <Name lang="en">Pseudoxanthoma elasticum</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="8740">
-                            <OrphaNumber>320</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320</ExpertLink>
-                            <Name lang="en">Apparent mineralocorticoid excess</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11821">
-                            <OrphaNumber>88659</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88659</ExpertLink>
-                            <Name lang="en">Autosomal dominant progressive nephropathy with hypertension</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11822">
-                            <OrphaNumber>88660</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88660</ExpertLink>
-                            <Name lang="en">Hypertension due to gain-of-function mutations in the mineralocorticoid receptor</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14392">
-                            <OrphaNumber>99819</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99819</ExpertLink>
-                            <Name lang="en">Familial gestational hyperthyroidism</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="19238">
-                    <OrphaNumber>233655</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=233655</ExpertLink>
-                    <Name lang="en">Rare genetic vascular disease</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="7">
-                    <ClassificationNode>
-                      <Disorder id="1010">
-                        <OrphaNumber>86</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86</ExpertLink>
-                        <Name lang="en">Familial abdominal aortic aneurysm</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10675">
-                        <OrphaNumber>51608</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=51608</ExpertLink>
-                        <Name lang="en">Generalized arterial calcification of infancy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19143">
-                        <OrphaNumber>230845</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, vascular-like type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20633">
-                        <OrphaNumber>285014</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=285014</ExpertLink>
-                        <Name lang="en">Rare disease with thoracic aortic aneurysm and aortic dissection</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="11">
-                        <ClassificationNode>
-                          <Disorder id="109">
-                            <OrphaNumber>558</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=558</ExpertLink>
-                            <Name lang="en">Marfan syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="20628">
-                                <OrphaNumber>284963</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284963</ExpertLink>
-                                <Name lang="en">Marfan syndrome type 1</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20629">
-                                <OrphaNumber>284973</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284973</ExpertLink>
-                                <Name lang="en">Marfan syndrome type 2</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="2965">
-                            <OrphaNumber>3342</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3342</ExpertLink>
-                            <Name lang="en">Arterial tortuosity syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="4042">
-                            <OrphaNumber>286</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=286</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, vascular type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="10799">
-                            <OrphaNumber>60030</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=60030</ExpertLink>
-                            <Name lang="en">Loeys-Dietz syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11546">
-                            <OrphaNumber>82004</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=82004</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome with periventricular heterotopia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12138">
-                            <OrphaNumber>91387</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91387</ExpertLink>
-                            <Name lang="en">Familial thoracic aortic aneurysm and aortic dissection</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="20630">
-                            <OrphaNumber>284979</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284979</ExpertLink>
-                            <Name lang="en">Neonatal Marfan syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="20631">
-                            <OrphaNumber>284984</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284984</ExpertLink>
-                            <Name lang="en">Aneurysm-osteoarthritis syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22877">
-                            <OrphaNumber>402075</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=402075</ExpertLink>
-                            <Name lang="en">Familial bicuspid aortic valve</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22924">
-                            <OrphaNumber>404463</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404463</ExpertLink>
-                            <Name lang="en">Multisystemic smooth muscle dysfunction syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3258">
-                            <OrphaNumber>229</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=229</ExpertLink>
-                            <Name lang="en">Familial aortic dissection</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20749">
-                        <OrphaNumber>289601</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289601</ExpertLink>
-                        <Name lang="en">Hereditary arterial and articular multiple calcification syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21520">
-                        <OrphaNumber>314718</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314718</ExpertLink>
-                        <Name lang="en">Lethal arteriopathy syndrome due to fibulin-4 deficiency</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12025">
-                        <OrphaNumber>90349</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90349</ExpertLink>
-                        <Name lang="en">Autosomal recessive cutis laxa type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="20422">
-                    <OrphaNumber>280062</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280062</ExpertLink>
-                    <Name lang="en">Calciphylaxis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="2">
-                    <ClassificationNode>
-                      <Disorder id="20423">
-                        <OrphaNumber>280065</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280065</ExpertLink>
-                        <Name lang="en">Calciphylaxis cutis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="20424">
-                        <OrphaNumber>280068</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280068</ExpertLink>
-                        <Name lang="en">Visceral calciphylaxis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="23377">
-                    <OrphaNumber>439175</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439175</ExpertLink>
-                    <Name lang="en">Pediatric arterial ischemic stroke</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -966,7 +984,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=458844</ExpertLink>
                     <Name lang="en">Rare vascular malformation of major vessels</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="1299">
                         <OrphaNumber>981</OrphaNumber>
@@ -1667,6 +1685,15 @@
                             </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25672">
+                        <OrphaNumber>494424</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494424</ExpertLink>
+                        <Name lang="en">Extracranial carotid artery aneurysm</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>

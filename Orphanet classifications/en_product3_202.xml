@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:58" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:54" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -60,7 +60,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=883</ExpertLink>
                                 <Name lang="en">Extragonadal teratoma</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="4">
                                 <ClassificationNode>
                                   <Disorder id="17031">
                                     <OrphaNumber>141077</OrphaNumber>
@@ -84,6 +84,15 @@
                                     <OrphaNumber>252018</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=252018</ExpertLink>
                                     <Name lang="en">Teratoma of the central nervous system</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25671">
+                                    <OrphaNumber>494421</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494421</ExpertLink>
+                                    <Name lang="en">Sacrococcygeal teratoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -899,7 +908,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=52688</ExpertLink>
                             <Name lang="en">Myelodysplastic syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="5">
+                          <ClassificationNodeChildList count="6">
                             <ClassificationNode>
                               <Disorder id="11088">
                                 <OrphaNumber>75564</OrphaNumber>
@@ -986,6 +995,15 @@
                                 <OrphaNumber>168960</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168960</ExpertLink>
                                 <Name lang="en">Refractory anemia with excess blasts in transformation</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25813">
+                                <OrphaNumber>495930</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495930</ExpertLink>
+                                <Name lang="en">Familial monosomy 7 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

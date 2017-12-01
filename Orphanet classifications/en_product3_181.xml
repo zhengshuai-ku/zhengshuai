@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:22" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:17" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -1983,7 +1983,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166469</ExpertLink>
                     <Name lang="en">Chromosomal anomaly with epilepsy as a major feature</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="16">
                     <ClassificationNode>
                       <Disorder id="90">
                         <OrphaNumber>72</OrphaNumber>
@@ -2060,7 +2060,7 @@
                       <Disorder id="1078">
                         <OrphaNumber>1444</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1444</ExpertLink>
-                        <Name lang="en">Ring chromosome 20</Name>
+                        <Name lang="en">Ring chromosome 20 syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2078,7 +2078,7 @@
                       <Disorder id="1640">
                         <OrphaNumber>1440</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1440</ExpertLink>
-                        <Name lang="en">Ring chromosome 14</Name>
+                        <Name lang="en">Ring chromosome 14 syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2133,6 +2133,15 @@
                         <OrphaNumber>217377</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217377</ExpertLink>
                         <Name lang="en">Microduplication Xp11.22-p11.23 syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25800">
+                        <OrphaNumber>495818</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                        <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7979,7 +7988,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102003</ExpertLink>
                 <Name lang="en">Rare movement disorder</Name>
               </Disorder>
-              <ClassificationNodeChildList count="12">
+              <ClassificationNodeChildList count="8">
                 <ClassificationNode>
                   <Disorder id="849">
                     <OrphaNumber>3198</OrphaNumber>
@@ -8012,447 +8021,6 @@
                         <Name lang="en">Focal stiff limb syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="10502">
-                    <OrphaNumber>68363</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68363</ExpertLink>
-                    <Name lang="en">Rare dystonia</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="4">
-                    <ClassificationNode>
-                      <Disorder id="13220">
-                        <OrphaNumber>98203</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98203</ExpertLink>
-                        <Name lang="en">Combined dystonia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="18420">
-                            <OrphaNumber>200037</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=200037</ExpertLink>
-                            <Name lang="en">Paroxysmal dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="827">
-                                <OrphaNumber>1431</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1431</ExpertLink>
-                                <Name lang="en">Paroxysmal dyskinesia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="4">
-                                <ClassificationNode>
-                                  <Disorder id="9793">
-                                    <OrphaNumber>31709</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=31709</ExpertLink>
-                                    <Name lang="en">Infantile convulsions and choreoathetosis</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13826">
-                                    <OrphaNumber>98809</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98809</ExpertLink>
-                                    <Name lang="en">Paroxysmal kinesigenic dyskinesia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13827">
-                                    <OrphaNumber>98810</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98810</ExpertLink>
-                                    <Name lang="en">Paroxysmal non-kinesigenic dyskinesia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13828">
-                                    <OrphaNumber>98811</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98811</ExpertLink>
-                                    <Name lang="en">Paroxysmal exertion-induced dyskinesia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="10724">
-                                <OrphaNumber>53583</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53583</ExpertLink>
-                                <Name lang="en">Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="11018">
-                                <OrphaNumber>71518</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71518</ExpertLink>
-                                <Name lang="en">Benign paroxysmal torticollis of infancy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22643">
-                            <OrphaNumber>391711</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391711</ExpertLink>
-                            <Name lang="en">Persistent combined dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="12">
-                            <ClassificationNode>
-                              <Disorder id="484">
-                                <OrphaNumber>255</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255</ExpertLink>
-                                <Name lang="en">Dopa-responsive dystonia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="3">
-                                <ClassificationNode>
-                                  <Disorder id="14826">
-                                    <OrphaNumber>101150</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101150</ExpertLink>
-                                    <Name lang="en">Autosomal recessive dopa-responsive dystonia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="10965">
-                                    <OrphaNumber>70594</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70594</ExpertLink>
-                                    <Name lang="en">Dopa-responsive dystonia due to sepiapterin reductase deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13825">
-                                    <OrphaNumber>98808</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98808</ExpertLink>
-                                    <Name lang="en">Autosomal dominant dopa-responsive dystonia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="10437">
-                                <OrphaNumber>36899</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36899</ExpertLink>
-                                <Name lang="en">Myoclonus-dystonia syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="10720">
-                                <OrphaNumber>53351</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53351</ExpertLink>
-                                <Name lang="en">X-linked dystonia-parkinsonism</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="11017">
-                                <OrphaNumber>71517</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71517</ExpertLink>
-                                <Name lang="en">Rapid-onset dystonia-parkinsonism</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="18408">
-                                <OrphaNumber>199351</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199351</ExpertLink>
-                                <Name lang="en">Adult-onset dystonia-parkinsonism</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="18695">
-                                <OrphaNumber>210571</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=210571</ExpertLink>
-                                <Name lang="en">Dystonia 16</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="19264">
-                                <OrphaNumber>238455</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238455</ExpertLink>
-                                <Name lang="en">Infantile dystonia-parkinsonism</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22091">
-                                <OrphaNumber>352649</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352649</ExpertLink>
-                                <Name lang="en">Brain dopamine-serotonin vesicular transport disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22366">
-                                <OrphaNumber>364063</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364063</ExpertLink>
-                                <Name lang="en">Infantile epileptic-dyskinetic encephalopathy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22484">
-                                <OrphaNumber>370109</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370109</ExpertLink>
-                                <Name lang="en">Ataxia-telangiectasia variant</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22485">
-                                <OrphaNumber>370114</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370114</ExpertLink>
-                                <Name lang="en">Combined cervical dystonia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="23047">
-                                <OrphaNumber>412217</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412217</ExpertLink>
-                                <Name lang="en">Dystonia-aphonia syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="17101">
-                        <OrphaNumber>156159</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156159</ExpertLink>
-                        <Name lang="en">Isolated dystonia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="3632">
-                            <OrphaNumber>1866</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1866</ExpertLink>
-                            <Name lang="en">Focal, segmental or multifocal dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="10">
-                            <ClassificationNode>
-                              <Disorder id="12516">
-                                <OrphaNumber>93958</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93958</ExpertLink>
-                                <Name lang="en">Oromandibular dystonia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12522">
-                                <OrphaNumber>93964</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93964</ExpertLink>
-                                <Name lang="en">Blepharospasm-oromandibular dystonia syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="13822">
-                                <OrphaNumber>98805</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98805</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT4 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="13824">
-                                <OrphaNumber>98807</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98807</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT13 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14230">
-                                <OrphaNumber>99657</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99657</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT2 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21934">
-                                <OrphaNumber>329466</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329466</ExpertLink>
-                                <Name lang="en">Autosomal dominant focal dystonia, DYT25</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22482">
-                                <OrphaNumber>370103</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370103</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT17 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="23108">
-                                <OrphaNumber>420485</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420485</ExpertLink>
-                                <Name lang="en">Cranio-cervical dystonia with laryngeal and upper-limb involvement</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="23109">
-                                <OrphaNumber>420492</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420492</ExpertLink>
-                                <Name lang="en">Adult-onset cervical dystonia, DYT23 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="24025">
-                                <OrphaNumber>464440</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464440</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT27 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22568">
-                            <OrphaNumber>376724</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=376724</ExpertLink>
-                            <Name lang="en">Generalized isolated dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="3643">
-                                <OrphaNumber>256</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=256</ExpertLink>
-                                <Name lang="en">Early-onset generalized limb-onset dystonia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="13823">
-                                <OrphaNumber>98806</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98806</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT6 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21261">
-                                <OrphaNumber>306734</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306734</ExpertLink>
-                                <Name lang="en">Primary dystonia, DYT21 type</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21262">
-                        <OrphaNumber>306741</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306741</ExpertLink>
-                        <Name lang="en">Hemidystonia-hemiatrophy syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="22483">
-                        <OrphaNumber>370106</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370106</ExpertLink>
-                        <Name lang="en">Rare disorder with dystonia and other neurologic or systemic manifestation</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="5">
-                        <ClassificationNode>
-                          <Disorder id="134">
-                            <OrphaNumber>905</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=905</ExpertLink>
-                            <Name lang="en">Wilson disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3045">
-                            <OrphaNumber>3464</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3464</ExpertLink>
-                            <Name lang="en">Woodhouse-Sakati syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11149">
-                            <OrphaNumber>79107</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79107</ExpertLink>
-                            <Name lang="en">Developmental malformations-deafness-dystonia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22450">
-                            <OrphaNumber>369939</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369939</ExpertLink>
-                            <Name lang="en">Severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="23767">
-                            <OrphaNumber>459033</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=459033</ExpertLink>
-                            <Name lang="en">Ataxia-oculomotor apraxia type 4</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -9187,384 +8755,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="21256">
-                    <OrphaNumber>306712</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306712</ExpertLink>
-                    <Name lang="en">Rare tremor disorder</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="7">
-                    <ClassificationNode>
-                      <Disorder id="134">
-                        <OrphaNumber>905</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=905</ExpertLink>
-                        <Name lang="en">Wilson disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2969">
-                        <OrphaNumber>3350</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3350</ExpertLink>
-                        <Name lang="en">Tremor-nystagmus-duodenal ulcer syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10721">
-                        <OrphaNumber>53372</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53372</ExpertLink>
-                        <Name lang="en">Hereditary geniospasm</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10891">
-                        <OrphaNumber>66633</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66633</ExpertLink>
-                        <Name lang="en">Sensorineural hearing loss-early graying-essential tremor syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12199">
-                        <OrphaNumber>93256</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93256</ExpertLink>
-                        <Name lang="en">Fragile X-associated tremor/ataxia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19281">
-                        <OrphaNumber>238606</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238606</ExpertLink>
-                        <Name lang="en">Primary orthostatic tremor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23708">
-                        <OrphaNumber>457212</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457212</ExpertLink>
-                        <Name lang="en">Progressive essential tremor-speech impairment-facial dysmorphism-intellectual disability-abnormal behavior syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="21257">
-                    <OrphaNumber>306715</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306715</ExpertLink>
-                    <Name lang="en">Rare choreic movement disorder</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="3">
-                    <ClassificationNode>
-                      <Disorder id="21258">
-                        <OrphaNumber>306719</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306719</ExpertLink>
-                        <Name lang="en">Neurodegenerative disease with chorea</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="6">
-                        <ClassificationNode>
-                          <Disorder id="118">
-                            <OrphaNumber>399</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399</ExpertLink>
-                            <Name lang="en">Huntington disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1634">
-                            <OrphaNumber>1429</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1429</ExpertLink>
-                            <Name lang="en">Benign familial chorea</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17159">
-                            <OrphaNumber>157941</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157941</ExpertLink>
-                            <Name lang="en">Huntington disease-like 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18666">
-                            <OrphaNumber>209905</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=209905</ExpertLink>
-                            <Name lang="en">Brain-lung-thyroid syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="19562">
-                            <OrphaNumber>248111</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=248111</ExpertLink>
-                            <Name lang="en">Juvenile Huntington disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22848">
-                            <OrphaNumber>401901</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401901</ExpertLink>
-                            <Name lang="en">Huntington disease-like syndrome due to C9ORF72 expansions</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21259">
-                        <OrphaNumber>306727</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306727</ExpertLink>
-                        <Name lang="en">Postinfectious autoimmune disease with chorea</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="10883">
-                            <OrphaNumber>66624</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66624</ExpertLink>
-                            <Name lang="en">PANDAS</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21260">
-                            <OrphaNumber>306731</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306731</ExpertLink>
-                            <Name lang="en">Sydenham chorea</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="22435">
-                        <OrphaNumber>369847</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369847</ExpertLink>
-                        <Name lang="en">Intellectual disability-hyperkinetic movement-truncal ataxia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="21263">
-                    <OrphaNumber>306747</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306747</ExpertLink>
-                    <Name lang="en">Rare myoclonus</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="2">
-                    <ClassificationNode>
-                      <Disorder id="21264">
-                        <OrphaNumber>306750</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306750</ExpertLink>
-                        <Name lang="en">Primary myoclonus</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="3">
-                        <ClassificationNode>
-                          <Disorder id="10437">
-                            <OrphaNumber>36899</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36899</ExpertLink>
-                            <Name lang="en">Myoclonus-dystonia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11734">
-                            <OrphaNumber>86814</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86814</ExpertLink>
-                            <Name lang="en">Benign adult familial myoclonic epilepsy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21622">
-                            <OrphaNumber>319189</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319189</ExpertLink>
-                            <Name lang="en">Familial cortical myoclonus</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21265">
-                        <OrphaNumber>306753</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306753</ExpertLink>
-                        <Name lang="en">Rare disease with myoclonus as a major feature</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="3">
-                        <ClassificationNode>
-                          <Disorder id="789">
-                            <OrphaNumber>3452</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3452</ExpertLink>
-                            <Name lang="en">Whipple disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="5528">
-                            <OrphaNumber>1183</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1183</ExpertLink>
-                            <Name lang="en">Opsoclonus-myoclonus syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21266">
-                            <OrphaNumber>306756</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306756</ExpertLink>
-                            <Name lang="en">Epilepsy and/or ataxia with myoclonus as major feature</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="21267">
-                                <OrphaNumber>306759</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306759</ExpertLink>
-                                <Name lang="en">Non progressive epilepsy and/or ataxia with myoclonus as a major feature</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="102">
-                                    <OrphaNumber>307</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=307</ExpertLink>
-                                    <Name lang="en">Juvenile myoclonic epilepsy</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="11785">
-                                    <OrphaNumber>86911</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86911</ExpertLink>
-                                    <Name lang="en">Epilepsy with myoclonic absences</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21268">
-                                <OrphaNumber>306762</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306762</ExpertLink>
-                                <Name lang="en">Progressive epilepsy and/or ataxia with myoclonus as a major feature</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="4">
-                                <ClassificationNode>
-                                  <Disorder id="117">
-                                    <OrphaNumber>501</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=501</ExpertLink>
-                                    <Name lang="en">Lafora disease</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="294">
-                                    <OrphaNumber>308</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=308</ExpertLink>
-                                    <Name lang="en">Unverricht-Lundborg disease</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="2387">
-                                    <OrphaNumber>2590</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2590</ExpertLink>
-                                    <Name lang="en">Spinal muscular atrophy-progressive myoclonic epilepsy syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="23295">
-                                    <OrphaNumber>435438</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435438</ExpertLink>
-                                    <Name lang="en">Progressive myoclonic epilepsy type 7</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="21269">
-                    <OrphaNumber>306765</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306765</ExpertLink>
-                    <Name lang="en">Motor stereotypies</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="4">
-                    <ClassificationNode>
-                      <Disorder id="91">
-                        <OrphaNumber>778</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=778</ExpertLink>
-                        <Name lang="en">Rett syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="120">
-                        <OrphaNumber>908</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=908</ExpertLink>
-                        <Name lang="en">Fragile X syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="145">
-                        <OrphaNumber>904</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=904</ExpertLink>
-                        <Name lang="en">Williams syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3164">
-                        <OrphaNumber>3095</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3095</ExpertLink>
-                        <Name lang="en">Atypical Rett syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="21270">
                     <OrphaNumber>306768</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306768</ExpertLink>
@@ -9704,6 +8894,852 @@
                         <Name lang="en">Sporadic hyperekplexia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25680">
+                    <OrphaNumber>494457</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494457</ExpertLink>
+                    <Name lang="en">Rare hyperkinetic movement disorder</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="5">
+                    <ClassificationNode>
+                      <Disorder id="10502">
+                        <OrphaNumber>68363</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68363</ExpertLink>
+                        <Name lang="en">Rare dystonia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="13220">
+                            <OrphaNumber>98203</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98203</ExpertLink>
+                            <Name lang="en">Combined dystonia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="18420">
+                                <OrphaNumber>200037</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=200037</ExpertLink>
+                                <Name lang="en">Paroxysmal dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="3">
+                                <ClassificationNode>
+                                  <Disorder id="827">
+                                    <OrphaNumber>1431</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1431</ExpertLink>
+                                    <Name lang="en">Paroxysmal dyskinesia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="4">
+                                    <ClassificationNode>
+                                      <Disorder id="9793">
+                                        <OrphaNumber>31709</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=31709</ExpertLink>
+                                        <Name lang="en">Infantile convulsions and choreoathetosis</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="13826">
+                                        <OrphaNumber>98809</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98809</ExpertLink>
+                                        <Name lang="en">Paroxysmal kinesigenic dyskinesia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="13827">
+                                        <OrphaNumber>98810</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98810</ExpertLink>
+                                        <Name lang="en">Paroxysmal non-kinesigenic dyskinesia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="13828">
+                                        <OrphaNumber>98811</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98811</ExpertLink>
+                                        <Name lang="en">Paroxysmal exertion-induced dyskinesia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="10724">
+                                    <OrphaNumber>53583</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53583</ExpertLink>
+                                    <Name lang="en">Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="11018">
+                                    <OrphaNumber>71518</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71518</ExpertLink>
+                                    <Name lang="en">Benign paroxysmal torticollis of infancy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22643">
+                                <OrphaNumber>391711</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391711</ExpertLink>
+                                <Name lang="en">Persistent combined dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="12">
+                                <ClassificationNode>
+                                  <Disorder id="484">
+                                    <OrphaNumber>255</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255</ExpertLink>
+                                    <Name lang="en">Dopa-responsive dystonia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="3">
+                                    <ClassificationNode>
+                                      <Disorder id="14826">
+                                        <OrphaNumber>101150</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101150</ExpertLink>
+                                        <Name lang="en">Autosomal recessive dopa-responsive dystonia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="10965">
+                                        <OrphaNumber>70594</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70594</ExpertLink>
+                                        <Name lang="en">Dopa-responsive dystonia due to sepiapterin reductase deficiency</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="13825">
+                                        <OrphaNumber>98808</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98808</ExpertLink>
+                                        <Name lang="en">Autosomal dominant dopa-responsive dystonia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="10437">
+                                    <OrphaNumber>36899</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36899</ExpertLink>
+                                    <Name lang="en">Myoclonus-dystonia syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="10720">
+                                    <OrphaNumber>53351</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53351</ExpertLink>
+                                    <Name lang="en">X-linked dystonia-parkinsonism</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="11017">
+                                    <OrphaNumber>71517</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71517</ExpertLink>
+                                    <Name lang="en">Rapid-onset dystonia-parkinsonism</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="18408">
+                                    <OrphaNumber>199351</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199351</ExpertLink>
+                                    <Name lang="en">Adult-onset dystonia-parkinsonism</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="18695">
+                                    <OrphaNumber>210571</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=210571</ExpertLink>
+                                    <Name lang="en">Dystonia 16</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="19264">
+                                    <OrphaNumber>238455</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238455</ExpertLink>
+                                    <Name lang="en">Infantile dystonia-parkinsonism</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22091">
+                                    <OrphaNumber>352649</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352649</ExpertLink>
+                                    <Name lang="en">Brain dopamine-serotonin vesicular transport disease</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22366">
+                                    <OrphaNumber>364063</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364063</ExpertLink>
+                                    <Name lang="en">Infantile epileptic-dyskinetic encephalopathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22484">
+                                    <OrphaNumber>370109</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370109</ExpertLink>
+                                    <Name lang="en">Ataxia-telangiectasia variant</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22485">
+                                    <OrphaNumber>370114</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370114</ExpertLink>
+                                    <Name lang="en">Combined cervical dystonia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="23047">
+                                    <OrphaNumber>412217</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412217</ExpertLink>
+                                    <Name lang="en">Dystonia-aphonia syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17101">
+                            <OrphaNumber>156159</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156159</ExpertLink>
+                            <Name lang="en">Isolated dystonia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="3632">
+                                <OrphaNumber>1866</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1866</ExpertLink>
+                                <Name lang="en">Focal, segmental or multifocal dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="11">
+                                <ClassificationNode>
+                                  <Disorder id="12516">
+                                    <OrphaNumber>93958</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93958</ExpertLink>
+                                    <Name lang="en">Oromandibular dystonia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12522">
+                                    <OrphaNumber>93964</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93964</ExpertLink>
+                                    <Name lang="en">Blepharospasm-oromandibular dystonia syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="13822">
+                                    <OrphaNumber>98805</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98805</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT4 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="13824">
+                                    <OrphaNumber>98807</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98807</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT13 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="14230">
+                                    <OrphaNumber>99657</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99657</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT2 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="21934">
+                                    <OrphaNumber>329466</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329466</ExpertLink>
+                                    <Name lang="en">Autosomal dominant focal dystonia, DYT25</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22482">
+                                    <OrphaNumber>370103</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370103</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT17 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="23108">
+                                    <OrphaNumber>420485</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420485</ExpertLink>
+                                    <Name lang="en">Cranio-cervical dystonia with laryngeal and upper-limb involvement</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="23109">
+                                    <OrphaNumber>420492</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420492</ExpertLink>
+                                    <Name lang="en">Adult-onset cervical dystonia, DYT23 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="24025">
+                                    <OrphaNumber>464440</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464440</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT27 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25681">
+                                    <OrphaNumber>494526</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494526</ExpertLink>
+                                    <Name lang="en">Infantile-onset generalized dyskinesia with orofacial involvement</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22568">
+                                <OrphaNumber>376724</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=376724</ExpertLink>
+                                <Name lang="en">Generalized isolated dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="3">
+                                <ClassificationNode>
+                                  <Disorder id="3643">
+                                    <OrphaNumber>256</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=256</ExpertLink>
+                                    <Name lang="en">Early-onset generalized limb-onset dystonia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="13823">
+                                    <OrphaNumber>98806</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98806</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT6 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="21261">
+                                    <OrphaNumber>306734</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306734</ExpertLink>
+                                    <Name lang="en">Primary dystonia, DYT21 type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21262">
+                            <OrphaNumber>306741</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306741</ExpertLink>
+                            <Name lang="en">Hemidystonia-hemiatrophy syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22483">
+                            <OrphaNumber>370106</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370106</ExpertLink>
+                            <Name lang="en">Rare disorder with dystonia and other neurologic or systemic manifestation</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="5">
+                            <ClassificationNode>
+                              <Disorder id="134">
+                                <OrphaNumber>905</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=905</ExpertLink>
+                                <Name lang="en">Wilson disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="3045">
+                                <OrphaNumber>3464</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3464</ExpertLink>
+                                <Name lang="en">Woodhouse-Sakati syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11149">
+                                <OrphaNumber>79107</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79107</ExpertLink>
+                                <Name lang="en">Developmental malformations-deafness-dystonia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22450">
+                                <OrphaNumber>369939</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369939</ExpertLink>
+                                <Name lang="en">Severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="23767">
+                                <OrphaNumber>459033</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=459033</ExpertLink>
+                                <Name lang="en">Ataxia-oculomotor apraxia type 4</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21256">
+                        <OrphaNumber>306712</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306712</ExpertLink>
+                        <Name lang="en">Rare tremor disorder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="7">
+                        <ClassificationNode>
+                          <Disorder id="134">
+                            <OrphaNumber>905</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=905</ExpertLink>
+                            <Name lang="en">Wilson disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2969">
+                            <OrphaNumber>3350</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3350</ExpertLink>
+                            <Name lang="en">Tremor-nystagmus-duodenal ulcer syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10721">
+                            <OrphaNumber>53372</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53372</ExpertLink>
+                            <Name lang="en">Hereditary geniospasm</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10891">
+                            <OrphaNumber>66633</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66633</ExpertLink>
+                            <Name lang="en">Sensorineural hearing loss-early graying-essential tremor syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12199">
+                            <OrphaNumber>93256</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93256</ExpertLink>
+                            <Name lang="en">Fragile X-associated tremor/ataxia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19281">
+                            <OrphaNumber>238606</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238606</ExpertLink>
+                            <Name lang="en">Primary orthostatic tremor</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23708">
+                            <OrphaNumber>457212</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457212</ExpertLink>
+                            <Name lang="en">Progressive essential tremor-speech impairment-facial dysmorphism-intellectual disability-abnormal behavior syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21257">
+                        <OrphaNumber>306715</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306715</ExpertLink>
+                        <Name lang="en">Rare choreic movement disorder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="21258">
+                            <OrphaNumber>306719</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306719</ExpertLink>
+                            <Name lang="en">Neurodegenerative disease with chorea</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="7">
+                            <ClassificationNode>
+                              <Disorder id="25682">
+                                <OrphaNumber>494541</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494541</ExpertLink>
+                                <Name lang="en">Childhood-onset benign chorea with striatal involvement</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="118">
+                                <OrphaNumber>399</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399</ExpertLink>
+                                <Name lang="en">Huntington disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="1634">
+                                <OrphaNumber>1429</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1429</ExpertLink>
+                                <Name lang="en">Benign familial chorea</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17159">
+                                <OrphaNumber>157941</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157941</ExpertLink>
+                                <Name lang="en">Huntington disease-like 1</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18666">
+                                <OrphaNumber>209905</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=209905</ExpertLink>
+                                <Name lang="en">Brain-lung-thyroid syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="19562">
+                                <OrphaNumber>248111</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=248111</ExpertLink>
+                                <Name lang="en">Juvenile Huntington disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22848">
+                                <OrphaNumber>401901</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401901</ExpertLink>
+                                <Name lang="en">Huntington disease-like syndrome due to C9ORF72 expansions</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21259">
+                            <OrphaNumber>306727</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306727</ExpertLink>
+                            <Name lang="en">Postinfectious autoimmune disease with chorea</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="10883">
+                                <OrphaNumber>66624</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66624</ExpertLink>
+                                <Name lang="en">PANDAS</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21260">
+                                <OrphaNumber>306731</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306731</ExpertLink>
+                                <Name lang="en">Sydenham chorea</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22435">
+                            <OrphaNumber>369847</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369847</ExpertLink>
+                            <Name lang="en">Intellectual disability-hyperkinetic movement-truncal ataxia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21263">
+                        <OrphaNumber>306747</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306747</ExpertLink>
+                        <Name lang="en">Rare myoclonus</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="21264">
+                            <OrphaNumber>306750</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306750</ExpertLink>
+                            <Name lang="en">Primary myoclonus</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="3">
+                            <ClassificationNode>
+                              <Disorder id="10437">
+                                <OrphaNumber>36899</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36899</ExpertLink>
+                                <Name lang="en">Myoclonus-dystonia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="11734">
+                                <OrphaNumber>86814</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86814</ExpertLink>
+                                <Name lang="en">Benign adult familial myoclonic epilepsy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21622">
+                                <OrphaNumber>319189</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319189</ExpertLink>
+                                <Name lang="en">Familial cortical myoclonus</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21265">
+                            <OrphaNumber>306753</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306753</ExpertLink>
+                            <Name lang="en">Rare disease with myoclonus as a major feature</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="3">
+                            <ClassificationNode>
+                              <Disorder id="789">
+                                <OrphaNumber>3452</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3452</ExpertLink>
+                                <Name lang="en">Whipple disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="5528">
+                                <OrphaNumber>1183</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1183</ExpertLink>
+                                <Name lang="en">Opsoclonus-myoclonus syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21266">
+                                <OrphaNumber>306756</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306756</ExpertLink>
+                                <Name lang="en">Epilepsy and/or ataxia with myoclonus as major feature</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="21267">
+                                    <OrphaNumber>306759</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306759</ExpertLink>
+                                    <Name lang="en">Non progressive epilepsy and/or ataxia with myoclonus as a major feature</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="2">
+                                    <ClassificationNode>
+                                      <Disorder id="102">
+                                        <OrphaNumber>307</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=307</ExpertLink>
+                                        <Name lang="en">Juvenile myoclonic epilepsy</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="11785">
+                                        <OrphaNumber>86911</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86911</ExpertLink>
+                                        <Name lang="en">Epilepsy with myoclonic absences</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="21268">
+                                    <OrphaNumber>306762</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306762</ExpertLink>
+                                    <Name lang="en">Progressive epilepsy and/or ataxia with myoclonus as a major feature</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="4">
+                                    <ClassificationNode>
+                                      <Disorder id="117">
+                                        <OrphaNumber>501</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=501</ExpertLink>
+                                        <Name lang="en">Lafora disease</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="294">
+                                        <OrphaNumber>308</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=308</ExpertLink>
+                                        <Name lang="en">Unverricht-Lundborg disease</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="2387">
+                                        <OrphaNumber>2590</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2590</ExpertLink>
+                                        <Name lang="en">Spinal muscular atrophy-progressive myoclonic epilepsy syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23295">
+                                        <OrphaNumber>435438</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435438</ExpertLink>
+                                        <Name lang="en">Progressive myoclonic epilepsy type 7</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21269">
+                        <OrphaNumber>306765</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306765</ExpertLink>
+                        <Name lang="en">Motor stereotypies</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="91">
+                            <OrphaNumber>778</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=778</ExpertLink>
+                            <Name lang="en">Rett syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="120">
+                            <OrphaNumber>908</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=908</ExpertLink>
+                            <Name lang="en">Fragile X syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="145">
+                            <OrphaNumber>904</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=904</ExpertLink>
+                            <Name lang="en">Williams syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3164">
+                            <OrphaNumber>3095</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3095</ExpertLink>
+                            <Name lang="en">Atypical Rett syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -9899,7 +9935,7 @@
                       <Disorder id="19185">
                         <OrphaNumber>231413</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231413</ExpertLink>
-                        <Name lang="en">Variant of Guillain-BarrÈ syndrome</Name>
+                        <Name lang="en">Variant of Guillain-Barré syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -15584,7 +15620,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68356</ExpertLink>
                 <Name lang="en">Leukodystrophy</Name>
               </Disorder>
-              <ClassificationNodeChildList count="39">
+              <ClassificationNodeChildList count="38">
                 <ClassificationNode>
                   <Disorder id="23727">
                     <OrphaNumber>457406</OrphaNumber>
@@ -15952,15 +15988,6 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="11617">
-                    <OrphaNumber>84096</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84096</ExpertLink>
-                    <Name lang="en">Unknown leukodystrophy</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -18586,21 +18613,12 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="18544">
-                                <OrphaNumber>206659</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206659</ExpertLink>
-                                <Name lang="en">Non-dystrophic myopathy with collagen 6 anomaly</Name>
+                              <Disorder id="20719">
+                                <OrphaNumber>289380</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289380</ExpertLink>
+                                <Name lang="en">Myosclerosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="20719">
-                                    <OrphaNumber>289380</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289380</ExpertLink>
-                                    <Name lang="en">Myosclerosis</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -23570,7 +23588,7 @@
                       <Disorder id="19537">
                         <OrphaNumber>247691</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247691</ExpertLink>
-                        <Name lang="en">Retinal vasculopathy and cerebral leukoencephalopathy</Name>
+                        <Name lang="en">Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24420,7 +24438,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="400">
+                  <ClassificationNodeChildList count="402">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -24776,7 +24794,7 @@
                       <Disorder id="1076">
                         <OrphaNumber>1438</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1438</ExpertLink>
-                        <Name lang="en">Ring chromosome 10</Name>
+                        <Name lang="en">Ring chromosome 10 syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -31100,6 +31118,24 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="25800">
+                        <OrphaNumber>495818</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                        <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25667">
+                        <OrphaNumber>494344</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494344</ExpertLink>
+                        <Name lang="en">RERE-related neurodevelopmental syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464282</ExpertLink>
@@ -34408,7 +34444,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158266</ExpertLink>
                         <Name lang="en">Huntington disease-like syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="10">
                         <ClassificationNode>
                           <Disorder id="150">
                             <OrphaNumber>101</OrphaNumber>
@@ -34569,6 +34605,15 @@
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25682">
+                            <OrphaNumber>494541</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494541</ExpertLink>
+                            <Name lang="en">Childhood-onset benign chorea with striatal involvement</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -39548,7 +39593,7 @@
                                   <Disorder id="23470">
                                     <OrphaNumber>443950</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443950</ExpertLink>
-                                    <Name lang="en">Charcot-Marie-Tooth disease type 2T</Name>
+                                    <Name lang="en">DNAJB2-related Charcot-Marie-Tooth disease type 2</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -41368,7 +41413,7 @@
                               <Disorder id="19185">
                                 <OrphaNumber>231413</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231413</ExpertLink>
-                                <Name lang="en">Variant of Guillain-BarrÈ syndrome</Name>
+                                <Name lang="en">Variant of Guillain-Barré syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="2">
                                 <ClassificationNode>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:02" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:19:56" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -4875,7 +4875,7 @@
                           <Disorder id="12800">
                             <OrphaNumber>96176</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96176</ExpertLink>
-                            <Name lang="en">Ring chromosome 13</Name>
+                            <Name lang="en">Ring chromosome 13 syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17560,7 +17560,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93455</ExpertLink>
                         <Name lang="en">Patellar dysostosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="392">
                             <OrphaNumber>2614</OrphaNumber>
@@ -17642,6 +17642,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25800">
+                            <OrphaNumber>495818</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                            <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -17675,7 +17684,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
                             <Name lang="en">Syndrome with brachydactyly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="40">
+                          <ClassificationNodeChildList count="41">
                             <ClassificationNode>
                               <Disorder id="151">
                                 <OrphaNumber>783</OrphaNumber>
@@ -18212,6 +18221,15 @@
                                 <OrphaNumber>444077</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
                                 <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25675">
+                                <OrphaNumber>494439</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                                <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -20002,7 +20020,7 @@
                               <Disorder id="1303">
                                 <OrphaNumber>988</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=988</ExpertLink>
-                                <Name lang="en">Absent tibia-polydactyly syndrome</Name>
+                                <Name lang="en">Tibial hemimelia-polysyndactyly-triphalangeal thumb syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -21281,7 +21299,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139021</ExpertLink>
                 <Name lang="en">Malformation syndrome with short stature</Name>
               </Disorder>
-              <ClassificationNodeChildList count="40">
+              <ClassificationNodeChildList count="41">
                 <ClassificationNode>
                   <Disorder id="145">
                     <OrphaNumber>904</OrphaNumber>
@@ -21809,6 +21827,15 @@
                     <OrphaNumber>480880</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480880</ExpertLink>
                     <Name lang="en">X-linked female restricted facial dysmorphism-short stature-choanal atresia-intellectual disability</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25675">
+                    <OrphaNumber>494439</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                    <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -26060,7 +26087,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139042</ExpertLink>
                 <Name lang="en">Malformation syndrome with odontal and/or periodontal component</Name>
               </Disorder>
-              <ClassificationNodeChildList count="60">
+              <ClassificationNodeChildList count="59">
                 <ClassificationNode>
                   <Disorder id="931">
                     <OrphaNumber>627</OrphaNumber>
@@ -26489,15 +26516,6 @@
                     <OrphaNumber>3473</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3473</ExpertLink>
                     <Name lang="en">Zimmermann-Laband syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="3073">
-                    <OrphaNumber>1258</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1258</ExpertLink>
-                    <Name lang="en">Blepharoptosis-cleft palate-ectrodactyly-dental anomalies syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -32125,7 +32143,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=262074</ExpertLink>
                                     <Name lang="en">Partial monosomy of the long arm of chromosome 9</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="4">
+                                  <ClassificationNodeChildList count="5">
                                     <ClassificationNode>
                                       <Disorder id="11113">
                                         <OrphaNumber>77301</OrphaNumber>
@@ -32158,6 +32176,15 @@
                                         <OrphaNumber>401923</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401923</ExpertLink>
                                         <Name lang="en">9q31.1q31.3 microdeletion syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="25800">
+                                        <OrphaNumber>495818</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                                        <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -33160,7 +33187,7 @@
                               <Disorder id="12796">
                                 <OrphaNumber>96172</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96172</ExpertLink>
-                                <Name lang="en">Ring chromosome 3</Name>
+                                <Name lang="en">Ring chromosome 3 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33169,7 +33196,7 @@
                               <Disorder id="12797">
                                 <OrphaNumber>96173</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96173</ExpertLink>
-                                <Name lang="en">Ring chromosome 9</Name>
+                                <Name lang="en">Ring chromosome 9 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33178,7 +33205,7 @@
                               <Disorder id="12799">
                                 <OrphaNumber>96175</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96175</ExpertLink>
-                                <Name lang="en">Ring chromosome 11</Name>
+                                <Name lang="en">Ring chromosome 11 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33187,7 +33214,7 @@
                               <Disorder id="12800">
                                 <OrphaNumber>96176</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96176</ExpertLink>
-                                <Name lang="en">Ring chromosome 13</Name>
+                                <Name lang="en">Ring chromosome 13 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33196,7 +33223,7 @@
                               <Disorder id="12801">
                                 <OrphaNumber>96177</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96177</ExpertLink>
-                                <Name lang="en">Ring chromosome 15</Name>
+                                <Name lang="en">Ring chromosome 15 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33205,7 +33232,7 @@
                               <Disorder id="12802">
                                 <OrphaNumber>96178</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96178</ExpertLink>
-                                <Name lang="en">Ring chromosome 16</Name>
+                                <Name lang="en">Ring chromosome 16 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33214,7 +33241,7 @@
                               <Disorder id="19608">
                                 <OrphaNumber>251043</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251043</ExpertLink>
-                                <Name lang="en">Ring chromosome 5</Name>
+                                <Name lang="en">Ring chromosome 5 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33223,7 +33250,7 @@
                               <Disorder id="442">
                                 <OrphaNumber>1442</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1442</ExpertLink>
-                                <Name lang="en">Ring chromosome 18</Name>
+                                <Name lang="en">Ring chromosome 18 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33232,7 +33259,7 @@
                               <Disorder id="896">
                                 <OrphaNumber>1446</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1446</ExpertLink>
-                                <Name lang="en">Ring chromosome 22</Name>
+                                <Name lang="en">Ring chromosome 22 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33241,7 +33268,7 @@
                               <Disorder id="1075">
                                 <OrphaNumber>1437</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1437</ExpertLink>
-                                <Name lang="en">Ring chromosome 1</Name>
+                                <Name lang="en">Ring chromosome 1 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33250,7 +33277,7 @@
                               <Disorder id="1076">
                                 <OrphaNumber>1438</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1438</ExpertLink>
-                                <Name lang="en">Ring chromosome 10</Name>
+                                <Name lang="en">Ring chromosome 10 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33259,7 +33286,7 @@
                               <Disorder id="1077">
                                 <OrphaNumber>1439</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1439</ExpertLink>
-                                <Name lang="en">Ring chromosome 12</Name>
+                                <Name lang="en">Ring chromosome 12 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33268,7 +33295,7 @@
                               <Disorder id="1078">
                                 <OrphaNumber>1444</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1444</ExpertLink>
-                                <Name lang="en">Ring chromosome 20</Name>
+                                <Name lang="en">Ring chromosome 20 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33277,7 +33304,7 @@
                               <Disorder id="1079">
                                 <OrphaNumber>1447</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1447</ExpertLink>
-                                <Name lang="en">Ring chromosome 4</Name>
+                                <Name lang="en">Ring chromosome 4 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33286,7 +33313,7 @@
                               <Disorder id="1080">
                                 <OrphaNumber>1448</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1448</ExpertLink>
-                                <Name lang="en">Ring chromosome 6</Name>
+                                <Name lang="en">Ring chromosome 6 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33304,7 +33331,7 @@
                               <Disorder id="1241">
                                 <OrphaNumber>1445</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1445</ExpertLink>
-                                <Name lang="en">Ring chromosome 21</Name>
+                                <Name lang="en">Ring chromosome 21 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33313,7 +33340,7 @@
                               <Disorder id="1640">
                                 <OrphaNumber>1440</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1440</ExpertLink>
-                                <Name lang="en">Ring chromosome 14</Name>
+                                <Name lang="en">Ring chromosome 14 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33322,7 +33349,7 @@
                               <Disorder id="1641">
                                 <OrphaNumber>1443</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1443</ExpertLink>
-                                <Name lang="en">Ring chromosome 19</Name>
+                                <Name lang="en">Ring chromosome 19 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33331,7 +33358,7 @@
                               <Disorder id="1642">
                                 <OrphaNumber>1449</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1449</ExpertLink>
-                                <Name lang="en">Ring chromosome 7</Name>
+                                <Name lang="en">Ring chromosome 7 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33340,7 +33367,7 @@
                               <Disorder id="3505">
                                 <OrphaNumber>1441</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1441</ExpertLink>
-                                <Name lang="en">Ring chromosome 17</Name>
+                                <Name lang="en">Ring chromosome 17 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33349,7 +33376,7 @@
                               <Disorder id="12795">
                                 <OrphaNumber>96171</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96171</ExpertLink>
-                                <Name lang="en">Ring chromosome 2</Name>
+                                <Name lang="en">Ring chromosome 2 syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -33700,7 +33727,7 @@
                               <Disorder id="19886">
                                 <OrphaNumber>261529</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261529</ExpertLink>
-                                <Name lang="en">Ring chromosome Y</Name>
+                                <Name lang="en">Ring chromosome Y syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -34041,7 +34068,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102283</ExpertLink>
                     <Name lang="en">Multiple congenital anomalies/dysmorphic syndrome-intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="342">
+                  <ClassificationNodeChildList count="344">
                     <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
@@ -37634,6 +37661,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="25667">
+                        <OrphaNumber>494344</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494344</ExpertLink>
+                        <Name lang="en">RERE-related neurodevelopmental syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="25309">
                         <OrphaNumber>485405</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485405</ExpertLink>
@@ -37669,6 +37705,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25800">
+                        <OrphaNumber>495818</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                        <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -37677,7 +37722,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102284</ExpertLink>
                     <Name lang="en">Multiple congenital anomalies/dysmorphic syndrome-variable intellectual disability syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="74">
+                  <ClassificationNodeChildList count="75">
                     <ClassificationNode>
                       <Disorder id="110">
                         <OrphaNumber>138</OrphaNumber>
@@ -38511,6 +38556,15 @@
                         <OrphaNumber>436003</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436003</ExpertLink>
                         <Name lang="en">Contractures-developmental delay-Pierre Robin syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25675">
+                        <OrphaNumber>494439</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                        <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -40186,7 +40240,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
                         <Name lang="en">Syndrome with brachydactyly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="40">
+                      <ClassificationNodeChildList count="41">
                         <ClassificationNode>
                           <Disorder id="151">
                             <OrphaNumber>783</OrphaNumber>
@@ -40723,6 +40777,15 @@
                             <OrphaNumber>444077</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
                             <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25675">
+                            <OrphaNumber>494439</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                            <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -41559,7 +41622,7 @@
                           <Disorder id="1303">
                             <OrphaNumber>988</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=988</ExpertLink>
-                            <Name lang="en">Absent tibia-polydactyly syndrome</Name>
+                            <Name lang="en">Tibial hemimelia-polysyndactyly-triphalangeal thumb syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -44382,7 +44445,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=458844</ExpertLink>
                     <Name lang="en">Rare vascular malformation of major vessels</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="13741">
                         <OrphaNumber>98724</OrphaNumber>
@@ -45081,6 +45144,15 @@
                         <OrphaNumber>981</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=981</ExpertLink>
                         <Name lang="en">Internal carotid agenesis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25672">
+                        <OrphaNumber>494424</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494424</ExpertLink>
+                        <Name lang="en">Extracranial carotid artery aneurysm</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -47363,7 +47435,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                 <Name lang="en">Syndromic genetic deafness</Name>
               </Disorder>
-              <ClassificationNodeChildList count="163">
+              <ClassificationNodeChildList count="166">
                 <ClassificationNode>
                   <Disorder id="22690">
                     <OrphaNumber>397623</OrphaNumber>
@@ -48301,6 +48373,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="18198">
+                    <OrphaNumber>182050</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182050</ExpertLink>
+                    <Name lang="en">MYH9-related disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="2342">
                     <OrphaNumber>2533</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2533</ExpertLink>
@@ -49084,6 +49165,24 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="25675">
+                    <OrphaNumber>494439</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                    <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25676">
+                    <OrphaNumber>494444</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494444</ExpertLink>
+                    <Name lang="en">DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25137">
                     <OrphaNumber>477668</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
@@ -49393,7 +49492,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98087</ExpertLink>
                         <Name lang="en">Syndrome with 46,XY disorder of sex development</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="18">
+                      <ClassificationNodeChildList count="19">
                         <ClassificationNode>
                           <Disorder id="230">
                             <OrphaNumber>893</OrphaNumber>
@@ -49543,6 +49642,15 @@
                             <OrphaNumber>456328</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456328</ExpertLink>
                             <Name lang="en">X-linked myotubular myopathy-abnormal genitalia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25674">
+                            <OrphaNumber>494433</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494433</ExpertLink>
+                            <Name lang="en">MIRAGE syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:57" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:52" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13065">
       <OrphaNumber>98047</OrphaNumber>
@@ -37,7 +37,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399824</ExpertLink>
                         <Name lang="en">Rare disorder with obstructive azoospermia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="49">
                             <OrphaNumber>586</OrphaNumber>
@@ -88,6 +88,15 @@
                             <OrphaNumber>3471</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3471</ExpertLink>
                             <Name lang="en">Young syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="823">
+                            <OrphaNumber>730</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=730</ExpertLink>
+                            <Name lang="en">Autosomal dominant polycystic kidney disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:55" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:50" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -39,7 +39,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                     <Name lang="en">Syndromic genetic deafness</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="168">
+                  <ClassificationNodeChildList count="171">
                     <ClassificationNode>
                       <Disorder id="23675">
                         <OrphaNumber>456298</OrphaNumber>
@@ -1022,6 +1022,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="18198">
+                        <OrphaNumber>182050</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182050</ExpertLink>
+                        <Name lang="en">MYH9-related disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="2342">
                         <OrphaNumber>2533</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2533</ExpertLink>
@@ -1800,6 +1809,24 @@
                         <OrphaNumber>456318</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=456318</ExpertLink>
                         <Name lang="en">Hereditary sensory neuropathy-deafness-dementia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25675">
+                        <OrphaNumber>494439</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                        <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25676">
+                        <OrphaNumber>494444</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494444</ExpertLink>
+                        <Name lang="en">DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

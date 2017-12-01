@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:52" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:48" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -5754,7 +5754,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93455</ExpertLink>
                     <Name lang="en">Patellar dysostosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="392">
                         <OrphaNumber>2614</OrphaNumber>
@@ -5836,6 +5836,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25800">
+                        <OrphaNumber>495818</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                        <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -5869,7 +5878,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
                         <Name lang="en">Syndrome with brachydactyly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="40">
+                      <ClassificationNodeChildList count="41">
                         <ClassificationNode>
                           <Disorder id="151">
                             <OrphaNumber>783</OrphaNumber>
@@ -6406,6 +6415,15 @@
                             <OrphaNumber>444077</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
                             <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25675">
+                            <OrphaNumber>494439</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                            <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8205,7 +8223,7 @@
                           <Disorder id="1303">
                             <OrphaNumber>988</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=988</ExpertLink>
-                            <Name lang="en">Absent tibia-polydactyly syndrome</Name>
+                            <Name lang="en">Tibial hemimelia-polysyndactyly-triphalangeal thumb syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9677,7 +9695,7 @@
                                   <Disorder id="3267">
                                     <OrphaNumber>743</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=743</ExpertLink>
-                                    <Name lang="en">Hereditary thrombophilia due to congenital protein S deficiency</Name>
+                                    <Name lang="en">Severe hereditary thrombophilia due to congenital protein S deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -9686,7 +9704,7 @@
                                   <Disorder id="3383">
                                     <OrphaNumber>745</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=745</ExpertLink>
-                                    <Name lang="en">Hereditary thrombophilia due to congenital protein C deficiency</Name>
+                                    <Name lang="en">Severe hereditary thrombophilia due to congenital protein C deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

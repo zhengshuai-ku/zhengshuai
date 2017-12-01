@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:21:35" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2017-12-01 04:20:30" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -3070,7 +3070,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79370</ExpertLink>
                         <Name lang="en">Syndromic nail anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="15">
+                      <ClassificationNodeChildList count="16">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -3220,6 +3220,15 @@
                             <OrphaNumber>2793</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2793</ExpertLink>
                             <Name lang="en">Otoonychoperoneal syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25800">
+                            <OrphaNumber>495818</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495818</ExpertLink>
+                            <Name lang="en">9q33.3q34.11 microdeletion syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

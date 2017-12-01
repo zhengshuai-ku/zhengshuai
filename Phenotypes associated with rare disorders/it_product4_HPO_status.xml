@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-11-01 04:08:10" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
-  <HPODisorderSetStatusList count="2898">
+<JDBOR date="2017-12-01 04:07:52" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+  <HPODisorderSetStatusList count="2936">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -13784,18 +13784,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:50:00.866</CreationDate>
       <UpdateDate>2016-05-31 11:50:00.866</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1254">
-      <Disorder id="3073">
-        <OrphaNumber>1258</OrphaNumber>
-        <Name lang="it">Blefaroptosi - palatoschisi - ectrodattilia - anomalie dentali</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:50:00.803</CreationDate>
-      <UpdateDate>2016-05-31 11:50:00.803</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1253">
       <Disorder id="3071">
@@ -32901,6 +32889,390 @@
       <CreationDate>2017-03-15 11:25:43.836</CreationDate>
       <UpdateDate>2017-03-15 11:25:43.836</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2989">
+      <Disorder id="14657">
+        <OrphaNumber>100085</OrphaNumber>
+        <Name lang="it">Tumore endocrino epatico</Name>
+      </Disorder>
+      <Source>8453589[PMID]_19031017[PMID]_20133228[PMID]_21329891[PMID]_24761861[PMID]_25051214[PMID]_26882787[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-13 14:43:44.133</CreationDate>
+      <UpdateDate>2017-11-13 14:43:44.133</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2988">
+      <Disorder id="14658">
+        <OrphaNumber>100086</OrphaNumber>
+        <Name lang="it">Tumore endocrino della cistifellea</Name>
+      </Disorder>
+      <Source>26576584[PMID]_20375728[PMID]_26000067[PMID]_25910356[PMID]_25525590[PMID]_25043774[PMID]_24666880[PMID]_24455579[PMID]_23826575[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-13 13:59:21.14</CreationDate>
+      <UpdateDate>2017-11-13 13:59:21.14</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2991">
+      <Disorder id="12881">
+        <OrphaNumber>97287</OrphaNumber>
+        <Name lang="it">Tumore endocrino dei bronchi</Name>
+      </Disorder>
+      <Source>27373769[PMID]_18473355[PMID]_2992742[PMID]_12371583[PMID]_22112810[PMID]_11073802[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-15 17:18:17.863</CreationDate>
+      <UpdateDate>2017-11-15 17:18:17.863</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2990">
+      <Disorder id="14647">
+        <OrphaNumber>100075</OrphaNumber>
+        <Name lang="it">Tumore endocrino gastrico</Name>
+      </Disorder>
+      <Source>24415864[PMID]_22052063[PMID]_9070484[PMID]_18097129[PMID]_18097129[PMID]_22997445[PMID]_22262004[PMID]_18941127[PMID]_26511392[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-15 15:20:40.946</CreationDate>
+      <UpdateDate>2017-11-15 15:20:40.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2985">
+      <Disorder id="3731">
+        <OrphaNumber>1501</OrphaNumber>
+        <Name lang="it">Corticosurrenaloma</Name>
+      </Disorder>
+      <Source>26191527[PMID],29087170[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-10 16:05:36.653</CreationDate>
+      <UpdateDate>2017-11-10 16:05:36.653</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2984">
+      <Disorder id="3641">
+        <OrphaNumber>441</OrphaNumber>
+        <Name lang="it">Insufficienza pura del sistema autonomo</Name>
+      </Disorder>
+      <Source>15965200[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-31 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-10 15:58:12.61</CreationDate>
+      <UpdateDate>2017-11-10 15:58:12.61</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2987">
+      <Disorder id="14655">
+        <OrphaNumber>100083</OrphaNumber>
+        <Name lang="it">Tumore endocrino della laringe</Name>
+      </Disorder>
+      <Source>24596175[PMID]_19536850[PMID]_2692106[PMID]_1659825[PMID]_1845268[PMID]_18417860[PMID]_23521413[PMID]_23397787[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-13 11:24:10.39</CreationDate>
+      <UpdateDate>2017-11-13 11:24:10.39</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2986">
+      <Disorder id="11166">
+        <OrphaNumber>79140</OrphaNumber>
+        <Name lang="it">Carcinoma cutaneo neuroendocrino</Name>
+      </Disorder>
+      <Source>28762116[PMID]_27198511[PMID]_26185585[PMID]_24094946[PMID]_19396152[PMID]_7825937[PMID]_7811116[PMID]_2427595[PMID]_5009611[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-13 10:42:01.703</CreationDate>
+      <UpdateDate>2017-11-13 10:42:01.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2981">
+      <Disorder id="14652">
+        <OrphaNumber>100080</OrphaNumber>
+        <Name lang="it">Tumore endocrino del colon</Name>
+      </Disorder>
+      <Source>20664474[PMID]_24763982[PMID]_24412088[PMID]_16913162[PMID]_22052063[PMID]_1568162[PMID]_15213627[PMID]_24468036[PMID]_27175651[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-08 14:37:41.18</CreationDate>
+      <UpdateDate>2017-11-08 14:37:41.18</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2980">
+      <Disorder id="14651">
+        <OrphaNumber>100079</OrphaNumber>
+        <Name lang="it">Tumore endocrino dell'appendice</Name>
+      </Disorder>
+      <Source>12115365[PMID]_21741512[PMID]_25840530[PMID]_8466309[PMID]_25840530[PMID]_22052063[PMID]_28326748[PMID]_27311320[PMID]_27306228[PMID]_26774818[PMID]_23049637[PMID]_20631606[PMID]_19363829[PMID]_17082811[PMID]_10832290[PMID]_10352529[PMID]_10323177[PMID]_14047627[PMID]_18887660[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-08 10:54:55.643</CreationDate>
+      <UpdateDate>2017-11-08 10:54:55.643</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2983">
+      <Disorder id="14654">
+        <OrphaNumber>100082</OrphaNumber>
+        <Name lang="it">Tumore endocrino del canale anale</Name>
+      </Disorder>
+      <Source>18490556[PMID]_20664474[PMID]_24163193[PMID]_24763982[PMID]_24412088[PMID]_16913162[PMID]_22052063[PMID]_1568162[PMID]_15213627[PMID]_24468036[PMID]_27175651[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-08 16:30:44.606</CreationDate>
+      <UpdateDate>2017-11-08 16:30:44.606</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2982">
+      <Disorder id="14653">
+        <OrphaNumber>100081</OrphaNumber>
+        <Name lang="it">Tumore endocrino del retto</Name>
+      </Disorder>
+      <Source>20664474[PMID]_24163193[PMID]_24763982[PMID]_24412088[PMID]_16913162[PMID]_22052063[PMID]_1568162[PMID]_15213627[PMID]_24468036[PMID]_27175651[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-08 15:48:20.926</CreationDate>
+      <UpdateDate>2017-11-08 15:48:20.926</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2977">
+      <Disorder id="3002">
+        <OrphaNumber>3404</OrphaNumber>
+        <Name lang="it">Sindrome di Ulbright-Hodes</Name>
+      </Disorder>
+      <Source>15476130[PMID]_2240030[PMID]_6711618[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-06 11:06:57.426</CreationDate>
+      <UpdateDate>2017-11-06 11:06:57.426</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2976">
+      <Disorder id="2561">
+        <OrphaNumber>2820</OrphaNumber>
+        <Name lang="it">Paraplegia spastica - nefropatia - sordità</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-30 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 17:11:56.913</CreationDate>
+      <UpdateDate>2017-11-03 17:11:56.913</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2979">
+      <Disorder id="2388">
+        <OrphaNumber>2593</OrphaNumber>
+        <Name lang="it">Miopatia con aggregati tubulari</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate/>
+      <CreationDate>2017-11-08 10:17:16.566</CreationDate>
+      <UpdateDate>2017-11-08 10:17:16.566</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2978">
+      <Disorder id="14665">
+        <OrphaNumber>100093</OrphaNumber>
+        <Name lang="it">Tumore carcinoide e sindrome carcinoide</Name>
+      </Disorder>
+      <Source>22052063[PMID]_12007193[PMID]_5936207[PMID]_2920654[PMID]_10925383[PMID]_25865046[PMID]_25376364[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-06 16:31:03.656</CreationDate>
+      <UpdateDate>2017-11-06 16:31:03.656</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3004">
+      <Disorder id="2539">
+        <OrphaNumber>2791</OrphaNumber>
+        <Name lang="it">Sindrome otodentale</Name>
+      </Disorder>
+      <Source>16722606[PMID]_28151902[PMID]_11552150[PMID]_12147582[PMID]_7227680[PMID]_1175318[PMID]_6585292[PMID]_5255997[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-27 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-27 12:32:11.623</CreationDate>
+      <UpdateDate>2017-11-27 12:32:11.623</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3005">
+      <Disorder id="2617">
+        <OrphaNumber>2890</OrphaNumber>
+        <Name lang="it">Pili torti - onicodisplasia</Name>
+      </Disorder>
+      <Source>1879585[PMID]_1479096[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-27 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-27 14:03:47.716</CreationDate>
+      <UpdateDate>2017-11-27 14:03:47.716</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3006">
+      <Disorder id="2590">
+        <OrphaNumber>708</OrphaNumber>
+        <Name lang="it">Anomalia di Peters</Name>
+      </Disorder>
+      <Source>380351[PMID]_21448066[PMID]_474688[PMID]_14711722[PMID]_12566051[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-27 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-27 14:26:29.696</CreationDate>
+      <UpdateDate>2017-11-27 14:26:29.696</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3007">
+      <Disorder id="2578">
+        <OrphaNumber>2839</OrphaNumber>
+        <Name lang="it">Displasia scapola-bacino</Name>
+      </Disorder>
+      <Source>7103674[PMID]_11146473[PMID]_9732492[PMID]_11146474[PMID]_16025020[PMID]_9732492[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-12-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-27 16:10:44.7</CreationDate>
+      <UpdateDate>2017-11-27 16:10:44.7</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3000">
+      <Disorder id="20063">
+        <OrphaNumber>263494</OrphaNumber>
+        <Name lang="it">DPM3-CDG</Name>
+      </Disorder>
+      <Source>19576565[PMID]_10835346[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-22 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-22 15:47:44.45</CreationDate>
+      <UpdateDate>2017-11-22 15:47:44.45</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3001">
+      <Disorder id="20064">
+        <OrphaNumber>263501</OrphaNumber>
+        <Name lang="it">COG4-CDG</Name>
+      </Disorder>
+      <Source>19494034[PMID]_21185756[PMID]_16356446[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-22 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-22 16:45:28.443</CreationDate>
+      <UpdateDate>2017-11-22 16:45:28.443</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3002">
+      <Disorder id="22696">
+        <OrphaNumber>397725</OrphaNumber>
+        <Name lang="it">Neurodegenerazione associata alla proteina COASY</Name>
+      </Disorder>
+      <Source>23447832[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-24 14:49:27.926</CreationDate>
+      <UpdateDate>2017-11-24 14:49:27.926</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3003">
+      <Disorder id="22343">
+        <OrphaNumber>363710</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 37</Name>
+      </Disorder>
+      <Source>23700170[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-13 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-24 15:10:01.423</CreationDate>
+      <UpdateDate>2017-11-24 15:10:01.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2996">
+      <Disorder id="8023">
+        <OrphaNumber>277</OrphaNumber>
+        <Name lang="it">Immunodeficienza combinata grave da deficit di adenosina deaminasi</Name>
+      </Disorder>
+      <Source>20301656[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-21 16:04:34.69</CreationDate>
+      <UpdateDate>2017-11-21 16:04:34.69</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2997">
+      <Disorder id="2143">
+        <OrphaNumber>2274</OrphaNumber>
+        <Name lang="it">Ittiosi - epatosplenomegalia - degenerazione cerebellare</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-08 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-21 16:33:06.25</CreationDate>
+      <UpdateDate>2017-11-21 16:33:06.25</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2998">
+      <Disorder id="11697">
+        <OrphaNumber>85327</OrphaNumber>
+        <Name lang="it">Ritardo mentale legato all'X - acromegalia - iperattività</Name>
+      </Disorder>
+      <Source>2018059[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-22 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-22 11:10:50.963</CreationDate>
+      <UpdateDate>2017-11-22 11:10:50.963</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2999">
+      <Disorder id="20039">
+        <OrphaNumber>263297</OrphaNumber>
+        <Name lang="it">Malattia da deposito di glicogeno con cardiomiopatia grave da deficit di glicogenina</Name>
+      </Disorder>
+      <Source>20357282[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-22 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-22 11:25:49.693</CreationDate>
+      <UpdateDate>2017-11-22 11:25:49.693</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2992">
+      <Disorder id="3051">
+        <OrphaNumber>3472</OrphaNumber>
+        <Name lang="it">Sindrome di Yunis-Varon</Name>
+      </Disorder>
+      <Source>7395825[PMID]_2918527[PMID]_2319578[PMID]_1533447[PMID]_8411078[PMID]_18203163[PMID]_22044576[PMID]_20932945[PMID]_24610892[PMID]_24658994[PMID]_28635952[PMID]_27292112[PMID]_23623387[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-20 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-20 14:57:34.803</CreationDate>
+      <UpdateDate>2017-11-20 14:57:34.803</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2993">
+      <Disorder id="3409">
+        <OrphaNumber>1171</OrphaNumber>
+        <Name lang="it">Atassia cerebellare - areflessia - piede cavo - atrofia ottica - sordità neurosensoriale</Name>
+      </Disorder>
+      <Source>20301294[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-21 10:44:19.506</CreationDate>
+      <UpdateDate>2017-11-21 10:44:19.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2994">
+      <Disorder id="3752">
+        <OrphaNumber>360</OrphaNumber>
+        <Name lang="it">Glioblastoma</Name>
+      </Disorder>
+      <Source>26948367[PMID],28640706[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-21 11:31:00.68</CreationDate>
+      <UpdateDate>2017-11-21 11:31:00.68</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2995">
+      <Disorder id="7029">
+        <OrphaNumber>2032</OrphaNumber>
+        <Name lang="it">Fibrosi polmonare idiopatica</Name>
+      </Disorder>
+      <Source>21471066[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-11-07 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-21 15:26:42.086</CreationDate>
+      <UpdateDate>2017-11-21 15:26:42.086</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2959">
       <Disorder id="2913">
         <OrphaNumber>3258</OrphaNumber>
@@ -33093,6 +33465,78 @@
       <CreationDate>2017-10-19 15:13:44.453</CreationDate>
       <UpdateDate>2017-10-19 15:13:44.453</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2974">
+      <Disorder id="2559">
+        <OrphaNumber>2818</OrphaNumber>
+        <Name lang="it">Paraplegia spastica - glaucoma - ritardo mentale</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-26 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 16:21:23.566</CreationDate>
+      <UpdateDate>2017-11-03 16:21:23.566</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2975">
+      <Disorder id="2560">
+        <OrphaNumber>2819</OrphaNumber>
+        <Name lang="it">Paraplegia spastica - lesioni cutanee facciali</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-26 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 16:45:18.236</CreationDate>
+      <UpdateDate>2017-11-03 16:45:18.236</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2972">
+      <Disorder id="2227">
+        <OrphaNumber>2400</OrphaNumber>
+        <Name lang="it">Neuropatia motoria periferica - disautonomia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 15:18:47.5</CreationDate>
+      <UpdateDate>2017-11-03 15:18:47.5</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2973">
+      <Disorder id="2371">
+        <OrphaNumber>2571</OrphaNumber>
+        <Name lang="it">Malattia immunoneurologica legata all'X</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-26 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 15:52:25.82</CreationDate>
+      <UpdateDate>2017-11-03 15:52:25.82</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2970">
+      <Disorder id="3530">
+        <OrphaNumber>2023</OrphaNumber>
+        <Name lang="it">Istiocitoma fibroso maligno</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 11:37:03.033</CreationDate>
+      <UpdateDate>2017-11-03 11:37:03.033</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="2971">
+      <Disorder id="3555">
+        <OrphaNumber>5</OrphaNumber>
+        <Name lang="it">Deficit di 3-idrossiacil-CoA deidrogenasi a catena lunga</Name>
+      </Disorder>
+      <Source>18162058[PMID],11773547[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-10-24 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-03 11:43:01.326</CreationDate>
+      <UpdateDate>2017-11-03 11:43:01.326</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2968">
       <Disorder id="2436">
         <OrphaNumber>2669</OrphaNumber>
@@ -33212,6 +33656,18 @@
       <UpdateDate>2017-10-23 00:00:00.0</UpdateDate>
       <CreationDate>2017-10-23 16:46:07.11</CreationDate>
       <UpdateDate>2017-10-23 16:46:07.11</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3008">
+      <Disorder id="2130">
+        <OrphaNumber>672</OrphaNumber>
+        <Name lang="it">Sindrome di Pallister-Hall</Name>
+      </Disorder>
+      <Source>24736735[PMID]_18057317[PMID]_26604140[PMID]_14708104[PMID]_21108399[PMID]_11241471[PMID]_9192261[PMID]_8591673[PMID]_8182722[PMID]_2596511[PMID]_7211952[PMID]_8914745[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-12-04 00:00:00.0</UpdateDate>
+      <CreationDate>2017-11-29 12:24:19.603</CreationDate>
+      <UpdateDate>2017-11-29 12:24:19.603</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2852">
       <Disorder id="3214">
@@ -34694,7 +35150,7 @@
         <OrphaNumber>100076</OrphaNumber>
         <Name lang="it">Tumore endocrino duodenale</Name>
       </Disorder>
-      <Source>22052063[PMID]_9070484[PMID]_18097129[PMID]_18097129[PMID]_22997445[PMID]_22262004[PMID]_18941127[PMID]_26511392[PMID]</Source>
+      <Source>24415864[PMID]_22052063[PMID]_21424696[PMID]_9070484[PMID]_18097129[PMID]_18097129[PMID]_22997445[PMID]_22262004[PMID]_18941127[PMID]_26511392[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-09-27 00:00:00.0</UpdateDate>
