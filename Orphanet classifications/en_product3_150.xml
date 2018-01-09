@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:04" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:06" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -1243,7 +1243,7 @@
                   <Disorder id="10372">
                     <OrphaNumber>35121</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35121</ExpertLink>
-                    <Name lang="en">Acid phosphatase deficiency</Name>
+                    <Name lang="en">Lysosomal acid phosphatase deficiency</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -4470,7 +4470,7 @@
                           <Disorder id="19879">
                             <OrphaNumber>261476</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261476</ExpertLink>
-                            <Name lang="en">Monosomy Xp21</Name>
+                            <Name lang="en">Xp21 microdeletion syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5165,7 +5165,7 @@
                       <Disorder id="14985">
                         <OrphaNumber>103909</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103909</ExpertLink>
-                        <Name lang="en">Diarrhea-vomiting due to trehalase deficiency</Name>
+                        <Name lang="en">Trehalase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5415,7 +5415,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35696</ExpertLink>
                                 <Name lang="en">Mitochondrial disorder due to a defect in mitochondrial protein synthesis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="40">
+                              <ClassificationNodeChildList count="39">
                                 <ClassificationNode>
                                   <Disorder id="1213">
                                     <OrphaNumber>2598</OrphaNumber>
@@ -5543,15 +5543,6 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="19803">
-                                    <OrphaNumber>254930</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254930</ExpertLink>
-                                    <Name lang="en">Combined oxidative phosphorylation defect type 7</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
                                   <Disorder id="21475">
                                     <OrphaNumber>314051</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314051</ExpertLink>
@@ -5619,15 +5610,6 @@
                                     <OrphaNumber>319524</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319524</ExpertLink>
                                     <Name lang="en">Combined oxidative phosphorylation defect type 15</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21716">
-                                    <OrphaNumber>320375</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320375</ExpertLink>
-                                    <Name lang="en">Autosomal recessive spastic paraplegia type 55</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5756,6 +5738,33 @@
                                     <Name lang="en">Combined oxidative phosphorylation defect type 27</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25864">
+                                    <OrphaNumber>497623</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497623</ExpertLink>
+                                    <Name lang="en">C12ORF65-related combined oxidative phosphorylation defect</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="2">
+                                    <ClassificationNode>
+                                      <Disorder id="19803">
+                                        <OrphaNumber>254930</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254930</ExpertLink>
+                                        <Name lang="en">Combined oxidative phosphorylation defect type 7</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="21716">
+                                        <OrphaNumber>320375</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320375</ExpertLink>
+                                        <Name lang="en">Autosomal recessive spastic paraplegia type 55</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -6183,7 +6192,7 @@
                                       <Disorder id="21449">
                                         <OrphaNumber>313772</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=313772</ExpertLink>
-                                        <Name lang="en">Early-onset spastic ataxia-neuropathy syndrome</Name>
+                                        <Name lang="en">Early-onset spastic ataxia-myoclonic epilepsy-neuropathy syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -6720,7 +6729,7 @@
                           <Disorder id="2545">
                             <OrphaNumber>2802</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2802</ExpertLink>
-                            <Name lang="en">X-linked sideroblastic anemia and ataxia</Name>
+                            <Name lang="en">X-linked sideroblastic anemia and spinocerebellar ataxia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8754,7 +8763,7 @@
                           <Disorder id="20495">
                             <OrphaNumber>280671</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280671</ExpertLink>
-                            <Name lang="en">Congenital muscular dystrophy due to phosphatidylcholine biosynthesis defect</Name>
+                            <Name lang="en">Megaconial congenital muscular dystrophy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

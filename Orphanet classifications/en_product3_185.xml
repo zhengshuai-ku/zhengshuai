@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:26" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:27" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="14860">
       <OrphaNumber>101433</OrphaNumber>
@@ -316,7 +316,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182121</ExpertLink>
                         <Name lang="en">Non-syndromic urogenital tract malformation of male</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="1000">
                             <OrphaNumber>48</OrphaNumber>
@@ -376,6 +376,15 @@
                             <OrphaNumber>95707</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95707</ExpertLink>
                             <Name lang="en">Isolated micropenis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25805">
+                            <OrphaNumber>495879</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495879</ExpertLink>
+                            <Name lang="en">Congenital agenesis of the scrotum</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -588,7 +597,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165707</ExpertLink>
                     <Name lang="en">Syndromic urogenital tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="34">
+                  <ClassificationNodeChildList count="35">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -981,6 +990,15 @@
                         <OrphaNumber>439897</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439897</ExpertLink>
                         <Name lang="en">Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25804">
+                        <OrphaNumber>495875</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495875</ExpertLink>
+                        <Name lang="en">Congenital labioscrotal agenesis-cerebellar malformation-corneal dystrophy-facial dysmorphism syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2006,7 +2024,7 @@
                       <Disorder id="22717">
                         <OrphaNumber>398053</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398053</ExpertLink>
-                        <Name lang="en">Adenocarcinoma of penis</Name>
+                        <Name lang="en">Adenocarcinoma of the penis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

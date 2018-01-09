@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:36" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:37" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -197,7 +197,7 @@
                       <Disorder id="14653">
                         <OrphaNumber>100081</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
-                        <Name lang="en">Neuroendocrine tumor of rectum</Name>
+                        <Name lang="en">Neuroendocrine tumor of the rectum</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4170,7 +4170,7 @@
               <Disorder id="12552">
                 <OrphaNumber>94080</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94080</ExpertLink>
-                <Name lang="en">Non-secreting paraganglioma</Name>
+                <Name lang="en">Non-functioning paraganglioma</Name>
               </Disorder>
               <ClassificationNodeChildList count="1">
                 <ClassificationNode>
@@ -5480,7 +5480,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101963</ExpertLink>
                             <Name lang="en">Acquired chronic primary adrenal insufficiency</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="2812">
                                 <OrphaNumber>3143</OrphaNumber>
@@ -5504,15 +5504,6 @@
                                 <OrphaNumber>85138</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85138</ExpertLink>
                                 <Name lang="en">Addison disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12656">
-                                <OrphaNumber>95701</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95701</ExpertLink>
-                                <Name lang="en">Congenital adrenal hypoplasia of maternal cause</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

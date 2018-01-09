@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:34" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:35" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -433,7 +433,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98628</ExpertLink>
                         <Name lang="en">Syndromic corneal dystrophy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="15">
+                      <ClassificationNodeChildList count="16">
                         <ClassificationNode>
                           <Disorder id="42">
                             <OrphaNumber>461</OrphaNumber>
@@ -583,6 +583,15 @@
                             <OrphaNumber>85453</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85453</ExpertLink>
                             <Name lang="en">X-linked reticulate pigmentary disorder</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25804">
+                            <OrphaNumber>495875</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495875</ExpertLink>
+                            <Name lang="en">Congenital labioscrotal agenesis-cerebellar malformation-corneal dystrophy-facial dysmorphism syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7588,7 +7597,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=441434</ExpertLink>
                         <Name lang="en">Syndromic hereditary optic neuropathy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="27">
+                      <ClassificationNodeChildList count="28">
                         <ClassificationNode>
                           <Disorder id="25256">
                             <OrphaNumber>482606</OrphaNumber>
@@ -7675,15 +7684,6 @@
                             <OrphaNumber>3463</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3463</ExpertLink>
                             <Name lang="en">Wolfram syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1485">
-                            <OrphaNumber>1239</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1239</ExpertLink>
-                            <Name lang="en">Behr syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7847,7 +7847,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=431320</ExpertLink>
                             <Name lang="en">Spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="21722">
                                 <OrphaNumber>320406</OrphaNumber>
@@ -7875,6 +7875,15 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21716">
+                                <OrphaNumber>320375</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320375</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 55</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -7893,6 +7902,42 @@
                             <Name lang="en">Infantile-onset axonal motor and sensory neuropathy-optic atrophy-neurodegenerative syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25803">
+                            <OrphaNumber>495844</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495844</ExpertLink>
+                            <Name lang="en">C11ORF73-related autosomal recessive hypomyelinating leukodystrophy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25864">
+                            <OrphaNumber>497623</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497623</ExpertLink>
+                            <Name lang="en">C12ORF65-related combined oxidative phosphorylation defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="19803">
+                                <OrphaNumber>254930</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254930</ExpertLink>
+                                <Name lang="en">Combined oxidative phosphorylation defect type 7</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21716">
+                                <OrphaNumber>320375</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320375</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 55</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -11674,7 +11719,7 @@
                   <Disorder id="22142">
                     <OrphaNumber>353356</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353356</ExpertLink>
-                    <Name lang="en">Vasoproliferative tumor of retina</Name>
+                    <Name lang="en">Vasoproliferative tumor of the retina</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

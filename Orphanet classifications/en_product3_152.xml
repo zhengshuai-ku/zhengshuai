@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:06" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:08" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -204,7 +204,7 @@
                           <Disorder id="14549">
                             <OrphaNumber>99976</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99976</ExpertLink>
-                            <Name lang="en">Adenocarcinoma of esophagus</Name>
+                            <Name lang="en">Adenocarcinoma of the esophagus</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -368,7 +368,7 @@
                       <Disorder id="12229">
                         <OrphaNumber>93292</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93292</ExpertLink>
-                        <Name lang="en">Adenoma of pancreas</Name>
+                        <Name lang="en">Adenoma of the pancreas</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -499,7 +499,7 @@
                               <Disorder id="23191">
                                 <OrphaNumber>424053</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424053</ExpertLink>
-                                <Name lang="en">Mucinous cystadenocarcinoma of pancreas</Name>
+                                <Name lang="en">Mucinous cystadenocarcinoma of the pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -526,7 +526,7 @@
                               <Disorder id="23194">
                                 <OrphaNumber>424073</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424073</ExpertLink>
-                                <Name lang="en">Serous cystadenocarcinoma of pancreas</Name>
+                                <Name lang="en">Serous cystadenocarcinoma of the pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1106,7 +1106,7 @@
                       <Disorder id="14985">
                         <OrphaNumber>103909</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103909</ExpertLink>
-                        <Name lang="en">Diarrhea-vomiting due to trehalase deficiency</Name>
+                        <Name lang="en">Trehalase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1487,7 +1487,7 @@
                                   <Disorder id="15005">
                                     <OrphaNumber>104075</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=104075</ExpertLink>
-                                    <Name lang="en">Adenocarcinoma of small instestine</Name>
+                                    <Name lang="en">Adenocarcinoma of the small instestine</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1635,7 +1635,7 @@
                           <Disorder id="14653">
                             <OrphaNumber>100081</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
-                            <Name lang="en">Neuroendocrine tumor of rectum</Name>
+                            <Name lang="en">Neuroendocrine tumor of the rectum</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1945,7 +1945,7 @@
                   <Disorder id="20348">
                     <OrphaNumber>276145</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                    <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
+                    <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

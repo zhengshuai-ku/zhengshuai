@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:54" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:54" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -274,7 +274,7 @@
                               <Disorder id="14485">
                                 <OrphaNumber>99912</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99912</ExpertLink>
-                                <Name lang="en">Malignant dysgerminomatous germ cell tumor of ovary</Name>
+                                <Name lang="en">Malignant dysgerminomatous germ cell tumor of the ovary</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3822,7 +3822,7 @@
                           <Disorder id="18384">
                             <OrphaNumber>199260</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199260</ExpertLink>
-                            <Name lang="en">Calcified aponeurotic fibroma</Name>
+                            <Name lang="en">Calcifying aponeurotic fibroma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3862,7 +3862,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294057</ExpertLink>
                         <Name lang="en">Rare nevus</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="24">
+                      <ClassificationNodeChildList count="25">
                         <ClassificationNode>
                           <Disorder id="243">
                             <OrphaNumber>201</OrphaNumber>
@@ -4102,6 +4102,15 @@
                             <OrphaNumber>370059</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370059</ExpertLink>
                             <Name lang="en">NEVADA syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25866">
+                            <OrphaNumber>497757</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497757</ExpertLink>
+                            <Name lang="en">MME-related autosomal dominant Charcot Marie Tooth disease type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4572,7 +4581,7 @@
                                       <Disorder id="23202">
                                         <OrphaNumber>424943</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424943</ExpertLink>
-                                        <Name lang="en">Adenocarcinoma of liver and intrahepatic biliary tract</Name>
+                                        <Name lang="en">Adenocarcinoma of the liver and intrahepatic biliary tract</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -4689,7 +4698,7 @@
                                       <Disorder id="15005">
                                         <OrphaNumber>104075</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=104075</ExpertLink>
-                                        <Name lang="en">Adenocarcinoma of small instestine</Name>
+                                        <Name lang="en">Adenocarcinoma of the small instestine</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -4837,7 +4846,7 @@
                               <Disorder id="14653">
                                 <OrphaNumber>100081</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
-                                <Name lang="en">Neuroendocrine tumor of rectum</Name>
+                                <Name lang="en">Neuroendocrine tumor of the rectum</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5026,7 +5035,7 @@
                               <Disorder id="14549">
                                 <OrphaNumber>99976</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99976</ExpertLink>
-                                <Name lang="en">Adenocarcinoma of esophagus</Name>
+                                <Name lang="en">Adenocarcinoma of the esophagus</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5073,7 +5082,7 @@
                           <Disorder id="12229">
                             <OrphaNumber>93292</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93292</ExpertLink>
-                            <Name lang="en">Adenoma of pancreas</Name>
+                            <Name lang="en">Adenoma of the pancreas</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5204,7 +5213,7 @@
                                   <Disorder id="23191">
                                     <OrphaNumber>424053</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424053</ExpertLink>
-                                    <Name lang="en">Mucinous cystadenocarcinoma of pancreas</Name>
+                                    <Name lang="en">Mucinous cystadenocarcinoma of the pancreas</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5231,7 +5240,7 @@
                                   <Disorder id="23194">
                                     <OrphaNumber>424073</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424073</ExpertLink>
-                                    <Name lang="en">Serous cystadenocarcinoma of pancreas</Name>
+                                    <Name lang="en">Serous cystadenocarcinoma of the pancreas</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5271,7 +5280,7 @@
                           <Disorder id="20348">
                             <OrphaNumber>276145</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                            <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
+                            <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6427,7 +6436,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180312</ExpertLink>
                         <Name lang="en">Rare vulvovaginal tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="8">
+                        <ClassificationNode>
+                          <Disorder id="25679">
+                            <OrphaNumber>494454</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494454</ExpertLink>
+                            <Name lang="en">Vulvar adenocarcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="16678">
                             <OrphaNumber>137583</OrphaNumber>
@@ -6460,6 +6478,33 @@
                             <OrphaNumber>206492</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206492</ExpertLink>
                             <Name lang="en">Vulvovaginal rhabdomyosarcoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25670">
+                            <OrphaNumber>494418</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494418</ExpertLink>
+                            <Name lang="en">Vulvar carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25678">
+                            <OrphaNumber>494451</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494451</ExpertLink>
+                            <Name lang="en">Vulvar basal cell carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25677">
+                            <OrphaNumber>494448</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494448</ExpertLink>
+                            <Name lang="en">Vulvar squamous cell carcinoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6637,7 +6682,7 @@
                               <Disorder id="18768">
                                 <OrphaNumber>213751</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213751</ExpertLink>
-                                <Name lang="en">Malignant germ cell tumor of corpus uteri</Name>
+                                <Name lang="en">Malignant germ cell tumor of the corpus uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6664,7 +6709,7 @@
                               <Disorder id="18771">
                                 <OrphaNumber>213772</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213772</ExpertLink>
-                                <Name lang="en">Adenocarcinoma of cervix uteri</Name>
+                                <Name lang="en">Adenocarcinoma of the cervix uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6781,7 +6826,7 @@
                               <Disorder id="18784">
                                 <OrphaNumber>213837</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213837</ExpertLink>
-                                <Name lang="en">Malignant germ cell tumor of cervix uteri</Name>
+                                <Name lang="en">Malignant germ cell tumor of the cervix uteri</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7031,7 +7076,7 @@
                                   <Disorder id="22742">
                                     <OrphaNumber>398971</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398971</ExpertLink>
-                                    <Name lang="en">Clear cell adenocarcinoma of ovary</Name>
+                                    <Name lang="en">Clear cell adenocarcinoma of the ovary</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -7074,7 +7119,7 @@
                                       <Disorder id="14485">
                                         <OrphaNumber>99912</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99912</ExpertLink>
-                                        <Name lang="en">Malignant dysgerminomatous germ cell tumor of ovary</Name>
+                                        <Name lang="en">Malignant dysgerminomatous germ cell tumor of the ovary</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -7119,7 +7164,7 @@
                                       <Disorder id="14488">
                                         <OrphaNumber>99915</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99915</ExpertLink>
-                                        <Name lang="en">Maligant granulosa cell tumor of ovary</Name>
+                                        <Name lang="en">Maligant granulosa cell tumor of the ovary</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -7128,7 +7173,7 @@
                                       <Disorder id="14489">
                                         <OrphaNumber>99916</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99916</ExpertLink>
-                                        <Name lang="en">Malignant Sertoli-Leydig cell tumor of ovary</Name>
+                                        <Name lang="en">Malignant Sertoli-Leydig cell tumor of the ovary</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -7222,7 +7267,7 @@
                               <Disorder id="18137">
                                 <OrphaNumber>180261</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180261</ExpertLink>
-                                <Name lang="en">Phyllode tumor</Name>
+                                <Name lang="en">Phyllode tumor of the breast</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7782,7 +7827,7 @@
                           <Disorder id="22717">
                             <OrphaNumber>398053</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398053</ExpertLink>
-                            <Name lang="en">Adenocarcinoma of penis</Name>
+                            <Name lang="en">Adenocarcinoma of the penis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7987,7 +8032,7 @@
                               <Disorder id="14653">
                                 <OrphaNumber>100081</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
-                                <Name lang="en">Neuroendocrine tumor of rectum</Name>
+                                <Name lang="en">Neuroendocrine tumor of the rectum</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8108,7 +8153,7 @@
                       <Disorder id="12552">
                         <OrphaNumber>94080</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94080</ExpertLink>
-                        <Name lang="en">Non-secreting paraganglioma</Name>
+                        <Name lang="en">Non-functioning paraganglioma</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="1">
                         <ClassificationNode>
@@ -9321,7 +9366,7 @@
                           <Disorder id="20348">
                             <OrphaNumber>276145</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                            <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
+                            <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9350,7 +9395,7 @@
                       <Disorder id="21485">
                         <OrphaNumber>314425</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314425</ExpertLink>
-                        <Name lang="en">Rare odontologic tumor</Name>
+                        <Name lang="en">Rare odontogenic tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>

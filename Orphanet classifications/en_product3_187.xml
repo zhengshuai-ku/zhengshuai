@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:30" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:31" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -204,7 +204,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281103</ExpertLink>
                                 <Name lang="en">Keratinopathic ichthyosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="6">
+                              <ClassificationNodeChildList count="7">
                                 <ClassificationNode>
                                   <Disorder id="20532">
                                     <OrphaNumber>281190</OrphaNumber>
@@ -255,6 +255,15 @@
                                     <OrphaNumber>281139</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281139</ExpertLink>
                                     <Name lang="en">Annular epidermolytic ichthyosis</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25865">
+                                    <OrphaNumber>497737</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497737</ExpertLink>
+                                    <Name lang="en">Epidermolytic nevus</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -4661,7 +4670,7 @@
                       <Disorder id="8630">
                         <OrphaNumber>241</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=241</ExpertLink>
-                        <Name lang="en">Dyschromatosis universalis</Name>
+                        <Name lang="en">Dyschromatosis universalis hereditaria</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7964,7 +7973,7 @@
                       <Disorder id="18384">
                         <OrphaNumber>199260</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199260</ExpertLink>
-                        <Name lang="en">Calcified aponeurotic fibroma</Name>
+                        <Name lang="en">Calcifying aponeurotic fibroma</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -8004,7 +8013,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294057</ExpertLink>
                     <Name lang="en">Rare nevus</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="24">
+                  <ClassificationNodeChildList count="25">
                     <ClassificationNode>
                       <Disorder id="243">
                         <OrphaNumber>201</OrphaNumber>
@@ -8019,6 +8028,15 @@
                         <OrphaNumber>626</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=626</ExpertLink>
                         <Name lang="en">Large congenital melanocytic nevus</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25866">
+                        <OrphaNumber>497757</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497757</ExpertLink>
+                        <Name lang="en">MME-related autosomal dominant Charcot Marie Tooth disease type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

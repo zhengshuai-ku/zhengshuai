@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:24" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:25" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12974">
       <OrphaNumber>97955</OrphaNumber>
@@ -1797,7 +1797,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98300</ExpertLink>
                                 <Name lang="en">Idiopathic interstitial pneumonia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="8">
+                              <ClassificationNodeChildList count="9">
                                 <ClassificationNode>
                                   <Disorder id="7029">
                                     <OrphaNumber>2032</OrphaNumber>
@@ -1866,6 +1866,15 @@
                                     <OrphaNumber>300564</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300564</ExpertLink>
                                     <Name lang="en">Combined pulmonary fibrosis-emphysema syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25673">
+                                    <OrphaNumber>494428</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494428</ExpertLink>
+                                    <Name lang="en">Idiopathic pleuroparenchymal fibroelastosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2017-12-01 04:20:22" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2017">
+<JDBOR date="2018-01-01 04:21:23" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10772">
       <OrphaNumber>57146</OrphaNumber>
@@ -1414,7 +1414,7 @@
                   <Disorder id="8781">
                     <OrphaNumber>30391</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=30391</ExpertLink>
-                    <Name lang="en">Biliary atresia</Name>
+                    <Name lang="en">Isolated Biliary atresia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1660,7 +1660,7 @@
                               <Disorder id="23202">
                                 <OrphaNumber>424943</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424943</ExpertLink>
-                                <Name lang="en">Adenocarcinoma of liver and intrahepatic biliary tract</Name>
+                                <Name lang="en">Adenocarcinoma of the liver and intrahepatic biliary tract</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
