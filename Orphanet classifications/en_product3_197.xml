@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:45" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:31" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13044">
       <OrphaNumber>98026</OrphaNumber>
@@ -80,7 +80,7 @@
                       <Disorder id="11430">
                         <OrphaNumber>79404</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79404</ExpertLink>
-                        <Name lang="en">Junctional epidermolysis bullosa, Herlitz type</Name>
+                        <Name lang="en">Junctional epidermolysis bullosa, generalized severe</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -114,7 +114,7 @@
                           <Disorder id="11428">
                             <OrphaNumber>79402</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79402</ExpertLink>
-                            <Name lang="en">Generalized junctional epidermolysis bullosa, non-Herlitz type</Name>
+                            <Name lang="en">Junctional epidermolysis bullosa, generalized intermediate</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -145,7 +145,7 @@
                   <Disorder id="10864">
                     <OrphaNumber>65282</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65282</ExpertLink>
-                    <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+                    <Name lang="en">Carvajal syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -847,7 +847,7 @@
                   <Disorder id="20578">
                     <OrphaNumber>284149</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284149</ExpertLink>
-                    <Name lang="en">Craniosynostosis and dental anomalies</Name>
+                    <Name lang="en">Craniosynostosis-dental anomalies</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:07:54" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="2970">
+<JDBOR date="2018-02-01 04:03:49" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="2980">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2233,18 +2233,6 @@
       <CreationDate>2016-05-31 11:48:31.97</CreationDate>
       <UpdateDate>2016-05-31 11:48:31.97</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="202">
-      <Disorder id="425">
-        <OrphaNumber>1155</OrphaNumber>
-        <Name lang="en">Arthrogryposis due to muscular dystrophy</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:48:32.12</CreationDate>
-      <UpdateDate>2016-05-31 11:48:32.12</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="197">
       <Disorder id="418">
         <OrphaNumber>1135</OrphaNumber>
@@ -3216,7 +3204,7 @@
     <HPODisorderSetStatus id="265">
       <Disorder id="526">
         <OrphaNumber>502</OrphaNumber>
-        <Name lang="en">Langer-Giedion syndrome</Name>
+        <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5268,7 +5256,7 @@
     <HPODisorderSetStatus id="469">
       <Disorder id="1082">
         <OrphaNumber>1552</OrphaNumber>
-        <Name lang="en">Currarino triad</Name>
+        <Name lang="en">Currarino syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7688,18 +7676,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:49:14.013</CreationDate>
       <UpdateDate>2016-05-31 11:49:14.013</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="695">
-      <Disorder id="1583">
-        <OrphaNumber>1376</OrphaNumber>
-        <Name lang="en">Congenital cataract-ichthyosis syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:14.076</CreationDate>
-      <UpdateDate>2016-05-31 11:49:14.076</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="692">
       <Disorder id="1579">
@@ -11033,18 +11009,6 @@
       <CreationDate>2016-05-31 11:49:32.213</CreationDate>
       <UpdateDate>2016-05-31 11:49:32.213</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="903">
-      <Disorder id="1963">
-        <OrphaNumber>2042</OrphaNumber>
-        <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:32.13</CreationDate>
-      <UpdateDate>2016-05-31 11:49:32.13</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="902">
       <Disorder id="1962">
         <OrphaNumber>2036</OrphaNumber>
@@ -11500,18 +11464,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:49:39.726</CreationDate>
       <UpdateDate>2016-05-31 11:49:39.726</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="986">
-      <Disorder id="2134">
-        <OrphaNumber>2267</OrphaNumber>
-        <Name lang="en">Ichthyosis-cheek-eyebrow syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:38.766</CreationDate>
-      <UpdateDate>2016-05-31 11:49:38.766</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="987">
       <Disorder id="2139">
@@ -13024,7 +12976,7 @@
     <HPODisorderSetStatus id="1067">
       <Disorder id="2410">
         <OrphaNumber>2633</OrphaNumber>
-        <Name lang="en">Mesomelic dwarfism, Nievergelt type</Name>
+        <Name lang="en">Mesomelic dysplasia, Nievergelt type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13036,7 +12988,7 @@
     <HPODisorderSetStatus id="1064">
       <Disorder id="2396">
         <OrphaNumber>2617</OrphaNumber>
-        <Name lang="en">Bird headed-dwarfism, Montreal type</Name>
+        <Name lang="en">Microcephalic primordial dwarfism, Montreal type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13072,7 +13024,7 @@
     <HPODisorderSetStatus id="1071">
       <Disorder id="2420">
         <OrphaNumber>2645</OrphaNumber>
-        <Name lang="en">Osteoglophonic dwarfism</Name>
+        <Name lang="en">Osteoglosphonic dysplasia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16064,7 +16016,7 @@
     <HPODisorderSetStatus id="1343">
       <Disorder id="3700">
         <OrphaNumber>2781</OrphaNumber>
-        <Name lang="en">Osteopetrosis</Name>
+        <Name lang="en">Osteopetrosis and related disorders</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18712,7 +18664,7 @@
     <HPODisorderSetStatus id="1575">
       <Disorder id="10909">
         <OrphaNumber>69028</OrphaNumber>
-        <Name lang="en">Syndrome with brachydactyly</Name>
+        <Name lang="en">Dysostosis with brachydactyly</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -19240,7 +19192,7 @@
     <HPODisorderSetStatus id="1557">
       <Disorder id="10864">
         <OrphaNumber>65282</OrphaNumber>
-        <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+        <Name lang="en">Carvajal syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20564,7 +20516,7 @@
     <HPODisorderSetStatus id="1679">
       <Disorder id="11422">
         <OrphaNumber>79396</OrphaNumber>
-        <Name lang="en">Epidermolysis bullosa simplex, Dowling-Meara type</Name>
+        <Name lang="en">Epidermolysis bullosa simplex, generalized severe</Name>
       </Disorder>
       <Source>_20301543[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -20636,7 +20588,7 @@
     <HPODisorderSetStatus id="1684">
       <Disorder id="11428">
         <OrphaNumber>79402</OrphaNumber>
-        <Name lang="en">Generalized junctional epidermolysis bullosa, non-Herlitz type</Name>
+        <Name lang="en">Junctional epidermolysis bullosa, generalized intermediate</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20660,7 +20612,7 @@
     <HPODisorderSetStatus id="1686">
       <Disorder id="11430">
         <OrphaNumber>79404</OrphaNumber>
-        <Name lang="en">Junctional epidermolysis bullosa, Herlitz type</Name>
+        <Name lang="en">Junctional epidermolysis bullosa, generalized severe</Name>
       </Disorder>
       <Source>_20301304[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -20696,7 +20648,7 @@
     <HPODisorderSetStatus id="1681">
       <Disorder id="11425">
         <OrphaNumber>79399</OrphaNumber>
-        <Name lang="en">Generalized epidermolysis bullosa simplex, non-Dowling-Meara type</Name>
+        <Name lang="en">Epidermolysis bullosa simplex, generalized intermediate</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20864,7 +20816,7 @@
     <HPODisorderSetStatus id="1914">
       <Disorder id="12562">
         <OrphaNumber>94095</OrphaNumber>
-        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
       </Disorder>
       <Source>_9880219[PMID]_7473656[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -22140,7 +22092,7 @@
     <HPODisorderSetStatus id="1806">
       <Disorder id="11907">
         <OrphaNumber>89842</OrphaNumber>
-        <Name lang="en">Recessive dystrophic epidermolysis bullosa-generalized other</Name>
+        <Name lang="en">Recessive dystrophic epidermolysis bullosa, generalized intermediate</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22188,7 +22140,7 @@
     <HPODisorderSetStatus id="1802">
       <Disorder id="11903">
         <OrphaNumber>89838</OrphaNumber>
-        <Name lang="en">KRT14-related epidermolysis bullosa simplex</Name>
+        <Name lang="en">Epidermolysis bullosa simplex, autosomal recessive K14</Name>
       </Disorder>
       <Source>_21623745[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -24252,7 +24204,7 @@
     <HPODisorderSetStatus id="2239">
       <Disorder id="21817">
         <OrphaNumber>324964</OrphaNumber>
-        <Name lang="en">Chronic recurrent multifocal osteomyelitis</Name>
+        <Name lang="en">Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24396,7 +24348,7 @@
     <HPODisorderSetStatus id="2218">
       <Disorder id="20528">
         <OrphaNumber>281122</OrphaNumber>
-        <Name lang="en">Self-healing collodion baby</Name>
+        <Name lang="en">Self-improving collodion baby</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24878,7 +24830,7 @@
         <OrphaNumber>1457</OrphaNumber>
         <Name lang="en">Aorta coarctation</Name>
       </Disorder>
-      <Source>22088486[PMID]_23731614[PMID]_15690347[PMID]_15712195[PMID]_25737506[PMID]_26323199[PMID]_26100586[PMID]_26025083[PMID]_14708093[PMID]_25634191[PMID]_8487284[PMID]_1018301[PMID]</Source>
+      <Source>28377475[PMID]_22088486[PMID]_23731614[PMID]_15690347[PMID]_15712195[PMID]_25737506[PMID]_26323199[PMID]_26100586[PMID]_26025083[PMID]_14708093[PMID]_25634191[PMID]_8487284[PMID]_1018301[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
@@ -25152,7 +25104,7 @@
     <HPODisorderSetStatus id="2287">
       <Disorder id="17771">
         <OrphaNumber>168558</OrphaNumber>
-        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency syndrome</Name>
+        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency</Name>
       </Disorder>
       <Source>21159840[PMID]_19116240[PMID]_16705068[PMID]_18182448[PMID]_11502818[PMID]_12161514[PMID]_15507506[PMID]_16044444[PMID]_22909024[PMID]_15180858[PMID]_14172080[PMID]_3706293[PMID]_11972529[PMID]_9207791[PMID]_22909024[PMID]_12136908[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25572,7 +25524,7 @@
     <HPODisorderSetStatus id="2051">
       <Disorder id="17234">
         <OrphaNumber>158676</OrphaNumber>
-        <Name lang="en">Dystrophic epidermolysis bullosa, nails only</Name>
+        <Name lang="en">Dominant dystrophic epidermolysis bullosa, nails only</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -27494,7 +27446,7 @@
         <OrphaNumber>589</OrphaNumber>
         <Name lang="en">Myasthenia gravis</Name>
       </Disorder>
-      <Source>1603341[PMID],26502757[PMID],14257395[PMID],5329432[PMID]</Source>
+      <Source>1603341[PMID]_26502757[PMID]_14257395[PMID]_5329432[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-12-22 00:00:00.0</UpdateDate>
@@ -27632,18 +27584,6 @@
       <UpdateDate>2016-12-05 00:00:00.0</UpdateDate>
       <CreationDate>2016-12-06 11:42:13.263</CreationDate>
       <UpdateDate>2016-12-06 11:42:13.263</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="2509">
-      <Disorder id="10986">
-        <OrphaNumber>71211</OrphaNumber>
-        <Name lang="en">Neuromyelitis optica</Name>
-      </Disorder>
-      <Source>27852384[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-12-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-12-06 11:22:04.763</CreationDate>
-      <UpdateDate>2016-12-06 11:22:04.763</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2508">
       <Disorder id="849">
@@ -30242,7 +30182,7 @@
         <OrphaNumber>69744</OrphaNumber>
         <Name lang="en">Circumscribed palmoplantar hypokeratosis</Name>
       </Disorder>
-      <Source>24068139[PMID],28502096[PMID]</Source>
+      <Source>24068139[PMID]_28502096[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-05-16 00:00:00.0</UpdateDate>
@@ -32930,7 +32870,7 @@
         <OrphaNumber>1501</OrphaNumber>
         <Name lang="en">Adrenocortical carcinoma</Name>
       </Disorder>
-      <Source>26191527[PMID],29087170[PMID]</Source>
+      <Source>26191527[PMID]_29087170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
@@ -33645,6 +33585,102 @@
       <CreationDate>2017-10-23 16:46:07.11</CreationDate>
       <UpdateDate>2017-10-23 16:46:07.11</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3049">
+      <Disorder id="3388">
+        <OrphaNumber>2942</OrphaNumber>
+        <Name lang="en">Postpoliomyelitis syndrome</Name>
+      </Disorder>
+      <Source>15599928[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-15 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-17 11:54:21.58</CreationDate>
+      <UpdateDate>2018-01-17 11:54:21.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3048">
+      <Disorder id="19166">
+        <OrphaNumber>231160</OrphaNumber>
+        <Name lang="en">Familial cerebral saccular aneurysm</Name>
+      </Disorder>
+      <Source>16736093[PMID]_24646873[PMID]_23054244[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-15 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-15 16:20:03.456</CreationDate>
+      <UpdateDate>2018-01-15 16:20:03.456</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3051">
+      <Disorder id="10986">
+        <OrphaNumber>71211</OrphaNumber>
+        <Name lang="en">Neuromyelitis optica</Name>
+      </Disorder>
+      <Source>3895189[PMC]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2016-12-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-19 17:14:25.053</CreationDate>
+      <UpdateDate>2018-01-19 17:14:25.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3050">
+      <Disorder id="10748">
+        <OrphaNumber>54247</OrphaNumber>
+        <Name lang="en">Posterior cortical atrophy</Name>
+      </Disorder>
+      <Source>3740301[PMC]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-16 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-19 11:21:08.813</CreationDate>
+      <UpdateDate>2018-01-19 11:21:08.813</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3053">
+      <Disorder id="14474">
+        <OrphaNumber>99901</OrphaNumber>
+        <Name lang="en">Acyl-CoA dehydrogenase 9 deficiency</Name>
+      </Disorder>
+      <Source>25721401[PMID]_22499348[PMID]_21057504[PMID]_17564966[PMID]_27233227[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 16:04:39.77</CreationDate>
+      <UpdateDate>2018-01-24 16:04:39.77</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3052">
+      <Disorder id="14473">
+        <OrphaNumber>99900</OrphaNumber>
+        <Name lang="en">Long chain acyl-CoA dehydrogenase deficiency</Name>
+      </Disorder>
+      <Source>9973285[PMID]_19452263[PMID]_4022672[PMID]_2000272[PMID]_8466512[PMID]_25456746[PMID]_27246109[PMID]_27209629[PMID]_8422439[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 15:00:32.46</CreationDate>
+      <UpdateDate>2018-01-24 15:00:32.46</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3055">
+      <Disorder id="12866">
+        <OrphaNumber>97244</OrphaNumber>
+        <Name lang="en">Rigid spine syndrome</Name>
+      </Disorder>
+      <Source>10665485[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-17 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 13:06:24.526</CreationDate>
+      <UpdateDate>2018-01-29 13:06:24.526</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3054">
+      <Disorder id="3572">
+        <OrphaNumber>2364</OrphaNumber>
+        <Name lang="en">Glycogen storage disease due to lactate dehydrogenase deficiency</Name>
+      </Disorder>
+      <Source>1999544[PMID]_6517049[PMID]_8270259[PMID]_5119336[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 17:14:24.976</CreationDate>
+      <UpdateDate>2018-01-24 17:14:24.976</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3041">
       <Disorder id="2311">
         <OrphaNumber>2499</OrphaNumber>
@@ -33692,6 +33728,90 @@
       <UpdateDate>2017-12-12 00:00:00.0</UpdateDate>
       <CreationDate>2017-12-21 15:23:23.99</CreationDate>
       <UpdateDate>2017-12-21 15:23:23.99</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3045">
+      <Disorder id="2582">
+        <OrphaNumber>2847</OrphaNumber>
+        <Name lang="en">Pericardial and diaphragmatic defect</Name>
+      </Disorder>
+      <Source>4003450[PMID]_17377736[PMID]_11560864[PMID]_14677749[PMID]_20219701[PMID]_20265782[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-08 14:20:15.163</CreationDate>
+      <UpdateDate>2018-01-08 14:20:15.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3044">
+      <Disorder id="2686">
+        <OrphaNumber>2980</OrphaNumber>
+        <Name lang="en">Acrootoocular syndrome</Name>
+      </Disorder>
+      <Source>9415472[PMID]_1785624[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-03 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-03 16:25:49.1</CreationDate>
+      <UpdateDate>2018-01-03 16:25:49.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3047">
+      <Disorder id="12265">
+        <OrphaNumber>93329</OrphaNumber>
+        <Name lang="en">Autosomal recessive omodysplasia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-12-13 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-15 11:55:18.696</CreationDate>
+      <UpdateDate>2018-01-15 11:55:18.696</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3046">
+      <Disorder id="3221">
+        <OrphaNumber>1129</OrphaNumber>
+        <Name lang="en">Arachnodactyly-abnormal ossification-intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>8533819[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-08 14:59:24.036</CreationDate>
+      <UpdateDate>2018-01-08 14:59:24.036</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3056">
+      <Disorder id="20390">
+        <OrphaNumber>276621</OrphaNumber>
+        <Name lang="en">Sporadic pheochromocytoma/secreting paraganglioma</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 13:54:59.496</CreationDate>
+      <UpdateDate>2018-01-29 13:54:59.496</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3057">
+      <Disorder id="12552">
+        <OrphaNumber>94080</OrphaNumber>
+        <Name lang="en">Non-functioning paraganglioma</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 16:02:23.463</CreationDate>
+      <UpdateDate>2018-01-29 16:02:23.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3058">
+      <Disorder id="8775">
+        <OrphaNumber>29072</OrphaNumber>
+        <Name lang="en">Hereditary pheochromocytoma-paraganglioma</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 18:05:37.053</CreationDate>
+      <UpdateDate>2018-01-29 18:05:37.053</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3019">
       <Disorder id="2138">
@@ -34490,10 +34610,10 @@
         <OrphaNumber>2896</OrphaNumber>
         <Name lang="en">Pitt-Hopkins syndrome</Name>
       </Disorder>
-      <Source/>
+      <Source>18222743[PMID]_21671391[PMID]_18728071[PMID]_22045651[PMID]_16531728[PMID]_18781613[PMID]_728011[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
-      <UpdateDate>2017-07-24 00:00:00.0</UpdateDate>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
       <CreationDate>2017-08-02 16:59:25.38</CreationDate>
       <UpdateDate>2017-08-02 16:59:25.38</UpdateDate>
     </HPODisorderSetStatus>
@@ -35244,7 +35364,7 @@
     <HPODisorderSetStatus id="2880">
       <Disorder id="2331">
         <OrphaNumber>2521</OrphaNumber>
-        <Name lang="en">Microcephaly-cleft palate syndrome</Name>
+        <Name lang="en">Microcephaly-cleft palate-abnormal retinal pigmentation syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -35328,7 +35448,7 @@
     <HPODisorderSetStatus id="2891">
       <Disorder id="2514">
         <OrphaNumber>2759</OrphaNumber>
-        <Name lang="en">Imperforate oropharynx-costo vetebral anomalies syndrome</Name>
+        <Name lang="en">Imperforate oropharynx-costo vertebral anomalies syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -35412,7 +35532,7 @@
     <HPODisorderSetStatus id="2899">
       <Disorder id="2860">
         <OrphaNumber>3194</OrphaNumber>
-        <Name lang="en">Stern-Lubinsky-Durrie syndrome</Name>
+        <Name lang="en">Corneodermatoosseous syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>

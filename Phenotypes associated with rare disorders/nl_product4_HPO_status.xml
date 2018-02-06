@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:08:03" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="2970">
+<JDBOR date="2018-02-01 04:03:55" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="2980">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2232,18 +2232,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:48:31.97</CreationDate>
       <UpdateDate>2016-05-31 11:48:31.97</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="202">
-      <Disorder id="425">
-        <OrphaNumber>1155</OrphaNumber>
-        <Name lang="nl">Artrogrypose als gevolg van spierdystrofie</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:48:32.12</CreationDate>
-      <UpdateDate>2016-05-31 11:48:32.12</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="197">
       <Disorder id="418">
@@ -7689,18 +7677,6 @@
       <CreationDate>2016-05-31 11:49:14.013</CreationDate>
       <UpdateDate>2016-05-31 11:49:14.013</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="695">
-      <Disorder id="1583">
-        <OrphaNumber>1376</OrphaNumber>
-        <Name lang="nl">Congenitale cataract - ichthyosis</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:14.076</CreationDate>
-      <UpdateDate>2016-05-31 11:49:14.076</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="692">
       <Disorder id="1579">
         <OrphaNumber>1373</OrphaNumber>
@@ -11033,18 +11009,6 @@
       <CreationDate>2016-05-31 11:49:32.213</CreationDate>
       <UpdateDate>2016-05-31 11:49:32.213</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="903">
-      <Disorder id="1963">
-        <OrphaNumber>2042</OrphaNumber>
-        <Name lang="nl">Tracheo-oesofageale fistel - hypospadieën</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:32.13</CreationDate>
-      <UpdateDate>2016-05-31 11:49:32.13</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="902">
       <Disorder id="1962">
         <OrphaNumber>2036</OrphaNumber>
@@ -11500,18 +11464,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:49:39.726</CreationDate>
       <UpdateDate>2016-05-31 11:49:39.726</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="986">
-      <Disorder id="2134">
-        <OrphaNumber>2267</OrphaNumber>
-        <Name lang="nl">Ichthyosis-wang-wenkbrauw-syndroom</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:38.766</CreationDate>
-      <UpdateDate>2016-05-31 11:49:38.766</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="987">
       <Disorder id="2139">
@@ -24878,7 +24830,7 @@
         <OrphaNumber>1457</OrphaNumber>
         <Name lang="nl">Aortacoarctatie</Name>
       </Disorder>
-      <Source>22088486[PMID]_23731614[PMID]_15690347[PMID]_15712195[PMID]_25737506[PMID]_26323199[PMID]_26100586[PMID]_26025083[PMID]_14708093[PMID]_25634191[PMID]_8487284[PMID]_1018301[PMID]</Source>
+      <Source>28377475[PMID]_22088486[PMID]_23731614[PMID]_15690347[PMID]_15712195[PMID]_25737506[PMID]_26323199[PMID]_26100586[PMID]_26025083[PMID]_14708093[PMID]_25634191[PMID]_8487284[PMID]_1018301[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
@@ -27494,7 +27446,7 @@
         <OrphaNumber>589</OrphaNumber>
         <Name lang="nl">Myasthenia gravis</Name>
       </Disorder>
-      <Source>1603341[PMID],26502757[PMID],14257395[PMID],5329432[PMID]</Source>
+      <Source>1603341[PMID]_26502757[PMID]_14257395[PMID]_5329432[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2016-12-22 00:00:00.0</UpdateDate>
@@ -27632,18 +27584,6 @@
       <UpdateDate>2016-12-05 00:00:00.0</UpdateDate>
       <CreationDate>2016-12-06 11:42:13.263</CreationDate>
       <UpdateDate>2016-12-06 11:42:13.263</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="2509">
-      <Disorder id="10986">
-        <OrphaNumber>71211</OrphaNumber>
-        <Name lang="nl">Neuromyelitis optica</Name>
-      </Disorder>
-      <Source>27852384[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-12-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-12-06 11:22:04.763</CreationDate>
-      <UpdateDate>2016-12-06 11:22:04.763</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2508">
       <Disorder id="849">
@@ -30242,7 +30182,7 @@
         <OrphaNumber>69744</OrphaNumber>
         <Name lang="nl">Omlijnde palmoplantaire hypokeratose</Name>
       </Disorder>
-      <Source>24068139[PMID],28502096[PMID]</Source>
+      <Source>24068139[PMID]_28502096[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-05-16 00:00:00.0</UpdateDate>
@@ -32930,7 +32870,7 @@
         <OrphaNumber>1501</OrphaNumber>
         <Name lang="nl">Bijnierschorscarcinoom</Name>
       </Disorder>
-      <Source>26191527[PMID],29087170[PMID]</Source>
+      <Source>26191527[PMID]_29087170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <UpdateDate>2017-11-06 00:00:00.0</UpdateDate>
@@ -33645,6 +33585,102 @@
       <CreationDate>2017-10-23 16:46:07.11</CreationDate>
       <UpdateDate>2017-10-23 16:46:07.11</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3049">
+      <Disorder id="3388">
+        <OrphaNumber>2942</OrphaNumber>
+        <Name lang="nl">Post-poliomyelitissyndroom</Name>
+      </Disorder>
+      <Source>15599928[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-15 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-17 11:54:21.58</CreationDate>
+      <UpdateDate>2018-01-17 11:54:21.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3048">
+      <Disorder id="19166">
+        <OrphaNumber>231160</OrphaNumber>
+        <Name lang="nl">Familiaal cerebraal sacculair aneurysma</Name>
+      </Disorder>
+      <Source>16736093[PMID]_24646873[PMID]_23054244[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-15 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-15 16:20:03.456</CreationDate>
+      <UpdateDate>2018-01-15 16:20:03.456</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3051">
+      <Disorder id="10986">
+        <OrphaNumber>71211</OrphaNumber>
+        <Name lang="nl">Neuromyelitis optica</Name>
+      </Disorder>
+      <Source>3895189[PMC]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2016-12-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-19 17:14:25.053</CreationDate>
+      <UpdateDate>2018-01-19 17:14:25.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3050">
+      <Disorder id="10748">
+        <OrphaNumber>54247</OrphaNumber>
+        <Name lang="nl">Posterieure corticale atrofie</Name>
+      </Disorder>
+      <Source>3740301[PMC]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-16 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-19 11:21:08.813</CreationDate>
+      <UpdateDate>2018-01-19 11:21:08.813</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3053">
+      <Disorder id="14474">
+        <OrphaNumber>99901</OrphaNumber>
+        <Name lang="nl">Acyl-CoA-dehydrogenase 9-deficiëntie</Name>
+      </Disorder>
+      <Source>25721401[PMID]_22499348[PMID]_21057504[PMID]_17564966[PMID]_27233227[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 16:04:39.77</CreationDate>
+      <UpdateDate>2018-01-24 16:04:39.77</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3052">
+      <Disorder id="14473">
+        <OrphaNumber>99900</OrphaNumber>
+        <Name lang="nl">Lange keten acyl-CoA-dehydrogenasedeficiëntie</Name>
+      </Disorder>
+      <Source>9973285[PMID]_19452263[PMID]_4022672[PMID]_2000272[PMID]_8466512[PMID]_25456746[PMID]_27246109[PMID]_27209629[PMID]_8422439[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 15:00:32.46</CreationDate>
+      <UpdateDate>2018-01-24 15:00:32.46</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3055">
+      <Disorder id="12866">
+        <OrphaNumber>97244</OrphaNumber>
+        <Name lang="nl">Onbuigzame wervelkolomsyndroom</Name>
+      </Disorder>
+      <Source>10665485[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-17 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 13:06:24.526</CreationDate>
+      <UpdateDate>2018-01-29 13:06:24.526</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3054">
+      <Disorder id="3572">
+        <OrphaNumber>2364</OrphaNumber>
+        <Name lang="nl">Glycogeenstapelingsziekte als gevolg van lactaatdehydrogenasedeficiëntie</Name>
+      </Disorder>
+      <Source>1999544[PMID]_6517049[PMID]_8270259[PMID]_5119336[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-24 17:14:24.976</CreationDate>
+      <UpdateDate>2018-01-24 17:14:24.976</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3041">
       <Disorder id="2311">
         <OrphaNumber>2499</OrphaNumber>
@@ -33692,6 +33728,90 @@
       <UpdateDate>2017-12-12 00:00:00.0</UpdateDate>
       <CreationDate>2017-12-21 15:23:23.99</CreationDate>
       <UpdateDate>2017-12-21 15:23:23.99</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3045">
+      <Disorder id="2582">
+        <OrphaNumber>2847</OrphaNumber>
+        <Name lang="nl">Pericardiaal en diafragmatisch defect</Name>
+      </Disorder>
+      <Source>4003450[PMID]_17377736[PMID]_11560864[PMID]_14677749[PMID]_20219701[PMID]_20265782[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-08 14:20:15.163</CreationDate>
+      <UpdateDate>2018-01-08 14:20:15.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3044">
+      <Disorder id="2686">
+        <OrphaNumber>2980</OrphaNumber>
+        <Name lang="nl">Acro-oto-oculair syndroom</Name>
+      </Disorder>
+      <Source>9415472[PMID]_1785624[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-03 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-03 16:25:49.1</CreationDate>
+      <UpdateDate>2018-01-03 16:25:49.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3047">
+      <Disorder id="12265">
+        <OrphaNumber>93329</OrphaNumber>
+        <Name lang="nl">Autosomaal recessieve omodysplasie</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2017-12-13 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-15 11:55:18.696</CreationDate>
+      <UpdateDate>2018-01-15 11:55:18.696</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3046">
+      <Disorder id="3221">
+        <OrphaNumber>1129</OrphaNumber>
+        <Name lang="nl">Arachnodactylie - abnormale ossificatie - intellectuele achterstand</Name>
+      </Disorder>
+      <Source>8533819[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-08 14:59:24.036</CreationDate>
+      <UpdateDate>2018-01-08 14:59:24.036</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3056">
+      <Disorder id="20390">
+        <OrphaNumber>276621</OrphaNumber>
+        <Name lang="nl">Sporadisch feochromocytoom/secreterend paraganglioom</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 13:54:59.496</CreationDate>
+      <UpdateDate>2018-01-29 13:54:59.496</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3057">
+      <Disorder id="12552">
+        <OrphaNumber>94080</OrphaNumber>
+        <Name lang="nl">Niet-secreterend paraganglioom</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 16:02:23.463</CreationDate>
+      <UpdateDate>2018-01-29 16:02:23.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3058">
+      <Disorder id="8775">
+        <OrphaNumber>29072</OrphaNumber>
+        <Name lang="nl">Erfelijk feochromocytoom-paraganglioom</Name>
+      </Disorder>
+      <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-01-29 18:05:37.053</CreationDate>
+      <UpdateDate>2018-01-29 18:05:37.053</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3019">
       <Disorder id="2138">
@@ -34490,10 +34610,10 @@
         <OrphaNumber>2896</OrphaNumber>
         <Name lang="nl">Pitt-Hopkinssyndroom</Name>
       </Disorder>
-      <Source/>
+      <Source>18222743[PMID]_21671391[PMID]_18728071[PMID]_22045651[PMID]_16531728[PMID]_18781613[PMID]_728011[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
-      <UpdateDate>2017-07-24 00:00:00.0</UpdateDate>
+      <UpdateDate>2018-01-08 00:00:00.0</UpdateDate>
       <CreationDate>2017-08-02 16:59:25.38</CreationDate>
       <UpdateDate>2017-08-02 16:59:25.38</UpdateDate>
     </HPODisorderSetStatus>

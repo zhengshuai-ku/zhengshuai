@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:33" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:24" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12456">
       <OrphaNumber>93626</OrphaNumber>
@@ -417,7 +417,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93547</ExpertLink>
                     <Name lang="en">Syndromic renal or urinary tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="64">
+                  <ClassificationNodeChildList count="65">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -1156,6 +1156,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2022">
+                        <OrphaNumber>2111</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2111</ExpertLink>
+                        <Name lang="en">Cystic hamartoma of lung and kidney</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -1250,7 +1259,7 @@
                       <Disorder id="21219">
                         <OrphaNumber>306504</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
-                        <Name lang="en">Congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome</Name>
+                        <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4280,7 +4289,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93619</ExpertLink>
                 <Name lang="en">Rare renal tumor</Name>
               </Disorder>
-              <ClassificationNodeChildList count="6">
+              <ClassificationNodeChildList count="7">
                 <ClassificationNode>
                   <Disorder id="24022">
                     <OrphaNumber>464359</OrphaNumber>
@@ -4344,7 +4353,7 @@
                           <Disorder id="21640">
                             <OrphaNumber>319287</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319287</ExpertLink>
-                            <Name lang="en">Multilocular cystic clear cell renal cell neoplasm of low malignant potential</Name>
+                            <Name lang="en">Multilocular cystic renal neoplasm of low malignant potential</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4432,6 +4441,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="2022">
+                    <OrphaNumber>2111</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2111</ExpertLink>
+                    <Name lang="en">Cystic hamartoma of lung and kidney</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

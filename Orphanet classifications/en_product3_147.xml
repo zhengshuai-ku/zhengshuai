@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:20:58" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:04" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -444,7 +444,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93547</ExpertLink>
                     <Name lang="en">Syndromic renal or urinary tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="61">
+                  <ClassificationNodeChildList count="62">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -1152,6 +1152,15 @@
                         <OrphaNumber>444069</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444069</ExpertLink>
                         <Name lang="en">Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2022">
+                        <OrphaNumber>2111</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2111</ExpertLink>
+                        <Name lang="en">Cystic hamartoma of lung and kidney</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4092,7 +4101,7 @@
                           <Disorder id="20578">
                             <OrphaNumber>284149</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284149</ExpertLink>
-                            <Name lang="en">Craniosynostosis and dental anomalies</Name>
+                            <Name lang="en">Craniosynostosis-dental anomalies</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4326,7 +4335,7 @@
                           <Disorder id="23661">
                             <OrphaNumber>454750</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=454750</ExpertLink>
-                            <Name lang="en">Isolated tracheo-esophageal fistula</Name>
+                            <Name lang="en">Isolated tracheoesophageal fistula</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4533,7 +4542,7 @@
                           <Disorder id="1082">
                             <OrphaNumber>1552</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1552</ExpertLink>
-                            <Name lang="en">Currarino triad</Name>
+                            <Name lang="en">Currarino syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4875,7 +4884,7 @@
                           <Disorder id="12562">
                             <OrphaNumber>94095</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                            <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                            <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9179,7 +9188,7 @@
                       <Disorder id="23661">
                         <OrphaNumber>454750</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=454750</ExpertLink>
-                        <Name lang="en">Isolated tracheo-esophageal fistula</Name>
+                        <Name lang="en">Isolated tracheoesophageal fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -9192,7 +9201,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108995</ExpertLink>
                     <Name lang="en">Syndromic respiratory or mediastinal malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="9">
+                  <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="1310">
                         <OrphaNumber>994</OrphaNumber>
@@ -9216,15 +9225,6 @@
                         <OrphaNumber>1486</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1486</ExpertLink>
                         <Name lang="en">Lethal congenital contracture syndrome type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1963">
-                        <OrphaNumber>2042</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2042</ExpertLink>
-                        <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -10461,7 +10461,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108987</ExpertLink>
                     <Name lang="en">Syndromic developmental defect of the eye</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="83">
+                  <ClassificationNodeChildList count="82">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -11025,15 +11025,6 @@
                         <OrphaNumber>1375</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1375</ExpertLink>
                         <Name lang="en">Cataract-hypertrichosis-intellectual disability syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1583">
-                        <OrphaNumber>1376</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1376</ExpertLink>
-                        <Name lang="en">Congenital cataract-ichthyosis syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -13544,7 +13535,7 @@
                       <Disorder id="12340">
                         <OrphaNumber>93426</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93426</ExpertLink>
-                        <Name lang="en">Short rib dysplasia</Name>
+                        <Name lang="en">Ciliopathies with major skeletal involvement</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="6">
                         <ClassificationNode>
@@ -14296,7 +14287,7 @@
                               <Disorder id="526">
                                 <OrphaNumber>502</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                                <Name lang="en">Langer-Giedion syndrome</Name>
+                                <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -14478,7 +14469,7 @@
                           <Disorder id="2410">
                             <OrphaNumber>2633</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2633</ExpertLink>
-                            <Name lang="en">Mesomelic dwarfism, Nievergelt type</Name>
+                            <Name lang="en">Mesomelic dysplasia, Nievergelt type</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -14651,7 +14642,7 @@
                       <Disorder id="12350">
                         <OrphaNumber>93439</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93439</ExpertLink>
-                        <Name lang="en">Bent bone dysplasia</Name>
+                        <Name lang="en">Campomelic dysplasia and related disorders</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="10">
                         <ClassificationNode>
@@ -15369,7 +15360,7 @@
                           <Disorder id="3700">
                             <OrphaNumber>2781</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2781</ExpertLink>
-                            <Name lang="en">Osteopetrosis</Name>
+                            <Name lang="en">Osteopetrosis and related disorders</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="18">
                             <ClassificationNode>
@@ -16602,7 +16593,7 @@
                           <Disorder id="2420">
                             <OrphaNumber>2645</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2645</ExpertLink>
-                            <Name lang="en">Osteoglophonic dwarfism</Name>
+                            <Name lang="en">Osteoglosphonic dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17437,7 +17428,7 @@
                               <Disorder id="20578">
                                 <OrphaNumber>284149</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284149</ExpertLink>
-                                <Name lang="en">Craniosynostosis and dental anomalies</Name>
+                                <Name lang="en">Craniosynostosis-dental anomalies</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -17925,7 +17916,7 @@
                           <Disorder id="1082">
                             <OrphaNumber>1552</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1552</ExpertLink>
-                            <Name lang="en">Currarino triad</Name>
+                            <Name lang="en">Currarino syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17970,7 +17961,7 @@
                           <Disorder id="2514">
                             <OrphaNumber>2759</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2759</ExpertLink>
-                            <Name lang="en">Imperforate oropharynx-costo vetebral anomalies syndrome</Name>
+                            <Name lang="en">Imperforate oropharynx-costo vertebral anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -18051,7 +18042,7 @@
                           <Disorder id="12562">
                             <OrphaNumber>94095</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                            <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                            <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -18375,7 +18366,7 @@
                           <Disorder id="10909">
                             <OrphaNumber>69028</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
-                            <Name lang="en">Syndrome with brachydactyly</Name>
+                            <Name lang="en">Dysostosis with brachydactyly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="5">
                             <ClassificationNode>
@@ -19309,7 +19300,7 @@
                               <Disorder id="733">
                                 <OrphaNumber>2913</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2913</ExpertLink>
-                                <Name lang="en">Polydactyly</Name>
+                                <Name lang="en">Non-syndromic polydactyly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="3">
                                 <ClassificationNode>
@@ -19543,7 +19534,7 @@
                               <Disorder id="11927">
                                 <OrphaNumber>90025</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90025</ExpertLink>
-                                <Name lang="en">Syndactyly</Name>
+                                <Name lang="en">Non-syndromic syndactyly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="8">
                                 <ClassificationNode>
@@ -20641,7 +20632,7 @@
                               <Disorder id="21926">
                                 <OrphaNumber>329319</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329319</ExpertLink>
-                                <Name lang="en">Hereditary thrombocytosis with transverse limb defect</Name>
+                                <Name lang="en">Thrombocythemia with distal limb defects</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -22587,7 +22578,7 @@
                           <Disorder id="22720">
                             <OrphaNumber>398069</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398069</ExpertLink>
-                            <Name lang="en">Prader-Willi syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -22875,7 +22866,7 @@
                           <Disorder id="22722">
                             <OrphaNumber>398079</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398079</ExpertLink>
-                            <Name lang="en">Prader-Willi-like syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi-like syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -23399,7 +23390,7 @@
                       <Disorder id="11430">
                         <OrphaNumber>79404</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79404</ExpertLink>
-                        <Name lang="en">Junctional epidermolysis bullosa, Herlitz type</Name>
+                        <Name lang="en">Junctional epidermolysis bullosa, generalized severe</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23433,7 +23424,7 @@
                           <Disorder id="11428">
                             <OrphaNumber>79402</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79402</ExpertLink>
-                            <Name lang="en">Generalized junctional epidermolysis bullosa, non-Herlitz type</Name>
+                            <Name lang="en">Junctional epidermolysis bullosa, generalized intermediate</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -23462,7 +23453,7 @@
                       <Disorder id="21219">
                         <OrphaNumber>306504</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
-                        <Name lang="en">Congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome</Name>
+                        <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23525,7 +23516,7 @@
                       <Disorder id="11907">
                         <OrphaNumber>89842</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=89842</ExpertLink>
-                        <Name lang="en">Recessive dystrophic epidermolysis bullosa-generalized other</Name>
+                        <Name lang="en">Recessive dystrophic epidermolysis bullosa, generalized intermediate</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24209,7 +24200,7 @@
                       <Disorder id="2860">
                         <OrphaNumber>3194</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3194</ExpertLink>
-                        <Name lang="en">Stern-Lubinsky-Durrie syndrome</Name>
+                        <Name lang="en">Corneodermatoosseous syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24389,7 +24380,7 @@
                       <Disorder id="10864">
                         <OrphaNumber>65282</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65282</ExpertLink>
-                        <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+                        <Name lang="en">Carvajal syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24675,7 +24666,7 @@
                           <Disorder id="526">
                             <OrphaNumber>502</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                            <Name lang="en">Langer-Giedion syndrome</Name>
+                            <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -26848,7 +26839,7 @@
                   <Disorder id="20578">
                     <OrphaNumber>284149</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284149</ExpertLink>
-                    <Name lang="en">Craniosynostosis and dental anomalies</Name>
+                    <Name lang="en">Craniosynostosis-dental anomalies</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -27415,7 +27406,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156249</ExpertLink>
                         <Name lang="en">Larynx anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="529">
                             <OrphaNumber>2373</OrphaNumber>
@@ -27507,15 +27498,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="1963">
-                            <OrphaNumber>2042</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2042</ExpertLink>
-                            <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="2158">
                             <OrphaNumber>2291</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2291</ExpertLink>
@@ -27586,21 +27568,12 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156252</ExpertLink>
                         <Name lang="en">Tracheal anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="597">
                             <OrphaNumber>3346</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3346</ExpertLink>
                             <Name lang="en">Tracheal agenesis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1963">
-                            <OrphaNumber>2042</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2042</ExpertLink>
-                            <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28034,7 +28007,7 @@
                       <Disorder id="17046">
                         <OrphaNumber>141145</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141145</ExpertLink>
-                        <Name lang="en">Hemifacial hypertrophy</Name>
+                        <Name lang="en">Hemifacial hyperplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -29274,7 +29247,7 @@
                           <Disorder id="2331">
                             <OrphaNumber>2521</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2521</ExpertLink>
-                            <Name lang="en">Microcephaly-cleft palate syndrome</Name>
+                            <Name lang="en">Microcephaly-cleft palate-abnormal retinal pigmentation syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -32256,7 +32229,7 @@
                                       <Disorder id="526">
                                         <OrphaNumber>502</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                                        <Name lang="en">Langer-Giedion syndrome</Name>
+                                        <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -35299,7 +35272,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293642</ExpertLink>
                         <Name lang="en">Blepharophimosis-intellectual disability syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="1114">
                             <OrphaNumber>1620</OrphaNumber>
@@ -35341,15 +35314,6 @@
                             <OrphaNumber>293725</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293725</ExpertLink>
                             <Name lang="en">Blepharophimosis-intellectual disability syndrome, Verloes type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21918">
-                            <OrphaNumber>329255</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329255</ExpertLink>
-                            <Name lang="en">Blepharophimosis-intellectual disability syndrome due to UBE3B deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -36287,7 +36251,7 @@
                       <Disorder id="2331">
                         <OrphaNumber>2521</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2521</ExpertLink>
-                        <Name lang="en">Microcephaly-cleft palate syndrome</Name>
+                        <Name lang="en">Microcephaly-cleft palate-abnormal retinal pigmentation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -36341,7 +36305,7 @@
                       <Disorder id="2396">
                         <OrphaNumber>2617</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2617</ExpertLink>
-                        <Name lang="en">Bird headed-dwarfism, Montreal type</Name>
+                        <Name lang="en">Microcephalic primordial dwarfism, Montreal type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37358,7 +37322,7 @@
                       <Disorder id="526">
                         <OrphaNumber>502</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                        <Name lang="en">Langer-Giedion syndrome</Name>
+                        <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -38013,7 +37977,7 @@
                           <Disorder id="22720">
                             <OrphaNumber>398069</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398069</ExpertLink>
-                            <Name lang="en">Prader-Willi syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -38733,7 +38697,7 @@
                           <Disorder id="22722">
                             <OrphaNumber>398079</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398079</ExpertLink>
-                            <Name lang="en">Prader-Willi-like syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi-like syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -40445,7 +40409,7 @@
                       <Disorder id="10909">
                         <OrphaNumber>69028</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
-                        <Name lang="en">Syndrome with brachydactyly</Name>
+                        <Name lang="en">Dysostosis with brachydactyly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="5">
                         <ClassificationNode>
@@ -41363,21 +41327,12 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1037</ExpertLink>
                             <Name lang="en">Arthrogryposis multiplex congenita</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="19">
+                          <ClassificationNodeChildList count="18">
                             <ClassificationNode>
                               <Disorder id="420">
                                 <OrphaNumber>1143</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1143</ExpertLink>
                                 <Name lang="en">Neurogenic arthrogryposis multiplex congenita</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="425">
-                                <OrphaNumber>1155</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1155</ExpertLink>
-                                <Name lang="en">Arthrogryposis due to muscular dystrophy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -42036,7 +41991,7 @@
                           <Disorder id="21926">
                             <OrphaNumber>329319</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329319</ExpertLink>
-                            <Name lang="en">Hereditary thrombocytosis with transverse limb defect</Name>
+                            <Name lang="en">Thrombocythemia with distal limb defects</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -43287,7 +43242,7 @@
                           <Disorder id="733">
                             <OrphaNumber>2913</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2913</ExpertLink>
-                            <Name lang="en">Polydactyly</Name>
+                            <Name lang="en">Non-syndromic polydactyly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="3">
                             <ClassificationNode>
@@ -43521,7 +43476,7 @@
                           <Disorder id="11927">
                             <OrphaNumber>90025</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90025</ExpertLink>
-                            <Name lang="en">Syndactyly</Name>
+                            <Name lang="en">Non-syndromic syndactyly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="8">
                             <ClassificationNode>
@@ -46785,7 +46740,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165707</ExpertLink>
                     <Name lang="en">Syndromic urogenital tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="35">
+                  <ClassificationNodeChildList count="34">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -46935,15 +46890,6 @@
                         <OrphaNumber>1974</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1974</ExpertLink>
                         <Name lang="en">Autosomal recessive faciodigitogenital syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1963">
-                        <OrphaNumber>2042</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2042</ExpertLink>
-                        <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -47105,7 +47051,7 @@
                       <Disorder id="12562">
                         <OrphaNumber>94095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -49644,7 +49590,7 @@
                                       <Disorder id="17771">
                                         <OrphaNumber>168558</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168558</ExpertLink>
-                                        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency syndrome</Name>
+                                        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>

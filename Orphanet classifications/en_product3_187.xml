@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:31" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:22" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -108,7 +108,7 @@
                                       <Disorder id="20072">
                                         <OrphaNumber>263558</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263558</ExpertLink>
-                                        <Name lang="en">Generalized peeling skin syndrome type C</Name>
+                                        <Name lang="en">Peeling skin syndrome type C</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -173,7 +173,7 @@
                                   <Disorder id="20528">
                                     <OrphaNumber>281122</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281122</ExpertLink>
-                                    <Name lang="en">Self-healing collodion baby</Name>
+                                    <Name lang="en">Self-improving collodion baby</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -472,7 +472,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281241</ExpertLink>
                                     <Name lang="en">Autosomal ichthyosis syndrome with fatal disease course</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="4">
+                                  <ClassificationNodeChildList count="5">
                                     <ClassificationNode>
                                       <Disorder id="6">
                                         <OrphaNumber>585</OrphaNumber>
@@ -509,6 +509,15 @@
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="2439">
+                                        <OrphaNumber>2671</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2671</ExpertLink>
+                                        <Name lang="en">Neu-Laxova syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -517,7 +526,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281244</ExpertLink>
                                     <Name lang="en">Autosomal ichthyosis syndrome with other associated signs</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="13">
+                                  <ClassificationNodeChildList count="11">
                                     <ClassificationNode>
                                       <Disorder id="520">
                                         <OrphaNumber>477</OrphaNumber>
@@ -532,24 +541,6 @@
                                         <OrphaNumber>3151</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3151</ExpertLink>
                                         <Name lang="en">Multiple sclerosis-ichthyosis-factor VIII deficiency syndrome</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="1583">
-                                        <OrphaNumber>1376</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1376</ExpertLink>
-                                        <Name lang="en">Congenital cataract-ichthyosis syndrome</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="2134">
-                                        <OrphaNumber>2267</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2267</ExpertLink>
-                                        <Name lang="en">Ichthyosis-cheek-eyebrow syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -1298,7 +1289,7 @@
                                   <Disorder id="10864">
                                     <OrphaNumber>65282</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65282</ExpertLink>
-                                    <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+                                    <Name lang="en">Carvajal syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1691,7 +1682,7 @@
                       <Disorder id="17549">
                         <OrphaNumber>163931</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163931</ExpertLink>
-                        <Name lang="en">Acrodermatitis continua suppurativa of Hallopeau</Name>
+                        <Name lang="en">Acrodermatitis continua of Hallopeau</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1824,7 +1815,7 @@
                           <Disorder id="11907">
                             <OrphaNumber>89842</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=89842</ExpertLink>
-                            <Name lang="en">Recessive dystrophic epidermolysis bullosa-generalized other</Name>
+                            <Name lang="en">Recessive dystrophic epidermolysis bullosa, generalized intermediate</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1851,7 +1842,7 @@
                           <Disorder id="17234">
                             <OrphaNumber>158676</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158676</ExpertLink>
-                            <Name lang="en">Dystrophic epidermolysis bullosa, nails only</Name>
+                            <Name lang="en">Dominant dystrophic epidermolysis bullosa, nails only</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1939,7 +1930,7 @@
                               <Disorder id="11422">
                                 <OrphaNumber>79396</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79396</ExpertLink>
-                                <Name lang="en">Epidermolysis bullosa simplex, Dowling-Meara type</Name>
+                                <Name lang="en">Epidermolysis bullosa simplex, generalized severe</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1957,7 +1948,7 @@
                               <Disorder id="11425">
                                 <OrphaNumber>79399</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79399</ExpertLink>
-                                <Name lang="en">Generalized epidermolysis bullosa simplex, non-Dowling-Meara type</Name>
+                                <Name lang="en">Epidermolysis bullosa simplex, generalized intermediate</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1984,7 +1975,7 @@
                               <Disorder id="11903">
                                 <OrphaNumber>89838</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=89838</ExpertLink>
-                                <Name lang="en">KRT14-related epidermolysis bullosa simplex</Name>
+                                <Name lang="en">Epidermolysis bullosa simplex, autosomal recessive K14</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2067,7 +2058,7 @@
                           <Disorder id="11430">
                             <OrphaNumber>79404</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79404</ExpertLink>
-                            <Name lang="en">Junctional epidermolysis bullosa, Herlitz type</Name>
+                            <Name lang="en">Junctional epidermolysis bullosa, generalized severe</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2101,7 +2092,7 @@
                               <Disorder id="11428">
                                 <OrphaNumber>79402</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79402</ExpertLink>
-                                <Name lang="en">Generalized junctional epidermolysis bullosa, non-Herlitz type</Name>
+                                <Name lang="en">Junctional epidermolysis bullosa, generalized intermediate</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2130,7 +2121,7 @@
                           <Disorder id="21219">
                             <OrphaNumber>306504</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
-                            <Name lang="en">Congenital nephrotic syndrome-interstitial lung disease-epidermolysis bullosa syndrome</Name>
+                            <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2947,7 +2938,7 @@
                               <Disorder id="10864">
                                 <OrphaNumber>65282</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65282</ExpertLink>
-                                <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+                                <Name lang="en">Carvajal syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3896,7 +3887,7 @@
                       <Disorder id="2860">
                         <OrphaNumber>3194</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3194</ExpertLink>
-                        <Name lang="en">Stern-Lubinsky-Durrie syndrome</Name>
+                        <Name lang="en">Corneodermatoosseous syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4076,7 +4067,7 @@
                       <Disorder id="10864">
                         <OrphaNumber>65282</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65282</ExpertLink>
-                        <Name lang="en">Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome</Name>
+                        <Name lang="en">Carvajal syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4362,7 +4353,7 @@
                           <Disorder id="526">
                             <OrphaNumber>502</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                            <Name lang="en">Langer-Giedion syndrome</Name>
+                            <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9786,7 +9777,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157987</ExpertLink>
                     <Name lang="en">Non-Langerhans cell histiocytosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="12">
+                    <ClassificationNode>
+                      <Disorder id="17176">
+                        <OrphaNumber>158014</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158014</ExpertLink>
+                        <Name lang="en">Rosaï-Dorfman disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="10383">
                         <OrphaNumber>35687</OrphaNumber>
@@ -10079,7 +10079,7 @@
                       <Disorder id="21817">
                         <OrphaNumber>324964</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324964</ExpertLink>
-                        <Name lang="en">Chronic recurrent multifocal osteomyelitis</Name>
+                        <Name lang="en">Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

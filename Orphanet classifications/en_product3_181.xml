@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:18" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:15" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -12,7 +12,7 @@
               <Disorder id="25240">
                 <OrphaNumber>481665</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481665</ExpertLink>
-                <Name lang="en">UPS18 deficiency</Name>
+                <Name lang="en">USP18 deficiency</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
@@ -17088,7 +17088,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97242</ExpertLink>
                                 <Name lang="en">Congenital muscular dystrophy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="15">
+                              <ClassificationNodeChildList count="14">
                                 <ClassificationNode>
                                   <Disorder id="284">
                                     <OrphaNumber>258</OrphaNumber>
@@ -17103,15 +17103,6 @@
                                     <OrphaNumber>610</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=610</ExpertLink>
                                     <Name lang="en">Bethlem myopathy</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="425">
-                                    <OrphaNumber>1155</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1155</ExpertLink>
-                                    <Name lang="en">Arthrogryposis due to muscular dystrophy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -17907,7 +17898,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=593</ExpertLink>
                                 <Name lang="en">Myofibrillar myopathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="8">
+                              <ClassificationNodeChildList count="9">
                                 <ClassificationNode>
                                   <Disorder id="13926">
                                     <OrphaNumber>98909</OrphaNumber>
@@ -17925,30 +17916,12 @@
                                   </Disorder>
                                   <ClassificationNodeChildList count="2">
                                     <ClassificationNode>
-                                      <Disorder id="25101">
-                                        <OrphaNumber>476403</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476403</ExpertLink>
-                                        <Name lang="en">Hypercontractile muscle stiffness syndrome</Name>
+                                      <Disorder id="20472">
+                                        <OrphaNumber>280553</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280553</ExpertLink>
+                                        <Name lang="en">Fatal infantile hypertonic myofibrillar myopathy</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="2">
-                                        <ClassificationNode>
-                                          <Disorder id="25102">
-                                            <OrphaNumber>476406</OrphaNumber>
-                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476406</ExpertLink>
-                                            <Name lang="en">Congenital generalized hypercontractile muscle stiffness syndrome</Name>
-                                          </Disorder>
-                                          <ClassificationNodeChildList count="0">
-                                          </ClassificationNodeChildList>
-                                        </ClassificationNode>
-                                        <ClassificationNode>
-                                          <Disorder id="20472">
-                                            <OrphaNumber>280553</OrphaNumber>
-                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280553</ExpertLink>
-                                            <Name lang="en">Fatal infantile hypertonic myofibrillar myopathy</Name>
-                                          </Disorder>
-                                          <ClassificationNodeChildList count="0">
-                                          </ClassificationNodeChildList>
-                                        </ClassificationNode>
+                                      <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                     <ClassificationNode>
@@ -18005,6 +17978,33 @@
                                     <Name lang="en">Spheroid body myopathy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25101">
+                                    <OrphaNumber>476403</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476403</ExpertLink>
+                                    <Name lang="en">Hypercontractile muscle stiffness syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="2">
+                                    <ClassificationNode>
+                                      <Disorder id="25102">
+                                        <OrphaNumber>476406</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476406</ExpertLink>
+                                        <Name lang="en">Congenital generalized hypercontractile muscle stiffness syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="20472">
+                                        <OrphaNumber>280553</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280553</ExpertLink>
+                                        <Name lang="en">Fatal infantile hypertonic myofibrillar myopathy</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -22438,7 +22438,7 @@
                   <Disorder id="19279">
                     <OrphaNumber>238583</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238583</ExpertLink>
-                    <Name lang="en">Hyperphenylalaninemia</Name>
+                    <Name lang="en">Hyperphenylalaninemia due to tetrahydrobiopterin deficiency</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="4">
                     <ClassificationNode>
@@ -22472,7 +22472,7 @@
                       <Disorder id="3391">
                         <OrphaNumber>1578</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1578</ExpertLink>
-                        <Name lang="en">Dehydratase deficiency</Name>
+                        <Name lang="en">Pterin-4 alpha-carbinolamine dehydratase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -24852,7 +24852,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="404">
+                  <ClassificationNodeChildList count="402">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -25073,7 +25073,7 @@
                       <Disorder id="526">
                         <OrphaNumber>502</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                        <Name lang="en">Langer-Giedion syndrome</Name>
+                        <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26036,7 +26036,7 @@
                       <Disorder id="2331">
                         <OrphaNumber>2521</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2521</ExpertLink>
-                        <Name lang="en">Microcephaly-cleft palate syndrome</Name>
+                        <Name lang="en">Microcephaly-cleft palate-abnormal retinal pigmentation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26099,7 +26099,7 @@
                       <Disorder id="2396">
                         <OrphaNumber>2617</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2617</ExpertLink>
-                        <Name lang="en">Bird headed-dwarfism, Montreal type</Name>
+                        <Name lang="en">Microcephalic primordial dwarfism, Montreal type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26321,15 +26321,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="2642">
-                        <OrphaNumber>2925</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2925</ExpertLink>
-                        <Name lang="en">Polymicrogyria-turricephaly-hypogenitalism syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="2645">
                         <OrphaNumber>2928</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2928</ExpertLink>
@@ -26415,15 +26406,6 @@
                         <OrphaNumber>742</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=742</ExpertLink>
                         <Name lang="en">Prolidase deficiency</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2756">
-                        <OrphaNumber>3067</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3067</ExpertLink>
-                        <Name lang="en">Intellectual disability-microcephaly-phalangeal-facial abnormalities syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27431,7 +27413,7 @@
                       <Disorder id="12562">
                         <OrphaNumber>94095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -30304,7 +30286,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293642</ExpertLink>
                         <Name lang="en">Blepharophimosis-intellectual disability syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="1114">
                             <OrphaNumber>1620</OrphaNumber>
@@ -30346,15 +30328,6 @@
                             <OrphaNumber>293725</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293725</ExpertLink>
                             <Name lang="en">Blepharophimosis-intellectual disability syndrome, Verloes type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21918">
-                            <OrphaNumber>329255</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329255</ExpertLink>
-                            <Name lang="en">Blepharophimosis-intellectual disability syndrome due to UBE3B deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -32372,7 +32345,7 @@
                       <Disorder id="22720">
                         <OrphaNumber>398069</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398069</ExpertLink>
-                        <Name lang="en">Prader-Willi syndrome due to point mutation</Name>
+                        <Name lang="en">Prader-Willi syndrome due to a point mutation</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -35306,7 +35279,7 @@
                       <Disorder id="22722">
                         <OrphaNumber>398079</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398079</ExpertLink>
-                        <Name lang="en">Prader-Willi-like syndrome due to point mutation</Name>
+                        <Name lang="en">Prader-Willi-like syndrome due to a point mutation</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39971,7 +39944,7 @@
                                   <Disorder id="24167">
                                     <OrphaNumber>466775</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466775</ExpertLink>
-                                    <Name lang="en">Autosomal recessive Charcot Marie Tooth disease type 2X</Name>
+                                    <Name lang="en">Autosomal recessive Charcot-Marie-Tooth disease type 2X</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -40810,7 +40783,7 @@
                               <Disorder id="25178">
                                 <OrphaNumber>478664</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478664</ExpertLink>
-                                <Name lang="en">Congenital insensitivity to pain-hypohidrosis syndrome</Name>
+                                <Name lang="en">Hereditary sensory and autonomic neuropathy type 8</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -41888,7 +41861,7 @@
                                   <Disorder id="24167">
                                     <OrphaNumber>466775</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466775</ExpertLink>
-                                    <Name lang="en">Autosomal recessive Charcot Marie Tooth disease type 2X</Name>
+                                    <Name lang="en">Autosomal recessive Charcot-Marie-Tooth disease type 2X</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

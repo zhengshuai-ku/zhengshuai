@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:22:09" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:46" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="20456">
       <OrphaNumber>280342</OrphaNumber>
@@ -780,7 +780,7 @@
                           <Disorder id="21817">
                             <OrphaNumber>324964</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324964</ExpertLink>
-                            <Name lang="en">Chronic recurrent multifocal osteomyelitis</Name>
+                            <Name lang="en">Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1095,7 +1095,7 @@
                           <Disorder id="25240">
                             <OrphaNumber>481665</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481665</ExpertLink>
-                            <Name lang="en">UPS18 deficiency</Name>
+                            <Name lang="en">USP18 deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

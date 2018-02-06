@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:43" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:30" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13041">
       <OrphaNumber>98023</OrphaNumber>
@@ -1758,7 +1758,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157987</ExpertLink>
                     <Name lang="en">Non-Langerhans cell histiocytosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="12">
+                    <ClassificationNode>
+                      <Disorder id="17176">
+                        <OrphaNumber>158014</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158014</ExpertLink>
+                        <Name lang="en">Rosaï-Dorfman disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="17170">
                         <OrphaNumber>157991</OrphaNumber>
@@ -2481,7 +2490,7 @@
                           <Disorder id="21817">
                             <OrphaNumber>324964</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324964</ExpertLink>
-                            <Name lang="en">Chronic recurrent multifocal osteomyelitis</Name>
+                            <Name lang="en">Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2796,7 +2805,7 @@
                           <Disorder id="25240">
                             <OrphaNumber>481665</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481665</ExpertLink>
-                            <Name lang="en">UPS18 deficiency</Name>
+                            <Name lang="en">USP18 deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

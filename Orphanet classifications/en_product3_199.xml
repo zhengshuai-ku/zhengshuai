@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:48" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:33" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -1711,7 +1711,7 @@
                   <Disorder id="12340">
                     <OrphaNumber>93426</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93426</ExpertLink>
-                    <Name lang="en">Short rib dysplasia</Name>
+                    <Name lang="en">Ciliopathies with major skeletal involvement</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="6">
                     <ClassificationNode>
@@ -2436,7 +2436,7 @@
                           <Disorder id="526">
                             <OrphaNumber>502</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502</ExpertLink>
-                            <Name lang="en">Langer-Giedion syndrome</Name>
+                            <Name lang="en">Trichorhinophalangeal syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2645,7 +2645,7 @@
                       <Disorder id="2410">
                         <OrphaNumber>2633</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2633</ExpertLink>
-                        <Name lang="en">Mesomelic dwarfism, Nievergelt type</Name>
+                        <Name lang="en">Mesomelic dysplasia, Nievergelt type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2818,7 +2818,7 @@
                   <Disorder id="12350">
                     <OrphaNumber>93439</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93439</ExpertLink>
-                    <Name lang="en">Bent bone dysplasia</Name>
+                    <Name lang="en">Campomelic dysplasia and related disorders</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="10">
                     <ClassificationNode>
@@ -3536,7 +3536,7 @@
                       <Disorder id="3700">
                         <OrphaNumber>2781</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2781</ExpertLink>
-                        <Name lang="en">Osteopetrosis</Name>
+                        <Name lang="en">Osteopetrosis and related disorders</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="18">
                         <ClassificationNode>
@@ -4760,7 +4760,7 @@
                       <Disorder id="2420">
                         <OrphaNumber>2645</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2645</ExpertLink>
-                        <Name lang="en">Osteoglophonic dwarfism</Name>
+                        <Name lang="en">Osteoglosphonic dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5568,7 +5568,7 @@
                           <Disorder id="20578">
                             <OrphaNumber>284149</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284149</ExpertLink>
-                            <Name lang="en">Craniosynostosis and dental anomalies</Name>
+                            <Name lang="en">Craniosynostosis-dental anomalies</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6074,7 +6074,7 @@
                       <Disorder id="1082">
                         <OrphaNumber>1552</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1552</ExpertLink>
-                        <Name lang="en">Currarino triad</Name>
+                        <Name lang="en">Currarino syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6119,7 +6119,7 @@
                       <Disorder id="2514">
                         <OrphaNumber>2759</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2759</ExpertLink>
-                        <Name lang="en">Imperforate oropharynx-costo vetebral anomalies syndrome</Name>
+                        <Name lang="en">Imperforate oropharynx-costo vertebral anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6200,7 +6200,7 @@
                       <Disorder id="12562">
                         <OrphaNumber>94095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6524,7 +6524,7 @@
                       <Disorder id="10909">
                         <OrphaNumber>69028</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
-                        <Name lang="en">Syndrome with brachydactyly</Name>
+                        <Name lang="en">Dysostosis with brachydactyly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="5">
                         <ClassificationNode>
@@ -7458,7 +7458,7 @@
                           <Disorder id="733">
                             <OrphaNumber>2913</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2913</ExpertLink>
-                            <Name lang="en">Polydactyly</Name>
+                            <Name lang="en">Non-syndromic polydactyly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="3">
                             <ClassificationNode>
@@ -7692,7 +7692,7 @@
                           <Disorder id="11927">
                             <OrphaNumber>90025</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90025</ExpertLink>
-                            <Name lang="en">Syndactyly</Name>
+                            <Name lang="en">Non-syndromic syndactyly</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="8">
                             <ClassificationNode>
@@ -8790,7 +8790,7 @@
                           <Disorder id="21926">
                             <OrphaNumber>329319</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329319</ExpertLink>
-                            <Name lang="en">Hereditary thrombocytosis with transverse limb defect</Name>
+                            <Name lang="en">Thrombocythemia with distal limb defects</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

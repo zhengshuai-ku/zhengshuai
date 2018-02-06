@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:27" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:20" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="14860">
       <OrphaNumber>101433</OrphaNumber>
@@ -597,7 +597,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165707</ExpertLink>
                     <Name lang="en">Syndromic urogenital tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="35">
+                  <ClassificationNodeChildList count="34">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -747,15 +747,6 @@
                         <OrphaNumber>1974</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1974</ExpertLink>
                         <Name lang="en">Autosomal recessive faciodigitogenital syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1963">
-                        <OrphaNumber>2042</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2042</ExpertLink>
-                        <Name lang="en">Tracheo-esophageal fistula-hypospadias syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -917,7 +908,7 @@
                       <Disorder id="12562">
                         <OrphaNumber>94095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1692,7 +1683,7 @@
                                       <Disorder id="17771">
                                         <OrphaNumber>168558</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168558</ExpertLink>
-                                        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency syndrome</Name>
+                                        <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -2033,7 +2024,7 @@
                       <Disorder id="22718">
                         <OrphaNumber>398058</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398058</ExpertLink>
-                        <Name lang="en">Squamous cell carcinoma of penis</Name>
+                        <Name lang="en">Squamous cell carcinoma of the penis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

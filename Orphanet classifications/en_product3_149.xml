@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:21:04" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:07" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="16780">
       <OrphaNumber>138221</OrphaNumber>
@@ -510,7 +510,7 @@
                           <Disorder id="22720">
                             <OrphaNumber>398069</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398069</ExpertLink>
-                            <Name lang="en">Prader-Willi syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -618,7 +618,7 @@
                           <Disorder id="22722">
                             <OrphaNumber>398079</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398079</ExpertLink>
-                            <Name lang="en">Prader-Willi-like syndrome due to point mutation</Name>
+                            <Name lang="en">Prader-Willi-like syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -953,7 +953,7 @@
                       <Disorder id="23661">
                         <OrphaNumber>454750</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=454750</ExpertLink>
-                        <Name lang="en">Isolated tracheo-esophageal fistula</Name>
+                        <Name lang="en">Isolated tracheoesophageal fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2643,7 +2643,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1037</ExpertLink>
                                 <Name lang="en">Arthrogryposis multiplex congenita</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="9">
+                              <ClassificationNodeChildList count="8">
                                 <ClassificationNode>
                                   <Disorder id="420">
                                     <OrphaNumber>1143</OrphaNumber>
@@ -2694,15 +2694,6 @@
                                     <OrphaNumber>439897</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439897</ExpertLink>
                                     <Name lang="en">Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="425">
-                                    <OrphaNumber>1155</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1155</ExpertLink>
-                                    <Name lang="en">Arthrogryposis due to muscular dystrophy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

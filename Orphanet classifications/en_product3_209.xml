@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:22:02" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:41" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -514,7 +514,7 @@
                   <Disorder id="17046">
                     <OrphaNumber>141145</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141145</ExpertLink>
-                    <Name lang="en">Hemifacial hypertrophy</Name>
+                    <Name lang="en">Hemifacial hyperplasia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1790,7 +1790,7 @@
                       <Disorder id="2331">
                         <OrphaNumber>2521</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2521</ExpertLink>
-                        <Name lang="en">Microcephaly-cleft palate syndrome</Name>
+                        <Name lang="en">Microcephaly-cleft palate-abnormal retinal pigmentation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

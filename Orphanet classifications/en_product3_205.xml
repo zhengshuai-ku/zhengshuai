@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-01-01 04:22:00" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-02-01 04:09:40" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12845">
       <OrphaNumber>96344</OrphaNumber>
@@ -1286,7 +1286,7 @@
                       <Disorder id="1082">
                         <OrphaNumber>1552</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1552</ExpertLink>
-                        <Name lang="en">Currarino triad</Name>
+                        <Name lang="en">Currarino syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1349,7 +1349,7 @@
                       <Disorder id="12562">
                         <OrphaNumber>94095</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94095</ExpertLink>
-                        <Name lang="en">Spondylocostal dysostosis-anal and genitourinary malformations syndrome</Name>
+                        <Name lang="en">Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2029,7 +2029,7 @@
                               <Disorder id="22720">
                                 <OrphaNumber>398069</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398069</ExpertLink>
-                                <Name lang="en">Prader-Willi syndrome due to point mutation</Name>
+                                <Name lang="en">Prader-Willi syndrome due to a point mutation</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2182,7 +2182,7 @@
                               <Disorder id="22722">
                                 <OrphaNumber>398079</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=398079</ExpertLink>
-                                <Name lang="en">Prader-Willi-like syndrome due to point mutation</Name>
+                                <Name lang="en">Prader-Willi-like syndrome due to a point mutation</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2679,7 +2679,7 @@
                           <Disorder id="17771">
                             <OrphaNumber>168558</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168558</ExpertLink>
-                            <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency syndrome</Name>
+                            <Name lang="en">46,XY disorder of sex development-adrenal insufficiency due to CYP11A1 deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
