@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-02-01 04:03:53" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="2980">
+<JDBOR date="2018-03-01 04:03:56" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3022">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -8517,18 +8517,6 @@
       <CreationDate>2016-05-31 11:49:15.8</CreationDate>
       <UpdateDate>2016-05-31 11:49:15.8</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="714">
-      <Disorder id="1617">
-        <OrphaNumber>1420</OrphaNumber>
-        <Name lang="it">Condrodisplasia letale, tipo Moerman</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:15.72</CreationDate>
-      <UpdateDate>2016-05-31 11:49:15.72</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="717">
       <Disorder id="1632">
         <OrphaNumber>1426</OrphaNumber>
@@ -11981,18 +11969,6 @@
       <CreationDate>2016-05-31 11:49:46.9</CreationDate>
       <UpdateDate>2016-05-31 11:49:46.9</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1089">
-      <Disorder id="2477">
-        <OrphaNumber>2716</OrphaNumber>
-        <Name lang="it">Sindrome oculo-scheletro-renale</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:49:46.97</CreationDate>
-      <UpdateDate>2016-05-31 11:49:46.97</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1090">
       <Disorder id="2478">
         <OrphaNumber>2717</OrphaNumber>
@@ -13809,18 +13785,6 @@
       <CreationDate>2016-05-31 11:50:01.626</CreationDate>
       <UpdateDate>2016-05-31 11:50:01.626</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1262">
-      <Disorder id="3104">
-        <OrphaNumber>1492</OrphaNumber>
-        <Name lang="it">Agenesia del corpo calloso - bifidità uretrale - trigonocefalia</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:50:01.55</CreationDate>
-      <UpdateDate>2016-05-31 11:50:01.55</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1261">
       <Disorder id="3101">
         <OrphaNumber>2151</OrphaNumber>
@@ -13832,18 +13796,6 @@
       <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2016-05-31 11:50:01.473</CreationDate>
       <UpdateDate>2016-05-31 11:50:01.473</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1260">
-      <Disorder id="3088">
-        <OrphaNumber>1773</OrphaNumber>
-        <Name lang="it">Disgenesia sacro-coccigea</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:50:01.393</CreationDate>
-      <UpdateDate>2016-05-31 11:50:01.393</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1259">
       <Disorder id="3087">
@@ -30917,7 +30869,7 @@
       <Source/>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
-      <UpdateDate/>
+      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
       <CreationDate>2017-07-18 17:18:03.066</CreationDate>
       <UpdateDate>2017-07-18 17:18:03.066</UpdateDate>
     </HPODisorderSetStatus>
@@ -33777,6 +33729,102 @@
       <CreationDate>2018-01-08 14:59:24.036</CreationDate>
       <UpdateDate>2018-01-08 14:59:24.036</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3064">
+      <Disorder id="8632">
+        <OrphaNumber>315</OrphaNumber>
+        <Name lang="it">Eritrocheratodermia a coccarda</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-05 14:31:08.153</CreationDate>
+      <UpdateDate>2018-02-05 14:31:08.153</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3065">
+      <Disorder id="8616">
+        <OrphaNumber>188</OrphaNumber>
+        <Name lang="it">Sindrome sistemica da aumentata permeabilità capillare</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-22 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-05 16:50:09.61</CreationDate>
+      <UpdateDate>2018-02-05 16:50:09.61</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3066">
+      <Disorder id="7027">
+        <OrphaNumber>1810</OrphaNumber>
+        <Name lang="it">Displasia ectodermica ipoidrotica autosomica dominante</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-23 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-05 17:13:35.48</CreationDate>
+      <UpdateDate>2018-02-05 17:13:35.48</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3067">
+      <Disorder id="6522">
+        <OrphaNumber>537</OrphaNumber>
+        <Name lang="it">Sindrome di Lyell</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-05 17:48:49.416</CreationDate>
+      <UpdateDate>2018-02-05 17:48:49.416</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3068">
+      <Disorder id="3508">
+        <OrphaNumber>1787</OrphaNumber>
+        <Name lang="it">Disostosi acrofacciale, tipo Palagonia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-06 15:37:53.21</CreationDate>
+      <UpdateDate>2018-02-06 15:37:53.21</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3069">
+      <Disorder id="3498">
+        <OrphaNumber>3474</OrphaNumber>
+        <Name lang="it">Sindrome CHIME</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-07 12:49:24.17</CreationDate>
+      <UpdateDate>2018-02-07 12:49:24.17</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3070">
+      <Disorder id="23373">
+        <OrphaNumber>438274</OrphaNumber>
+        <Name lang="it">Iperglucagonemia GCGR-correlata</Name>
+      </Disorder>
+      <Source>25914784[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-14 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-14 11:10:56.406</CreationDate>
+      <UpdateDate>2018-02-14 11:10:56.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3071">
+      <Disorder id="1228">
+        <OrphaNumber>3306</OrphaNumber>
+        <Name lang="it">Duplicazione/inversione 15q11</Name>
+      </Disorder>
+      <Source>19019226[PMID]_24239951[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-19 12:25:27.7</CreationDate>
+      <UpdateDate>2018-02-19 12:25:27.7</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3056">
       <Disorder id="20390">
         <OrphaNumber>276621</OrphaNumber>
@@ -33812,6 +33860,66 @@
       <UpdateDate>2018-01-29 00:00:00.0</UpdateDate>
       <CreationDate>2018-01-29 18:05:37.053</CreationDate>
       <UpdateDate>2018-01-29 18:05:37.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3059">
+      <Disorder id="19881">
+        <OrphaNumber>261494</OrphaNumber>
+        <Name lang="it">Sindrome di Kleefstra</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-17 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-02 13:56:04.246</CreationDate>
+      <UpdateDate>2018-02-02 13:56:04.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3060">
+      <Disorder id="10575">
+        <OrphaNumber>42665</OrphaNumber>
+        <Name lang="it">Sindrome di Tietz</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-17 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-02 15:06:42.55</CreationDate>
+      <UpdateDate>2018-02-02 15:06:42.55</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3061">
+      <Disorder id="8772">
+        <OrphaNumber>28378</OrphaNumber>
+        <Name lang="it">Tirosinemia, tipo 2</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-18 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-02 16:06:34.246</CreationDate>
+      <UpdateDate>2018-02-02 16:06:34.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3062">
+      <Disorder id="8660">
+        <OrphaNumber>679</OrphaNumber>
+        <Name lang="it">Papulosi atrofica maligna</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-18 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-02 17:02:26.86</CreationDate>
+      <UpdateDate>2018-02-02 17:02:26.86</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3063">
+      <Disorder id="8652">
+        <OrphaNumber>659</OrphaNumber>
+        <Name lang="it">Cheratoderma palmoplantare mutilante con placche cheratosiche periorifiziali</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-01-18 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-05 12:31:23.323</CreationDate>
+      <UpdateDate>2018-02-05 12:31:23.323</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3019">
       <Disorder id="2138">
@@ -35720,6 +35828,402 @@
       <UpdateDate>2017-09-27 00:00:00.0</UpdateDate>
       <CreationDate>2017-09-27 15:21:38.023</CreationDate>
       <UpdateDate>2017-09-27 15:21:38.023</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3097">
+      <Disorder id="14705">
+        <OrphaNumber>100994</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica dominante, tipo 13</Name>
+      </Disorder>
+      <Source>10677329[PMIID]_11898127[PMID],18853458[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-26 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 11:52:20.663</CreationDate>
+      <UpdateDate>2018-02-26 11:52:20.663</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3096">
+      <Disorder id="14030">
+        <OrphaNumber>99013</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 7</Name>
+      </Disorder>
+      <Source>9634528[PMID],9635427[PMID],17646629[PMID]   ,17646629[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 11:37:18.006</CreationDate>
+      <UpdateDate>2018-02-26 11:37:18.006</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3099">
+      <Disorder id="17153">
+        <OrphaNumber>157835</OrphaNumber>
+        <Name lang="it">Emicrania parossistica</Name>
+      </Disorder>
+      <Source>24523000[PMID]_23566235[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-26 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 15:34:44.21</CreationDate>
+      <UpdateDate>2018-02-26 15:34:44.21</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3098">
+      <Disorder id="14722">
+        <OrphaNumber>101011</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica dominante, tipo 31</Name>
+      </Disorder>
+      <Source>16565863[PMID],19034539[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 15:12:18.926</CreationDate>
+      <UpdateDate>2018-02-26 15:12:18.926</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3101">
+      <Disorder id="22710">
+        <OrphaNumber>397946</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 58</Name>
+      </Disorder>
+      <Source>17273843[PMID],24319291[PMID],24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-14 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 16:13:15.943</CreationDate>
+      <UpdateDate>2018-02-26 16:13:15.943</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3100">
+      <Disorder id="14699">
+        <OrphaNumber>100988</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica dominante, tipo 6</Name>
+      </Disorder>
+      <Source>7854534[PMID],15711826[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-13 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 15:35:20.866</CreationDate>
+      <UpdateDate>2018-02-26 15:35:20.866</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3103">
+      <Disorder id="13825">
+        <OrphaNumber>98808</OrphaNumber>
+        <Name lang="it">Distonia Dopa-sensibile autosomica dominante</Name>
+      </Disorder>
+      <Source>22030388[PMID]_20482602[PMID]_16908750[PMID]_12084887[PMID]_11346370[PMID]_1899474[PMID]_3762960[PMID]_942621[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-28 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-28 14:40:31.463</CreationDate>
+      <UpdateDate>2018-02-28 14:40:31.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3102">
+      <Disorder id="17916">
+        <OrphaNumber>171629</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 35</Name>
+      </Disorder>
+      <Source>18463364[PMID],19068277[PMID],20104589[PMID],20853438[PMID],22146942[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-14 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-27 12:09:35.113</CreationDate>
+      <UpdateDate>2018-02-27 12:09:35.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3089">
+      <Disorder id="14708">
+        <OrphaNumber>100997</OrphaNumber>
+        <Name lang="it">Paraplegia spastica legata all'X, tipo 16</Name>
+      </Disorder>
+      <Source>9254866[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 09:40:45.383</CreationDate>
+      <UpdateDate>2018-02-26 09:40:45.383</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3088">
+      <Disorder id="22828">
+        <OrphaNumber>401780</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 61</Name>
+      </Disorder>
+      <Source>24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-07 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 09:24:28.366</CreationDate>
+      <UpdateDate>2018-02-26 09:24:28.366</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3091">
+      <Disorder id="21720">
+        <OrphaNumber>320396</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 45</Name>
+      </Disorder>
+      <Source>19415352[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-07 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 09:53:27.956</CreationDate>
+      <UpdateDate>2018-02-26 09:53:27.956</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3090">
+      <Disorder id="21723">
+        <OrphaNumber>320411</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 56</Name>
+      </Disorder>
+      <Source>23176821[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-09 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 09:44:43.426</CreationDate>
+      <UpdateDate>2018-02-26 09:44:43.426</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3093">
+      <Disorder id="14721">
+        <OrphaNumber>101010</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 30</Name>
+      </Disorder>
+      <Source>16434418[PMID],22258533[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-09 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 10:24:44.243</CreationDate>
+      <UpdateDate>2018-02-26 10:24:44.243</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3092">
+      <Disorder id="21221">
+        <OrphaNumber>306511</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 48</Name>
+      </Disorder>
+      <Source>20613862[PMID],24833714[PMID],26085577[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-08 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 10:07:44.92</CreationDate>
+      <UpdateDate>2018-02-26 10:07:44.92</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3095">
+      <Disorder id="14697">
+        <OrphaNumber>100986</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 5A</Name>
+      </Disorder>
+      <Source>19439420[PMID],19187859[PMID],24641183[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 11:26:55.276</CreationDate>
+      <UpdateDate>2018-02-26 11:26:55.276</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3094">
+      <Disorder id="14706">
+        <OrphaNumber>100995</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 14</Name>
+      </Disorder>
+      <Source>10877981[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 10:28:03.416</CreationDate>
+      <UpdateDate>2018-02-26 10:28:03.416</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3080">
+      <Disorder id="8714">
+        <OrphaNumber>641</OrphaNumber>
+        <Name lang="it">Neuropatia motoria multifocale</Name>
+      </Disorder>
+      <Source>24741315[PMID],24395647[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 15:34:30.973</CreationDate>
+      <UpdateDate>2018-02-23 15:34:30.973</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3081">
+      <Disorder id="8718">
+        <OrphaNumber>266</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica dominante, tipo 1A</Name>
+      </Disorder>
+      <Source>9828127[PMID],21336781[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 15:44:09.93</CreationDate>
+      <UpdateDate>2018-02-23 15:44:09.93</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3082">
+      <Disorder id="8719">
+        <OrphaNumber>264</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica dominante, tipo 1B</Name>
+      </Disorder>
+      <Source>8619549[PMID],15148145[PMID],17136397[PMID],19258295[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 16:21:15.326</CreationDate>
+      <UpdateDate>2018-02-23 16:21:15.326</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3083">
+      <Disorder id="11162">
+        <OrphaNumber>79136</OrphaNumber>
+        <Name lang="it">Atassia episodica, tipo 4</Name>
+      </Disorder>
+      <Source>13944410[PMID],26264377[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 16:33:22.92</CreationDate>
+      <UpdateDate>2018-02-23 16:33:22.92</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3084">
+      <Disorder id="11600">
+        <OrphaNumber>83629</OrphaNumber>
+        <Name lang="it">Leucoencefalopatia - condrodisplasia metafisaria</Name>
+      </Disorder>
+      <Source>16924009[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 16:36:59.66</CreationDate>
+      <UpdateDate>2018-02-23 16:36:59.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3085">
+      <Disorder id="11720">
+        <OrphaNumber>85447</OrphaNumber>
+        <Name lang="it">Amiloidosi ATTRV30M</Name>
+      </Disorder>
+      <Source>20301373[PMID],29249054[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-06 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 17:10:42.366</CreationDate>
+      <UpdateDate>2018-02-23 17:10:42.366</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3086">
+      <Disorder id="22833">
+        <OrphaNumber>401810</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 64</Name>
+      </Disorder>
+      <Source>24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-06 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-23 17:20:24.933</CreationDate>
+      <UpdateDate>2018-02-23 17:20:24.933</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3087">
+      <Disorder id="22832">
+        <OrphaNumber>401805</OrphaNumber>
+        <Name lang="it">Paraplegia spastica autosomica recessiva, tipo 63</Name>
+      </Disorder>
+      <Source>24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-06 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-26 09:19:07.446</CreationDate>
+      <UpdateDate>2018-02-26 09:19:07.446</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3072">
+      <Disorder id="16908">
+        <OrphaNumber>139485</OrphaNumber>
+        <Name lang="it">Atassia autosomica recessiva da deficit di ubichinone</Name>
+      </Disorder>
+      <Source>18319072[PMID]_18319074[PMID]_15326254[PMID]_12682339[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-19 13:48:02.183</CreationDate>
+      <UpdateDate>2018-02-19 13:48:02.183</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3073">
+      <Disorder id="21508">
+        <OrphaNumber>314647</OrphaNumber>
+        <Name lang="it">Atassia cerebellare non progressiva con disabilità cognitiva</Name>
+      </Disorder>
+      <Source>22693284[PMID]_24145135[PMID]_24738973[PMID]_17470457[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-19 16:14:05.85</CreationDate>
+      <UpdateDate>2018-02-19 16:14:05.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3074">
+      <Disorder id="20354">
+        <OrphaNumber>276193</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 35</Name>
+      </Disorder>
+      <Source>21106500[PMiD]_25253745[PMID]_NBK1138[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 11:36:08.096</CreationDate>
+      <UpdateDate>2018-02-21 11:36:08.096</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3075">
+      <Disorder id="14823">
+        <OrphaNumber>101112</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 26</Name>
+      </Disorder>
+      <Source>23331413[PMID]_23001565[PMID]_15732118[PMID]_NBK1138[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 15:47:01.51</CreationDate>
+      <UpdateDate>2018-02-21 15:47:01.51</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3076">
+      <Disorder id="20593">
+        <OrphaNumber>284289</OrphaNumber>
+        <Name lang="it">Atassia cerebellare autosomica recessiva a esordio nell'età adulta</Name>
+      </Disorder>
+      <Source>25182700[PMID]_21092923[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 16:09:02.34</CreationDate>
+      <UpdateDate>2018-02-21 16:09:02.34</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3077">
+      <Disorder id="20595">
+        <OrphaNumber>284324</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare autosomica recessiva a progressione lenta e a esordio infantile</Name>
+      </Disorder>
+      <Source>21749694[PMID]_15520412 [PMID]_23418007[PMID]_26224725[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 16:40:03.676</CreationDate>
+      <UpdateDate>2018-02-21 16:40:03.676</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3078">
+      <Disorder id="20596">
+        <OrphaNumber>284332</OrphaNumber>
+        <Name lang="it">Atassia cerebellare autosomica recessiva non progressiva a esordio infantile</Name>
+      </Disorder>
+      <Source>12811539[PMID]_4003033[PMID]_</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 17:05:45.993</CreationDate>
+      <UpdateDate>2018-02-21 17:05:45.993</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3079">
+      <Disorder id="22058">
+        <OrphaNumber>352403</OrphaNumber>
+        <Name lang="it">Atassia cerebellare autosomica recessiva associata alla spettrina</Name>
+      </Disorder>
+      <Source>23838597[PMID]_23236289[PMID]_NBK1138[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-21 17:15:04.683</CreationDate>
+      <UpdateDate>2018-02-21 17:15:04.683</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3104">
+      <Disorder id="14826">
+        <OrphaNumber>101150</OrphaNumber>
+        <Name lang="it">Distonia Dopa-sensibile autosomica recessiva</Name>
+      </Disorder>
+      <Source>8817341[PMID]_16722965[PMID]_22030388[PMID]_20482602[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-28 00:00:00.0</UpdateDate>
+      <CreationDate>2018-02-28 15:21:30.73</CreationDate>
+      <UpdateDate>2018-02-28 15:21:30.73</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

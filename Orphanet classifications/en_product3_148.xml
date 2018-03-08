@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-02-01 04:09:06" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-03-01 04:09:09" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12983">
       <OrphaNumber>97965</OrphaNumber>
@@ -12,7 +12,7 @@
               <Disorder id="11884">
                 <OrphaNumber>88991</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88991</ExpertLink>
-                <Name lang="en">Congenital non-syndromic heart malformation</Name>
+                <Name lang="en">Rare congenital non-syndromic heart malformation</Name>
               </Disorder>
               <ClassificationNodeChildList count="14">
                 <ClassificationNode>
@@ -1558,7 +1558,7 @@
                   <Disorder id="13744">
                     <OrphaNumber>98727</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98727</ExpertLink>
-                    <Name lang="en">Atrial defect and interatrial communication</Name>
+                    <Name lang="en">Rare atrial defect and interatrial communication</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="6">
                     <ClassificationNode>
@@ -1936,7 +1936,7 @@
                   <Disorder id="25060">
                     <OrphaNumber>474347</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=474347</ExpertLink>
-                    <Name lang="en">Congenital anomaly of ventricular septum</Name>
+                    <Name lang="en">Rare congenital anomaly of ventricular septum</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>

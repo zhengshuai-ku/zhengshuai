@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-02-01 04:09:22" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-03-01 04:09:25" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -283,7 +283,7 @@
                               <Disorder id="23486">
                                 <OrphaNumber>444138</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444138</ExpertLink>
-                                <Name lang="en">Peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome</Name>
+                                <Name lang="en">Peeling skin-leukonychia-acral punctate keratoses-cheilitis-knuckle pads syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1390,7 +1390,7 @@
                               <Disorder id="23486">
                                 <OrphaNumber>444138</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444138</ExpertLink>
-                                <Name lang="en">Peeling skin-leukonuchia-acral punctate keratoses-cheilitis-knuckle pads syndrome</Name>
+                                <Name lang="en">Peeling skin-leukonychia-acral punctate keratoses-cheilitis-knuckle pads syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3279,7 +3279,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="110">
+                  <ClassificationNodeChildList count="109">
                     <ClassificationNode>
                       <Disorder id="287">
                         <OrphaNumber>289</OrphaNumber>
@@ -3978,15 +3978,6 @@
                         <OrphaNumber>3353</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3353</ExpertLink>
                         <Name lang="en">Trichodermodysplasia-dental alterations syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2973">
-                        <OrphaNumber>3354</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3354</ExpertLink>
-                        <Name lang="en">Tricho-oculo-dermo-vertebral syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -8974,7 +8965,7 @@
                   <Disorder id="23365">
                     <OrphaNumber>438134</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438134</ExpertLink>
-                    <Name lang="en">PCNA-related progressive neurodegenerative photosensitivy syndrome</Name>
+                    <Name lang="en">PCNA-related progressive neurodegenerative photosensitivity syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10162,7 +10153,7 @@
                   <Disorder id="12597">
                     <OrphaNumber>95455</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95455</ExpertLink>
-                    <Name lang="en">Toxic epidermal necrolysis</Name>
+                    <Name lang="en">Stevens-Johnson syndrome - toxic epidermal necrolysis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-02-01 04:09:15" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-03-01 04:09:18" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -7,7 +7,7 @@
       <Name lang="en">Rare neurologic disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="49">
+          <ClassificationNodeChildList count="47">
             <ClassificationNode>
               <Disorder id="25240">
                 <OrphaNumber>481665</OrphaNumber>
@@ -427,7 +427,7 @@
                               <Disorder id="17635">
                                 <OrphaNumber>166308</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166308</ExpertLink>
-                                <Name lang="en">Benign infantile focal epilepsy with midline spikes and wave during sleep</Name>
+                                <Name lang="en">Benign infantile focal epilepsy with midline spikes and waves during sleep</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2616,7 +2616,7 @@
                           <Disorder id="22931">
                             <OrphaNumber>404499</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7582,7 +7582,7 @@
                               <Disorder id="22931">
                                 <OrphaNumber>404499</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                                <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                                <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -10111,15 +10111,6 @@
                 <OrphaNumber>137932</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137932</ExpertLink>
                 <Name lang="en">Congenital laryngeal palsy</Name>
-              </Disorder>
-              <ClassificationNodeChildList count="0">
-              </ClassificationNodeChildList>
-            </ClassificationNode>
-            <ClassificationNode>
-              <Disorder id="17924">
-                <OrphaNumber>171676</OrphaNumber>
-                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171676</ExpertLink>
-                <Name lang="en">Periventricular leukomalacia</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
@@ -13497,7 +13488,7 @@
                           <Disorder id="22931">
                             <OrphaNumber>404499</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -14346,7 +14337,7 @@
                                       <Disorder id="22931">
                                         <OrphaNumber>404499</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                                        <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                                        <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -15427,7 +15418,7 @@
                   <Disorder id="23365">
                     <OrphaNumber>438134</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438134</ExpertLink>
-                    <Name lang="en">PCNA-related progressive neurodegenerative photosensitivy syndrome</Name>
+                    <Name lang="en">PCNA-related progressive neurodegenerative photosensitivity syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -15763,15 +15754,6 @@
                 <OrphaNumber>276174</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276174</ExpertLink>
                 <Name lang="en">Idiopathic recurrent stupor</Name>
-              </Disorder>
-              <ClassificationNodeChildList count="0">
-              </ClassificationNodeChildList>
-            </ClassificationNode>
-            <ClassificationNode>
-              <Disorder id="2557">
-                <OrphaNumber>2823</OrphaNumber>
-                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2823</ExpertLink>
-                <Name lang="en">Paraplegia-brachydactyly-cone-shaped epiphysis syndrome</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
@@ -23716,7 +23698,7 @@
                   <Disorder id="23081">
                     <OrphaNumber>415286</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=415286</ExpertLink>
-                    <Name lang="en">Bilirubin encephalopathy</Name>
+                    <Name lang="en">Kernicterus spectrum disorder</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -30984,7 +30966,7 @@
                           <Disorder id="22931">
                             <OrphaNumber>404499</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -31094,7 +31076,7 @@
                       <Disorder id="23365">
                         <OrphaNumber>438134</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438134</ExpertLink>
-                        <Name lang="en">PCNA-related progressive neurodegenerative photosensitivy syndrome</Name>
+                        <Name lang="en">PCNA-related progressive neurodegenerative photosensitivity syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -33181,7 +33163,7 @@
                                           <Disorder id="22931">
                                             <OrphaNumber>404499</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404499</ExpertLink>
-                                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to KIAA0226 deficiency</Name>
+                                            <Name lang="en">Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -37063,7 +37045,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199639</ExpertLink>
                         <Name lang="en">Syndrome with corpus callosum agenesis /dysgenesis as a major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="20">
+                      <ClassificationNodeChildList count="19">
                         <ClassificationNode>
                           <Disorder id="254">
                             <OrphaNumber>50</OrphaNumber>
@@ -37132,15 +37114,6 @@
                             <OrphaNumber>3338</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3338</ExpertLink>
                             <Name lang="en">Toriello-Carey syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3104">
-                            <OrphaNumber>1492</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1492</ExpertLink>
-                            <Name lang="en">Corpus callosum agenesis-double urinary collecting system syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -37675,7 +37648,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269528</ExpertLink>
                         <Name lang="en">Syndrome with microcephaly as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="23">
+                      <ClassificationNodeChildList count="21">
                         <ClassificationNode>
                           <Disorder id="25232">
                             <OrphaNumber>481152</OrphaNumber>
@@ -37744,24 +37717,6 @@
                             <OrphaNumber>99742</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99742</ExpertLink>
                             <Name lang="en">Amish lethal microcephaly</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="16700">
-                            <OrphaNumber>137653</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137653</ExpertLink>
-                            <Name lang="en">Microcephaly-digital anomalies-intellectual disability syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="16701">
-                            <OrphaNumber>137658</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137658</ExpertLink>
-                            <Name lang="en">Microcephaly-intellectual disability-phalangeal and neurological anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-02-01 04:09:33" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-03-01 04:09:36" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -667,7 +667,7 @@
                   <Disorder id="25912">
                     <OrphaNumber>498445</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498445</ExpertLink>
-                    <Name lang="en">Genetic inflammatory/rheumatoid-like osteoarthropathies</Name>
+                    <Name lang="en">Genetic inflammatory or rheumatoid-like osteoarthropathy</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="6">
                     <ClassificationNode>
@@ -757,7 +757,7 @@
                   <Disorder id="25913">
                     <OrphaNumber>498448</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498448</ExpertLink>
-                    <Name lang="en">Overgrowth/tall stature syndromes with skeletal involvement</Name>
+                    <Name lang="en">Overgrowth or tall stature syndrome with skeletal involvement</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="12">
                     <ClassificationNode>
@@ -854,7 +854,7 @@
                       <Disorder id="25925">
                         <OrphaNumber>498488</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498488</ExpertLink>
-                        <Name lang="en">Overgrowth syndrome with 2q37 translocations</Name>
+                        <Name lang="en">Overgrowth syndrome with 2q37 translocation</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3313,7 +3313,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=176</ExpertLink>
                         <Name lang="en">Non-rhizomelic chondrodysplasia punctata</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="10376">
                             <OrphaNumber>35173</OrphaNumber>
@@ -3346,6 +3346,15 @@
                             <OrphaNumber>79347</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79347</ExpertLink>
                             <Name lang="en">Chondrodysplasia punctata, Toriello type</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11370">
+                            <OrphaNumber>79344</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79344</ExpertLink>
+                            <Name lang="en">Autosomal dominant chondrodysplasia punctata</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6328,25 +6337,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86789</ExpertLink>
                         <Name lang="en">Patella aplasia/hypoplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="20968">
-                            <OrphaNumber>295038</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295038</ExpertLink>
-                            <Name lang="en">Patella aplasia/hypoplasia, unilateral</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="20969">
-                            <OrphaNumber>295041</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295041</ExpertLink>
-                            <Name lang="en">Patella aplasia/hypoplasia, bilateral</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -6551,7 +6542,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498451</ExpertLink>
                             <Name lang="en">Dysostosis with brachydactyly without extraskeletal manifestations</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="17">
+                          <ClassificationNodeChildList count="18">
+                            <ClassificationNode>
+                              <Disorder id="3071">
+                                <OrphaNumber>1570</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1570</ExpertLink>
+                                <Name lang="en">Symbrachydactyly of hands and feet</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="12311">
                                 <OrphaNumber>93388</OrphaNumber>
@@ -6954,7 +6954,7 @@
                           <Disorder id="25916">
                             <OrphaNumber>498457</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498457</ExpertLink>
-                            <Name lang="en">Longitudinal limb defects</Name>
+                            <Name lang="en">Longitudinal limb defect</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
@@ -6970,25 +6970,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93320</ExpertLink>
                                     <Name lang="en">Ulnar hemimelia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20984">
-                                        <OrphaNumber>295073</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295073</ExpertLink>
-                                        <Name lang="en">Ulnar hemimelia, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20985">
-                                        <OrphaNumber>295075</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295075</ExpertLink>
-                                        <Name lang="en">Ulnar hemimelia, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -6997,25 +6979,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93321</ExpertLink>
                                     <Name lang="en">Radial hemimelia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20982">
-                                        <OrphaNumber>295069</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295069</ExpertLink>
-                                        <Name lang="en">Radial hemimelia, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20983">
-                                        <OrphaNumber>295071</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295071</ExpertLink>
-                                        <Name lang="en">Radial hemimelia, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7024,25 +6988,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93322</ExpertLink>
                                     <Name lang="en">Tibial hemimelia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20986">
-                                        <OrphaNumber>295077</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295077</ExpertLink>
-                                        <Name lang="en">Tibial hemimelia, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20987">
-                                        <OrphaNumber>295079</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295079</ExpertLink>
-                                        <Name lang="en">Tibial hemimelia, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7051,25 +6997,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93323</ExpertLink>
                                     <Name lang="en">Fibular hemimelia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20988">
-                                        <OrphaNumber>295081</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295081</ExpertLink>
-                                        <Name lang="en">Fibular hemimelia, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20989">
-                                        <OrphaNumber>295083</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295083</ExpertLink>
-                                        <Name lang="en">Fibular hemimelia, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -7080,25 +7008,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294988</ExpertLink>
                                 <Name lang="en">Congenital absence/hypoplasia of thumb</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="21002">
-                                    <OrphaNumber>295110</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295110</ExpertLink>
-                                    <Name lang="en">Congenital absence/hypoplasia of thumb, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21003">
-                                    <OrphaNumber>295112</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295112</ExpertLink>
-                                    <Name lang="en">Congenital absence/hypoplasia of thumb, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -7107,7 +7017,7 @@
                           <Disorder id="25917">
                             <OrphaNumber>498461</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498461</ExpertLink>
-                            <Name lang="en">Terminal transverse limb defects</Name>
+                            <Name lang="en">Terminal transverse limb defect</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="7">
                             <ClassificationNode>
@@ -7141,25 +7051,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294967</ExpertLink>
                                     <Name lang="en">Amelia of upper limb</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20974">
-                                        <OrphaNumber>295053</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295053</ExpertLink>
-                                        <Name lang="en">Amelia of upper limb, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20975">
-                                        <OrphaNumber>295055</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295055</ExpertLink>
-                                        <Name lang="en">Amelia of upper limb, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7168,25 +7060,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294969</ExpertLink>
                                     <Name lang="en">Amelia of lower limb</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20976">
-                                        <OrphaNumber>295057</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295057</ExpertLink>
-                                        <Name lang="en">Amelia of lower limb, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20977">
-                                        <OrphaNumber>295059</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295059</ExpertLink>
-                                        <Name lang="en">Amelia of lower limb, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7222,25 +7096,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294979</ExpertLink>
                                     <Name lang="en">Congenital absence of both forearm and hand</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20994">
-                                        <OrphaNumber>295093</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295093</ExpertLink>
-                                        <Name lang="en">Congenital absence of both forearm and hand, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20995">
-                                        <OrphaNumber>295095</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295095</ExpertLink>
-                                        <Name lang="en">Congenital absence of both forearm and hand, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7249,25 +7105,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294981</ExpertLink>
                                     <Name lang="en">Congenital absence of both lower leg and foot</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="20996">
-                                        <OrphaNumber>295097</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295097</ExpertLink>
-                                        <Name lang="en">Congenital absence of both lower leg and foot, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="20997">
-                                        <OrphaNumber>295099</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295099</ExpertLink>
-                                        <Name lang="en">Congenital absence of both lower leg and foot, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -7278,25 +7116,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294983</ExpertLink>
                                 <Name lang="en">Acheiria</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20998">
-                                    <OrphaNumber>295101</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295101</ExpertLink>
-                                    <Name lang="en">Acheiria, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20999">
-                                    <OrphaNumber>295103</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295103</ExpertLink>
-                                    <Name lang="en">Acheiria, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -7305,25 +7125,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294986</ExpertLink>
                                 <Name lang="en">Apodia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="21000">
-                                    <OrphaNumber>295105</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295105</ExpertLink>
-                                    <Name lang="en">Apodia, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21001">
-                                    <OrphaNumber>295107</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295107</ExpertLink>
-                                    <Name lang="en">Apodia, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -7341,25 +7143,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294975</ExpertLink>
                                 <Name lang="en">Congenital absence of upper arm and forearm with hand present</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20990">
-                                    <OrphaNumber>295085</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295085</ExpertLink>
-                                    <Name lang="en">Congenital absence of upper arm and forearm with hand present, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20991">
-                                    <OrphaNumber>295087</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295087</ExpertLink>
-                                    <Name lang="en">Congenital absence of upper arm and forearm with hand present, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -7368,25 +7152,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294977</ExpertLink>
                                 <Name lang="en">Congenital absence of thigh and lower leg with foot present</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20992">
-                                    <OrphaNumber>295089</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295089</ExpertLink>
-                                    <Name lang="en">Congenital absence of thigh and lower leg with foot present, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20993">
-                                    <OrphaNumber>295091</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295091</ExpertLink>
-                                    <Name lang="en">Congenital absence of thigh and lower leg with foot present, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -7395,25 +7161,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1987</ExpertLink>
                                 <Name lang="en">Femoral agenesis/hypoplasia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20980">
-                                    <OrphaNumber>295065</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295065</ExpertLink>
-                                    <Name lang="en">Femoral agenesis/hypoplasia, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20981">
-                                    <OrphaNumber>295067</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295067</ExpertLink>
-                                    <Name lang="en">Femoral agenesis/hypoplasia, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -7422,25 +7170,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294973</ExpertLink>
                                 <Name lang="en">Humeral agenesis/hypoplasia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20978">
-                                    <OrphaNumber>295061</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295061</ExpertLink>
-                                    <Name lang="en">Humeral agenesis/hypoplasia, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20979">
-                                    <OrphaNumber>295063</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295063</ExpertLink>
-                                    <Name lang="en">Humeral agenesis/hypoplasia, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -7474,25 +7204,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93336</ExpertLink>
                                     <Name lang="en">Polydactyly of a triphalangeal thumb</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21021">
-                                        <OrphaNumber>295148</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295148</ExpertLink>
-                                        <Name lang="en">Polydactyly of a triphalangeal thumb, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21022">
-                                        <OrphaNumber>295150</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295150</ExpertLink>
-                                        <Name lang="en">Polydactyly of a triphalangeal thumb, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7501,25 +7213,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93337</ExpertLink>
                                     <Name lang="en">Polydactyly of an index finger</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21023">
-                                        <OrphaNumber>295152</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295152</ExpertLink>
-                                        <Name lang="en">Polydactyly of an index finger, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21024">
-                                        <OrphaNumber>295154</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295154</ExpertLink>
-                                        <Name lang="en">Polydactyly of an index finger, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7528,25 +7222,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93338</ExpertLink>
                                     <Name lang="en">Polysyndactyly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21025">
-                                        <OrphaNumber>295159</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295159</ExpertLink>
-                                        <Name lang="en">Polysyndactyly, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21026">
-                                        <OrphaNumber>295161</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295161</ExpertLink>
-                                        <Name lang="en">Polysyndactyly, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7555,25 +7231,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93339</ExpertLink>
                                     <Name lang="en">Polydactyly of a biphalangeal thumb</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21019">
-                                        <OrphaNumber>295144</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295144</ExpertLink>
-                                        <Name lang="en">Polydactyly of a biphalangeal thumb, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21020">
-                                        <OrphaNumber>295146</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295146</ExpertLink>
-                                        <Name lang="en">Polydactyly of a biphalangeal thumb, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -7591,25 +7249,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93334</ExpertLink>
                                     <Name lang="en">Postaxial polydactyly type A</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21027">
-                                        <OrphaNumber>295163</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295163</ExpertLink>
-                                        <Name lang="en">Postaxial polydactyly type A, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21028">
-                                        <OrphaNumber>295165</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295165</ExpertLink>
-                                        <Name lang="en">Postaxial polydactyly type A, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7618,25 +7258,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93335</ExpertLink>
                                     <Name lang="en">Postaxial polydactyly type B</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21029">
-                                        <OrphaNumber>295167</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295167</ExpertLink>
-                                        <Name lang="en">Postaxial polydactyly type B, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21030">
-                                        <OrphaNumber>295169</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295169</ExpertLink>
-                                        <Name lang="en">Postaxial polydactyly type B, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -7652,27 +7274,9 @@
                                   <Disorder id="20951">
                                     <OrphaNumber>295004</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295004</ExpertLink>
-                                    <Name lang="en">Central polydactyly of fingers</Name>
+                                    <Name lang="en">Central polydactyly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="21031">
-                                        <OrphaNumber>295171</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295171</ExpertLink>
-                                        <Name lang="en">Central polydactyly of fingers, unilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="21032">
-                                        <OrphaNumber>295173</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295173</ExpertLink>
-                                        <Name lang="en">Central polydactyly of fingers, bilateral</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
