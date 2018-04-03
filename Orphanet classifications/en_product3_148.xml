@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:09" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:17" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12983">
       <OrphaNumber>97965</OrphaNumber>
@@ -1560,7 +1560,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98727</ExpertLink>
                     <Name lang="en">Rare atrial defect and interatrial communication</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="818">
                         <OrphaNumber>1478</OrphaNumber>
@@ -1683,15 +1683,6 @@
                         <OrphaNumber>99107</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99107</ExpertLink>
                         <Name lang="en">Atrial septal aneurysm</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14125">
-                        <OrphaNumber>99108</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99108</ExpertLink>
-                        <Name lang="en">Patent foramen ovale</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1967,7 +1958,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156532</ExpertLink>
                 <Name lang="en">Rare syndrome with cardiac malformations</Name>
               </Disorder>
-              <ClassificationNodeChildList count="29">
+              <ClassificationNodeChildList count="30">
                 <ClassificationNode>
                   <Disorder id="25408">
                     <OrphaNumber>488618</OrphaNumber>
@@ -2378,6 +2369,15 @@
                     <OrphaNumber>870</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=870</ExpertLink>
                     <Name lang="en">Down syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25843">
+                    <OrphaNumber>496693</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496693</ExpertLink>
+                    <Name lang="en">Omphalocele-diaphragmatic hernia-cardiovascular anomalies-radial ray defect syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

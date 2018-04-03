@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:31" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:39" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13022">
       <OrphaNumber>98004</OrphaNumber>
@@ -96,7 +96,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=42738</ExpertLink>
                                 <Name lang="en">Severe congenital neutropenia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="7">
+                              <ClassificationNodeChildList count="3">
                                 <ClassificationNode>
                                   <Disorder id="822">
                                     <OrphaNumber>486</OrphaNumber>
@@ -116,48 +116,57 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="14322">
-                                    <OrphaNumber>99749</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99749</ExpertLink>
-                                    <Name lang="en">Kostmann syndrome</Name>
+                                  <Disorder id="23392">
+                                    <OrphaNumber>439849</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439849</ExpertLink>
+                                    <Name lang="en">Autosomal recessive severe congenital neutropenia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21992">
-                                    <OrphaNumber>331176</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=331176</ExpertLink>
-                                    <Name lang="en">Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="23119">
-                                    <OrphaNumber>420699</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420699</ExpertLink>
-                                    <Name lang="en">Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="23120">
-                                    <OrphaNumber>420702</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420702</ExpertLink>
-                                    <Name lang="en">Autosomal recessive severe congenital neutropenia due to CSF3R deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="23154">
-                                    <OrphaNumber>423384</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423384</ExpertLink>
-                                    <Name lang="en">Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
+                                  <ClassificationNodeChildList count="5">
+                                    <ClassificationNode>
+                                      <Disorder id="14322">
+                                        <OrphaNumber>99749</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99749</ExpertLink>
+                                        <Name lang="en">Kostmann syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="21992">
+                                        <OrphaNumber>331176</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=331176</ExpertLink>
+                                        <Name lang="en">Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23119">
+                                        <OrphaNumber>420699</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420699</ExpertLink>
+                                        <Name lang="en">Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23120">
+                                        <OrphaNumber>420702</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=420702</ExpertLink>
+                                        <Name lang="en">Autosomal recessive severe congenital neutropenia due to CSF3R deficiency</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23154">
+                                        <OrphaNumber>423384</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423384</ExpertLink>
+                                        <Name lang="en">Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                               </ClassificationNodeChildList>
@@ -564,7 +573,7 @@
                           <Disorder id="3275">
                             <OrphaNumber>1930</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1930</ExpertLink>
-                            <Name lang="en">Herpes simplex encephalitis</Name>
+                            <Name lang="en">Herpes simplex virus encephalitis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1444,7 +1453,7 @@
                               <Disorder id="25089">
                                 <OrphaNumber>476113</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476113</ExpertLink>
-                                <Name lang="en">TFRC-related combined immunodeficiency</Name>
+                                <Name lang="en">Combined immunodeficiency due to TFRC deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

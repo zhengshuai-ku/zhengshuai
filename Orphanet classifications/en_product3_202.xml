@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:39" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:47" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -3270,7 +3270,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79386</ExpertLink>
                     <Name lang="en">Rare skin tumor or hamartoma</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="35">
+                  <ClassificationNodeChildList count="36">
                     <ClassificationNode>
                       <Disorder id="185">
                         <OrphaNumber>636</OrphaNumber>
@@ -4216,6 +4216,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25964">
+                        <OrphaNumber>499182</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=499182</ExpertLink>
+                        <Name lang="en">Pilomatrix carcinoma</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -4837,7 +4846,7 @@
                               <Disorder id="23180">
                                 <OrphaNumber>423994</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423994</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of colon</Name>
+                                <Name lang="en">Squamous cell carcinoma of the colon</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4864,7 +4873,7 @@
                               <Disorder id="23182">
                                 <OrphaNumber>424002</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424002</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of rectum</Name>
+                                <Name lang="en">Squamous cell carcinoma of the rectum</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5289,9 +5298,18 @@
                           <Disorder id="20348">
                             <OrphaNumber>276145</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                            <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
+                            <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="1">
+                            <ClassificationNode>
+                              <Disorder id="26035">
+                                <OrphaNumber>500481</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500481</ExpertLink>
+                                <Name lang="en">Squamous cell carcinoma of salivary glands</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -5575,7 +5593,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251561</ExpertLink>
                                     <Name lang="en">High-grade astrocytoma</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="3">
+                                  <ClassificationNodeChildList count="4">
+                                    <ClassificationNode>
+                                      <Disorder id="25861">
+                                        <OrphaNumber>497188</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497188</ExpertLink>
+                                        <Name lang="en">Diffuse intrinsic pontine glioma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                     <ClassificationNode>
                                       <Disorder id="3752">
                                         <OrphaNumber>360</OrphaNumber>
@@ -6445,16 +6472,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180312</ExpertLink>
                         <Name lang="en">Rare vulvovaginal tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="8">
-                        <ClassificationNode>
-                          <Disorder id="25679">
-                            <OrphaNumber>494454</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494454</ExpertLink>
-                            <Name lang="en">Vulvar adenocarcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="16678">
                             <OrphaNumber>137583</OrphaNumber>
@@ -6497,25 +6515,34 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494418</ExpertLink>
                             <Name lang="en">Vulvar carcinoma</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="25678">
-                            <OrphaNumber>494451</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494451</ExpertLink>
-                            <Name lang="en">Vulvar basal cell carcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="25677">
-                            <OrphaNumber>494448</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494448</ExpertLink>
-                            <Name lang="en">Vulvar squamous cell carcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="3">
+                            <ClassificationNode>
+                              <Disorder id="25677">
+                                <OrphaNumber>494448</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494448</ExpertLink>
+                                <Name lang="en">Vulvar squamous cell carcinoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25678">
+                                <OrphaNumber>494451</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494451</ExpertLink>
+                                <Name lang="en">Vulvar basal cell carcinoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25679">
+                                <OrphaNumber>494454</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494454</ExpertLink>
+                                <Name lang="en">Vulvar adenocarcinoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -7276,7 +7303,7 @@
                               <Disorder id="18137">
                                 <OrphaNumber>180261</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180261</ExpertLink>
-                                <Name lang="en">Phyllode tumor of the breast</Name>
+                                <Name lang="en">Phyllodes tumor of the breast</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7298,7 +7325,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180257</ExpertLink>
                             <Name lang="en">Rare malignant breast tumor</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="7">
                             <ClassificationNode>
                               <Disorder id="3384">
                                 <OrphaNumber>145</OrphaNumber>
@@ -7349,6 +7376,15 @@
                                 <OrphaNumber>227535</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=227535</ExpertLink>
                                 <Name lang="en">Hereditary breast cancer</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18137">
+                                <OrphaNumber>180261</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180261</ExpertLink>
+                                <Name lang="en">Phyllodes tumor of the breast</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7705,7 +7741,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98058</ExpertLink>
                         <Name lang="en">Rare urinary tract tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="25898">
+                            <OrphaNumber>498228</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498228</ExpertLink>
+                            <Name lang="en">Phyllodes tumor of the prostate</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="903">
                             <OrphaNumber>1331</OrphaNumber>
@@ -9354,7 +9399,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=290849</ExpertLink>
                     <Name lang="en">Rare head and neck tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="3">
                     <ClassificationNode>
                       <Disorder id="20347">
                         <OrphaNumber>276142</OrphaNumber>
@@ -9366,9 +9411,18 @@
                           <Disorder id="20348">
                             <OrphaNumber>276145</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                            <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
+                            <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="1">
+                            <ClassificationNode>
+                              <Disorder id="26035">
+                                <OrphaNumber>500481</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500481</ExpertLink>
+                                <Name lang="en">Squamous cell carcinoma of salivary glands</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -9428,21 +9482,57 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="10898">
-                        <OrphaNumber>67037</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=67037</ExpertLink>
-                        <Name lang="en">Squamous cell carcinoma of head and neck</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="13079">
                         <OrphaNumber>98061</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98061</ExpertLink>
                         <Name lang="en">Rare otorhinolaryngologic tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="8">
+                      <ClassificationNodeChildList count="13">
+                        <ClassificationNode>
+                          <Disorder id="26030">
+                            <OrphaNumber>500464</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500464</ExpertLink>
+                            <Name lang="en">Squamous cell carcinoma of the nasal cavity and paranasal sinuses</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26034">
+                            <OrphaNumber>500478</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500478</ExpertLink>
+                            <Name lang="en">Squamous cell carcinoma of the oropharynx</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26075">
+                            <OrphaNumber>502369</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502369</ExpertLink>
+                            <Name lang="en">Squamous cell carcinoma of oral cavity and lip</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="26074">
+                                <OrphaNumber>502366</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502366</ExpertLink>
+                                <Name lang="en">Squamous cell carcinoma of lip</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26073">
+                                <OrphaNumber>502363</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502363</ExpertLink>
+                                <Name lang="en">Squamous cell carcinoma of the oral cavity</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1063">
                             <OrphaNumber>150</OrphaNumber>
@@ -9511,6 +9601,24 @@
                             <OrphaNumber>289596</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289596</ExpertLink>
                             <Name lang="en">Juvenile nasopharyngeal angiofibroma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25683">
+                            <OrphaNumber>494547</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494547</ExpertLink>
+                            <Name lang="en">Squamous cell carcinoma of the hypopharynx</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25684">
+                            <OrphaNumber>494550</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494550</ExpertLink>
+                            <Name lang="en">Squamous cell carcinoma of the larynx</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

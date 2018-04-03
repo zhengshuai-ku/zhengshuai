@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:03:57" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3022">
+<JDBOR date="2018-04-01 04:03:57" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3064">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -22449,18 +22449,6 @@
       <CreationDate>2016-05-31 11:51:06.143</CreationDate>
       <UpdateDate>2016-05-31 11:51:06.143</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="2018">
-      <Disorder id="16701">
-        <OrphaNumber>137658</OrphaNumber>
-        <Name lang="nl">Microcefalie - intellectuele achterstand - falangeale en neurologische anomalieën</Name>
-      </Disorder>
-      <Source>1640433[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <UpdateDate>2016-06-01 00:00:00.0</UpdateDate>
-      <CreationDate>2016-05-31 11:51:06.06</CreationDate>
-      <UpdateDate>2016-05-31 11:51:06.06</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2021">
       <Disorder id="16886">
         <OrphaNumber>139402</OrphaNumber>
@@ -35829,6 +35817,150 @@
       <CreationDate>2017-09-27 15:21:38.023</CreationDate>
       <UpdateDate>2017-09-27 15:21:38.023</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3148">
+      <Disorder id="21252">
+        <OrphaNumber>306686</OrphaNumber>
+        <Name lang="nl">Koolmonoxidegeïnduceerd parkinsonisme</Name>
+      </Disorder>
+      <Source>10927805[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-30 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 17:41:44.89</CreationDate>
+      <UpdateDate>2018-03-30 17:41:44.89</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3144">
+      <Disorder id="22450">
+        <OrphaNumber>369939</OrphaNumber>
+        <Name lang="nl">Ernstige motorische en intellectuele beperkingen - sensorineurale doofheid - dystonie-syndroom</Name>
+      </Disorder>
+      <Source>24011989[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 17:03:18.603</CreationDate>
+      <UpdateDate>2018-03-30 17:03:18.603</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3145">
+      <Disorder id="14642">
+        <OrphaNumber>100069</OrphaNumber>
+        <Name lang="nl">Semantische dementie</Name>
+      </Disorder>
+      <Source>16317259[PMID],29213413[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-29 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 17:12:40.52</CreationDate>
+      <UpdateDate>2018-03-30 17:12:40.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3146">
+      <Disorder id="21253">
+        <OrphaNumber>306692</OrphaNumber>
+        <Name lang="nl">Cyanide-geïnduceerd parkinsonisme</Name>
+      </Disorder>
+      <Source>2733710[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-30 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 17:23:02.816</CreationDate>
+      <UpdateDate>2018-03-30 17:23:02.816</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3140">
+      <Disorder id="14819">
+        <OrphaNumber>101108</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 23</Name>
+      </Disorder>
+      <Source>15306549[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-26 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 11:30:54.643</CreationDate>
+      <UpdateDate>2018-03-30 11:30:54.643</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3141">
+      <Disorder id="13790">
+        <OrphaNumber>98773</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 21</Name>
+      </Disorder>
+      <Source>18418688[PMID],25070513[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-27 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 11:52:03.476</CreationDate>
+      <UpdateDate>2018-03-30 11:52:03.476</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3142">
+      <Disorder id="23123">
+        <OrphaNumber>420741</OrphaNumber>
+        <Name lang="nl">RIDDLE-syndroom</Name>
+      </Disorder>
+      <Source>17940005[PMID],21394101[PMID],29255463[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-28 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 11:58:32.793</CreationDate>
+      <UpdateDate>2018-03-30 11:58:32.793</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3143">
+      <Disorder id="22695">
+        <OrphaNumber>397715</OrphaNumber>
+        <Name lang="nl">Joubertsyndroom met Jeune asfyxiërende thoracale dystrofie</Name>
+      </Disorder>
+      <Source>20503315[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-28 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 16:06:31.696</CreationDate>
+      <UpdateDate>2018-03-30 16:06:31.696</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3136">
+      <Disorder id="23517">
+        <OrphaNumber>445062</OrphaNumber>
+        <Name lang="nl">Diabetes mellitus - gehoorverlies - centrale en perifere neurodegeneratie-syndroom met juveniele aanvang</Name>
+      </Disorder>
+      <Source>15793246[PMID]_25466870[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-21 15:23:08.406</CreationDate>
+      <UpdateDate>2018-03-21 15:23:08.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3137">
+      <Disorder id="11591">
+        <OrphaNumber>83600</OrphaNumber>
+        <Name lang="nl">Encephalitis lethargica</Name>
+      </Disorder>
+      <Source>14570817[PMID]_10563641[PMID]_25129855[PMID]_3801849[PMID]_6126720[PMID]_6039103[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-24 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-26 13:14:04.403</CreationDate>
+      <UpdateDate>2018-03-26 13:14:04.403</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3138">
+      <Disorder id="17533">
+        <OrphaNumber>163727</OrphaNumber>
+        <Name lang="nl">Rolandische epilepsie - paroxysmale oefening-geïnduceerde dystonie - schrijfkramp</Name>
+      </Disorder>
+      <Source>10072049[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-26 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-26 14:02:22.176</CreationDate>
+      <UpdateDate>2018-03-26 14:02:22.176</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3139">
+      <Disorder id="14820">
+        <OrphaNumber>101109</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 28</Name>
+      </Disorder>
+      <Source>16251216[PMID],20725928[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-26 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-30 11:16:48.443</CreationDate>
+      <UpdateDate>2018-03-30 11:16:48.443</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3097">
       <Disorder id="14705">
         <OrphaNumber>100994</OrphaNumber>
@@ -36213,6 +36345,318 @@
       <CreationDate>2018-02-21 17:15:04.683</CreationDate>
       <UpdateDate>2018-02-21 17:15:04.683</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3131">
+      <Disorder id="2836">
+        <OrphaNumber>3177</OrphaNumber>
+        <Name lang="nl">Corneaal-cerebellair syndroom</Name>
+      </Disorder>
+      <Source>3872072[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-19 12:25:28.586</CreationDate>
+      <UpdateDate>2018-03-19 12:25:28.586</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3130">
+      <Disorder id="2386">
+        <OrphaNumber>2589</OrphaNumber>
+        <Name lang="nl">Myoclonus - cerebellaire ataxie - doofheid-syndroom</Name>
+      </Disorder>
+      <Source>2614456[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-19 12:15:56.85</CreationDate>
+      <UpdateDate>2018-03-19 12:15:56.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3129">
+      <Disorder id="23249">
+        <OrphaNumber>431361</OrphaNumber>
+        <Name lang="nl">Progressieve encefalopathie met leukodystrofie door DECR-deficiëntie</Name>
+      </Disorder>
+      <Source>24847004[PMID]_2332510[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-14 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-14 14:28:54.01</CreationDate>
+      <UpdateDate>2018-03-14 14:28:54.01</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3128">
+      <Disorder id="19298">
+        <OrphaNumber>238722</OrphaNumber>
+        <Name lang="nl">Familiale congenitale spiegelbewegingen</Name>
+      </Disorder>
+      <Source>19127048[PMID]_20431009[PMID]_28250454[PMID]_14639670[PMID]_25098561[PMID]_14639670[PMID]_21242494[PMID]_25813273[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-14 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-14 11:29:41.213</CreationDate>
+      <UpdateDate>2018-03-14 11:29:41.213</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3135">
+      <Disorder id="23648">
+        <OrphaNumber>453521</OrphaNumber>
+        <Name lang="nl">Autosomaal recessieve cerebellaire ataxie als gevolg van CWF19L1-deficiëntie</Name>
+      </Disorder>
+      <Source>25361784[PMID]_27016154[PMID]_26197978[PMID]_15981765[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-21 11:14:38.733</CreationDate>
+      <UpdateDate>2018-03-21 11:14:38.733</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3134">
+      <Disorder id="21364">
+        <OrphaNumber>309271</OrphaNumber>
+        <Name lang="nl">Metachromatische leukodystrofie, volwassen vorm</Name>
+      </Disorder>
+      <Source>15710861[PMID]_2905384[PMID]_5963214[PMID]_2876627[PMID]_20038527[PMID]_21707604[PMID]_14206875[PMID]_10682309[PMID]_21502868[PMID]_21955203[PMID]_27261095[PMID]_1674357[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-19 15:05:18.533</CreationDate>
+      <UpdateDate>2018-03-19 15:05:18.533</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3133">
+      <Disorder id="21363">
+        <OrphaNumber>309263</OrphaNumber>
+        <Name lang="nl">Metachromatische leukodystrofie, juveniele vorm</Name>
+      </Disorder>
+      <Source>5963214[PMID]_2876627[PMID]_20038527[PMID]_21707604[PMID]_14206875[PMID]_10682309[PMID]_21502868[PMID]_21955203[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-19 14:33:43.003</CreationDate>
+      <UpdateDate>2018-03-19 14:33:43.003</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3132">
+      <Disorder id="21362">
+        <OrphaNumber>309256</OrphaNumber>
+        <Name lang="nl">Metachromatische leukodystrofie, late infantiele vorm</Name>
+      </Disorder>
+      <Source>20038527[PMID]_21707604[PMID]_14206875[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-19 12:51:06.543</CreationDate>
+      <UpdateDate>2018-03-19 12:51:06.543</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3123">
+      <Disorder id="20741">
+        <OrphaNumber>289560</OrphaNumber>
+        <Name lang="nl">Neurodegeneratie geassocieerd met mitochondriaal membraaneiwit</Name>
+      </Disorder>
+      <Source>23269600[PMID],23278385[PMID],24575447[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 11:50:56.173</CreationDate>
+      <UpdateDate>2018-03-13 11:50:56.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3122">
+      <Disorder id="13827">
+        <OrphaNumber>98810</OrphaNumber>
+        <Name lang="nl">Paroxysmale niet-kinesiogene dyskinesie</Name>
+      </Disorder>
+      <Source>22967746[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-22 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 11:31:01.17</CreationDate>
+      <UpdateDate>2018-03-13 11:31:01.17</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3121">
+      <Disorder id="13826">
+        <OrphaNumber>98809</OrphaNumber>
+        <Name lang="nl">Paroxysmale kinesiogene dyskinesie</Name>
+      </Disorder>
+      <Source>24465263[PMID],11346027[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-22 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 11:03:46.476</CreationDate>
+      <UpdateDate>2018-03-13 11:03:46.476</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3120">
+      <Disorder id="19562">
+        <OrphaNumber>248111</OrphaNumber>
+        <Name lang="nl">Juveniele ziekte van Huntington</Name>
+      </Disorder>
+      <Source>17562929[PMID]_11553930[PMID]_12791042[PMID]_[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-12 15:23:33.186</CreationDate>
+      <UpdateDate>2018-03-12 15:23:33.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3127">
+      <Disorder id="19513">
+        <OrphaNumber>247234</OrphaNumber>
+        <Name lang="nl">Sporadische ataxie met aanvang bij volwassenen met onbekende oorzaak</Name>
+      </Disorder>
+      <Source>26517211[PMID],21827893[PMID],2341843[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 15:46:07.65</CreationDate>
+      <UpdateDate>2018-03-13 15:46:07.65</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3126">
+      <Disorder id="10857">
+        <OrphaNumber>64753</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie met axonale neuropathie type 2</Name>
+      </Disorder>
+      <Source>14770181[PMID],19696032[PMID],14736755[PMID],18350359[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 15:36:50.84</CreationDate>
+      <UpdateDate>2018-03-13 15:36:50.84</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3125">
+      <Disorder id="14696">
+        <OrphaNumber>100985</OrphaNumber>
+        <Name lang="nl">Autosomaal dominante spastische paraplegie type 4</Name>
+      </Disorder>
+      <Source>20301339[PMID],17098887[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-02 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 14:53:45.666</CreationDate>
+      <UpdateDate>2018-03-13 14:53:45.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3124">
+      <Disorder id="14695">
+        <OrphaNumber>100984</OrphaNumber>
+        <Name lang="nl">Autosomaal dominante spastische paraplegie type 3</Name>
+      </Disorder>
+      <Source>17502470[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-01 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-13 14:04:35.77</CreationDate>
+      <UpdateDate>2018-03-13 14:04:35.77</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3114">
+      <Disorder id="264">
+        <OrphaNumber>97</OrphaNumber>
+        <Name lang="nl">Familiale paroxysmale ataxie</Name>
+      </Disorder>
+      <Source>20301674[PMID],20129625[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-21 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 16:35:59.7</CreationDate>
+      <UpdateDate>2018-03-05 16:35:59.7</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3115">
+      <Disorder id="825">
+        <OrphaNumber>1177</OrphaNumber>
+        <Name lang="nl">Vroeg beginnende cerebellaire ataxie met behoud van peesreflexen</Name>
+      </Disorder>
+      <Source>7276963[PMID]_8330454[PMID]_9686785[PMID]_1884166[PMID]_2213043[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-07 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-07 11:40:46.513</CreationDate>
+      <UpdateDate>2018-03-07 11:40:46.513</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3112">
+      <Disorder id="13775">
+        <OrphaNumber>98758</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 6</Name>
+      </Disorder>
+      <Source>20301319[PMID],12700909[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-20 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 15:20:49.666</CreationDate>
+      <UpdateDate>2018-03-05 15:20:49.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3113">
+      <Disorder id="12567">
+        <OrphaNumber>94147</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 7</Name>
+      </Disorder>
+      <Source>22915085[PMID],20301433[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-20 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 15:53:25.26</CreationDate>
+      <UpdateDate>2018-03-05 15:53:25.26</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3118">
+      <Disorder id="13950">
+        <OrphaNumber>98933</OrphaNumber>
+        <Name lang="nl">Meervoudige systeematrofie, parkinsoniaans type</Name>
+      </Disorder>
+      <Source>18725592[PMID]_14747001[PMID]_23758206[PMID]_14219099[PMID]_14446364[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-12 14:41:00.936</CreationDate>
+      <UpdateDate>2018-03-12 14:41:00.936</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3119">
+      <Disorder id="19053">
+        <OrphaNumber>227510</OrphaNumber>
+        <Name lang="nl">Meervoudige systeematrofie, cerebellair type</Name>
+      </Disorder>
+      <Source>18725592[PMID]_14747001[PMID]_23758206[PMID]_14219099[PMID]_14446364[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-12 14:47:00.463</CreationDate>
+      <UpdateDate>2018-03-12 14:47:00.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3116">
+      <Disorder id="8744">
+        <OrphaNumber>102</OrphaNumber>
+        <Name lang="nl">Meervoudige systeematrofie</Name>
+      </Disorder>
+      <Source>18725592[PMID]_14747001[PMID]_23758206[PMID]_14219099[PMID]_14446364[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-07 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-07 12:21:45.166</CreationDate>
+      <UpdateDate>2018-03-07 12:21:45.166</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3117">
+      <Disorder id="10720">
+        <OrphaNumber>53351</OrphaNumber>
+        <Name lang="nl">X-gebonden dystonie - parkinsonisme</Name>
+      </Disorder>
+      <Source>22030388[PMID]_20482602[PMID]_12928496[PMID]_941767[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-12 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-12 13:45:46.803</CreationDate>
+      <UpdateDate>2018-03-12 13:45:46.803</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3106">
+      <Disorder id="24158">
+        <OrphaNumber>466688</OrphaNumber>
+        <Name lang="nl">Severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome</Name>
+      </Disorder>
+      <Source>25388005[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 11:36:59.0</CreationDate>
+      <UpdateDate>2018-03-05 11:36:59.0</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3107">
+      <Disorder id="24170">
+        <OrphaNumber>466794</OrphaNumber>
+        <Name lang="nl">Acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome</Name>
+      </Disorder>
+      <Source>26581903[PMID]_23175812[PMID]_17571074[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 12:17:05.5</CreationDate>
+      <UpdateDate>2018-03-05 12:17:05.5</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3104">
       <Disorder id="14826">
         <OrphaNumber>101150</OrphaNumber>
@@ -36224,6 +36668,66 @@
       <UpdateDate>2018-02-28 00:00:00.0</UpdateDate>
       <CreationDate>2018-02-28 15:21:30.73</CreationDate>
       <UpdateDate>2018-02-28 15:21:30.73</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3105">
+      <Disorder id="23363">
+        <OrphaNumber>438114</OrphaNumber>
+        <Name lang="nl">RARS-related autosomal recessive hypomyelinating leukodystrophy</Name>
+      </Disorder>
+      <Source>24777941[PMID]_ 13558772[PMID]_27234264[PMID]_25649058[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 10:38:48.196</CreationDate>
+      <UpdateDate>2018-03-05 10:38:48.196</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3110">
+      <Disorder id="13772">
+        <OrphaNumber>98755</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 1</Name>
+      </Disorder>
+      <Source>20301363[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 14:09:31.816</CreationDate>
+      <UpdateDate>2018-03-05 14:09:31.816</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3111">
+      <Disorder id="13773">
+        <OrphaNumber>98756</OrphaNumber>
+        <Name lang="nl">Spinocerebellaire ataxie type 2</Name>
+      </Disorder>
+      <Source>20301452[PMID],2392220[PMID],20301452[PMID],9106530[PMID],9158145[PMID],2809629[PMID],12847080[PMID],2809629[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-02-19 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 14:43:55.693</CreationDate>
+      <UpdateDate>2018-03-05 14:43:55.693</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3108">
+      <Disorder id="24179">
+        <OrphaNumber>466934</OrphaNumber>
+        <Name lang="nl">VPS11-related autosomal recessive hypomyelinating leukodystrophy</Name>
+      </Disorder>
+      <Source>26307567[PMID]_27120463[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 12:46:11.506</CreationDate>
+      <UpdateDate>2018-03-05 12:46:11.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3109">
+      <Disorder id="150">
+        <OrphaNumber>101</OrphaNumber>
+        <Name lang="nl">Dentato-rubro-pallido-luysiaanse atrofie</Name>
+      </Disorder>
+      <Source>7614090[PMID]_21827919[PMID]_21619691[PMID]_6808417[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <UpdateDate>2018-03-05 00:00:00.0</UpdateDate>
+      <CreationDate>2018-03-05 14:07:31.913</CreationDate>
+      <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:37" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:45" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -1142,7 +1142,7 @@
                       <Disorder id="2510">
                         <OrphaNumber>2754</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                        <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                        <Name lang="en">Orofaciodigital syndrome type 6</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2768,7 +2768,52 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98061</ExpertLink>
                 <Name lang="en">Rare otorhinolaryngologic tumor</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="13">
+                <ClassificationNode>
+                  <Disorder id="26034">
+                    <OrphaNumber>500478</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500478</ExpertLink>
+                    <Name lang="en">Squamous cell carcinoma of the oropharynx</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26075">
+                    <OrphaNumber>502369</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502369</ExpertLink>
+                    <Name lang="en">Squamous cell carcinoma of oral cavity and lip</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="26073">
+                        <OrphaNumber>502363</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502363</ExpertLink>
+                        <Name lang="en">Squamous cell carcinoma of the oral cavity</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26074">
+                        <OrphaNumber>502366</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502366</ExpertLink>
+                        <Name lang="en">Squamous cell carcinoma of lip</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26030">
+                    <OrphaNumber>500464</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500464</ExpertLink>
+                    <Name lang="en">Squamous cell carcinoma of the nasal cavity and paranasal sinuses</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="1063">
                     <OrphaNumber>150</OrphaNumber>
@@ -2837,6 +2882,24 @@
                     <OrphaNumber>289596</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289596</ExpertLink>
                     <Name lang="en">Juvenile nasopharyngeal angiofibroma</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25683">
+                    <OrphaNumber>494547</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494547</ExpertLink>
+                    <Name lang="en">Squamous cell carcinoma of the hypopharynx</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25684">
+                    <OrphaNumber>494550</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494550</ExpertLink>
+                    <Name lang="en">Squamous cell carcinoma of the larynx</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -4265,7 +4328,7 @@
                       <Disorder id="2510">
                         <OrphaNumber>2754</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                        <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                        <Name lang="en">Orofaciodigital syndrome type 6</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

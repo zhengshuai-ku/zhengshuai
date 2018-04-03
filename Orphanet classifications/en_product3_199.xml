@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:36" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:44" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -1047,7 +1047,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=253</ExpertLink>
                     <Name lang="en">Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="57">
+                  <ClassificationNodeChildList count="58">
                     <ClassificationNode>
                       <Disorder id="1647">
                         <OrphaNumber>1458</OrphaNumber>
@@ -1557,6 +1557,15 @@
                         <OrphaNumber>436174</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436174</ExpertLink>
                         <Name lang="en">Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25846">
+                        <OrphaNumber>496751</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496751</ExpertLink>
+                        <Name lang="en">EVEN-plus syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2114,7 +2123,7 @@
                       <Disorder id="17604">
                         <OrphaNumber>166035</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
-                        <Name lang="en">Metaphyseal chondrodysplasia-retinitis pigmentosa syndrome</Name>
+                        <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3491,7 +3500,7 @@
                       <Disorder id="2538">
                         <OrphaNumber>2790</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2790</ExpertLink>
-                        <Name lang="en">Autosomal dominant osteosclerosis, Worth type</Name>
+                        <Name lang="en">Endosteal hyperostosis, Worth type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3547,7 +3556,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2781</ExpertLink>
                         <Name lang="en">Osteopetrosis and related disorders</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="18">
+                      <ClassificationNodeChildList count="19">
                         <ClassificationNode>
                           <Disorder id="12544">
                             <OrphaNumber>94063</OrphaNumber>
@@ -3706,6 +3715,15 @@
                             <OrphaNumber>99844</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99844</ExpertLink>
                             <Name lang="en">Leukocyte adhesion deficiency type III</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26042">
+                            <OrphaNumber>500548</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500548</ExpertLink>
+                            <Name lang="en">Osteosclerotic metaphyseal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5865,7 +5883,7 @@
                           <Disorder id="2510">
                             <OrphaNumber>2754</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                            <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                            <Name lang="en">Orofaciodigital syndrome type 6</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6504,7 +6522,7 @@
                           <Disorder id="2261">
                             <OrphaNumber>2440</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2440</ExpertLink>
-                            <Name lang="en">Split hand-split foot malformation</Name>
+                            <Name lang="en">Isolated split hand-split foot malformation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8011,7 +8029,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="45">
+                      <ClassificationNodeChildList count="46">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -8026,6 +8044,15 @@
                             <OrphaNumber>480773</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
                             <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25843">
+                            <OrphaNumber>496693</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496693</ExpertLink>
+                            <Name lang="en">Omphalocele-diaphragmatic hernia-cardiovascular anomalies-radial ray defect syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8590,7 +8617,7 @@
                               <Disorder id="2510">
                                 <OrphaNumber>2754</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                                <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                                <Name lang="en">Orofaciodigital syndrome type 6</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

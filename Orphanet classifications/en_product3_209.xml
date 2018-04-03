@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:44" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:52" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -636,7 +636,7 @@
                           <Disorder id="2510">
                             <OrphaNumber>2754</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                            <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                            <Name lang="en">Orofaciodigital syndrome type 6</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2186,7 +2186,7 @@
                       <Disorder id="2510">
                         <OrphaNumber>2754</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2754</ExpertLink>
-                        <Name lang="en">Joubert syndrome with orofaciodigital defect</Name>
+                        <Name lang="en">Orofaciodigital syndrome type 6</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

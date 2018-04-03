@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:43" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:51" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12845">
       <OrphaNumber>96344</OrphaNumber>
@@ -21,25 +21,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180312</ExpertLink>
                     <Name lang="en">Rare vulvovaginal tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
-                    <ClassificationNode>
-                      <Disorder id="25679">
-                        <OrphaNumber>494454</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494454</ExpertLink>
-                        <Name lang="en">Vulvar adenocarcinoma</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="25678">
-                        <OrphaNumber>494451</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494451</ExpertLink>
-                        <Name lang="en">Vulvar basal cell carcinoma</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="16678">
                         <OrphaNumber>137583</OrphaNumber>
@@ -82,16 +64,34 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494418</ExpertLink>
                         <Name lang="en">Vulvar carcinoma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="25677">
-                        <OrphaNumber>494448</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494448</ExpertLink>
-                        <Name lang="en">Vulvar squamous cell carcinoma</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="25677">
+                            <OrphaNumber>494448</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494448</ExpertLink>
+                            <Name lang="en">Vulvar squamous cell carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25678">
+                            <OrphaNumber>494451</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494451</ExpertLink>
+                            <Name lang="en">Vulvar basal cell carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25679">
+                            <OrphaNumber>494454</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494454</ExpertLink>
+                            <Name lang="en">Vulvar adenocarcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -852,7 +852,7 @@
                           <Disorder id="18137">
                             <OrphaNumber>180261</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180261</ExpertLink>
-                            <Name lang="en">Phyllode tumor of the breast</Name>
+                            <Name lang="en">Phyllodes tumor of the breast</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -874,7 +874,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180257</ExpertLink>
                         <Name lang="en">Rare malignant breast tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="3384">
                             <OrphaNumber>145</OrphaNumber>
@@ -925,6 +925,15 @@
                             <OrphaNumber>227535</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=227535</ExpertLink>
                             <Name lang="en">Hereditary breast cancer</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18137">
+                            <OrphaNumber>180261</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180261</ExpertLink>
+                            <Name lang="en">Phyllodes tumor of the breast</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1643,7 +1652,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180208</ExpertLink>
                 <Name lang="en">Anomaly of puberty or/and menstrual cycle</Name>
               </Disorder>
-              <ClassificationNodeChildList count="7">
+              <ClassificationNodeChildList count="8">
                 <ClassificationNode>
                   <Disorder id="8671">
                     <OrphaNumber>785</OrphaNumber>
@@ -2362,6 +2371,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25902">
+                    <OrphaNumber>498251</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498251</ExpertLink>
+                    <Name lang="en">Menstrual cycle-dependent periodic fever</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>

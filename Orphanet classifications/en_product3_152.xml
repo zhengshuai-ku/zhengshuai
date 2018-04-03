@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-03-01 04:09:12" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-04-01 04:09:20" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -1617,7 +1617,7 @@
                           <Disorder id="23180">
                             <OrphaNumber>423994</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423994</ExpertLink>
-                            <Name lang="en">Squamous cell carcinoma of colon</Name>
+                            <Name lang="en">Squamous cell carcinoma of the colon</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1644,7 +1644,7 @@
                           <Disorder id="23182">
                             <OrphaNumber>424002</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424002</ExpertLink>
-                            <Name lang="en">Squamous cell carcinoma of rectum</Name>
+                            <Name lang="en">Squamous cell carcinoma of the rectum</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1945,9 +1945,18 @@
                   <Disorder id="20348">
                     <OrphaNumber>276145</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276145</ExpertLink>
-                    <Name lang="en">Malignant epithelial tumor of the salivary glands</Name>
+                    <Name lang="en">Malignant epithelial tumor of salivary glands</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="1">
+                    <ClassificationNode>
+                      <Disorder id="26035">
+                        <OrphaNumber>500481</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500481</ExpertLink>
+                        <Name lang="en">Squamous cell carcinoma of salivary glands</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
