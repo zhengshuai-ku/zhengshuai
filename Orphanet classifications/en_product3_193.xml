@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:37" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:54" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -21,14 +21,14 @@
               <Disorder id="8685">
                 <OrphaNumber>877</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=877</ExpertLink>
-                <Name lang="en">Neuroendocrine tumor</Name>
+                <Name lang="en">Neuroendocrine neoplasm</Name>
               </Disorder>
               <ClassificationNodeChildList count="3">
                 <ClassificationNode>
-                  <Disorder id="12882">
-                    <OrphaNumber>97289</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97289</ExpertLink>
-                    <Name lang="en">Thymic neuroendocrine tumor</Name>
+                  <Disorder id="14665">
+                    <OrphaNumber>100093</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100093</ExpertLink>
+                    <Name lang="en">Carcinoid syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -37,187 +37,232 @@
                   <Disorder id="14664">
                     <OrphaNumber>100092</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100092</ExpertLink>
-                    <Name lang="en">Gastroenteropancreatic endocrine tumor</Name>
+                    <Name lang="en">Gastroenteropancreatic neuroendocrine neoplasm</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
-                      <Disorder id="12870">
-                        <OrphaNumber>97253</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97253</ExpertLink>
-                        <Name lang="en">Pancreatic neuroendocrine tumor</Name>
+                      <Disorder id="26433">
+                        <OrphaNumber>506052</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506052</ExpertLink>
+                        <Name lang="en">Neuroendocrine neoplasm of pancreas</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="12870">
+                            <OrphaNumber>97253</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97253</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of pancreas</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="26434">
+                                <OrphaNumber>506060</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506060</ExpertLink>
+                                <Name lang="en">Functioning neuroendocrine tumor of pancreas</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="9">
+                                <ClassificationNode>
+                                  <Disorder id="3595">
+                                    <OrphaNumber>913</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
+                                    <Name lang="en">Zollinger-Ellison syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12871">
+                                    <OrphaNumber>97261</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97261</ExpertLink>
+                                    <Name lang="en">GRFoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12874">
+                                    <OrphaNumber>97278</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97278</ExpertLink>
+                                    <Name lang="en">PPoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12875">
+                                    <OrphaNumber>97279</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97279</ExpertLink>
+                                    <Name lang="en">Insulinoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12876">
+                                    <OrphaNumber>97280</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97280</ExpertLink>
+                                    <Name lang="en">Glucagonoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12877">
+                                    <OrphaNumber>97282</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97282</ExpertLink>
+                                    <Name lang="en">VIPoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12878">
+                                    <OrphaNumber>97283</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                    <Name lang="en">Somatostatinoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="14462">
+                                    <OrphaNumber>99889</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99889</ExpertLink>
+                                    <Name lang="en">Cushing syndrome due to ectopic ACTH secretion</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="26436">
+                                    <OrphaNumber>506090</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506090</ExpertLink>
+                                    <Name lang="en">Serotonin-producing neuroendocrine tumor of pancreas</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26435">
+                                <OrphaNumber>506075</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506075</ExpertLink>
+                                <Name lang="en">Non-functioning neuroendocrine tumor of pancreas</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26437">
+                            <OrphaNumber>506098</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506098</ExpertLink>
+                            <Name lang="en">Neuroendocrine carcinoma of pancreas</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26438">
+                            <OrphaNumber>506112</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506112</ExpertLink>
+                            <Name lang="en">Mixed neuroendocrine-nonneuroendocrine neoplasm of pancreas</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25237">
+                        <OrphaNumber>481508</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481508</ExpertLink>
+                        <Name lang="en">Gastroenteric neuroendocrine neoplasm</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="7">
                         <ClassificationNode>
-                          <Disorder id="3595">
-                            <OrphaNumber>913</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
-                            <Name lang="en">Zollinger-Ellison syndrome</Name>
+                          <Disorder id="14647">
+                            <OrphaNumber>100075</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100075</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of stomach</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12871">
-                            <OrphaNumber>97261</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97261</ExpertLink>
-                            <Name lang="en">GRFoma</Name>
+                          <Disorder id="14651">
+                            <OrphaNumber>100079</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100079</ExpertLink>
+                            <Name lang="en">Neuroendocrine neoplasm of appendix</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="21952">
+                                <OrphaNumber>329977</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329977</ExpertLink>
+                                <Name lang="en">Classic neuroendocrine tumor of appendix</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21953">
+                                <OrphaNumber>329984</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329984</ExpertLink>
+                                <Name lang="en">Goblet cell carcinoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="14652">
+                            <OrphaNumber>100080</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100080</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of the colon</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12874">
-                            <OrphaNumber>97278</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97278</ExpertLink>
-                            <Name lang="en">PPoma</Name>
+                          <Disorder id="14653">
+                            <OrphaNumber>100081</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of the rectum</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12875">
-                            <OrphaNumber>97279</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97279</ExpertLink>
-                            <Name lang="en">Insulinoma</Name>
+                          <Disorder id="14654">
+                            <OrphaNumber>100082</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of anal canal</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12876">
-                            <OrphaNumber>97280</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97280</ExpertLink>
-                            <Name lang="en">Glucagonoma</Name>
+                          <Disorder id="23177">
+                            <OrphaNumber>423975</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423975</ExpertLink>
+                            <Name lang="en">Neuroendocrine tumor of the small intestine</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12877">
-                            <OrphaNumber>97282</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97282</ExpertLink>
-                            <Name lang="en">VIPoma</Name>
+                          <Disorder id="26440">
+                            <OrphaNumber>506136</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506136</ExpertLink>
+                            <Name lang="en">Neuroendocrine neoplasm of esophagus</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12878">
-                            <OrphaNumber>97283</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
-                            <Name lang="en">Somatostatinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14647">
-                        <OrphaNumber>100075</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100075</ExpertLink>
-                        <Name lang="en">Gastric neuroendocrine tumor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14648">
-                        <OrphaNumber>100076</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100076</ExpertLink>
-                        <Name lang="en">Duodenal neuroendocrine tumor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="1">
-                        <ClassificationNode>
-                          <Disorder id="3595">
-                            <OrphaNumber>913</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
-                            <Name lang="en">Zollinger-Ellison syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14649">
-                        <OrphaNumber>100077</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100077</ExpertLink>
-                        <Name lang="en">Jejunal neuroendocrine tumor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14650">
-                        <OrphaNumber>100078</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100078</ExpertLink>
-                        <Name lang="en">Ileal neuroendocrine tumor</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14651">
-                        <OrphaNumber>100079</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100079</ExpertLink>
-                        <Name lang="en">Neuroendocrine tumor of the appendix</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="21952">
-                            <OrphaNumber>329977</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329977</ExpertLink>
-                            <Name lang="en">Classic neuroendocrine tumor of appendix</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21953">
-                            <OrphaNumber>329984</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329984</ExpertLink>
-                            <Name lang="en">Goblet cell carcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14652">
-                        <OrphaNumber>100080</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100080</ExpertLink>
-                        <Name lang="en">Neuroendocrine tumor of the colon</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14653">
-                        <OrphaNumber>100081</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100081</ExpertLink>
-                        <Name lang="en">Neuroendocrine tumor of the rectum</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14654">
-                        <OrphaNumber>100082</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
-                        <Name lang="en">Neuroendocrine tumor of the anal canal</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14665">
-                        <OrphaNumber>100093</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100093</ExpertLink>
-                        <Name lang="en">Carcinoid syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -228,7 +273,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100101</ExpertLink>
                     <Name lang="en">Neuroendocrine tumor with other location</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="10">
                     <ClassificationNode>
                       <Disorder id="11166">
                         <OrphaNumber>79140</OrphaNumber>
@@ -242,7 +287,7 @@
                       <Disorder id="12881">
                         <OrphaNumber>97287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97287</ExpertLink>
-                        <Name lang="en">Bronchial endocrine tumor</Name>
+                        <Name lang="en">Bronchial neuroendocrine tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -281,6 +326,69 @@
                         <Name lang="en">Gallbladder neuroendocrine tumor</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="18764">
+                        <OrphaNumber>213731</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213731</ExpertLink>
+                        <Name lang="en">High-grade neuroendocrine carcinoma of the corpus uteri</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="12882">
+                        <OrphaNumber>97289</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97289</ExpertLink>
+                        <Name lang="en">Thymic neuroendocrine tumor</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="18772">
+                        <OrphaNumber>213777</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=213777</ExpertLink>
+                        <Name lang="en">High-grade neuroendocrine carcinoma of the cervix uteri</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14442">
+                        <OrphaNumber>99869</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99869</ExpertLink>
+                        <Name lang="en">Thymic neuroendocrine carcinoma</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="20043">
+                            <OrphaNumber>263331</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263331</ExpertLink>
+                            <Name lang="en">Well-differentiated thymic neuroendocrine carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20044">
+                            <OrphaNumber>263335</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263335</ExpertLink>
+                            <Name lang="en">Moderately-differentiated thymic neuroendocrine carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20045">
+                            <OrphaNumber>263339</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263339</ExpertLink>
+                            <Name lang="en">Poorly differentiated thymic neuroendocrine carcinoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -4103,7 +4211,7 @@
                       <Disorder id="11131">
                         <OrphaNumber>79087</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79087</ExpertLink>
-                        <Name lang="en">Partial acquired lipodystrophy</Name>
+                        <Name lang="en">Acquired partial lipodystrophy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4146,7 +4254,7 @@
                           <Disorder id="11989">
                             <OrphaNumber>90159</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90159</ExpertLink>
-                            <Name lang="en">Panniculitis and localized lipodystrophy</Name>
+                            <Name lang="en">Panniculitis-induced localized lipodystrophy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

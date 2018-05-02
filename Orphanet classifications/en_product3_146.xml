@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:12" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:29" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12948">
       <OrphaNumber>97929</OrphaNumber>
@@ -1821,14 +1821,14 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101934</ExpertLink>
                     <Name lang="en">Genetic cardiac rhythm disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="30">
+                  <ClassificationNodeChildList count="29">
                     <ClassificationNode>
                       <Disorder id="658">
                         <OrphaNumber>768</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=768</ExpertLink>
                         <Name lang="en">Familial long QT syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="10865">
                             <OrphaNumber>65283</OrphaNumber>
@@ -1852,6 +1852,15 @@
                             <OrphaNumber>101016</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101016</ExpertLink>
                             <Name lang="en">Romano-Ward syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10442">
+                            <OrphaNumber>37553</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37553</ExpertLink>
+                            <Name lang="en">Cardiodysrhythmic potassium-sensitive periodic paralysis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1971,15 +1980,6 @@
                         <OrphaNumber>334</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=334</ExpertLink>
                         <Name lang="en">Familial atrial fibrillation</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10442">
-                        <OrphaNumber>37553</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37553</ExpertLink>
-                        <Name lang="en">Cardiodysrhythmic potassium-sensitive periodic paralysis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

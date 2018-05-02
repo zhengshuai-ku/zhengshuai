@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:17" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:34" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12983">
       <OrphaNumber>97965</OrphaNumber>
@@ -346,7 +346,7 @@
                               <Disorder id="14065">
                                 <OrphaNumber>99048</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99048</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-ventricular septal defect-persistent ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-intact ventricular septum-persistent ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -634,7 +634,7 @@
                               <Disorder id="14065">
                                 <OrphaNumber>99048</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99048</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-ventricular septal defect-persistent ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-intact ventricular septum-persistent ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -717,7 +717,7 @@
                           <Disorder id="14101">
                             <OrphaNumber>99084</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99084</ExpertLink>
-                            <Name lang="en">Pulmonary branch stenosis</Name>
+                            <Name lang="en">Peripheral pulmonary stenosis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1381,7 +1381,7 @@
                               <Disorder id="14065">
                                 <OrphaNumber>99048</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99048</ExpertLink>
-                                <Name lang="en">Pulmonary valve agenesis-ventricular septal defect-persistent ductus arteriosus syndrome</Name>
+                                <Name lang="en">Pulmonary valve agenesis-intact ventricular septum-persistent ductus arteriosus syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1464,7 +1464,7 @@
                           <Disorder id="14101">
                             <OrphaNumber>99084</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99084</ExpertLink>
-                            <Name lang="en">Pulmonary branch stenosis</Name>
+                            <Name lang="en">Peripheral pulmonary stenosis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:20" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:37" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -84,7 +84,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180821</ExpertLink>
                     <Name lang="en">Rare gastroesophageal tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="2">
+                  <ClassificationNodeChildList count="3">
                     <ClassificationNode>
                       <Disorder id="10824">
                         <OrphaNumber>63443</OrphaNumber>
@@ -96,7 +96,7 @@
                           <Disorder id="14647">
                             <OrphaNumber>100075</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100075</ExpertLink>
-                            <Name lang="en">Gastric neuroendocrine tumor</Name>
+                            <Name lang="en">Neuroendocrine tumor of stomach</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -236,6 +236,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26440">
+                        <OrphaNumber>506136</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506136</ExpertLink>
+                        <Name lang="en">Neuroendocrine neoplasm of esophagus</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -390,71 +399,134 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12870">
-                            <OrphaNumber>97253</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97253</ExpertLink>
-                            <Name lang="en">Pancreatic neuroendocrine tumor</Name>
+                          <Disorder id="26433">
+                            <OrphaNumber>506052</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506052</ExpertLink>
+                            <Name lang="en">Neuroendocrine neoplasm of pancreas</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="7">
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
-                              <Disorder id="3595">
-                                <OrphaNumber>913</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
-                                <Name lang="en">Zollinger-Ellison syndrome</Name>
+                              <Disorder id="12870">
+                                <OrphaNumber>97253</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97253</ExpertLink>
+                                <Name lang="en">Neuroendocrine tumor of pancreas</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="26434">
+                                    <OrphaNumber>506060</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506060</ExpertLink>
+                                    <Name lang="en">Functioning neuroendocrine tumor of pancreas</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="9">
+                                    <ClassificationNode>
+                                      <Disorder id="3595">
+                                        <OrphaNumber>913</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
+                                        <Name lang="en">Zollinger-Ellison syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12871">
+                                        <OrphaNumber>97261</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97261</ExpertLink>
+                                        <Name lang="en">GRFoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12874">
+                                        <OrphaNumber>97278</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97278</ExpertLink>
+                                        <Name lang="en">PPoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12875">
+                                        <OrphaNumber>97279</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97279</ExpertLink>
+                                        <Name lang="en">Insulinoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12876">
+                                        <OrphaNumber>97280</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97280</ExpertLink>
+                                        <Name lang="en">Glucagonoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12877">
+                                        <OrphaNumber>97282</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97282</ExpertLink>
+                                        <Name lang="en">VIPoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="12878">
+                                        <OrphaNumber>97283</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                        <Name lang="en">Somatostatinoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="14462">
+                                        <OrphaNumber>99889</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99889</ExpertLink>
+                                        <Name lang="en">Cushing syndrome due to ectopic ACTH secretion</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="26436">
+                                        <OrphaNumber>506090</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506090</ExpertLink>
+                                        <Name lang="en">Serotonin-producing neuroendocrine tumor of pancreas</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="26435">
+                                    <OrphaNumber>506075</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506075</ExpertLink>
+                                    <Name lang="en">Non-functioning neuroendocrine tumor of pancreas</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26437">
+                                <OrphaNumber>506098</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506098</ExpertLink>
+                                <Name lang="en">Neuroendocrine carcinoma of pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="12871">
-                                <OrphaNumber>97261</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97261</ExpertLink>
-                                <Name lang="en">GRFoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12874">
-                                <OrphaNumber>97278</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97278</ExpertLink>
-                                <Name lang="en">PPoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12875">
-                                <OrphaNumber>97279</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97279</ExpertLink>
-                                <Name lang="en">Insulinoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12876">
-                                <OrphaNumber>97280</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97280</ExpertLink>
-                                <Name lang="en">Glucagonoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12877">
-                                <OrphaNumber>97282</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97282</ExpertLink>
-                                <Name lang="en">VIPoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12878">
-                                <OrphaNumber>97283</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
-                                <Name lang="en">Somatostatinoma</Name>
+                              <Disorder id="26438">
+                                <OrphaNumber>506112</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506112</ExpertLink>
+                                <Name lang="en">Mixed neuroendocrine-nonneuroendocrine neoplasm of pancreas</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1516,7 +1588,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100076</ExpertLink>
                                     <Name lang="en">Duodenal neuroendocrine tumor</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="1">
+                                  <ClassificationNodeChildList count="2">
+                                    <ClassificationNode>
+                                      <Disorder id="12878">
+                                        <OrphaNumber>97283</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                        <Name lang="en">Somatostatinoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                     <ClassificationNode>
                                       <Disorder id="3595">
                                         <OrphaNumber>913</OrphaNumber>
@@ -1534,7 +1615,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100077</ExpertLink>
                                     <Name lang="en">Jejunal neuroendocrine tumor</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="0">
+                                  <ClassificationNodeChildList count="1">
+                                    <ClassificationNode>
+                                      <Disorder id="12878">
+                                        <OrphaNumber>97283</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                        <Name lang="en">Somatostatinoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -1563,7 +1653,7 @@
                           <Disorder id="14651">
                             <OrphaNumber>100079</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100079</ExpertLink>
-                            <Name lang="en">Neuroendocrine tumor of the appendix</Name>
+                            <Name lang="en">Neuroendocrine neoplasm of appendix</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
@@ -1662,7 +1752,7 @@
                           <Disorder id="14654">
                             <OrphaNumber>100082</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100082</ExpertLink>
-                            <Name lang="en">Neuroendocrine tumor of the anal canal</Name>
+                            <Name lang="en">Neuroendocrine tumor of anal canal</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

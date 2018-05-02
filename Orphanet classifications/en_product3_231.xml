@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:56" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:10:15" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="20456">
       <OrphaNumber>280342</OrphaNumber>
@@ -647,7 +647,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324924</ExpertLink>
                             <Name lang="en">Hereditary periodic fever syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="7">
+                            <ClassificationNode>
+                              <Disorder id="25994">
+                                <OrphaNumber>500062</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500062</ExpertLink>
+                                <Name lang="en">Infantile-onset periodic fever-panniculitis-dermatosis syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="920">
                                 <OrphaNumber>342</OrphaNumber>

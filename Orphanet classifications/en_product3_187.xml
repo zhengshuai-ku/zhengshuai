@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:33" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:50" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -3288,7 +3288,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="109">
+                  <ClassificationNodeChildList count="110">
+                    <ClassificationNode>
+                      <Disorder id="3069">
+                        <OrphaNumber>3200</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3200</ExpertLink>
+                        <Name lang="en">Arthrogryposis-ectodermal dysplasia-other anomalies syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="287">
                         <OrphaNumber>289</OrphaNumber>
@@ -6855,7 +6864,7 @@
                           <Disorder id="11131">
                             <OrphaNumber>79087</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79087</ExpertLink>
-                            <Name lang="en">Partial acquired lipodystrophy</Name>
+                            <Name lang="en">Acquired partial lipodystrophy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6898,7 +6907,7 @@
                               <Disorder id="11989">
                                 <OrphaNumber>90159</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90159</ExpertLink>
-                                <Name lang="en">Panniculitis and localized lipodystrophy</Name>
+                                <Name lang="en">Panniculitis-induced localized lipodystrophy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7354,7 +7363,7 @@
                   <Disorder id="2554">
                     <OrphaNumber>2812</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2812</ExpertLink>
-                    <Name lang="en">Parana hard-skin syndrome</Name>
+                    <Name lang="en">Parana hard skin syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10166,19 +10175,28 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293815</ExpertLink>
                 <Name lang="en">Toxic dermatosis</Name>
               </Disorder>
-              <ClassificationNodeChildList count="4">
+              <ClassificationNodeChildList count="5">
+                <ClassificationNode>
+                  <Disorder id="26081">
+                    <OrphaNumber>502499</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502499</ExpertLink>
+                    <Name lang="en">Erythema multiforme major</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="12597">
                     <OrphaNumber>95455</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95455</ExpertLink>
-                    <Name lang="en">Stevens-Johnson syndrome - toxic epidermal necrolysis</Name>
+                    <Name lang="en">Stevens-Johnson syndrome/toxic epidermal necrolysis spectrum</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>
                       <Disorder id="6522">
                         <OrphaNumber>537</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=537</ExpertLink>
-                        <Name lang="en">Lyell syndrome</Name>
+                        <Name lang="en">Toxic epidermal necrolysis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -10216,7 +10234,7 @@
                   <Disorder id="20872">
                     <OrphaNumber>293812</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293812</ExpertLink>
-                    <Name lang="en">Fixed pigmented erythema</Name>
+                    <Name lang="en">Fixed drug eruption</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:49" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:10:07" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10557">
       <OrphaNumber>68416</OrphaNumber>
@@ -14,7 +14,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163582</ExpertLink>
                 <Name lang="en">Rare bacterial infectious disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="41">
+              <ClassificationNodeChildList count="42">
                 <ClassificationNode>
                   <Disorder id="725">
                     <OrphaNumber>1304</OrphaNumber>
@@ -673,6 +673,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="25940">
+                    <OrphaNumber>499004</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=499004</ExpertLink>
+                    <Name lang="en">Tuberculous meningitis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="23699">
                     <OrphaNumber>457095</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457095</ExpertLink>
@@ -689,7 +698,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163585</ExpertLink>
                 <Name lang="en">Rare viral disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="19">
+              <ClassificationNodeChildList count="18">
                 <ClassificationNode>
                   <Disorder id="793">
                     <OrphaNumber>3020</OrphaNumber>
@@ -920,15 +929,6 @@
                     <OrphaNumber>35062</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35062</ExpertLink>
                     <Name lang="en">Idiopathic disseminated cytomegalovirus infection</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="10362">
-                    <OrphaNumber>35064</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35064</ExpertLink>
-                    <Name lang="en">Lethal idiopathic viral infection</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1697,7 +1697,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=232035</ExpertLink>
                 <Name lang="en">Infectious embryofetopathy</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="9">
                 <ClassificationNode>
                   <Disorder id="488">
                     <OrphaNumber>295</OrphaNumber>
@@ -1766,6 +1766,15 @@
                     <OrphaNumber>70596</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70596</ExpertLink>
                     <Name lang="en">Congenital Epstein-Barr virus infection</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25941">
+                    <OrphaNumber>499009</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=499009</ExpertLink>
+                    <Name lang="en">Congenital syphilis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

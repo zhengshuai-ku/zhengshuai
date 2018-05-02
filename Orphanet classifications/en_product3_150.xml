@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:19" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:09:36" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -570,7 +570,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309515</ExpertLink>
                     <Name lang="en">Disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="9">
+                  <ClassificationNodeChildList count="10">
+                    <ClassificationNode>
+                      <Disorder id="22835">
+                        <OrphaNumber>401820</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401820</ExpertLink>
+                        <Name lang="en">Autosomal recessive spastic paraplegia type 67</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="21120">
                         <OrphaNumber>300496</OrphaNumber>
@@ -4380,7 +4389,7 @@
                           <Disorder id="22134">
                             <OrphaNumber>353308</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353308</ExpertLink>
-                            <Name lang="en">Pyruvate carboxylase deficiency, infantile form</Name>
+                            <Name lang="en">Pyruvate carboxylase deficiency, infantile type</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6724,12 +6733,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254837</ExpertLink>
                         <Name lang="en">Unspecified mitochondrial disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="25849">
                             <OrphaNumber>496790</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496790</ExpertLink>
                             <Name lang="en">Optic atrophy-peripheral neuropathy-developmental delay syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26076">
+                            <OrphaNumber>502423</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502423</ExpertLink>
+                            <Name lang="en">Mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9465,7 +9483,7 @@
                           <Disorder id="10866">
                             <OrphaNumber>65284</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=65284</ExpertLink>
-                            <Name lang="en">Biotin-responsive basal ganglia disease</Name>
+                            <Name lang="en">Biotin-thiamine-responsive basal ganglia disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

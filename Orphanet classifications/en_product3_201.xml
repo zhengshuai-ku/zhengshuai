@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-04-01 04:09:46" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-05-01 04:10:04" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13065">
       <OrphaNumber>98047</OrphaNumber>
@@ -1954,7 +1954,7 @@
                   <Disorder id="22926">
                     <OrphaNumber>404469</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404469</ExpertLink>
-                    <Name lang="en">Rare female infertility due to oocyte maturation</Name>
+                    <Name lang="en">Rare female infertility due to oocyte maturation defect</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>
