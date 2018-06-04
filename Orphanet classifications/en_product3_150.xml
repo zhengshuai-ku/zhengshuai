@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:36" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:09:55" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -3500,7 +3500,7 @@
                       <Disorder id="10329">
                         <OrphaNumber>33574</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=33574</ExpertLink>
-                        <Name lang="en">Gamma-glutamylcysteine synthetase deficiency</Name>
+                        <Name lang="en">Glutamate-cysteine ligase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4004,7 +4004,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289902</ExpertLink>
                             <Name lang="en">3-methylglutaconic aciduria</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="7">
+                          <ClassificationNodeChildList count="9">
+                            <ClassificationNode>
+                              <Disorder id="26323">
+                                <OrphaNumber>505208</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505208</ExpertLink>
+                                <Name lang="en">3-methylglutaconic aciduria type 8</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="1059">
                                 <OrphaNumber>111</OrphaNumber>
@@ -4064,6 +4073,15 @@
                                 <OrphaNumber>445038</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=445038</ExpertLink>
                                 <Name lang="en">3-methylglutaconic aciduria type 7</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26324">
+                                <OrphaNumber>505216</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505216</ExpertLink>
+                                <Name lang="en">3-methylglutaconic aciduria type 9</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8526,14 +8544,23 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352301</ExpertLink>
                     <Name lang="en">Disorder of phospholipids, sphingolipids and fatty acids biosynthesis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="22049">
                         <OrphaNumber>352306</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352306</ExpertLink>
                         <Name lang="en">Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with central nervous system predominant involvement</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="11">
+                      <ClassificationNodeChildList count="12">
+                        <ClassificationNode>
+                          <Disorder id="26450">
+                            <OrphaNumber>506353</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506353</ExpertLink>
+                            <Name lang="en">Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="586">
                             <OrphaNumber>816</OrphaNumber>
@@ -8786,6 +8813,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26449">
+                        <OrphaNumber>506334</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
+                        <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -9854,9 +9890,18 @@
                       <Disorder id="21402">
                         <OrphaNumber>309845</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309845</ExpertLink>
-                        <Name lang="en">Disorder of zinc metabolism</Name>
+                        <Name lang="en">Disorder of zinc metabolism and transport</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="26329">
+                            <OrphaNumber>505242</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505242</ExpertLink>
+                            <Name lang="en">Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1268">
                             <OrphaNumber>37</OrphaNumber>

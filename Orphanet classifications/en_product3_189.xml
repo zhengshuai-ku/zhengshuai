@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:53" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:10:12" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -813,7 +813,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98553</ExpertLink>
                     <Name lang="en">Developmental defect of the eye</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="2338">
                         <OrphaNumber>2528</OrphaNumber>
@@ -1359,6 +1359,15 @@
                         <OrphaNumber>369970</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369970</ExpertLink>
                         <Name lang="en">Microcornea-myopic chorioretinal atrophy-telecanthus syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26448">
+                        <OrphaNumber>506307</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506307</ExpertLink>
+                        <Name lang="en">Stromme syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4418,7 +4427,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98641</ExpertLink>
                             <Name lang="en">Syndromic cataract</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="35">
+                          <ClassificationNodeChildList count="34">
                             <ClassificationNode>
                               <Disorder id="190">
                                 <OrphaNumber>649</OrphaNumber>
@@ -4450,7 +4459,7 @@
                               <Disorder id="1580">
                                 <OrphaNumber>163</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163</ExpertLink>
-                                <Name lang="en">Hereditary hyperferritinemia with congenital cataracts</Name>
+                                <Name lang="en">Hereditary hyperferritinemia-cataract syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4531,7 +4540,7 @@
                               <Disorder id="3187">
                                 <OrphaNumber>1272</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1272</ExpertLink>
-                                <Name lang="en">Fine-Lubinsky syndrome</Name>
+                                <Name lang="en">Aymé-Gripp syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5491,15 +5500,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="25137">
-                                <OrphaNumber>477668</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
-                                <Name lang="en">Aymé-Gripp syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="26041">
                                 <OrphaNumber>500545</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500545</ExpertLink>
@@ -5851,7 +5851,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71862</ExpertLink>
                         <Name lang="en">Retinal dystrophy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="35">
+                      <ClassificationNodeChildList count="36">
                         <ClassificationNode>
                           <Disorder id="3243">
                             <OrphaNumber>65</OrphaNumber>
@@ -7090,6 +7090,15 @@
                             <OrphaNumber>466718</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466718</ExpertLink>
                             <Name lang="en">Martinique crinkled retinal pigment epitheliopathy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17604">
+                            <OrphaNumber>166035</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
+                            <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9321,7 +9330,7 @@
                           <Disorder id="1580">
                             <OrphaNumber>163</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163</ExpertLink>
-                            <Name lang="en">Hereditary hyperferritinemia with congenital cataracts</Name>
+                            <Name lang="en">Hereditary hyperferritinemia-cataract syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -10360,7 +10369,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98688</ExpertLink>
                         <Name lang="en">Oculomotor apraxia or related oculomotor disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="10">
                         <ClassificationNode>
                           <Disorder id="104">
                             <OrphaNumber>100</OrphaNumber>
@@ -10474,6 +10483,15 @@
                             <OrphaNumber>459033</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=459033</ExpertLink>
                             <Name lang="en">Ataxia-oculomotor apraxia type 4</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26329">
+                            <OrphaNumber>505242</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505242</ExpertLink>
+                            <Name lang="en">Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

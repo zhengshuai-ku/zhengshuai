@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:03:59" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3121">
+<JDBOR date="2018-06-01 04:04:00" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3168">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -10752,10 +10752,6 @@
       <UpdateDate>2016-05-31 11:49:36.846</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="962">
-      <Disorder id="2056">
-        <OrphaNumber>2156</OrphaNumber>
-        <Name lang="de">Hirsutismus-Skelettdysplasie-Intelligenzminderung-Syndrom</Name>
-      </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
@@ -25385,7 +25381,7 @@
     <HPODisorderSetStatus id="2524">
       <Disorder id="21776">
         <OrphaNumber>324416</OrphaNumber>
-        <Name lang="de">Muskelhypertrophie-Hepatomegalie-Polyhydramnios-Syndrom</Name>
+        <Name lang="de">Muskelhypertrophie-Hepatomegalie-Polyhydramnion-Syndrom</Name>
       </Disorder>
       <Source>2494887[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32818,6 +32814,182 @@
       <CreationDate>2017-09-27 15:21:38.023</CreationDate>
       <UpdateDate>2017-09-27 15:21:38.023</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3216">
+      <Disorder id="14822">
+        <OrphaNumber>101111</OrphaNumber>
+        <Name lang="de">Ataxie, spinozerebelläre, Typ 25</Name>
+      </Disorder>
+      <Source>14705117[PMID]_21619691[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 16:34:14.483</CreationDate>
+      <UpdateDate>2018-05-09 16:34:14.483</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3217">
+      <Disorder id="23756">
+        <OrphaNumber>458798</OrphaNumber>
+        <Name lang="de">Ataxie, spinozerebelläre, Typ 41</Name>
+      </Disorder>
+      <Source>25477146[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 10:39:21.203</CreationDate>
+      <UpdateDate>2018-05-14 10:39:21.203</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3218">
+      <Disorder id="23757">
+        <OrphaNumber>458803</OrphaNumber>
+        <Name lang="de">Ataxie, spinozerebelläre, Typ 42</Name>
+      </Disorder>
+      <Source>26456284[PMID],26715324[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 12:19:15.75</CreationDate>
+      <UpdateDate>2018-05-14 12:19:15.75</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3219">
+      <Disorder id="21262">
+        <OrphaNumber>306741</OrphaNumber>
+        <Name lang="de">Hemidystonie-Hemiatrophie-Syndrom</Name>
+      </Disorder>
+      <Source>19097182[PMID]_20482602[PMID]_22030388[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 14:56:42.29</CreationDate>
+      <UpdateDate>2018-05-14 14:56:42.29</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3220">
+      <Disorder id="13778">
+        <OrphaNumber>98761</OrphaNumber>
+        <Name lang="de">Ataxie, spinozerebelläre, Typ 10</Name>
+      </Disorder>
+      <Source>11506407[PMID],12164725[PMID],17620556[PMID],29624773[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 15:26:25.37</CreationDate>
+      <UpdateDate>2018-05-14 15:26:25.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3221">
+      <Disorder id="14707">
+        <OrphaNumber>100996</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 15</Name>
+      </Disorder>
+      <Source>16217069[PMID],17661097[PMID],18098276[PMID],19805727[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 10:44:58.4</CreationDate>
+      <UpdateDate>2018-05-15 10:44:58.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3222">
+      <Disorder id="14709">
+        <OrphaNumber>100998</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-dominante, Typ 17</Name>
+      </Disorder>
+      <Source>13680364[PMID],23553728[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 10:58:28.666</CreationDate>
+      <UpdateDate>2018-05-15 10:58:28.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3223">
+      <Disorder id="12565">
+        <OrphaNumber>94125</OrphaNumber>
+        <Name lang="de">Ataxie-Syndrom, mitochondriales rezessives</Name>
+      </Disorder>
+      <Source>25586537[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 15:08:22.66</CreationDate>
+      <UpdateDate>2018-05-15 15:08:22.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3224">
+      <Disorder id="19631">
+        <OrphaNumber>251347</OrphaNumber>
+        <Name lang="de">Ataxia-Teleangiectasia-ähnliche Krankheit</Name>
+      </Disorder>
+      <Source>8445618[PMID],15269180[PMID],15574463[PMID],22863007[PMID],29170652[PMID],24733832[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-16 13:11:35.98</CreationDate>
+      <UpdateDate>2018-05-16 13:11:35.98</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3225">
+      <Disorder id="14711">
+        <OrphaNumber>101000</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 20</Name>
+      </Disorder>
+      <Source>18413476[PMID],20437587[PMID],26003402[PMID],27112432[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-16 16:16:30.066</CreationDate>
+      <UpdateDate>2018-05-16 16:16:30.066</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3226">
+      <Disorder id="14712">
+        <OrphaNumber>101001</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 21</Name>
+      </Disorder>
+      <Source>14564668[PMID],24451228[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 15:47:34.273</CreationDate>
+      <UpdateDate>2018-05-17 15:47:34.273</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3227">
+      <Disorder id="14714">
+        <OrphaNumber>101003</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 23</Name>
+      </Disorder>
+      <Source>12868479[PMID],28157540[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:04:19.876</CreationDate>
+      <UpdateDate>2018-05-17 16:04:19.876</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3228">
+      <Disorder id="14715">
+        <OrphaNumber>101004</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 24</Name>
+      </Disorder>
+      <Source>12499481[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:09:01.783</CreationDate>
+      <UpdateDate>2018-05-17 16:09:01.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3229">
+      <Disorder id="14717">
+        <OrphaNumber>101006</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 26</Name>
+      </Disorder>
+      <Source>23746551[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:11:23.163</CreationDate>
+      <UpdateDate>2018-05-17 16:11:23.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3230">
+      <Disorder id="14718">
+        <OrphaNumber>101007</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 27</Name>
+      </Disorder>
+      <Source>15455396[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:19:42.143</CreationDate>
+      <UpdateDate>2018-05-17 16:19:42.143</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3231">
+      <Disorder id="18672">
+        <OrphaNumber>209951</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 18</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:24:14.496</CreationDate>
+      <UpdateDate>2018-05-17 16:24:14.496</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3201">
       <Disorder id="13782">
         <OrphaNumber>98765</OrphaNumber>
@@ -32884,6 +33056,17 @@
       <CreationDate>2018-04-27 17:05:00.98</CreationDate>
       <UpdateDate>2018-04-27 17:05:00.98</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3207">
+      <Disorder id="22844">
+        <OrphaNumber>401866</OrphaNumber>
+        <Name lang="de">Spastik mit Hyperglyzinämie, im Kindesalter beginnend</Name>
+      </Disorder>
+      <Source>26100117[PMID]_24334290[PMID]_[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 11:01:48.873</CreationDate>
+      <UpdateDate>2018-05-02 11:01:48.873</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3206">
       <Disorder id="23151">
         <OrphaNumber>423275</OrphaNumber>
@@ -32894,6 +33077,336 @@
       <Online>y</Online>
       <CreationDate>2018-04-27 17:22:54.423</CreationDate>
       <UpdateDate>2018-04-27 17:22:54.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3209">
+      <Disorder id="21449">
+        <OrphaNumber>313772</OrphaNumber>
+        <Name lang="de">Spastische Ataxie-Neuropathie-Syndrom, früh beginnend</Name>
+      </Disorder>
+      <Source>22022284[PMID]_25401298[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 12:41:34.456</CreationDate>
+      <UpdateDate>2018-05-02 12:41:34.456</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3208">
+      <Disorder id="19738">
+        <OrphaNumber>254343</OrphaNumber>
+        <Name lang="de">Spastische Ataxie - Optikusatrophie - Dysarthrie, autosomal-rezessiv</Name>
+      </Disorder>
+      <Source>20970105[PMID]_25008111[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 12:18:46.816</CreationDate>
+      <UpdateDate>2018-05-02 12:18:46.816</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3211">
+      <Disorder id="23551">
+        <OrphaNumber>447896</OrphaNumber>
+        <Name lang="de">Tremor-Ataxie-zentrale Hypomyelinisierung-Syndrom</Name>
+      </Disorder>
+      <Source>20640464[PMID]_17159124[PMID]_22036171[PMID]_17712733[PMID]_15851747[PMID]_12605447[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 15:22:35.823</CreationDate>
+      <UpdateDate>2018-05-02 15:22:35.823</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3210">
+      <Disorder id="21501">
+        <OrphaNumber>314603</OrphaNumber>
+        <Name lang="de">Autosomal-rezessive spastische Ataxie mit Leukoenzephalopathie</Name>
+      </Disorder>
+      <Source>16672289[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 14:53:34.266</CreationDate>
+      <UpdateDate>2018-05-02 14:53:34.266</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3213">
+      <Disorder id="19814">
+        <OrphaNumber>255241</OrphaNumber>
+        <Name lang="de">Leigh-Syndrom mit Leukodystrophie</Name>
+      </Disorder>
+      <Source>17209980[PMID]_10230482[PMID]_7625545[PMID]_1492653[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-07 14:16:41.926</CreationDate>
+      <UpdateDate>2018-05-07 14:16:41.926</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3212">
+      <Disorder id="11091">
+        <OrphaNumber>75567</OrphaNumber>
+        <Name lang="de">Primäre fortschreitende Erstarrung der Gehbewegung</Name>
+      </Disorder>
+      <Source>12433266[PMID]_28489770[PMID]_21135389[PMID]_16476942[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-07 11:42:52.57</CreationDate>
+      <UpdateDate>2018-05-07 11:42:52.57</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3215">
+      <Disorder id="21546">
+        <OrphaNumber>314978</OrphaNumber>
+        <Name lang="de">Ataxie, zerebelläre, nicht-progressive, X-chromosomale</Name>
+      </Disorder>
+      <Source>22912398[PMID]_10797423[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 15:02:40.173</CreationDate>
+      <UpdateDate>2018-05-09 15:02:40.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3214">
+      <Disorder id="1433">
+        <OrphaNumber>1175</OrphaNumber>
+        <Name lang="de">Ataxie, zerebelläre, X-chromosomale, Typ 1</Name>
+      </Disorder>
+      <Source>23773993[PMID]_10797423[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 14:50:00.983</CreationDate>
+      <UpdateDate>2018-05-09 14:50:00.983</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3250">
+      <Disorder id="17159">
+        <OrphaNumber>157941</OrphaNumber>
+        <Name lang="de">Chorea Huntington-ähnliche Krankheit 1</Name>
+      </Disorder>
+      <Source>8178825[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 10:20:06.763</CreationDate>
+      <UpdateDate>2018-05-30 10:20:06.763</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3251">
+      <Disorder id="13951">
+        <OrphaNumber>98934</OrphaNumber>
+        <Name lang="de">Chorea Huntington-ähnliche Krankheit 2</Name>
+      </Disorder>
+      <Source>14557581[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 10:54:04.543</CreationDate>
+      <UpdateDate>2018-05-30 10:54:04.543</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3248">
+      <Disorder id="23770">
+        <OrphaNumber>459056</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 75</Name>
+      </Disorder>
+      <Source>26179919[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 14:01:17.226</CreationDate>
+      <UpdateDate>2018-05-28 14:01:17.226</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3249">
+      <Disorder id="21248">
+        <OrphaNumber>306669</OrphaNumber>
+        <Name lang="de">Hemiparkinson-Hemiatrophie-Syndrom</Name>
+      </Disorder>
+      <Source>21361726[PMID], 17938368[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 14:11:13.78</CreationDate>
+      <UpdateDate>2018-05-28 14:11:13.78</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3252">
+      <Disorder id="12563">
+        <OrphaNumber>94122</OrphaNumber>
+        <Name lang="de">Zerebelläre Ataxie Typ Cayman</Name>
+      </Disorder>
+      <Source>8845847[PMID]_14556008[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 11:20:59.54</CreationDate>
+      <UpdateDate>2018-05-30 11:20:59.54</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3253">
+      <Disorder id="19551">
+        <OrphaNumber>247815</OrphaNumber>
+        <Name lang="de">Ataxie, autosomal-rezessive, durch PEX10-Mangel</Name>
+      </Disorder>
+      <Source>28320181[PMID]_27230853[PMID]_20695019[PMID]_8982949[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 11:23:59.123</CreationDate>
+      <UpdateDate>2018-05-30 11:23:59.123</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3235">
+      <Disorder id="21718">
+        <OrphaNumber>320385</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 49</Name>
+      </Disorder>
+      <Source>23176824[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-22 11:41:44.783</CreationDate>
+      <UpdateDate>2018-05-22 11:41:44.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3234">
+      <Disorder id="21717">
+        <OrphaNumber>320380</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 54</Name>
+      </Disorder>
+      <Source>24424123[PMID],23486545[PMID],24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 16:01:33.883</CreationDate>
+      <UpdateDate>2018-05-18 16:01:33.883</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3233">
+      <Disorder id="21716">
+        <OrphaNumber>320375</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 55</Name>
+      </Disorder>
+      <Source>23188110[PMID],24080142[PMID],24424123[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 15:51:24.213</CreationDate>
+      <UpdateDate>2018-05-18 15:51:24.213</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3232">
+      <Disorder id="21715">
+        <OrphaNumber>320370</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 43</Name>
+      </Disorder>
+      <Source>20039086[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 15:47:40.863</CreationDate>
+      <UpdateDate>2018-05-18 15:47:40.863</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3239">
+      <Disorder id="18677">
+        <OrphaNumber>209970</OrphaNumber>
+        <Name lang="de">Ataxie, episodische, Typ 7</Name>
+      </Disorder>
+      <Source>17502476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:57:36.703</CreationDate>
+      <UpdateDate>2018-05-28 10:57:36.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3238">
+      <Disorder id="20590">
+        <OrphaNumber>284271</OrphaNumber>
+        <Name lang="de">Autosomal-rezessive zerebelläre Ataxie - psychomotorische Retardierung</Name>
+      </Disorder>
+      <Source>21835308[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:53:13.58</CreationDate>
+      <UpdateDate>2018-05-28 10:53:13.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3237">
+      <Disorder id="12593">
+        <OrphaNumber>95434</OrphaNumber>
+        <Name lang="de">Autosomal-rezessive zerebelläre Ataxie - einschließende Sakkaden</Name>
+      </Disorder>
+      <Source>11960835[PMID],14681893[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:35:59.32</CreationDate>
+      <UpdateDate>2018-05-28 10:35:59.32</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3236">
+      <Disorder id="11809">
+        <OrphaNumber>88628</OrphaNumber>
+        <Name lang="de">Hinterstrangataxie - Retinitis pigmentosa</Name>
+      </Disorder>
+      <Source>21070897[PMID],21267618[PMID],24628582[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:13:29.473</CreationDate>
+      <UpdateDate>2018-05-28 10:13:29.473</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3243">
+      <Disorder id="14719">
+        <OrphaNumber>101008</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 28</Name>
+      </Disorder>
+      <Source>15786464[PMID],23176821[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:28:32.193</CreationDate>
+      <UpdateDate>2018-05-28 11:28:32.193</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3242">
+      <Disorder id="22840">
+        <OrphaNumber>401849</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 72</Name>
+      </Disorder>
+      <Source>24388663[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:17:55.943</CreationDate>
+      <UpdateDate>2018-05-28 11:17:55.943</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3241">
+      <Disorder id="22858">
+        <OrphaNumber>401953</OrphaNumber>
+        <Name lang="de">Episodische Ataxie mit undeutlicher Aussprache</Name>
+      </Disorder>
+      <Source>23982692[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:03:24.09</CreationDate>
+      <UpdateDate>2018-05-28 11:03:24.09</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3240">
+      <Disorder id="18709">
+        <OrphaNumber>211067</OrphaNumber>
+        <Name lang="de">Ataxie, episodische, Typ 5</Name>
+      </Disorder>
+      <Source>10762541[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:00:00.836</CreationDate>
+      <UpdateDate>2018-05-28 11:00:00.836</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3247">
+      <Disorder id="25404">
+        <OrphaNumber>488594</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 76</Name>
+      </Disorder>
+      <Source>27153400[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:54:25.523</CreationDate>
+      <UpdateDate>2018-05-28 13:54:25.523</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3246">
+      <Disorder id="23538">
+        <OrphaNumber>447760</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive komplexe, Typ 9B</Name>
+      </Disorder>
+      <Source>26026163[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:32:49.52</CreationDate>
+      <UpdateDate>2018-05-28 13:32:49.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3245">
+      <Disorder id="17912">
+        <OrphaNumber>171607</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, X-chromosomale, Typ 34</Name>
+      </Disorder>
+      <Source>18463901[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:29:24.903</CreationDate>
+      <UpdateDate>2018-05-28 13:29:24.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3244">
+      <Disorder id="22829">
+        <OrphaNumber>401785</OrphaNumber>
+        <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 62</Name>
+      </Disorder>
+      <Source>24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:01:32.21</CreationDate>
+      <UpdateDate>2018-05-28 13:01:32.21</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3165">
       <Disorder id="18608">

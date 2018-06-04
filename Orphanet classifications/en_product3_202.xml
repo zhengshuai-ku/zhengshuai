@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:10:05" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:10:24" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -4997,7 +4997,7 @@
                                   <Disorder id="23090">
                                     <OrphaNumber>418959</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=418959</ExpertLink>
-                                    <Name lang="en">Squamous cell carcinoma of stomach</Name>
+                                    <Name lang="en">Squamous cell carcinoma of the stomach</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5080,7 +5080,7 @@
                               <Disorder id="14550">
                                 <OrphaNumber>99977</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99977</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of esophagus</Name>
+                                <Name lang="en">Squamous cell carcinoma of the esophagus</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9769,7 +9769,7 @@
                               <Disorder id="26074">
                                 <OrphaNumber>502366</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502366</ExpertLink>
-                                <Name lang="en">Squamous cell carcinoma of lip</Name>
+                                <Name lang="en">Squamous cell carcinoma of the lip</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

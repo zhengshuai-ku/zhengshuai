@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:43" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:10:01" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -4735,7 +4735,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=225689</ExpertLink>
                         <Name lang="en">Amino acid or protein metabolism disease with epilepsy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="11">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="8">
                             <OrphaNumber>141</OrphaNumber>
@@ -4984,6 +4984,15 @@
                             <OrphaNumber>309147</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309147</ExpertLink>
                             <Name lang="en">Hyper-beta-alaninemia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26324">
+                            <OrphaNumber>505216</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505216</ExpertLink>
+                            <Name lang="en">3-methylglutaconic aciduria type 9</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7505,7 +7514,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98099</ExpertLink>
                             <Name lang="en">Autosomal recessive syndromic cerebellar ataxia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="7">
                             <ClassificationNode>
                               <Disorder id="12592">
                                 <OrphaNumber>95433</OrphaNumber>
@@ -7547,6 +7556,15 @@
                                 <OrphaNumber>2074</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2074</ExpertLink>
                                 <Name lang="en">Gemignani syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26292">
+                                <OrphaNumber>504476</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504476</ExpertLink>
+                                <Name lang="en">Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -11048,7 +11066,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182070</ExpertLink>
                 <Name lang="en">Rare neurodegenerative disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="47">
+              <ClassificationNodeChildList count="48">
                 <ClassificationNode>
                   <Disorder id="25835">
                     <OrphaNumber>496641</OrphaNumber>
@@ -12266,7 +12284,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100981</ExpertLink>
                             <Name lang="en">Autosomal recessive complex spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="41">
+                          <ClassificationNodeChildList count="42">
                             <ClassificationNode>
                               <Disorder id="24010">
                                 <OrphaNumber>464282</OrphaNumber>
@@ -12623,6 +12641,15 @@
                                 <OrphaNumber>447760</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447760</ExpertLink>
                                 <Name lang="en">Autosomal recessive complex spastic paraplegia type 9B</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26450">
+                                <OrphaNumber>506353</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506353</ExpertLink>
+                                <Name lang="en">Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -13465,7 +13492,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98099</ExpertLink>
                         <Name lang="en">Autosomal recessive syndromic cerebellar ataxia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="12592">
                             <OrphaNumber>95433</OrphaNumber>
@@ -13507,6 +13534,15 @@
                             <OrphaNumber>2074</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2074</ExpertLink>
                             <Name lang="en">Gemignani syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26292">
+                            <OrphaNumber>504476</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504476</ExpertLink>
+                            <Name lang="en">Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -14323,7 +14359,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98099</ExpertLink>
                                     <Name lang="en">Autosomal recessive syndromic cerebellar ataxia</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="6">
+                                  <ClassificationNodeChildList count="7">
                                     <ClassificationNode>
                                       <Disorder id="12592">
                                         <OrphaNumber>95433</OrphaNumber>
@@ -14365,6 +14401,15 @@
                                         <OrphaNumber>2074</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2074</ExpertLink>
                                         <Name lang="en">Gemignani syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="26292">
+                                        <OrphaNumber>504476</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504476</ExpertLink>
+                                        <Name lang="en">Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -15545,6 +15590,15 @@
                     <OrphaNumber>438134</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438134</ExpertLink>
                     <Name lang="en">PCNA-related progressive neurodegenerative photosensitivity syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26329">
+                    <OrphaNumber>505242</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505242</ExpertLink>
+                    <Name lang="en">Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -18128,7 +18182,7 @@
                                   <Disorder id="25841">
                                     <OrphaNumber>496686</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496686</ExpertLink>
-                                    <Name lang="en">Kyphoscoliosis-lateral tongue atrophy-myofibrillar myopathy syndrome</Name>
+                                    <Name lang="en">Kyphosis-lateral tongue atrophy-myofibrillar myopathy syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -20570,7 +20624,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68385</ExpertLink>
                 <Name lang="en">Neurometabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="137">
+              <ClassificationNodeChildList count="139">
                 <ClassificationNode>
                   <Disorder id="19793">
                     <OrphaNumber>254875</OrphaNumber>
@@ -23974,6 +24028,24 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="26323">
+                    <OrphaNumber>505208</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505208</ExpertLink>
+                    <Name lang="en">3-methylglutaconic aciduria type 8</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26324">
+                    <OrphaNumber>505216</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505216</ExpertLink>
+                    <Name lang="en">3-methylglutaconic aciduria type 9</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25168">
                     <OrphaNumber>478049</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478049</ExpertLink>
@@ -25014,7 +25086,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="413">
+                  <ClassificationNodeChildList count="417">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -26864,7 +26936,7 @@
                       <Disorder id="3187">
                         <OrphaNumber>1272</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1272</ExpertLink>
-                        <Name lang="en">Fine-Lubinsky syndrome</Name>
+                        <Name lang="en">Aymé-Gripp syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27613,7 +27685,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="141">
+                      <ClassificationNodeChildList count="142">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -28260,33 +28332,6 @@
                             <Name lang="en">Atypical Rett syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3251">
-                            <OrphaNumber>669</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="12059">
-                                <OrphaNumber>90650</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                                <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12060">
-                                <OrphaNumber>90652</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                                <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -29437,6 +29482,24 @@
                             <OrphaNumber>251383</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251383</ExpertLink>
                             <Name lang="en">CK syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12059">
+                            <OrphaNumber>90650</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                            <Name lang="en">Otopalatodigital syndrome type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12060">
+                            <OrphaNumber>90652</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                            <Name lang="en">Otopalatodigital syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -31352,6 +31415,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="17604">
+                        <OrphaNumber>166035</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
+                        <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="21133">
                         <OrphaNumber>300573</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300573</ExpertLink>
@@ -31410,6 +31482,15 @@
                         <OrphaNumber>459061</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=459061</ExpertLink>
                         <Name lang="en">Craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26451">
+                        <OrphaNumber>506358</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506358</ExpertLink>
+                        <Name lang="en">Gabriele de Vries syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -31613,6 +31694,33 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="26324">
+                        <OrphaNumber>505216</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505216</ExpertLink>
+                        <Name lang="en">3-methylglutaconic aciduria type 9</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26330">
+                        <OrphaNumber>505248</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505248</ExpertLink>
+                        <Name lang="en">Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26450">
+                        <OrphaNumber>506353</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506353</ExpertLink>
+                        <Name lang="en">Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="25093">
                         <OrphaNumber>476126</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476126</ExpertLink>
@@ -31644,15 +31752,6 @@
                         <OrphaNumber>477673</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477673</ExpertLink>
                         <Name lang="en">Postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="25137">
-                        <OrphaNumber>477668</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
-                        <Name lang="en">Aymé-Gripp syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -33347,7 +33446,7 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98099</ExpertLink>
                                         <Name lang="en">Autosomal recessive syndromic cerebellar ataxia</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="6">
+                                      <ClassificationNodeChildList count="7">
                                         <ClassificationNode>
                                           <Disorder id="12592">
                                             <OrphaNumber>95433</OrphaNumber>
@@ -33389,6 +33488,15 @@
                                             <OrphaNumber>2074</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2074</ExpertLink>
                                             <Name lang="en">Gemignani syndrome</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="26292">
+                                            <OrphaNumber>504476</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504476</ExpertLink>
+                                            <Name lang="en">Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -41046,7 +41154,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=207028</ExpertLink>
                                 <Name lang="en">Cerebellar ataxia with peripheral neuropathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="4">
                                 <ClassificationNode>
                                   <Disorder id="45">
                                     <OrphaNumber>95</OrphaNumber>
@@ -41070,6 +41178,15 @@
                                     <OrphaNumber>48431</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=48431</ExpertLink>
                                     <Name lang="en">Congenital cataracts-facial dysmorphism-neuropathy syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="26292">
+                                    <OrphaNumber>504476</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504476</ExpertLink>
+                                    <Name lang="en">Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

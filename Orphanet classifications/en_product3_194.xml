@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:56" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:10:14" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13010">
       <OrphaNumber>97992</OrphaNumber>
@@ -4547,7 +4547,7 @@
                                   <Disorder id="10329">
                                     <OrphaNumber>33574</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=33574</ExpertLink>
-                                    <Name lang="en">Gamma-glutamylcysteine synthetase deficiency</Name>
+                                    <Name lang="en">Glutamate-cysteine ligase deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

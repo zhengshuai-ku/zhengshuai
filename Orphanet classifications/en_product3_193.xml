@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:54" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:10:13" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -251,7 +251,52 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423975</ExpertLink>
                             <Name lang="en">Neuroendocrine tumor of the small intestine</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="14648">
+                                <OrphaNumber>100076</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100076</ExpertLink>
+                                <Name lang="en">Duodenal neuroendocrine tumor</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="12878">
+                                    <OrphaNumber>97283</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                    <Name lang="en">Somatostatinoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="3595">
+                                    <OrphaNumber>913</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=913</ExpertLink>
+                                    <Name lang="en">Zollinger-Ellison syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="14649">
+                                <OrphaNumber>100077</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100077</ExpertLink>
+                                <Name lang="en">Jejunal neuroendocrine tumor</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="1">
+                                <ClassificationNode>
+                                  <Disorder id="12878">
+                                    <OrphaNumber>97283</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97283</ExpertLink>
+                                    <Name lang="en">Somatostatinoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -5354,7 +5399,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101960</ExpertLink>
                             <Name lang="en">Genetic chronic primary adrenal insufficiency</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="12">
+                          <ClassificationNodeChildList count="13">
+                            <ClassificationNode>
+                              <Disorder id="26449">
+                                <OrphaNumber>506334</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
+                                <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="761">
                                 <OrphaNumber>43</OrphaNumber>

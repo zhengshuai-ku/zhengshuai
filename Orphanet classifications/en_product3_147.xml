@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:09:32" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-06-01 04:09:50" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -5214,15 +5214,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="2268">
-                            <OrphaNumber>2454</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2454</ExpertLink>
-                            <Name lang="en">Familial intestinal malrotation-facial anomalies syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="2278">
                             <OrphaNumber>2464</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2464</ExpertLink>
@@ -5263,6 +5254,15 @@
                             <OrphaNumber>436252</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436252</ExpertLink>
                             <Name lang="en">Combined immunodeficiency-enteropathy spectrum</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26448">
+                            <OrphaNumber>506307</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506307</ExpertLink>
+                            <Name lang="en">Stromme syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -12934,7 +12934,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364541</ExpertLink>
                         <Name lang="en">Otopalatodigital syndrome spectrum disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="5">
+                        <ClassificationNode>
+                          <Disorder id="12060">
+                            <OrphaNumber>90652</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                            <Name lang="en">Otopalatodigital syndrome type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1975">
                             <OrphaNumber>1826</OrphaNumber>
@@ -12954,30 +12963,12 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="3251">
-                            <OrphaNumber>669</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome</Name>
+                          <Disorder id="12059">
+                            <OrphaNumber>90650</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                            <Name lang="en">Otopalatodigital syndrome type 1</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="12059">
-                                <OrphaNumber>90650</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                                <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12060">
-                                <OrphaNumber>90652</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                                <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -13969,7 +13960,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93430</ExpertLink>
                         <Name lang="en">Multiple metaphyseal dysplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="14">
+                      <ClassificationNodeChildList count="13">
                         <ClassificationNode>
                           <Disorder id="479">
                             <OrphaNumber>1819</OrphaNumber>
@@ -14065,15 +14056,6 @@
                             <OrphaNumber>33067</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=33067</ExpertLink>
                             <Name lang="en">Metaphyseal chondrodysplasia, Jansen type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17604">
-                            <OrphaNumber>166035</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
-                            <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17858,7 +17840,7 @@
                                   <Disorder id="17045">
                                     <OrphaNumber>141136</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141136</ExpertLink>
-                                    <Name lang="en">Hemifacial microsomia</Name>
+                                    <Name lang="en">Otomandibular syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -18073,7 +18055,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93454</ExpertLink>
                         <Name lang="en">Dysostosis with predominant vertebral and costal involvement</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="21">
+                      <ClassificationNodeChildList count="22">
                         <ClassificationNode>
                           <Disorder id="1042">
                             <OrphaNumber>2311</OrphaNumber>
@@ -18250,6 +18232,15 @@
                             <OrphaNumber>447974</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447974</ExpertLink>
                             <Name lang="en">Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26330">
+                            <OrphaNumber>505248</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505248</ExpertLink>
+                            <Name lang="en">Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -18521,25 +18512,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
                             <Name lang="en">Dysostosis with brachydactyly</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="5">
-                            <ClassificationNode>
-                              <Disorder id="22382">
-                                <OrphaNumber>364577</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364577</ExpertLink>
-                                <Name lang="en">Intellectual disability-brachydactyly-Pierre Robin syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="23479">
-                                <OrphaNumber>444077</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
-                                <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="25914">
                                 <OrphaNumber>498451</OrphaNumber>
@@ -18717,7 +18690,43 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498454</ExpertLink>
                                 <Name lang="en">Dysostosis with brachydactyly with extraskeletal manifestations</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="19">
+                              <ClassificationNodeChildList count="23">
+                                <ClassificationNode>
+                                  <Disorder id="17604">
+                                    <OrphaNumber>166035</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
+                                    <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="22382">
+                                    <OrphaNumber>364577</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364577</ExpertLink>
+                                    <Name lang="en">Intellectual disability-brachydactyly-Pierre Robin syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="23479">
+                                    <OrphaNumber>444077</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
+                                    <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25675">
+                                    <OrphaNumber>494439</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                                    <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="1313">
                                     <OrphaNumber>1001</OrphaNumber>
@@ -18934,15 +18943,6 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="25675">
-                                <OrphaNumber>494439</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
-                                <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -20015,7 +20015,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                             <Name lang="en">Syndrome with limb reduction defects</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="46">
+                          <ClassificationNodeChildList count="45">
                             <ClassificationNode>
                               <Disorder id="25392">
                                 <OrphaNumber>488232</OrphaNumber>
@@ -20431,15 +20431,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="25222">
-                                <OrphaNumber>480773</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
-                                <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="1549">
                                 <OrphaNumber>1326</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1326</ExpertLink>
@@ -20528,7 +20519,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                             <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="46">
+                          <ClassificationNodeChildList count="45">
                             <ClassificationNode>
                               <Disorder id="11661">
                                 <OrphaNumber>85203</OrphaNumber>
@@ -21038,15 +21029,6 @@
                                 <OrphaNumber>476119</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476119</ExpertLink>
                                 <Name lang="en">Autosomal dominant preaxial polydactyly-upperback hypertrichosis syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="25222">
-                                <OrphaNumber>480773</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
-                                <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -25664,7 +25646,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139036</ExpertLink>
                 <Name lang="en">Branchial arch or oral-acral syndrome</Name>
               </Disorder>
-              <ClassificationNodeChildList count="32">
+              <ClassificationNodeChildList count="33">
+                <ClassificationNode>
+                  <Disorder id="12060">
+                    <OrphaNumber>90652</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                    <Name lang="en">Otopalatodigital syndrome type 2</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="126">
                     <OrphaNumber>567</OrphaNumber>
@@ -25873,30 +25864,12 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="3251">
-                    <OrphaNumber>669</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                    <Name lang="en">Otopalatodigital syndrome</Name>
+                  <Disorder id="12059">
+                    <OrphaNumber>90650</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                    <Name lang="en">Otopalatodigital syndrome type 1</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="2">
-                    <ClassificationNode>
-                      <Disorder id="12059">
-                        <OrphaNumber>90650</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12060">
-                        <OrphaNumber>90652</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -27397,12 +27370,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=164004</ExpertLink>
                         <Name lang="en">Middle ear anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="26072">
                             <OrphaNumber>502318</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502318</ExpertLink>
                             <Name lang="en">Cochlear nerve deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26069">
+                            <OrphaNumber>502305</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=502305</ExpertLink>
+                            <Name lang="en">Cochleovestibular dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -27627,7 +27609,7 @@
                           <Disorder id="17045">
                             <OrphaNumber>141136</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141136</ExpertLink>
-                            <Name lang="en">Hemifacial microsomia</Name>
+                            <Name lang="en">Otomandibular syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28047,7 +28029,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156237</ExpertLink>
                     <Name lang="en">Syndrome or malformation associated with head and neck malformations</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="28">
+                  <ClassificationNodeChildList count="29">
                     <ClassificationNode>
                       <Disorder id="110">
                         <OrphaNumber>138</OrphaNumber>
@@ -28283,30 +28265,12 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="3251">
-                        <OrphaNumber>669</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome</Name>
+                      <Disorder id="12059">
+                        <OrphaNumber>90650</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                        <Name lang="en">Otopalatodigital syndrome type 1</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12059">
-                            <OrphaNumber>90650</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12060">
-                            <OrphaNumber>90652</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -29567,6 +29531,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="12060">
+                        <OrphaNumber>90652</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                        <Name lang="en">Otopalatodigital syndrome type 2</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -33853,7 +33826,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263775</ExpertLink>
                                     <Name lang="en">Partial duplication of the short arm of chromosome X</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="3">
+                                  <ClassificationNodeChildList count="2">
                                     <ClassificationNode>
                                       <Disorder id="18850">
                                         <OrphaNumber>217377</OrphaNumber>
@@ -33872,6 +33845,15 @@
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20092">
+                                    <OrphaNumber>263783</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263783</ExpertLink>
+                                    <Name lang="en">Partial duplication of the long arm of chromosome X</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="5">
                                     <ClassificationNode>
                                       <Disorder id="23573">
                                         <OrphaNumber>448372</OrphaNumber>
@@ -33881,15 +33863,6 @@
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20092">
-                                    <OrphaNumber>263783</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263783</ExpertLink>
-                                    <Name lang="en">Partial duplication of the long arm of chromosome X</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="4">
                                     <ClassificationNode>
                                       <Disorder id="1190">
                                         <OrphaNumber>1762</OrphaNumber>
@@ -34077,7 +34050,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102283</ExpertLink>
                     <Name lang="en">Multiple congenital anomalies/dysmorphic syndrome-intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="349">
+                  <ClassificationNodeChildList count="353">
                     <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
@@ -35645,6 +35618,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="12060">
+                        <OrphaNumber>90652</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                        <Name lang="en">Otopalatodigital syndrome type 2</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="25232">
                         <OrphaNumber>481152</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=481152</ExpertLink>
@@ -36647,7 +36629,7 @@
                       <Disorder id="3187">
                         <OrphaNumber>1272</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1272</ExpertLink>
-                        <Name lang="en">Fine-Lubinsky syndrome</Name>
+                        <Name lang="en">Aymé-Gripp syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -36686,33 +36668,6 @@
                         <Name lang="en">Okamoto syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3251">
-                        <OrphaNumber>669</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12059">
-                            <OrphaNumber>90650</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12060">
-                            <OrphaNumber>90652</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                            <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -36765,6 +36720,15 @@
                         <OrphaNumber>2117</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2117</ExpertLink>
                         <Name lang="en">Hartsfield syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26451">
+                        <OrphaNumber>506358</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506358</ExpertLink>
+                        <Name lang="en">Gabriele de Vries syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -36905,6 +36869,24 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="12059">
+                        <OrphaNumber>90650</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                        <Name lang="en">Otopalatodigital syndrome type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26330">
+                        <OrphaNumber>505248</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505248</ExpertLink>
+                        <Name lang="en">Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="25093">
                         <OrphaNumber>476126</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476126</ExpertLink>
@@ -36918,15 +36900,6 @@
                         <OrphaNumber>477993</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477993</ExpertLink>
                         <Name lang="en">Palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="25137">
-                        <OrphaNumber>477668</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
-                        <Name lang="en">Aymé-Gripp syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37620,6 +37593,24 @@
                         <OrphaNumber>488642</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488642</ExpertLink>
                         <Name lang="en">TELO2-related intellectual disability-neurodevelopmental disorder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="17604">
+                        <OrphaNumber>166035</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
+                        <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26448">
+                        <OrphaNumber>506307</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506307</ExpertLink>
+                        <Name lang="en">Stromme syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -40339,25 +40330,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69028</ExpertLink>
                         <Name lang="en">Dysostosis with brachydactyly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
-                        <ClassificationNode>
-                          <Disorder id="22382">
-                            <OrphaNumber>364577</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364577</ExpertLink>
-                            <Name lang="en">Intellectual disability-brachydactyly-Pierre Robin syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="23479">
-                            <OrphaNumber>444077</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
-                            <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="25914">
                             <OrphaNumber>498451</OrphaNumber>
@@ -40535,7 +40508,43 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498454</ExpertLink>
                             <Name lang="en">Dysostosis with brachydactyly with extraskeletal manifestations</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="19">
+                          <ClassificationNodeChildList count="23">
+                            <ClassificationNode>
+                              <Disorder id="17604">
+                                <OrphaNumber>166035</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166035</ExpertLink>
+                                <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22382">
+                                <OrphaNumber>364577</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364577</ExpertLink>
+                                <Name lang="en">Intellectual disability-brachydactyly-Pierre Robin syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="23479">
+                                <OrphaNumber>444077</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444077</ExpertLink>
+                                <Name lang="en">Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="25675">
+                                <OrphaNumber>494439</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
+                                <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="1313">
                                 <OrphaNumber>1001</OrphaNumber>
@@ -40752,15 +40761,6 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="25675">
-                            <OrphaNumber>494439</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494439</ExpertLink>
-                            <Name lang="en">Retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -41563,7 +41563,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="46">
+                      <ClassificationNodeChildList count="45">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -41979,15 +41979,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="25222">
-                            <OrphaNumber>480773</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
-                            <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="1549">
                             <OrphaNumber>1326</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1326</ExpertLink>
@@ -42076,7 +42067,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="46">
+                      <ClassificationNodeChildList count="45">
                         <ClassificationNode>
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
@@ -42586,15 +42577,6 @@
                             <OrphaNumber>476119</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476119</ExpertLink>
                             <Name lang="en">Autosomal dominant preaxial polydactyly-upperback hypertrichosis syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="25222">
-                            <OrphaNumber>480773</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480773</ExpertLink>
-                            <Name lang="en">Fibular aplasia-tibial campomelia-oligosyndactyly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -47599,6 +47581,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="12060">
+                    <OrphaNumber>90652</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
+                    <Name lang="en">Otopalatodigital syndrome type 2</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25998">
                     <OrphaNumber>500144</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500144</ExpertLink>
@@ -47630,6 +47621,15 @@
                     <OrphaNumber>457223</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457223</ExpertLink>
                     <Name lang="en">Syndromic sensorineural deafness due to combined oxidative phosphorylation defect</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="12059">
+                    <OrphaNumber>90650</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
+                    <Name lang="en">Otopalatodigital syndrome type 1</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -48049,33 +48049,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="3251">
-                    <OrphaNumber>669</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=669</ExpertLink>
-                    <Name lang="en">Otopalatodigital syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="2">
-                    <ClassificationNode>
-                      <Disorder id="12059">
-                        <OrphaNumber>90650</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12060">
-                        <OrphaNumber>90652</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90652</ExpertLink>
-                        <Name lang="en">Otopalatodigital syndrome type 2</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="3409">
                     <OrphaNumber>1171</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1171</ExpertLink>
@@ -48458,15 +48431,6 @@
                     <OrphaNumber>494444</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=494444</ExpertLink>
                     <Name lang="en">DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="25137">
-                    <OrphaNumber>477668</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477668</ExpertLink>
-                    <Name lang="en">Aymé-Gripp syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

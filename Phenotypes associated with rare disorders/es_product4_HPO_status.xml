@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-05-01 04:04:02" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3121">
+<JDBOR date="2018-06-01 04:04:03" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3168">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2937,7 +2937,7 @@
     <HPODisorderSetStatus id="265">
       <Disorder id="526">
         <OrphaNumber>502</OrphaNumber>
-        <Name lang="es">Síndrome de Langer-Giedion</Name>
+        <Name lang="es">Síndrome trico-rino-falángico tipo 2</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4807,7 +4807,7 @@
     <HPODisorderSetStatus id="468">
       <Disorder id="1081">
         <OrphaNumber>1450</OrphaNumber>
-        <Name lang="es">Anillo/marcador supernumerario derivado del cromosoma 8</Name>
+        <Name lang="es">Síndrome del cromosoma 8 en anillo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4818,7 +4818,7 @@
     <HPODisorderSetStatus id="469">
       <Disorder id="1082">
         <OrphaNumber>1552</OrphaNumber>
-        <Name lang="es">Tríada de Currarino</Name>
+        <Name lang="es">Síndrome de Currarino</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4829,7 +4829,7 @@
     <HPODisorderSetStatus id="466">
       <Disorder id="1079">
         <OrphaNumber>1447</OrphaNumber>
-        <Name lang="es">Cromosoma 4 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 4 en anillo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4840,7 +4840,7 @@
     <HPODisorderSetStatus id="467">
       <Disorder id="1080">
         <OrphaNumber>1448</OrphaNumber>
-        <Name lang="es">Cromosoma 6 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 6 en anillo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4851,7 +4851,7 @@
     <HPODisorderSetStatus id="464">
       <Disorder id="1075">
         <OrphaNumber>1437</OrphaNumber>
-        <Name lang="es">Cromosoma 1 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 1 en anillo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4862,7 +4862,7 @@
     <HPODisorderSetStatus id="465">
       <Disorder id="1076">
         <OrphaNumber>1438</OrphaNumber>
-        <Name lang="es">Cromosoma 10 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 10 en anillo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5434,7 +5434,7 @@
     <HPODisorderSetStatus id="547">
       <Disorder id="1303">
         <OrphaNumber>988</OrphaNumber>
-        <Name lang="es">Agenesia tibial polidactilia</Name>
+        <Name lang="es">Síndrome de hemimelia tibial - polisindactilia - pulgar trifalángico</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5874,7 +5874,7 @@
     <HPODisorderSetStatus id="522">
       <Disorder id="1264">
         <OrphaNumber>945</OrphaNumber>
-        <Name lang="es">Acrania</Name>
+        <Name lang="es">Acalvaria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6193,7 +6193,7 @@
     <HPODisorderSetStatus id="617">
       <Disorder id="1441">
         <OrphaNumber>1184</OrphaNumber>
-        <Name lang="es">Ataxia - fotosensibilidad - estatura baja</Name>
+        <Name lang="es">Síndrome de ataxia - fotosensibilidad - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6281,7 +6281,7 @@
     <HPODisorderSetStatus id="624">
       <Disorder id="1451">
         <OrphaNumber>1200</OrphaNumber>
-        <Name lang="es">Síndrome de atresia coanal - pérdida auditiva - defectos cardíacos - dismorfismo craneofacial</Name>
+        <Name lang="es">Síndrome de atresia coanal - pérdida auditiva - defectos cardíacos - dismorfia craneofacial</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6325,7 +6325,7 @@
     <HPODisorderSetStatus id="628">
       <Disorder id="1461">
         <OrphaNumber>1215</OrphaNumber>
-        <Name lang="es">Síndrome de atrofia óptica autosómica dominante plus</Name>
+        <Name lang="es">Síndrome de atrofia óptica plus autosómica dominante</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6578,7 +6578,7 @@
     <HPODisorderSetStatus id="591">
       <Disorder id="1392">
         <OrphaNumber>1110</OrphaNumber>
-        <Name lang="es">Síndrome de anomalías del arco aórtico - dismorfismo facial - discapacidad intelectual</Name>
+        <Name lang="es">Síndrome de anomalías del arco aórtico - dismorfia facial - discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6941,7 +6941,7 @@
     <HPODisorderSetStatus id="702">
       <Disorder id="1596">
         <OrphaNumber>1390</OrphaNumber>
-        <Name lang="es">Ceguera nocturna - anomalías esqueléticas - dismorfismo</Name>
+        <Name lang="es">Ceguera nocturna - anomalías esqueléticas - dismorfia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6952,7 +6952,7 @@
     <HPODisorderSetStatus id="703">
       <Disorder id="1599">
         <OrphaNumber>1393</OrphaNumber>
-        <Name lang="es">Síndrome cerebro-costo-mandibular</Name>
+        <Name lang="es">Síndrome cerebrocostomandibular</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7381,7 +7381,7 @@
     <HPODisorderSetStatus id="663">
       <Disorder id="1528">
         <OrphaNumber>1295</OrphaNumber>
-        <Name lang="es">Braquitelefalangia - dismorfismo - síndrome de Kallmann</Name>
+        <Name lang="es">Braquitelefalangia - dismorfia - síndrome de Kallmann</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7568,7 +7568,7 @@
     <HPODisorderSetStatus id="742">
       <Disorder id="1681">
         <OrphaNumber>1514</OrphaNumber>
-        <Name lang="es">Anomalías cráneo-digitales - discapacidad intelectual</Name>
+        <Name lang="es">Síndrome craneodigital - discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7821,7 +7821,7 @@
     <HPODisorderSetStatus id="719">
       <Disorder id="1634">
         <OrphaNumber>1429</OrphaNumber>
-        <Name lang="es">Corea benigna familiar</Name>
+        <Name lang="es">Corea benigna hereditaria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7997,7 +7997,7 @@
     <HPODisorderSetStatus id="734">
       <Disorder id="1667">
         <OrphaNumber>1495</OrphaNumber>
-        <Name lang="es">Agenesia de cuerpo calloso - microcefalia - estatura baja</Name>
+        <Name lang="es">Agenesia de cuerpo calloso - microcefalia - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8041,7 +8041,7 @@
     <HPODisorderSetStatus id="722">
       <Disorder id="1639">
         <OrphaNumber>1436</OrphaNumber>
-        <Name lang="es">Displasia esquelética - discapacidad intelectual</Name>
+        <Name lang="es">Síndrome de displasia esquelética - discapacidad intelectual ligado al X</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8246,7 +8246,7 @@
     <HPODisorderSetStatus id="824">
       <Disorder id="1835">
         <OrphaNumber>1858</OrphaNumber>
-        <Name lang="es">Displasia esquelética - epilepsia - estatura baja</Name>
+        <Name lang="es">Síndrome de displasia esquelética - epilepsia - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8796,7 +8796,7 @@
     <HPODisorderSetStatus id="880">
       <Disorder id="1932">
         <OrphaNumber>1995</OrphaNumber>
-        <Name lang="es">Fisura labial - retinopatía</Name>
+        <Name lang="es">Síndrome de fisura labial - retinopatía</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8873,7 +8873,7 @@
     <HPODisorderSetStatus id="889">
       <Disorder id="1949">
         <OrphaNumber>2013</OrphaNumber>
-        <Name lang="es">Fisura palatina - orejas grandes - estatura baja</Name>
+        <Name lang="es">Fisura palatina - orejas grandes - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9016,7 +9016,7 @@
     <HPODisorderSetStatus id="869">
       <Disorder id="1908">
         <OrphaNumber>1964</OrphaNumber>
-        <Name lang="es">Extrasístoles - estatura baja - hiperpigmentación - microcefalia</Name>
+        <Name lang="es">Extrasístoles - talla baja - hiperpigmentación - microcefalia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9038,7 +9038,7 @@
     <HPODisorderSetStatus id="871">
       <Disorder id="1913">
         <OrphaNumber>1969</OrphaNumber>
-        <Name lang="es">Síndrome de dismorfismo facial - anorexia - caquexia - anomalías oculares y cutáneas</Name>
+        <Name lang="es">Síndrome de dismorfia facial - anorexia - caquexia - anomalías oculares y cutáneas</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9049,7 +9049,7 @@
     <HPODisorderSetStatus id="872">
       <Disorder id="1914">
         <OrphaNumber>1970</OrphaNumber>
-        <Name lang="es">Dismorfia facial - macrocefalia - miopía - malformación de Dandy-Walker</Name>
+        <Name lang="es">Síndrome de dismorfia facial - macrocefalia - miopía - malformación de Dandy-Walker</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9566,7 +9566,7 @@
     <HPODisorderSetStatus id="948">
       <Disorder id="2027">
         <OrphaNumber>2994</OrphaNumber>
-        <Name lang="es">Estatura baja - anomalías craneofaciales - hipoplasia genital</Name>
+        <Name lang="es">Síndrome de talla baja - anomalías craneofaciales - hipoplasia genital</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9665,7 +9665,7 @@
     <HPODisorderSetStatus id="940">
       <Disorder id="2015">
         <OrphaNumber>2104</OrphaNumber>
-        <Name lang="es">Dismorfismo - pectus carinatum - laxitud en las articulaciones</Name>
+        <Name lang="es">Dismorfia - pectus carinatum - laxitud en las articulaciones</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9786,7 +9786,7 @@
     <HPODisorderSetStatus id="928">
       <Disorder id="1998">
         <OrphaNumber>2084</OrphaNumber>
-        <Name lang="es">Glaucoma - ectopia - esferofaquia - rigidez articular - estatura baja</Name>
+        <Name lang="es">Glaucoma - ectopia - esferofaquia - rigidez articular - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9973,7 +9973,7 @@
     <HPODisorderSetStatus id="913">
       <Disorder id="1978">
         <OrphaNumber>2057</OrphaNumber>
-        <Name lang="es">Blefarofimosis - ptosis - esotropía - sindactilia - estatura baja</Name>
+        <Name lang="es">Síndrome de blefarofimosis - ptosis - esotropía - sindactilia - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10127,7 +10127,7 @@
     <HPODisorderSetStatus id="896">
       <Disorder id="1956">
         <OrphaNumber>2025</OrphaNumber>
-        <Name lang="es">Fibromatosis gingival - dismorfia facial</Name>
+        <Name lang="es">Síndrome de fibromatosis gingival - dismorfia facial</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10193,7 +10193,7 @@
     <HPODisorderSetStatus id="1021">
       <Disorder id="2268">
         <OrphaNumber>2454</OrphaNumber>
-        <Name lang="es">Malrotación intestinal familiar - dismorfismo facial</Name>
+        <Name lang="es">Malrotación intestinal familiar - anomalías faciales</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10237,7 +10237,7 @@
     <HPODisorderSetStatus id="1009">
       <Disorder id="2216">
         <OrphaNumber>2379</OrphaNumber>
-        <Name lang="es">Parkinsonismo precoz - discapacidad intelectual</Name>
+        <Name lang="es">Parkinsonismo de inicio temprano - discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10303,7 +10303,7 @@
     <HPODisorderSetStatus id="1015">
       <Disorder id="2249">
         <OrphaNumber>2429</OrphaNumber>
-        <Name lang="es">Síndrome de macrocefalia - paraplejía espástica - dismorfismo</Name>
+        <Name lang="es">Síndrome de macrocefalia - paraplejía espástica - dismorfia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10752,10 +10752,6 @@
       <UpdateDate>2016-05-31 11:49:36.846</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="962">
-      <Disorder id="2056">
-        <OrphaNumber>2156</OrphaNumber>
-        <Name lang="es">Síndrome de hirsutismo - displasia esquelética - discapacidad intelectual</Name>
-      </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
@@ -11161,7 +11157,7 @@
     <HPODisorderSetStatus id="1134">
       <Disorder id="2601">
         <OrphaNumber>2868</OrphaNumber>
-        <Name lang="es">Estatura baja - valvulopatía cardíaca - facies característica</Name>
+        <Name lang="es">Síndrome de talla baja - valvulopatía cardíaca - facies característica</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11183,7 +11179,7 @@
     <HPODisorderSetStatus id="1132">
       <Disorder id="2596">
         <OrphaNumber>2863</OrphaNumber>
-        <Name lang="es">Estatura baja - huesos wormianos - dextrocardia</Name>
+        <Name lang="es">Síndrome de talla baja - huesos wormianos - dextrocardia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11194,7 +11190,7 @@
     <HPODisorderSetStatus id="1133">
       <Disorder id="2599">
         <OrphaNumber>2866</OrphaNumber>
-        <Name lang="es">Estatura baja - sordera - disfunción neutrófila - dismorfismo</Name>
+        <Name lang="es">síndrome de talla baja - sordera - disfunción neutrófila - dismorfia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11861,7 +11857,7 @@
     <HPODisorderSetStatus id="1067">
       <Disorder id="2410">
         <OrphaNumber>2633</OrphaNumber>
-        <Name lang="es">Enanismo mesomélico tipo Nievergelt</Name>
+        <Name lang="es">Displasia mesomélica tipo Nievergelt</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11872,7 +11868,7 @@
     <HPODisorderSetStatus id="1064">
       <Disorder id="2396">
         <OrphaNumber>2617</OrphaNumber>
-        <Name lang="es">Enanismo con cabeza de pájaro tipo Montreal</Name>
+        <Name lang="es">Enanismo primordial microcefálico tipo Montreal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11905,7 +11901,7 @@
     <HPODisorderSetStatus id="1071">
       <Disorder id="2420">
         <OrphaNumber>2645</OrphaNumber>
-        <Name lang="es">Enanismo osteoglofónico</Name>
+        <Name lang="es">Displasia osteoglofónica</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12638,7 +12634,7 @@
     <HPODisorderSetStatus id="1259">
       <Disorder id="3087">
         <OrphaNumber>3074</OrphaNumber>
-        <Name lang="es">Discapacidad intelectual - estatura baja - hipertelorismo</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual - talla baja - hipertelorismo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12649,7 +12645,7 @@
     <HPODisorderSetStatus id="1258">
       <Disorder id="3086">
         <OrphaNumber>1778</OrphaNumber>
-        <Name lang="es">Dismorfia facial - escroto en alforja - hiperlaxitud ligamentaria</Name>
+        <Name lang="es">Síndrome de dismorfia facial - escroto en alforja - hiperlaxitud ligamentaria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13045,7 +13041,7 @@
     <HPODisorderSetStatus id="1173">
       <Disorder id="2745">
         <OrphaNumber>3055</OrphaNumber>
-        <Name lang="es">Síndrome de discapacidad intelectual ligada al X - hipogonadismo - ictiosis - obesidad - estatura baja</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual ligada al X - hipogonadismo - ictiosis - obesidad - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13067,7 +13063,7 @@
     <HPODisorderSetStatus id="1175">
       <Disorder id="2757">
         <OrphaNumber>3068</OrphaNumber>
-        <Name lang="es">Discapacidad intelectual - miopatía - estatura baja - defecto endocrino</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual - miopatía - talla baja - defecto endocrino</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13298,7 +13294,7 @@
     <HPODisorderSetStatus id="1199">
       <Disorder id="2858">
         <OrphaNumber>3191</OrphaNumber>
-        <Name lang="es">Estenosis subaórtica - estatura baja</Name>
+        <Name lang="es">Estenosis subaórtica - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13353,7 +13349,7 @@
     <HPODisorderSetStatus id="1203">
       <Disorder id="2875">
         <OrphaNumber>3218</OrphaNumber>
-        <Name lang="es">Sordera - displasia epifisaria - estatura baja</Name>
+        <Name lang="es">Sordera - displasia epifisaria - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14240,7 +14236,7 @@
     <HPODisorderSetStatus id="1304">
       <Disorder id="3383">
         <OrphaNumber>745</OrphaNumber>
-        <Name lang="es">Trombofilia hereditara por deficiencia congénita de proteína C</Name>
+        <Name lang="es">Trombofilia hereditaria rara por deficiencia congénita de proteína C</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14317,7 +14313,7 @@
     <HPODisorderSetStatus id="1297">
       <Disorder id="3267">
         <OrphaNumber>743</OrphaNumber>
-        <Name lang="es">Trombofilia hereditaria por deficiencia congénita de proteína S</Name>
+        <Name lang="es">Trombofilia hereditaria grave por deficiencia congénita de proteína S</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14603,7 +14599,7 @@
     <HPODisorderSetStatus id="1341">
       <Disorder id="3643">
         <OrphaNumber>256</OrphaNumber>
-        <Name lang="es">Distonía generalizada precoz de inicio en las extremidades</Name>
+        <Name lang="es">Distonía generalizada de inicio temprano en las extremidades</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14999,7 +14995,7 @@
     <HPODisorderSetStatus id="1500">
       <Disorder id="10625">
         <OrphaNumber>48431</OrphaNumber>
-        <Name lang="es">Catarata congénita - dismorfismo facial - neuropatía</Name>
+        <Name lang="es">Catarata congénita - dismorfia facial - neuropatía</Name>
       </Disorder>
       <Source>16939648[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -15798,7 +15794,7 @@
     <HPODisorderSetStatus id="1415">
       <Disorder id="8630">
         <OrphaNumber>241</OrphaNumber>
-        <Name lang="es">Discromatosis universal</Name>
+        <Name lang="es">Discromatosis universal hereditaria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16304,7 +16300,7 @@
     <HPODisorderSetStatus id="1641">
       <Disorder id="11289">
         <OrphaNumber>79263</OrphaNumber>
-        <Name lang="es">Ceroidolipofuscinosis neuronal infantil</Name>
+        <Name lang="es">Lipofuscinosis ceroide neuronal infantil</Name>
       </Disorder>
       <Source>_20301601[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -16810,7 +16806,7 @@
     <HPODisorderSetStatus id="1624">
       <Disorder id="11158">
         <OrphaNumber>79132</OrphaNumber>
-        <Name lang="es">Cabello escaso - estatura baja - anomalías de la piel</Name>
+        <Name lang="es">Síndrome de cabello escaso - talla baja - anomalías de la piel</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17052,7 +17048,7 @@
     <HPODisorderSetStatus id="1575">
       <Disorder id="10909">
         <OrphaNumber>69028</OrphaNumber>
-        <Name lang="es">Síndromes con braquidactilia</Name>
+        <Name lang="es">Disostosis con braquidactilia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17184,7 +17180,7 @@
     <HPODisorderSetStatus id="1594">
       <Disorder id="11040">
         <OrphaNumber>73246</OrphaNumber>
-        <Name lang="es">Neuropatía visceral - anomalías cerebrales - dismorfismo facial - retraso en el desarrollo</Name>
+        <Name lang="es">Síndrome de neuropatía visceral - anomalías cerebrales - dismorfia facial - retraso en el desarrollo</Name>
       </Disorder>
       <Source>16378921[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -17239,7 +17235,7 @@
     <HPODisorderSetStatus id="1587">
       <Disorder id="10989">
         <OrphaNumber>71267</OrphaNumber>
-        <Name lang="es">Dentinogénesis imperfecta - estatura baja - sordera - discapacidad intelectual</Name>
+        <Name lang="es">Dentinogénesis imperfecta - talla baja - sordera - discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17393,7 +17389,7 @@
     <HPODisorderSetStatus id="1543">
       <Disorder id="10805">
         <OrphaNumber>60040</OrphaNumber>
-        <Name lang="es">Síndrome de megaloencefalia - malformación capilar - polimicrogiria</Name>
+        <Name lang="es">Síndrome de megalencefalia - malformación capilar - polimicrogiria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17536,7 +17532,7 @@
     <HPODisorderSetStatus id="1557">
       <Disorder id="10864">
         <OrphaNumber>65282</OrphaNumber>
-        <Name lang="es">Síndrome de pelo lanoso - queratodermia palmoplantar - miocardiopatía dilatada</Name>
+        <Name lang="es">Síndrome de Carvajal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17712,7 +17708,7 @@
     <HPODisorderSetStatus id="1771">
       <Disorder id="11699">
         <OrphaNumber>85329</OrphaNumber>
-        <Name lang="es">Discapacidad intelectual ligada al X - hipotonía - dismorfismo facial - comportamiento agresivo</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual ligada al X - hipotonía - dismorfia facial - comportamiento agresivo</Name>
       </Disorder>
       <Source>_12599187[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18584,7 +18580,7 @@
     <HPODisorderSetStatus id="1725">
       <Disorder id="11631">
         <OrphaNumber>85164</OrphaNumber>
-        <Name lang="es">Camptodactilia - estatura alta - escoliosis - pérdida auditiva</Name>
+        <Name lang="es">Síndrome de camptodactilia - talla alta - escoliosis - pérdida auditiva</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18749,7 +18745,7 @@
     <HPODisorderSetStatus id="1679">
       <Disorder id="11422">
         <OrphaNumber>79396</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa simple tipo Dowling-Meara</Name>
+        <Name lang="es">Epidermólisis ampollosa simple generalizada grave</Name>
       </Disorder>
       <Source>_20301543[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18815,7 +18811,7 @@
     <HPODisorderSetStatus id="1684">
       <Disorder id="11428">
         <OrphaNumber>79402</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa juntural generalizada tipo no Herlitz</Name>
+        <Name lang="es">Epidermólisis ampollosa juntural generalizada intermedia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18837,7 +18833,7 @@
     <HPODisorderSetStatus id="1686">
       <Disorder id="11430">
         <OrphaNumber>79404</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa juntural tipo Herlitz</Name>
+        <Name lang="es">Epidermólisis ampollosa juntural generalizada grave</Name>
       </Disorder>
       <Source>_20301304[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18870,7 +18866,7 @@
     <HPODisorderSetStatus id="1681">
       <Disorder id="11425">
         <OrphaNumber>79399</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa simple generalizada no Dowling-Meara</Name>
+        <Name lang="es">Epidermólisis ampollosa simple generalizada intermedia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -19024,7 +19020,7 @@
     <HPODisorderSetStatus id="1914">
       <Disorder id="12562">
         <OrphaNumber>94095</OrphaNumber>
-        <Name lang="es">Disostosis espondilocostal - malformaciones anales y genitourinarias</Name>
+        <Name lang="es">Síndrome de disostosis espondilocostal - atresia anal - malformaciones genitourinarias</Name>
       </Disorder>
       <Source>_9880219[PMID]_7473656[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -19786,7 +19782,7 @@
     <HPODisorderSetStatus id="1846">
       <Disorder id="12110">
         <OrphaNumber>91133</OrphaNumber>
-        <Name lang="es">Osteopenia - miopía - pérdida auditiva - discapacidad intelectual - dismofismo facial</Name>
+        <Name lang="es">Síndrome de osteopenia - miopía - pérdida auditiva - discapacidad intelectual - dismorfia facial</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20193,7 +20189,7 @@
     <HPODisorderSetStatus id="1806">
       <Disorder id="11907">
         <OrphaNumber>89842</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa distrófica recesiva generalizada otra</Name>
+        <Name lang="es">Epidermólisis ampollosa distrófica recesiva generalizada intermedia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20237,7 +20233,7 @@
     <HPODisorderSetStatus id="1802">
       <Disorder id="11903">
         <OrphaNumber>89838</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa simple autosómica recesiva</Name>
+        <Name lang="es">Epidermólisis ampollosa simple autosómica recesiva K14</Name>
       </Disorder>
       <Source>_21623745[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -22118,7 +22114,7 @@
     <HPODisorderSetStatus id="2239">
       <Disorder id="21817">
         <OrphaNumber>324964</OrphaNumber>
-        <Name lang="es">Osteomelitis multifocal recurrente crónica</Name>
+        <Name lang="es">Osteomielitis crónica no bacteriana / Osteomielitis multifocal recurrente crónica</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22481,7 +22477,7 @@
     <HPODisorderSetStatus id="2266">
       <Disorder id="19886">
         <OrphaNumber>261529</OrphaNumber>
-        <Name lang="es">Cromosoma Y en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma Y en anillo</Name>
       </Disorder>
       <Source>18555994[PMID]_25381945[PMID]_965013[PMID]_649173[PMID]_16359976[PMID]_24052714[PMID]_10424817[PMID]_16359976[PMID]_ISBN-13: 978-3110116076[BOOK]_24052714[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -22822,7 +22818,7 @@
     <HPODisorderSetStatus id="2299">
       <Disorder id="19879">
         <OrphaNumber>261476</OrphaNumber>
-        <Name lang="es">Monosomía Xp21</Name>
+        <Name lang="es">Síndrome de microdeleción Xp21</Name>
       </Disorder>
       <Source>9188656[PMID]_7750200[PMID]_6315281[PMID]_3766905[PMID]_6249182[PMID]_2852474[PMID]_200232[PMID]_25917374[PMID]_2883886[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -22899,7 +22895,7 @@
     <HPODisorderSetStatus id="2290">
       <Disorder id="20897">
         <OrphaNumber>293967</OrphaNumber>
-        <Name lang="es">Síndrome de hipogonadismo hipogonadotrópico - microcefalia grave - pérdida auditiva neurosensorial - dismorfismo</Name>
+        <Name lang="es">Síndrome de hipogonadismo hipogonadotrópico - microcefalia grave - pérdida auditiva neurosensorial - dismorfia</Name>
       </Disorder>
       <Source>22002932[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -23218,7 +23214,7 @@
     <HPODisorderSetStatus id="2072">
       <Disorder id="17766">
         <OrphaNumber>168491</OrphaNumber>
-        <Name lang="es">Ceroidolipofuscinosis neuronal infantil tardía</Name>
+        <Name lang="es">Lipofuscinosis ceroide neuronal infantil tardía</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -23328,7 +23324,7 @@
     <HPODisorderSetStatus id="2051">
       <Disorder id="17234">
         <OrphaNumber>158676</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa distrófica exclusivamente ungueal</Name>
+        <Name lang="es">Epidermólisis ampollosa dominante con distrofia ungueal solo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24263,7 +24259,7 @@
     <HPODisorderSetStatus id="2174">
       <Disorder id="19607">
         <OrphaNumber>251038</OrphaNumber>
-        <Name lang="es">Microduplicación 3q29</Name>
+        <Name lang="es">Síndrome de microduplicación 3q29</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24901,7 +24897,7 @@
     <HPODisorderSetStatus id="2477">
       <Disorder id="23327">
         <OrphaNumber>436144</OrphaNumber>
-        <Name lang="es">Síndrome de restricción del crecimiento intrauterino - estatura baja - diabetes de inicio precoz en el adulto</Name>
+        <Name lang="es">Síndrome de restricción del crecimiento intrauterino - talla baja - diabetes de inicio temprano en el adulto</Name>
       </Disorder>
       <Source>25057881{PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25143,7 +25139,7 @@
     <HPODisorderSetStatus id="2482">
       <Disorder id="23314">
         <OrphaNumber>435804</OrphaNumber>
-        <Name lang="es">Síndrome de estatura baja - edad ósea avanzada - osteoartirits de inicio precoz</Name>
+        <Name lang="es">Síndrome de talla baja - edad ósea avanzada - osteoartirits de inicio temprano</Name>
       </Disorder>
       <Source>24762113[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25440,7 +25436,7 @@
     <HPODisorderSetStatus id="2521">
       <Disorder id="890">
         <OrphaNumber>1935</OrphaNumber>
-        <Name lang="es">Encefalopatía mioclónica precoz</Name>
+        <Name lang="es">Encefalopatía mioclónica temprana</Name>
       </Disorder>
       <Source>27789573,19812426[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25583,7 +25579,7 @@
     <HPODisorderSetStatus id="2537">
       <Disorder id="2600">
         <OrphaNumber>2867</OrphaNumber>
-        <Name lang="es">Estatura baja tipo Bruselas</Name>
+        <Name lang="es">Talla baja tipo Bruselas</Name>
       </Disorder>
       <Source>8867654[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25803,7 +25799,7 @@
     <HPODisorderSetStatus id="2548">
       <Disorder id="2688">
         <OrphaNumber>2985</OrphaNumber>
-        <Name lang="es">Pseudoprogeria</Name>
+        <Name lang="es">Síndrome de pseudoprogeria</Name>
       </Disorder>
       <Source>4418946[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26034,7 +26030,7 @@
     <HPODisorderSetStatus id="2316">
       <Disorder id="16697">
         <OrphaNumber>137634</OrphaNumber>
-        <Name lang="es">Crecimiento excesivo - macrocefalia - dismorfismo facial</Name>
+        <Name lang="es">Síndrome de sobrecrecimiento - macrocefalia - dismorfia facial</Name>
       </Disorder>
       <Source>17632510[PMID]_26368817[PMID]_19291764[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26276,7 +26272,7 @@
     <HPODisorderSetStatus id="2341">
       <Disorder id="21531">
         <OrphaNumber>314795</OrphaNumber>
-        <Name lang="es">Estatura baja asociada a SHOX</Name>
+        <Name lang="es">Talla baja asociada a SHOX</Name>
       </Disorder>
       <Source>8558868[PMID]_1640423[PMID]_22791839[PMID]_2602357[PMID]_20301394[PMID]_17182655[PMID]_14557470[PMID]_9140395[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26298,7 +26294,7 @@
     <HPODisorderSetStatus id="2343">
       <Disorder id="22075">
         <OrphaNumber>352530</OrphaNumber>
-        <Name lang="es">Discapacidad intelectual - obesidad - malformaciones cerebrales - dismorfismo facial</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual - obesidad - malformaciones cerebrales - dismorfia facial</Name>
       </Disorder>
       <Source>20004765[PMID]_22549410[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26375,7 +26371,7 @@
     <HPODisorderSetStatus id="2350">
       <Disorder id="17003">
         <OrphaNumber>140941</OrphaNumber>
-        <Name lang="es">Estatura baja por deficiencia primaria de subunidad ácido-lábil</Name>
+        <Name lang="es">Talla baja por deficiencia primaria de subunidad ácido-lábil</Name>
       </Disorder>
       <Source>21396577[PMID]_17726072[PMID]_14762184[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26463,7 +26459,7 @@
     <HPODisorderSetStatus id="2359">
       <Disorder id="21916">
         <OrphaNumber>329249</OrphaNumber>
-        <Name lang="es">Síndrome grave de inicio precoz de resistencia a insulina - obesidad por deficiencia de SH2B1</Name>
+        <Name lang="es">Síndrome grave de inicio temprano de resistencia a insulina - obesidad por deficiencia de SH2B1</Name>
       </Disorder>
       <Source>20808231[PMID]_24971614[PMID]_23160192[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26628,7 +26624,7 @@
     <HPODisorderSetStatus id="2368">
       <Disorder id="21533">
         <OrphaNumber>314811</OrphaNumber>
-        <Name lang="es">Estatura baja por deficiencia de GHSR</Name>
+        <Name lang="es">Talla baja por deficiencia de GHSR</Name>
       </Disorder>
       <Source>19789204[PMID]_16511600[PMID]_165111605[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26639,7 +26635,7 @@
     <HPODisorderSetStatus id="2369">
       <Disorder id="21532">
         <OrphaNumber>314802</OrphaNumber>
-        <Name lang="es">Estatura baja por deficiencia parcial de GHR</Name>
+        <Name lang="es">Talla baja por deficiencia parcial de GHR</Name>
       </Disorder>
       <Source>9140387[PMID]_9814495[PMID]_9140387[PMID]_7568946[PMID]_21525302[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27343,7 +27339,7 @@
     <HPODisorderSetStatus id="2742">
       <Disorder id="1642">
         <OrphaNumber>1449</OrphaNumber>
-        <Name lang="es">Cromosoma 7 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 7 en anillo</Name>
       </Disorder>
       <Source>15337469[PMID]_15580634[PMID]_21303521[PMID]_2395166[PMID]_23509645[PMID]_24677512[PMID]_26669311[PMID]_10905891[PMID]_10797441[PMID]_8362903[PMID]_8428052[PMID]_1746606[PMID]_4145271[PMID]_7172483[PMID]_6705244[PMID]_3150243[PMID]_2189730[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28058,7 +28054,7 @@
     <HPODisorderSetStatus id="2803">
       <Disorder id="2357">
         <OrphaNumber>2554</OrphaNumber>
-        <Name lang="es">Microtia - anomalías esqueléticas - estatura baja</Name>
+        <Name lang="es">Microtia - anomalías esqueléticas - talla baja</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -28168,7 +28164,7 @@
     <HPODisorderSetStatus id="2799">
       <Disorder id="20460">
         <OrphaNumber>280365</OrphaNumber>
-        <Name lang="es">Laminopatía lipodistrófica grave semidominante autosómica</Name>
+        <Name lang="es">Laminopatía lipodistrófica grave autosómica semidominante</Name>
       </Disorder>
       <Source>21346069[PMID]_25819867[PMID]_20421363[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28421,7 +28417,7 @@
     <HPODisorderSetStatus id="2772">
       <Disorder id="2671">
         <OrphaNumber>2959</OrphaNumber>
-        <Name lang="es">Progeria - estatura baja - nevos pigmentados</Name>
+        <Name lang="es">Progeria - talla baja - nevos pigmentados</Name>
       </Disorder>
       <Source>19213035[PMID]_4155966[PMID]_3351893[PMID]_8456831[PMID]_16364148[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28674,7 +28670,7 @@
     <HPODisorderSetStatus id="2610">
       <Disorder id="19537">
         <OrphaNumber>247691</OrphaNumber>
-        <Name lang="es">Vasculopatía retiniana y leucoencefalopatía cerebral</Name>
+        <Name lang="es">Vasculopatía retiniana con leucoencefalopatía cerebral y manifestaciones sistémicas</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -28806,7 +28802,7 @@
     <HPODisorderSetStatus id="2596">
       <Disorder id="21760">
         <OrphaNumber>324290</OrphaNumber>
-        <Name lang="es">Enfermedad de cuerpos de Lafora de inicio precoz</Name>
+        <Name lang="es">Enfermedad de cuerpos de Lafora de inicio temprano</Name>
       </Disorder>
       <Source>22961547[22961547]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28993,7 +28989,7 @@
     <HPODisorderSetStatus id="2582">
       <Disorder id="22856">
         <OrphaNumber>401945</OrphaNumber>
-        <Name lang="es">Enfermedad de Moyamoya con acalasia de inicio precoz</Name>
+        <Name lang="es">Enfermedad de Moyamoya con acalasia de inicio temprano</Name>
       </Disorder>
       <Source>24581742[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29202,7 +29198,7 @@
     <HPODisorderSetStatus id="2562">
       <Disorder id="12800">
         <OrphaNumber>96176</OrphaNumber>
-        <Name lang="es">Cromosoma 13 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 13 en anillo</Name>
       </Disorder>
       <Source>7129419[PMID]_9881566[PMID]_1277571[PMID]_7440241[PMID]_5303427[PMID]_11273829[PMID]_23431756[PMID]_9332662[PMID]_1433229[PMID]_25171325[PMID]_24932608[PMID]_25377780[PMID]_717293[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29664,7 +29660,7 @@
     <HPODisorderSetStatus id="2641">
       <Disorder id="1077">
         <OrphaNumber>1439</OrphaNumber>
-        <Name lang="es">Cromosoma 12 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 12 en anillo</Name>
       </Disorder>
       <Source>12599192</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30621,7 +30617,7 @@
     <HPODisorderSetStatus id="2969">
       <Disorder id="2986">
         <OrphaNumber>3369</OrphaNumber>
-        <Name lang="es">Trigonocefalia - estatura baja - retraso de crecimiento</Name>
+        <Name lang="es">Trigonocefalia - talla baja - retraso de crecimiento</Name>
       </Disorder>
       <Source>6168197[PMID]_1271432[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30995,7 +30991,7 @@
     <HPODisorderSetStatus id="3057">
       <Disorder id="12552">
         <OrphaNumber>94080</OrphaNumber>
-        <Name lang="es">Paraganglioma no secretante</Name>
+        <Name lang="es">Paraganglioma no funcionante</Name>
       </Disorder>
       <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -31094,7 +31090,7 @@
     <HPODisorderSetStatus id="3017">
       <Disorder id="2071">
         <OrphaNumber>2181</OrphaNumber>
-        <Name lang="es">Hidrocefalia - estatura alta - hiperlaxitud</Name>
+        <Name lang="es">Hidrocefalia - talla alta - hiperlaxitud</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32150,7 +32146,7 @@
     <HPODisorderSetStatus id="2915">
       <Disorder id="2545">
         <OrphaNumber>2802</OrphaNumber>
-        <Name lang="es">Anemia sideroblástica ligada al X y ataxia</Name>
+        <Name lang="es">Anemia sideroblástica ligada al X y ataxia espinocerebelosa</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32227,7 +32223,7 @@
     <HPODisorderSetStatus id="2922">
       <Disorder id="896">
         <OrphaNumber>1446</OrphaNumber>
-        <Name lang="es">Cromosoma 22 en anillo</Name>
+        <Name lang="es">Síndrome del cromosoma 22 en anillo</Name>
       </Disorder>
       <Source>26043508[PMID]_25286802[PMID]_24700634[PMID]_21271667[PMID]_20709628[PMID]_19940762[PMID]_16059935[PMID]_15372517[PMID]_15305353[PMID]_12752574[PMID]_10706359[PMID]_10204853[PMID]_1424240[PMID]_519902[PMID]_912941[PMID]_4697858[PMID]_</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32238,7 +32234,7 @@
     <HPODisorderSetStatus id="2923">
       <Disorder id="631">
         <OrphaNumber>1020</OrphaNumber>
-        <Name lang="es">Enfermedad de Alzheimer de inicio precoz autosómica dominante</Name>
+        <Name lang="es">Enfermedad de Alzheimer de inicio temprano autosómica dominante</Name>
       </Disorder>
       <Source>20301414[PMID],28093855[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32491,7 +32487,7 @@
     <HPODisorderSetStatus id="2880">
       <Disorder id="2331">
         <OrphaNumber>2521</OrphaNumber>
-        <Name lang="es">Microcefalia - fisura palatina</Name>
+        <Name lang="es">Síndrome de microcefalia - fisura palatina - pigmentación retiniana anómala</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32645,7 +32641,7 @@
     <HPODisorderSetStatus id="2899">
       <Disorder id="2860">
         <OrphaNumber>3194</OrphaNumber>
-        <Name lang="es">Síndrome de Stern-Lubinsky-Durrie</Name>
+        <Name lang="es">Síndrome corneo-dermato-óseo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32818,6 +32814,182 @@
       <CreationDate>2017-09-27 15:21:38.023</CreationDate>
       <UpdateDate>2017-09-27 15:21:38.023</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3216">
+      <Disorder id="14822">
+        <OrphaNumber>101111</OrphaNumber>
+        <Name lang="es">Ataxia espinocerebolosa tipo 25</Name>
+      </Disorder>
+      <Source>14705117[PMID]_21619691[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 16:34:14.483</CreationDate>
+      <UpdateDate>2018-05-09 16:34:14.483</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3217">
+      <Disorder id="23756">
+        <OrphaNumber>458798</OrphaNumber>
+        <Name lang="es">Spinocerebellar ataxia type 41</Name>
+      </Disorder>
+      <Source>25477146[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 10:39:21.203</CreationDate>
+      <UpdateDate>2018-05-14 10:39:21.203</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3218">
+      <Disorder id="23757">
+        <OrphaNumber>458803</OrphaNumber>
+        <Name lang="es">Spinocerebellar ataxia 42</Name>
+      </Disorder>
+      <Source>26456284[PMID],26715324[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 12:19:15.75</CreationDate>
+      <UpdateDate>2018-05-14 12:19:15.75</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3219">
+      <Disorder id="21262">
+        <OrphaNumber>306741</OrphaNumber>
+        <Name lang="es">Síndrome hemidistonia-hemiatrofia</Name>
+      </Disorder>
+      <Source>19097182[PMID]_20482602[PMID]_22030388[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 14:56:42.29</CreationDate>
+      <UpdateDate>2018-05-14 14:56:42.29</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3220">
+      <Disorder id="13778">
+        <OrphaNumber>98761</OrphaNumber>
+        <Name lang="es">Ataxia espinocerebelosa tipo 10</Name>
+      </Disorder>
+      <Source>11506407[PMID],12164725[PMID],17620556[PMID],29624773[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-14 15:26:25.37</CreationDate>
+      <UpdateDate>2018-05-14 15:26:25.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3221">
+      <Disorder id="14707">
+        <OrphaNumber>100996</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 15</Name>
+      </Disorder>
+      <Source>16217069[PMID],17661097[PMID],18098276[PMID],19805727[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 10:44:58.4</CreationDate>
+      <UpdateDate>2018-05-15 10:44:58.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3222">
+      <Disorder id="14709">
+        <OrphaNumber>100998</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica dominante tipo 17</Name>
+      </Disorder>
+      <Source>13680364[PMID],23553728[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 10:58:28.666</CreationDate>
+      <UpdateDate>2018-05-15 10:58:28.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3223">
+      <Disorder id="12565">
+        <OrphaNumber>94125</OrphaNumber>
+        <Name lang="es">Síndrome de ataxia mitocondrial recesiva</Name>
+      </Disorder>
+      <Source>25586537[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-15 15:08:22.66</CreationDate>
+      <UpdateDate>2018-05-15 15:08:22.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3224">
+      <Disorder id="19631">
+        <OrphaNumber>251347</OrphaNumber>
+        <Name lang="es">Trastorno similar a ataxia-telangiectasia</Name>
+      </Disorder>
+      <Source>8445618[PMID],15269180[PMID],15574463[PMID],22863007[PMID],29170652[PMID],24733832[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-16 13:11:35.98</CreationDate>
+      <UpdateDate>2018-05-16 13:11:35.98</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3225">
+      <Disorder id="14711">
+        <OrphaNumber>101000</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 20</Name>
+      </Disorder>
+      <Source>18413476[PMID],20437587[PMID],26003402[PMID],27112432[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-16 16:16:30.066</CreationDate>
+      <UpdateDate>2018-05-16 16:16:30.066</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3226">
+      <Disorder id="14712">
+        <OrphaNumber>101001</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 21</Name>
+      </Disorder>
+      <Source>14564668[PMID],24451228[PMID],</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 15:47:34.273</CreationDate>
+      <UpdateDate>2018-05-17 15:47:34.273</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3227">
+      <Disorder id="14714">
+        <OrphaNumber>101003</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 23</Name>
+      </Disorder>
+      <Source>12868479[PMID],28157540[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:04:19.876</CreationDate>
+      <UpdateDate>2018-05-17 16:04:19.876</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3228">
+      <Disorder id="14715">
+        <OrphaNumber>101004</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 24</Name>
+      </Disorder>
+      <Source>12499481[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:09:01.783</CreationDate>
+      <UpdateDate>2018-05-17 16:09:01.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3229">
+      <Disorder id="14717">
+        <OrphaNumber>101006</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 26</Name>
+      </Disorder>
+      <Source>23746551[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:11:23.163</CreationDate>
+      <UpdateDate>2018-05-17 16:11:23.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3230">
+      <Disorder id="14718">
+        <OrphaNumber>101007</OrphaNumber>
+        <Name lang="es">SPG27</Name>
+      </Disorder>
+      <Source>15455396[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:19:42.143</CreationDate>
+      <UpdateDate>2018-05-17 16:19:42.143</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3231">
+      <Disorder id="18672">
+        <OrphaNumber>209951</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 18</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-17 16:24:14.496</CreationDate>
+      <UpdateDate>2018-05-17 16:24:14.496</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3201">
       <Disorder id="13782">
         <OrphaNumber>98765</OrphaNumber>
@@ -32884,6 +33056,17 @@
       <CreationDate>2018-04-27 17:05:00.98</CreationDate>
       <UpdateDate>2018-04-27 17:05:00.98</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3207">
+      <Disorder id="22844">
+        <OrphaNumber>401866</OrphaNumber>
+        <Name lang="es">Espasticidad de inicio en la niñez con hiperglicinemia</Name>
+      </Disorder>
+      <Source>26100117[PMID]_24334290[PMID]_[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 11:01:48.873</CreationDate>
+      <UpdateDate>2018-05-02 11:01:48.873</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3206">
       <Disorder id="23151">
         <OrphaNumber>423275</OrphaNumber>
@@ -32894,6 +33077,336 @@
       <Online>y</Online>
       <CreationDate>2018-04-27 17:22:54.423</CreationDate>
       <UpdateDate>2018-04-27 17:22:54.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3209">
+      <Disorder id="21449">
+        <OrphaNumber>313772</OrphaNumber>
+        <Name lang="es">Síndrome de inicio temprano de ataxia espástica - epilepsia mioclónica - neuropatía</Name>
+      </Disorder>
+      <Source>22022284[PMID]_25401298[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 12:41:34.456</CreationDate>
+      <UpdateDate>2018-05-02 12:41:34.456</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3208">
+      <Disorder id="19738">
+        <OrphaNumber>254343</OrphaNumber>
+        <Name lang="es">Ataxia espástica autosómica recesiva - atrofia óptica - disartria</Name>
+      </Disorder>
+      <Source>20970105[PMID]_25008111[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 12:18:46.816</CreationDate>
+      <UpdateDate>2018-05-02 12:18:46.816</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3211">
+      <Disorder id="23551">
+        <OrphaNumber>447896</OrphaNumber>
+        <Name lang="es">Síndrome de temblor - ataxia - hipomielinización central</Name>
+      </Disorder>
+      <Source>20640464[PMID]_17159124[PMID]_22036171[PMID]_17712733[PMID]_15851747[PMID]_12605447[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 15:22:35.823</CreationDate>
+      <UpdateDate>2018-05-02 15:22:35.823</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3210">
+      <Disorder id="21501">
+        <OrphaNumber>314603</OrphaNumber>
+        <Name lang="es">Ataxia espástica autosómica recesiva con leucoencefalopatía</Name>
+      </Disorder>
+      <Source>16672289[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-02 14:53:34.266</CreationDate>
+      <UpdateDate>2018-05-02 14:53:34.266</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3213">
+      <Disorder id="19814">
+        <OrphaNumber>255241</OrphaNumber>
+        <Name lang="es">Síndrome de Leigh con leucodistrofia</Name>
+      </Disorder>
+      <Source>17209980[PMID]_10230482[PMID]_7625545[PMID]_1492653[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-07 14:16:41.926</CreationDate>
+      <UpdateDate>2018-05-07 14:16:41.926</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3212">
+      <Disorder id="11091">
+        <OrphaNumber>75567</OrphaNumber>
+        <Name lang="es">Congelación progresiva y primaria de la marcha</Name>
+      </Disorder>
+      <Source>12433266[PMID]_28489770[PMID]_21135389[PMID]_16476942[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-07 11:42:52.57</CreationDate>
+      <UpdateDate>2018-05-07 11:42:52.57</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3215">
+      <Disorder id="21546">
+        <OrphaNumber>314978</OrphaNumber>
+        <Name lang="es">Ataxia cerebelosa no progresiva ligada al X</Name>
+      </Disorder>
+      <Source>22912398[PMID]_10797423[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 15:02:40.173</CreationDate>
+      <UpdateDate>2018-05-09 15:02:40.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3214">
+      <Disorder id="1433">
+        <OrphaNumber>1175</OrphaNumber>
+        <Name lang="es">Ataxia cerebelosa progresiva ligada al X</Name>
+      </Disorder>
+      <Source>23773993[PMID]_10797423[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-09 14:50:00.983</CreationDate>
+      <UpdateDate>2018-05-09 14:50:00.983</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3250">
+      <Disorder id="17159">
+        <OrphaNumber>157941</OrphaNumber>
+        <Name lang="es">Enfermedad similar a Huntington, tipo 1</Name>
+      </Disorder>
+      <Source>8178825[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 10:20:06.763</CreationDate>
+      <UpdateDate>2018-05-30 10:20:06.763</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3251">
+      <Disorder id="13951">
+        <OrphaNumber>98934</OrphaNumber>
+        <Name lang="es">Enfermedad similar a Huntington, tipo 2</Name>
+      </Disorder>
+      <Source>14557581[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 10:54:04.543</CreationDate>
+      <UpdateDate>2018-05-30 10:54:04.543</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3248">
+      <Disorder id="23770">
+        <OrphaNumber>459056</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 75</Name>
+      </Disorder>
+      <Source>26179919[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 14:01:17.226</CreationDate>
+      <UpdateDate>2018-05-28 14:01:17.226</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3249">
+      <Disorder id="21248">
+        <OrphaNumber>306669</OrphaNumber>
+        <Name lang="es">Síndrome hemiparkinsonianismo-hemiatrofia</Name>
+      </Disorder>
+      <Source>21361726[PMID], 17938368[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 14:11:13.78</CreationDate>
+      <UpdateDate>2018-05-28 14:11:13.78</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3252">
+      <Disorder id="12563">
+        <OrphaNumber>94122</OrphaNumber>
+        <Name lang="es">Ataxia cerebelosa tipo Cayman</Name>
+      </Disorder>
+      <Source>8845847[PMID]_14556008[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 11:20:59.54</CreationDate>
+      <UpdateDate>2018-05-30 11:20:59.54</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3253">
+      <Disorder id="19551">
+        <OrphaNumber>247815</OrphaNumber>
+        <Name lang="es">Ataxia autosómica recesiva por deficiencia de PEX10</Name>
+      </Disorder>
+      <Source>28320181[PMID]_27230853[PMID]_20695019[PMID]_8982949[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-30 11:23:59.123</CreationDate>
+      <UpdateDate>2018-05-30 11:23:59.123</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3235">
+      <Disorder id="21718">
+        <OrphaNumber>320385</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 49</Name>
+      </Disorder>
+      <Source>23176824[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-22 11:41:44.783</CreationDate>
+      <UpdateDate>2018-05-22 11:41:44.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3234">
+      <Disorder id="21717">
+        <OrphaNumber>320380</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 54</Name>
+      </Disorder>
+      <Source>24424123[PMID],23486545[PMID],24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 16:01:33.883</CreationDate>
+      <UpdateDate>2018-05-18 16:01:33.883</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3233">
+      <Disorder id="21716">
+        <OrphaNumber>320375</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 55</Name>
+      </Disorder>
+      <Source>23188110[PMID],24080142[PMID],24424123[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 15:51:24.213</CreationDate>
+      <UpdateDate>2018-05-18 15:51:24.213</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3232">
+      <Disorder id="21715">
+        <OrphaNumber>320370</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 43</Name>
+      </Disorder>
+      <Source>20039086[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-18 15:47:40.863</CreationDate>
+      <UpdateDate>2018-05-18 15:47:40.863</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3239">
+      <Disorder id="18677">
+        <OrphaNumber>209970</OrphaNumber>
+        <Name lang="es">Ataxia episódica tipo 7</Name>
+      </Disorder>
+      <Source>17502476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:57:36.703</CreationDate>
+      <UpdateDate>2018-05-28 10:57:36.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3238">
+      <Disorder id="20590">
+        <OrphaNumber>284271</OrphaNumber>
+        <Name lang="es">Ataxia cerebelosa autosómica recesiva - retraso psicomotor</Name>
+      </Disorder>
+      <Source>21835308[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:53:13.58</CreationDate>
+      <UpdateDate>2018-05-28 10:53:13.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3237">
+      <Disorder id="12593">
+        <OrphaNumber>95434</OrphaNumber>
+        <Name lang="es">Ataxia cerebelosa autosómica recesiva - intrusión sacádica</Name>
+      </Disorder>
+      <Source>11960835[PMID],14681893[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:35:59.32</CreationDate>
+      <UpdateDate>2018-05-28 10:35:59.32</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3236">
+      <Disorder id="11809">
+        <OrphaNumber>88628</OrphaNumber>
+        <Name lang="es">Enfermedad de astas posteriores, ataxia - retinosis pigmentaria</Name>
+      </Disorder>
+      <Source>21070897[PMID],21267618[PMID],24628582[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 10:13:29.473</CreationDate>
+      <UpdateDate>2018-05-28 10:13:29.473</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3243">
+      <Disorder id="14719">
+        <OrphaNumber>101008</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 28</Name>
+      </Disorder>
+      <Source>15786464[PMID],23176821[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:28:32.193</CreationDate>
+      <UpdateDate>2018-05-28 11:28:32.193</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3242">
+      <Disorder id="22840">
+        <OrphaNumber>401849</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica tipo 72</Name>
+      </Disorder>
+      <Source>24388663[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:17:55.943</CreationDate>
+      <UpdateDate>2018-05-28 11:17:55.943</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3241">
+      <Disorder id="22858">
+        <OrphaNumber>401953</OrphaNumber>
+        <Name lang="es">Ataxia episódica con trastornos del habla</Name>
+      </Disorder>
+      <Source>23982692[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:03:24.09</CreationDate>
+      <UpdateDate>2018-05-28 11:03:24.09</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3240">
+      <Disorder id="18709">
+        <OrphaNumber>211067</OrphaNumber>
+        <Name lang="es">Ataxia episódica tipo 5</Name>
+      </Disorder>
+      <Source>10762541[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 11:00:00.836</CreationDate>
+      <UpdateDate>2018-05-28 11:00:00.836</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3247">
+      <Disorder id="25404">
+        <OrphaNumber>488594</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 76</Name>
+      </Disorder>
+      <Source>27153400[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:54:25.523</CreationDate>
+      <UpdateDate>2018-05-28 13:54:25.523</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3246">
+      <Disorder id="23538">
+        <OrphaNumber>447760</OrphaNumber>
+        <Name lang="es">Paraplejía espástica compleja autosómica recesiva tipo 9B</Name>
+      </Disorder>
+      <Source>26026163[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:32:49.52</CreationDate>
+      <UpdateDate>2018-05-28 13:32:49.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3245">
+      <Disorder id="17912">
+        <OrphaNumber>171607</OrphaNumber>
+        <Name lang="es">Paraplejía espástica ligada al X tipo 34</Name>
+      </Disorder>
+      <Source>18463901[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:29:24.903</CreationDate>
+      <UpdateDate>2018-05-28 13:29:24.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3244">
+      <Disorder id="22829">
+        <OrphaNumber>401785</OrphaNumber>
+        <Name lang="es">Paraplejía espástica autosómica recesiva tipo 62</Name>
+      </Disorder>
+      <Source>24482476[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-05-28 13:01:32.21</CreationDate>
+      <UpdateDate>2018-05-28 13:01:32.21</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3165">
       <Disorder id="18608">
@@ -32997,7 +33510,7 @@
     <HPODisorderSetStatus id="3156">
       <Disorder id="25682">
         <OrphaNumber>494541</OrphaNumber>
-        <Name lang="es">Síndrome de corea benigna - afectación estriatal de inicio en la infancia</Name>
+        <Name lang="es">Corea benigna de inicio en la niñez con afectación estriatal</Name>
       </Disorder>
       <Source>27058447[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33019,7 +33532,7 @@
     <HPODisorderSetStatus id="3158">
       <Disorder id="21934">
         <OrphaNumber>329466</OrphaNumber>
-        <Name lang="es">Distonía focal autosómica dominante, DYT25</Name>
+        <Name lang="es">Distonía focal autosómica dominante tipo DYT25</Name>
       </Disorder>
       <Source>8309575[PMID]_23222958[PMID]_24952478[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33580,7 +34093,7 @@
     <HPODisorderSetStatus id="3169">
       <Disorder id="25867">
         <OrphaNumber>497764</OrphaNumber>
-        <Name lang="es">Spinocerebellar ataxia type 43</Name>
+        <Name lang="es">Ataxia espinocerebelosa tipo 43</Name>
       </Disorder>
       <Source>28855494[PMID]_27583304[PMID]_26991897[PMID]_</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33910,7 +34423,7 @@
     <HPODisorderSetStatus id="3077">
       <Disorder id="20595">
         <OrphaNumber>284324</OrphaNumber>
-        <Name lang="es">Ataxia espinocerebelosa autosómica recesiva de progresión lenta e inicio en la infancia</Name>
+        <Name lang="es">Ataxia espinocerebelosa autosómica recesiva de progresión lenta e inicio en la niñez</Name>
       </Disorder>
       <Source>21749694[PMID]_15520412 [PMID]_23418007[PMID]_26224725[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34031,7 +34544,7 @@
     <HPODisorderSetStatus id="3123">
       <Disorder id="20741">
         <OrphaNumber>289560</OrphaNumber>
-        <Name lang="es">Neurodegeneración asociada a la proteína de membrana mitocondrial</Name>
+        <Name lang="es">Neurodegeneración asociada a proteínas de membrana mitocondrial</Name>
       </Disorder>
       <Source>23269600[PMID],23278385[PMID],24575447[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34130,7 +34643,7 @@
     <HPODisorderSetStatus id="3115">
       <Disorder id="825">
         <OrphaNumber>1177</OrphaNumber>
-        <Name lang="es">Ataxia cerebelosa de inicio precoz con preservación de reflejos tendinosos</Name>
+        <Name lang="es">Ataxia cerebelosa de inicio temprano con preservación de reflejos tendinosos</Name>
       </Disorder>
       <Source>7276963[PMID]_8330454[PMID]_9686785[PMID]_1884166[PMID]_2213043[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34207,7 +34720,7 @@
     <HPODisorderSetStatus id="3106">
       <Disorder id="24158">
         <OrphaNumber>466688</OrphaNumber>
-        <Name lang="es">Síndrome de discapacidad intelectual - agenesia del cuerpo calloso - dismorfismo facial - ataxia cerebelosa grave</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual - agenesia del cuerpo calloso - dismorfia facial - ataxia cerebelosa grave</Name>
       </Disorder>
       <Source>25388005[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
