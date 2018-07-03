@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:10:13" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-01 04:08:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -4044,7 +4044,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98305</ExpertLink>
                     <Name lang="en">Genetic lipodystrophy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="10">
                     <ClassificationNode>
                       <Disorder id="1007">
                         <OrphaNumber>528</OrphaNumber>
@@ -4203,15 +4203,6 @@
                         <OrphaNumber>156156</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156156</ExpertLink>
                         <Name lang="en">Lipoatrophy with diabetes, leukomelanodermic papules, liver steatosis, and hypertrophic cardiomyopathy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19133">
-                        <OrphaNumber>228429</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228429</ExpertLink>
-                        <Name lang="en">Generalized congenital lipodystrophy with myopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4404,7 +4395,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181368</ExpertLink>
                     <Name lang="en">Rare insulin-resistance syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="14">
+                  <ClassificationNodeChildList count="13">
                     <ClassificationNode>
                       <Disorder id="172">
                         <OrphaNumber>508</OrphaNumber>
@@ -4482,15 +4473,6 @@
                         <OrphaNumber>90301</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90301</ExpertLink>
                         <Name lang="en">Acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19133">
-                        <OrphaNumber>228429</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228429</ExpertLink>
-                        <Name lang="en">Generalized congenital lipodystrophy with myopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:10:01" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-01 04:08:04" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -17048,7 +17048,7 @@
                                   <Disorder id="8731">
                                     <OrphaNumber>600</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=600</ExpertLink>
-                                    <Name lang="en">Distal myopathy with vocal cord weakness</Name>
+                                    <Name lang="en">Vocal cord and pharyngeal distal myopathy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -17210,7 +17210,7 @@
                                   <Disorder id="22749">
                                     <OrphaNumber>399103</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399103</ExpertLink>
-                                    <Name lang="en">Nebulin-related early-onset distal myopathy</Name>
+                                    <Name lang="en">Distal nebulin myopathy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -18062,7 +18062,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206656</ExpertLink>
                             <Name lang="en">Non-dystrophic myopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="13">
+                          <ClassificationNodeChildList count="12">
                             <ClassificationNode>
                               <Disorder id="68">
                                 <OrphaNumber>593</OrphaNumber>
@@ -19285,15 +19285,6 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="19133">
-                                <OrphaNumber>228429</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228429</ExpertLink>
-                                <Name lang="en">Generalized congenital lipodystrophy with myopathy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -30428,7 +30419,7 @@
                       <Disorder id="20049">
                         <OrphaNumber>263410</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263410</ExpertLink>
-                        <Name lang="en">Infantile spams-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome</Name>
+                        <Name lang="en">Infantile spasms-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

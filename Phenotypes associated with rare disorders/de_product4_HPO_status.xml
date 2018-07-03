@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:04:00" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3168">
+<JDBOR date="2018-07-01 04:04:51" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3202">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -358,7 +358,7 @@
         <OrphaNumber>261</OrphaNumber>
         <Name lang="de">Emery-Dreifuss Muskeldystrophie</Name>
       </Disorder>
-      <Source/>
+      <Source>5969090[PMID]_10838246[PMID]_10377322[PMID]_4697975[PMID]_17620497[PMID]_15148145[PMID]_17761684[PMID]_19716112[PMID]_21391237[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:18.786</CreationDate>
@@ -413,7 +413,7 @@
         <OrphaNumber>597</OrphaNumber>
         <Name lang="de">Central-Core-Myopathie</Name>
       </Disorder>
-      <Source/>
+      <Source>17504518[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:19.173</CreationDate>
@@ -1667,7 +1667,7 @@
         <OrphaNumber>610</OrphaNumber>
         <Name lang="de">Bethlem-Myopathie</Name>
       </Disorder>
-      <Source/>
+      <Source>8782832[PMID]_12398845[PMID]_10399756[PMID]_15792870[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:29.446</CreationDate>
@@ -2587,7 +2587,7 @@
         <OrphaNumber>2020</OrphaNumber>
         <Name lang="de">Myopathie, kongenitale, mit Fasertyp-Disproportion</Name>
       </Disorder>
-      <Source/>
+      <Source>14575234[PMID]_27816943[PMID]_16173074[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:35.766</CreationDate>
@@ -3852,7 +3852,7 @@
         <OrphaNumber>598</OrphaNumber>
         <Name lang="de">Multiminicore-Myopathie</Name>
       </Disorder>
-      <Source/>
+      <Source>17631035[PMID]_22009146[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:44.77</CreationDate>
@@ -7568,7 +7568,7 @@
     <HPODisorderSetStatus id="742">
       <Disorder id="1681">
         <OrphaNumber>1514</OrphaNumber>
-        <Name lang="de">Kraniodigitales Syndrom - Intelligenzminderung</Name>
+        <Name lang="de">Kraniodigitales Syndrom mit Intelligenzminderung</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9005,7 +9005,7 @@
     <HPODisorderSetStatus id="868">
       <Disorder id="1907">
         <OrphaNumber>1962</OrphaNumber>
-        <Name lang="de">Exostosen - Anetodermie - Brachydaktylie Typ E</Name>
+        <Name lang="de">Exostosen-Anetodermie-Brachydaktylie Typ E-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10849,7 +10849,7 @@
     <HPODisorderSetStatus id="1102">
       <Disorder id="2516">
         <OrphaNumber>2762</OrphaNumber>
-        <Name lang="de">Progressive ossäre Heteroplasie</Name>
+        <Name lang="de">Heteroplasie, progressive ossäre</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11769,7 +11769,7 @@
     <HPODisorderSetStatus id="1040">
       <Disorder id="2317">
         <OrphaNumber>2505</OrphaNumber>
-        <Name lang="de">Hautfalten, multiple ringförmige, der Extremitäten</Name>
+        <Name lang="de">Multiple benigne ringförmige Hautfalten der Extremitäten</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16454,7 +16454,7 @@
     <HPODisorderSetStatus id="1658">
       <Disorder id="11340">
         <OrphaNumber>79314</OrphaNumber>
-        <Name lang="de">L-2-Hydroxyglutaryl-Azidurie</Name>
+        <Name lang="de">L-2-Hydroxy-Glutarazidurie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -29613,17 +29613,6 @@
       <CreationDate>2017-04-12 15:31:22.64</CreationDate>
       <UpdateDate>2017-04-12 15:31:22.64</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="2670">
-      <Disorder id="19133">
-        <OrphaNumber>228429</OrphaNumber>
-        <Name lang="de">Generalisierte kongenitale Lipodystrophie mit Muskeldystrophie</Name>
-      </Disorder>
-      <Source>18840361[PMID]_19726876[PMID]_18698612[PMID]_20300641[PMID]_12116229[PMID]_25114292[PMID]_27710244[PMID]_</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2017-04-24 11:40:42.34</CreationDate>
-      <UpdateDate>2017-04-24 11:40:42.34</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2671">
       <Disorder id="761">
         <OrphaNumber>43</OrphaNumber>
@@ -32410,7 +32399,7 @@
     <HPODisorderSetStatus id="2938">
       <Disorder id="2842">
         <OrphaNumber>1855</OrphaNumber>
-        <Name lang="de">Dysplasie, spondyloenchondrale</Name>
+        <Name lang="de">Spondyloenchondrodysplasie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32814,6 +32803,281 @@
       <CreationDate>2017-09-27 15:21:38.023</CreationDate>
       <UpdateDate>2017-09-27 15:21:38.023</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3284">
+      <Disorder id="20380">
+        <OrphaNumber>276432</OrphaNumber>
+        <Name lang="de">Ogden-Syndrom</Name>
+      </Disorder>
+      <Source>21700266[PMID],28967461[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-20 11:37:26.513</CreationDate>
+      <UpdateDate>2018-06-20 11:37:26.513</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3285">
+      <Disorder id="22825">
+        <OrphaNumber>401768</OrphaNumber>
+        <Name lang="de">Proximale Myopathie mit extrapyramidalen Zeichen</Name>
+      </Disorder>
+      <Source>24336167[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-20 11:53:01.546</CreationDate>
+      <UpdateDate>2018-06-20 11:53:01.546</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3286">
+      <Disorder id="18027">
+        <OrphaNumber>178464</OrphaNumber>
+        <Name lang="de">Hereditäre Myopathie mit frühem Atemversagen</Name>
+      </Disorder>
+      <Source>22577215[PMID],24575448[PMID)</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-20 11:58:20.623</CreationDate>
+      <UpdateDate>2018-06-20 11:58:20.623</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3287">
+      <Disorder id="25330">
+        <OrphaNumber>486815</OrphaNumber>
+        <Name lang="de">Kongenitale Muskeldystrophie-Atemversagen-Hautanomalien-Gelenkinstabilität-Syndrom</Name>
+      </Disorder>
+      <Source>27008887[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-25 11:37:05.206</CreationDate>
+      <UpdateDate>2018-06-25 11:37:05.206</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3280">
+      <Disorder id="13870">
+        <OrphaNumber>98853</OrphaNumber>
+        <Name lang="de">Emery-Dreifuss Muskeldystrophie, autosomal-dominante</Name>
+      </Disorder>
+      <Source>5969090[PMID]_10838246[PMID]_10377322[PMID]_4697975[PMID]_17620497[PMID]_15148145[PMID]_17761684[PMID]_19716112[PMID]_21391237[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-18 11:33:18.32</CreationDate>
+      <UpdateDate>2018-06-18 11:33:18.32</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3281">
+      <Disorder id="13872">
+        <OrphaNumber>98855</OrphaNumber>
+        <Name lang="de">Emery-Dreifuss Muskeldystrophie, autosomal-rezessive</Name>
+      </Disorder>
+      <Source>23313286[PMID]_10739764[PMID]_22431096[PMID]_5969090[PMID]_10838246[PMID]_10377322[PMID]_4697975[PMID]_17620497[PMID]_15148145[PMID]_17761684[PMID]_19716112[PMID]_21391237[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-18 16:21:04.503</CreationDate>
+      <UpdateDate>2018-06-18 16:21:04.503</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3282">
+      <Disorder id="13880">
+        <OrphaNumber>98863</OrphaNumber>
+        <Name lang="de">Emery-Dreifuss Muskeldystrophie, X-chromosomale</Name>
+      </Disorder>
+      <Source>17620497[PMID]_19716112[PMID]_20186852[PMID]_4697975[PMID]_17620497[PMID]_15148145[PMID]_17761684[PMID]_21391237[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-18 16:32:32.503</CreationDate>
+      <UpdateDate>2018-06-18 16:32:32.503</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3283">
+      <Disorder id="23012">
+        <OrphaNumber>411493</OrphaNumber>
+        <Name lang="de">Pontozerebelläre Hypoplasie Typ 10</Name>
+      </Disorder>
+      <Source>24766809[PMID],24766810[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-20 10:27:49.546</CreationDate>
+      <UpdateDate>2018-06-20 10:27:49.546</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3288">
+      <Disorder id="23705">
+        <OrphaNumber>457193</OrphaNumber>
+        <Name lang="de">Autosomal-dominante Intelligenzminderung-kraniofaziale Anomalien-Herzfehler-Syndrom</Name>
+      </Disorder>
+      <Source>25728775[PMID]_25728777[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-25 12:00:14.856</CreationDate>
+      <UpdateDate>2018-06-25 12:00:14.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3269">
+      <Disorder id="18007">
+        <OrphaNumber>178145</OrphaNumber>
+        <Name lang="de">Moderate Multiminicore-Krankheit mit Beteiligung der Hand</Name>
+      </Disorder>
+      <Source>11079538[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-11 16:58:55.173</CreationDate>
+      <UpdateDate>2018-06-11 16:58:55.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3268">
+      <Disorder id="18008">
+        <OrphaNumber>178148</OrphaNumber>
+        <Name lang="de">Multiminicore-Krankheit, pränatale, mit kongenitaler Arthrogryposis multiplex</Name>
+      </Disorder>
+      <Source>11079538[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-11 16:47:10.503</CreationDate>
+      <UpdateDate>2018-06-11 16:47:10.503</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3271">
+      <Disorder id="21506">
+        <OrphaNumber>314632</OrphaNumber>
+        <Name lang="de">Parkinsonismus durch ATP13A2-Mangel</Name>
+      </Disorder>
+      <Source>25197640[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 10:45:13.776</CreationDate>
+      <UpdateDate>2018-06-13 10:45:13.776</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3270">
+      <Disorder id="22931">
+        <OrphaNumber>404499</OrphaNumber>
+        <Name lang="de">Autosomal-rezessive zerebelläre Ataxie-Epilepsie-Intelligenzminderung-Syndrom durch KIAA0226-Mangel</Name>
+      </Disorder>
+      <Source>20826435[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 10:18:11.603</CreationDate>
+      <UpdateDate>2018-06-13 10:18:11.603</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3265">
+      <Disorder id="17906">
+        <OrphaNumber>171430</OrphaNumber>
+        <Name lang="de">Nemalin-Myopathie, kongenitale schwere</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-08 17:42:45.526</CreationDate>
+      <UpdateDate>2018-06-08 17:42:45.526</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3264">
+      <Disorder id="17908">
+        <OrphaNumber>171436</OrphaNumber>
+        <Name lang="de">Nemalin-Myopathie, typische</Name>
+      </Disorder>
+      <Source>6733612[PMID], 8789770[PMID],9185179[PMID],11333380[PMID],23746549[PMID],25250574[PMID],12207937[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-08 17:23:28.12</CreationDate>
+      <UpdateDate>2018-06-08 17:23:28.12</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3267">
+      <Disorder id="21792">
+        <OrphaNumber>324604</OrphaNumber>
+        <Name lang="de">Multiminicore-Myopathie, klassische</Name>
+      </Disorder>
+      <Source>15668457[PMID] _11079538[PMID] _10665485[PMID] _7224095[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-11 16:26:24.15</CreationDate>
+      <UpdateDate>2018-06-11 16:26:24.15</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3266">
+      <Disorder id="12910">
+        <OrphaNumber>97355</OrphaNumber>
+        <Name lang="de">Parkinsonismus mit Demenz, Typ Guadeloupe</Name>
+      </Disorder>
+      <Source>29525296[PMID]_18941145[PMID]_18816693[PMID]_17303592[PMID]_1210440304[PMID]_217621[PMID]_11912113[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-11 12:49:02.85</CreationDate>
+      <UpdateDate>2018-06-11 12:49:02.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3277">
+      <Disorder id="23108">
+        <OrphaNumber>420485</OrphaNumber>
+        <Name lang="de">Kraniozervikale Dystonie mit Beteiligung des Larynx und der oberen Extremitäten</Name>
+      </Disorder>
+      <Source>11009204[PMID],23200863[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-14 16:14:26.29</CreationDate>
+      <UpdateDate>2018-06-14 16:14:26.29</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3276">
+      <Disorder id="21405">
+        <OrphaNumber>309854</OrphaNumber>
+        <Name lang="de">Zirrhose-Dystonie-Polyzythämie-Hypermagnesiämie-Syndrom</Name>
+      </Disorder>
+      <Source>18392750[PMID],24599576[PMID],22341972[PMID],22341971[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-14 14:51:05.4</CreationDate>
+      <UpdateDate>2018-06-14 14:51:05.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3279">
+      <Disorder id="12516">
+        <OrphaNumber>93958</OrphaNumber>
+        <Name lang="de">Dystonie, oromandibuläre</Name>
+      </Disorder>
+      <Source>28620630[PMID],29860784[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-14 16:41:36.186</CreationDate>
+      <UpdateDate>2018-06-14 16:41:36.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3278">
+      <Disorder id="23040">
+        <OrphaNumber>412057</OrphaNumber>
+        <Name lang="de">Zerebelläre Ataxie, autosomal-rezessive, durch STUB1-Mangel</Name>
+      </Disorder>
+      <Source>24312598[PMID],24113144[PMID],24742043[PMID],24719489[PMID],25258038[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-14 16:19:02.566</CreationDate>
+      <UpdateDate>2018-06-14 16:19:02.566</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3273">
+      <Disorder id="23022">
+        <OrphaNumber>411602</OrphaNumber>
+        <Name lang="de">Hereditäre Parkinson-Krankheit mit spätem Beginn</Name>
+      </Disorder>
+      <Source>19524782[PMID]_17251522[PMID]_19632874[PMID]_15541308[PMID]_20457952[PMID]_22801713[PMID]_18342564[PMID]_21907011[PMID]_24218364[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 14:24:06.18</CreationDate>
+      <UpdateDate>2018-06-13 14:24:06.18</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3272">
+      <Disorder id="22332">
+        <OrphaNumber>363654</OrphaNumber>
+        <Name lang="de">Parkinsonismus-Spastik-Syndrom, X-chromosomal</Name>
+      </Disorder>
+      <Source>20629132[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 10:53:42.406</CreationDate>
+      <UpdateDate>2018-06-13 10:53:42.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3275">
+      <Disorder id="17928">
+        <OrphaNumber>171695</OrphaNumber>
+        <Name lang="de">Parkinson-pyramidales Syndrom</Name>
+      </Disorder>
+      <Source>11261505[PMID]_18513678[PMID]_942621[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 15:44:37.87</CreationDate>
+      <UpdateDate>2018-06-13 15:44:37.87</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3274">
+      <Disorder id="19264">
+        <OrphaNumber>238455</OrphaNumber>
+        <Name lang="de">Dystonie-Parkinson-Syndrom, infantiles</Name>
+      </Disorder>
+      <Source>19478460[PMID]_22030388[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-13 15:31:39.186</CreationDate>
+      <UpdateDate>2018-06-13 15:31:39.186</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3216">
       <Disorder id="14822">
         <OrphaNumber>101111</OrphaNumber>
@@ -33210,6 +33474,28 @@
       <CreationDate>2018-05-28 14:11:13.78</CreationDate>
       <UpdateDate>2018-05-28 14:11:13.78</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3254">
+      <Disorder id="13931">
+        <OrphaNumber>98914</OrphaNumber>
+        <Name lang="de">Myasthenische Syndrome, kongenitale präsynaptische</Name>
+      </Disorder>
+      <Source>22353287[PMID]_15145336[PMID]_18707767[PMID]_25381298[PMID]_11172068[PMID]_25192047[PMID]_19631309[PMID]_26626625[PMID]_27569547[PMID]_27590285[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-04 11:42:24.276</CreationDate>
+      <UpdateDate>2018-06-04 11:42:24.276</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3255">
+      <Disorder id="13930">
+        <OrphaNumber>98913</OrphaNumber>
+        <Name lang="de">Myasthenische Syndrome, kongenitale postsynaptische</Name>
+      </Disorder>
+      <Source>6287911[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 12:36:17.463</CreationDate>
+      <UpdateDate>2018-06-06 12:36:17.463</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3252">
       <Disorder id="12563">
         <OrphaNumber>94122</OrphaNumber>
@@ -33231,6 +33517,94 @@
       <Online>y</Online>
       <CreationDate>2018-05-30 11:23:59.123</CreationDate>
       <UpdateDate>2018-05-30 11:23:59.123</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3258">
+      <Disorder id="8716">
+        <OrphaNumber>353</OrphaNumber>
+        <Name lang="de">Gliedergürtelmuskeldystrophie, autosomal-rezessive, Typ 2C</Name>
+      </Disorder>
+      <Source>14660840[PMID],11053682[PMID],10720277[PMID],11053682[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 14:41:58.633</CreationDate>
+      <UpdateDate>2018-06-06 14:41:58.633</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3259">
+      <Disorder id="13932">
+        <OrphaNumber>98915</OrphaNumber>
+        <Name lang="de">Myasthenische Syndrome, kongenitale synpatische</Name>
+      </Disorder>
+      <Source>18180250[PMID],9758617[PMID],8390325[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 14:53:26.173</CreationDate>
+      <UpdateDate>2018-06-06 14:53:26.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3256">
+      <Disorder id="23352">
+        <OrphaNumber>437572</OrphaNumber>
+        <Name lang="de">Scapulo-peroneale Muskeldystrophie, MYH7-abhängige, spät beginnende Form</Name>
+      </Disorder>
+      <Source>1202162[PMID],7487558[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 13:44:17.393</CreationDate>
+      <UpdateDate>2018-06-06 13:44:17.393</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3257">
+      <Disorder id="18520">
+        <OrphaNumber>206549</OrphaNumber>
+        <Name lang="de">Gliedergürtelmuskeldystrophie, autosomal-rezessive, Typ 2L</Name>
+      </Disorder>
+      <Source>17008331[PMID],23193613[PMID],17008331[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 14:24:49.113</CreationDate>
+      <UpdateDate>2018-06-06 14:24:49.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3262">
+      <Disorder id="13922">
+        <OrphaNumber>98905</OrphaNumber>
+        <Name lang="de">Minicore-Myopathie mit externer Ophtalmoplegie</Name>
+      </Disorder>
+      <Source>7299413[PMID],9932958[PMID],16380615[PMID],18253926[PMID],19734047[PMID],20839240[PMID],22407809[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-08 10:07:43.046</CreationDate>
+      <UpdateDate>2018-06-08 10:07:43.046</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3263">
+      <Disorder id="22137">
+        <OrphaNumber>353327</OrphaNumber>
+        <Name lang="de">Myasthenische Syndrome, kongenitale, mit Glykosylierungsdefekt</Name>
+      </Disorder>
+      <Source>8664562[PMID],12467753[PMID],16917026[PMID],22742743[PMID],23404334[PMID],24461433[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-08 17:15:09.09</CreationDate>
+      <UpdateDate>2018-06-08 17:15:09.09</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3260">
+      <Disorder id="19796">
+        <OrphaNumber>254892</OrphaNumber>
+        <Name lang="de">Ophthalmoplegie, externe progressive, autosomal-dominante</Name>
+      </Disorder>
+      <Source>15258213[PMID],24091712[PMID],24076137[PMID],19664747[PMID],21555342[PMID],16685652[PMID],20479361[PMID],10364542[PMID],7365499[PMID],1978558[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-06 15:45:05.5</CreationDate>
+      <UpdateDate>2018-06-06 15:45:05.5</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3261">
+      <Disorder id="19795">
+        <OrphaNumber>254886</OrphaNumber>
+        <Name lang="de">Ophthalmoplegie, externe progressive, autosomal-rezessive</Name>
+      </Disorder>
+      <Source>8628476[PMID],16634032[PMID],20837861[PMID],21670405[PMID],21937588[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-06-07 13:59:28.786</CreationDate>
+      <UpdateDate>2018-06-07 13:59:28.786</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3235">
       <Disorder id="21718">
@@ -34093,7 +34467,7 @@
     <HPODisorderSetStatus id="3169">
       <Disorder id="25867">
         <OrphaNumber>497764</OrphaNumber>
-        <Name lang="de">Spinocerebellar ataxia type 43</Name>
+        <Name lang="de">SpinozerebellŠre Ataxie Typ 43</Name>
       </Disorder>
       <Source>28855494[PMID]_27583304[PMID]_26991897[PMID]_</Source>
       <ValidationStatus>y</ValidationStatus>

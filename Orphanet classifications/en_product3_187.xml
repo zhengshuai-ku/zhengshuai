@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:10:09" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-01 04:08:13" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -218,7 +218,7 @@
                                   <Disorder id="2079">
                                     <OrphaNumber>312</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=312</ExpertLink>
-                                    <Name lang="en">Epidermolytic ichthyosis</Name>
+                                    <Name lang="en">Autosomal dominant epidermolytic ichthyosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -242,19 +242,19 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="11530">
-                                    <OrphaNumber>79504</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79504</ExpertLink>
-                                    <Name lang="en">Ichthyosis hystrix gravior</Name>
+                                  <Disorder id="20530">
+                                    <OrphaNumber>281139</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281139</ExpertLink>
+                                    <Name lang="en">Annular epidermolytic ichthyosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="20530">
-                                    <OrphaNumber>281139</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281139</ExpertLink>
-                                    <Name lang="en">Annular epidermolytic ichthyosis</Name>
+                                  <Disorder id="26917">
+                                    <OrphaNumber>512103</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=512103</ExpertLink>
+                                    <Name lang="en">Autosomal recessive epidermolytic ichthyosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6652,7 +6652,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98305</ExpertLink>
                         <Name lang="en">Genetic lipodystrophy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="11">
+                      <ClassificationNodeChildList count="10">
                         <ClassificationNode>
                           <Disorder id="1007">
                             <OrphaNumber>528</OrphaNumber>
@@ -6811,15 +6811,6 @@
                             <OrphaNumber>156156</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156156</ExpertLink>
                             <Name lang="en">Lipoatrophy with diabetes, leukomelanodermic papules, liver steatosis, and hypertrophic cardiomyopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="19133">
-                            <OrphaNumber>228429</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228429</ExpertLink>
-                            <Name lang="en">Generalized congenital lipodystrophy with myopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

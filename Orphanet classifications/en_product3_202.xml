@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:10:24" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-01 04:08:32" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -1939,7 +1939,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171918</ExpertLink>
                                     <Name lang="en">T-cell non-Hodgkin lymphoma</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="14">
+                                  <ClassificationNodeChildList count="13">
                                     <ClassificationNode>
                                       <Disorder id="10952">
                                         <OrphaNumber>70568</OrphaNumber>
@@ -1963,24 +1963,6 @@
                                         <OrphaNumber>86871</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86871</ExpertLink>
                                         <Name lang="en">T-cell prolymphocytic leukemia</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="11766">
-                                        <OrphaNumber>86872</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86872</ExpertLink>
-                                        <Name lang="en">T-cell large granular lymphocyte leukemia</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="11767">
-                                        <OrphaNumber>86873</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86873</ExpertLink>
-                                        <Name lang="en">Aggressive NK-cell leukemia</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -2244,6 +2226,42 @@
                                         <Name lang="en">Hydroa vacciniforme-like lymphoma</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="26906">
+                                        <OrphaNumber>512034</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=512034</ExpertLink>
+                                        <Name lang="en">Large granular lymphocyte leukemia</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="3">
+                                        <ClassificationNode>
+                                          <Disorder id="11766">
+                                            <OrphaNumber>86872</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86872</ExpertLink>
+                                            <Name lang="en">T-cell large granular lymphocyte leukemia</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="11767">
+                                            <OrphaNumber>86873</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86873</ExpertLink>
+                                            <Name lang="en">Aggressive NK-cell leukemia</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="26905">
+                                            <OrphaNumber>512017</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=512017</ExpertLink>
+                                            <Name lang="en">Chronic lymphoproliferative disorder of natural killer cells</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                   </ClassificationNodeChildList>

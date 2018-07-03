@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-06-01 04:09:48" version="1.2.10.1 / 4.1.6 [2017-12-29] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-01 04:07:47" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12948">
       <OrphaNumber>97929</OrphaNumber>
@@ -1821,7 +1821,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101934</ExpertLink>
                     <Name lang="en">Genetic cardiac rhythm disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="29">
+                  <ClassificationNodeChildList count="28">
                     <ClassificationNode>
                       <Disorder id="658">
                         <OrphaNumber>768</OrphaNumber>
@@ -2052,15 +2052,6 @@
                         <OrphaNumber>228140</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228140</ExpertLink>
                         <Name lang="en">Idiopathic ventricular fibrillation, non Brugada type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19133">
-                        <OrphaNumber>228429</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228429</ExpertLink>
-                        <Name lang="en">Generalized congenital lipodystrophy with myopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
