@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:11" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:13:57" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="14860">
       <OrphaNumber>101433</OrphaNumber>
@@ -7,7 +7,7 @@
       <Name lang="en">Rare urogenital disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="8">
+          <ClassificationNodeChildList count="7">
             <ClassificationNode>
               <Disorder id="3114">
                 <OrphaNumber>2795</OrphaNumber>
@@ -2049,15 +2049,6 @@
                     </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
-              </ClassificationNodeChildList>
-            </ClassificationNode>
-            <ClassificationNode>
-              <Disorder id="20421">
-                <OrphaNumber>279947</OrphaNumber>
-                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=279947</ExpertLink>
-                <Name lang="en">Postorgasmic illness syndrome</Name>
-              </Disorder>
-              <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>

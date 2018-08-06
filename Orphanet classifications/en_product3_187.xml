@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:13" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -834,16 +834,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98356</ExpertLink>
                                 <Name lang="en">Autosomal recessive isolated diffuse palmoplantar keratoderma</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="4">
-                                <ClassificationNode>
-                                  <Disorder id="10889">
-                                    <OrphaNumber>66631</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66631</ExpertLink>
-                                    <Name lang="en">CEDNIK syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="3">
                                 <ClassificationNode>
                                   <Disorder id="11796">
                                     <OrphaNumber>86923</OrphaNumber>
@@ -1050,7 +1041,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=307804</ExpertLink>
                                 <Name lang="en">Autosomal recessive disease with diffuse palmoplantar keratoderma as a major feature</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="11">
+                              <ClassificationNodeChildList count="12">
+                                <ClassificationNode>
+                                  <Disorder id="10889">
+                                    <OrphaNumber>66631</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=66631</ExpertLink>
+                                    <Name lang="en">CEDNIK syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="520">
                                     <OrphaNumber>477</OrphaNumber>
@@ -1925,7 +1925,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158665</ExpertLink>
                             <Name lang="en">Basal epidermolysis bullosa simplex</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="11">
+                          <ClassificationNodeChildList count="12">
                             <ClassificationNode>
                               <Disorder id="4046">
                                 <OrphaNumber>257</OrphaNumber>
@@ -2021,6 +2021,15 @@
                                 <OrphaNumber>412189</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412189</ExpertLink>
                                 <Name lang="en">Epidermolysis bullosa simplex due to exophilin 5 deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26575">
+                                <OrphaNumber>508529</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508529</ExpertLink>
+                                <Name lang="en">Generalized basal epidermolysis bullosa simplex with skin atrophy, scarring and hair loss</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2620,7 +2629,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79365</ExpertLink>
                         <Name lang="en">Hypertrichosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="12">
+                      <ClassificationNodeChildList count="13">
+                        <ClassificationNode>
+                          <Disorder id="1329">
+                            <OrphaNumber>1021</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1021</ExpertLink>
+                            <Name lang="en">Amaurosis-hypertrichosis syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="172">
                             <OrphaNumber>508</OrphaNumber>
@@ -3288,7 +3306,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="110">
+                  <ClassificationNodeChildList count="111">
                     <ClassificationNode>
                       <Disorder id="3069">
                         <OrphaNumber>3200</OrphaNumber>
@@ -3779,7 +3797,7 @@
                       <Disorder id="2363">
                         <OrphaNumber>2561</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2561</ExpertLink>
-                        <Name lang="en">Pyramidal molar-glaucoma-upper abnormal lip syndrome</Name>
+                        <Name lang="en">Pyramidal molars-abnormal upper lip syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4450,6 +4468,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2133">
+                        <OrphaNumber>2266</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2266</ExpertLink>
+                        <Name lang="en">Hypotrichosis-intellectual disability, Lopes type</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -4476,7 +4503,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79375</ExpertLink>
                     <Name lang="en">Hyperpigmentation of the skin</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="34">
+                  <ClassificationNodeChildList count="35">
+                    <ClassificationNode>
+                      <Disorder id="26573">
+                        <OrphaNumber>508512</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508512</ExpertLink>
+                        <Name lang="en">Congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="185">
                         <OrphaNumber>636</OrphaNumber>
@@ -5239,7 +5275,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228215</ExpertLink>
                         <Name lang="en">Genetic dermis elastic tissue disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="11">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="574">
                             <OrphaNumber>3071</OrphaNumber>
@@ -5471,7 +5507,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                             <Name lang="en">Ehlers-Danlos syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="20">
+                          <ClassificationNodeChildList count="19">
                             <ClassificationNode>
                               <Disorder id="612">
                                 <OrphaNumber>287</OrphaNumber>
@@ -5497,15 +5533,6 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="2162">
-                                <OrphaNumber>2295</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2295</ExpertLink>
-                                <Name lang="en">Ehlers-Danlos syndrome type 11</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -5713,6 +5740,15 @@
                             <OrphaNumber>1659</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1659</ExpertLink>
                             <Name lang="en">Dermatoleukodystrophy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2162">
+                            <OrphaNumber>2295</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2295</ExpertLink>
+                            <Name lang="en">Familial articular hypermobility syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8004,7 +8040,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294057</ExpertLink>
                     <Name lang="en">Rare nevus</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="25">
+                  <ClassificationNodeChildList count="26">
                     <ClassificationNode>
                       <Disorder id="243">
                         <OrphaNumber>201</OrphaNumber>
@@ -8253,6 +8289,15 @@
                         <OrphaNumber>370059</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370059</ExpertLink>
                         <Name lang="en">NEVADA syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="25865">
+                        <OrphaNumber>497737</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497737</ExpertLink>
+                        <Name lang="en">Epidermolytic nevus</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:09" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:13:56" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12974">
       <OrphaNumber>97955</OrphaNumber>
@@ -986,7 +986,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101944</ExpertLink>
                 <Name lang="en">Rare pulmonary disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="31">
+              <ClassificationNodeChildList count="32">
                 <ClassificationNode>
                   <Disorder id="49">
                     <OrphaNumber>586</OrphaNumber>
@@ -2423,6 +2423,15 @@
                     <OrphaNumber>454836</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=454836</ExpertLink>
                     <Name lang="en">Avian influenza</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26354">
+                    <OrphaNumber>505395</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505395</ExpertLink>
+                    <Name lang="en">Ventilator-induced diaphragmatic dysfunction</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

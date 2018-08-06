@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:32" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -924,7 +924,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86836</ExpertLink>
                                 <Name lang="en">Refractory cytopenia with multilineage dysplasia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="4">
                                 <ClassificationNode>
                                   <Disorder id="13843">
                                     <OrphaNumber>98826</OrphaNumber>
@@ -948,6 +948,15 @@
                                     <OrphaNumber>101096</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101096</ExpertLink>
                                     <Name lang="en">Aregenerative anemia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="26578">
+                                    <OrphaNumber>508542</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508542</ExpertLink>
+                                    <Name lang="en">Congenital progressive bone marrow failure-B-cell immunodeficiency-skeletal dysplasia syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1446,7 +1455,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98289</ExpertLink>
                                 <Name lang="en">Dendritic cell tumor</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="5">
+                              <ClassificationNodeChildList count="6">
                                 <ClassificationNode>
                                   <Disorder id="3768">
                                     <OrphaNumber>389</OrphaNumber>
@@ -1533,6 +1542,15 @@
                                     <OrphaNumber>86903</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86903</ExpertLink>
                                     <Name lang="en">Dendritic cell sarcoma not otherwise specified</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="17177">
+                                    <OrphaNumber>158019</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158019</ExpertLink>
+                                    <Name lang="en">Indeterminate cell histiocytosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2712,7 +2730,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68411</ExpertLink>
                     <Name lang="en">Rare bone tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="12">
+                  <ClassificationNodeChildList count="13">
+                    <ClassificationNode>
+                      <Disorder id="6023">
+                        <OrphaNumber>178</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178</ExpertLink>
+                        <Name lang="en">Chordoma</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="25218">
                         <OrphaNumber>480553</OrphaNumber>
@@ -2892,12 +2919,21 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71209</ExpertLink>
                     <Name lang="en">Rare soft tissue tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="25142">
                         <OrphaNumber>477742</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477742</ExpertLink>
                         <Name lang="en">Nodular fasciitis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20759">
+                        <OrphaNumber>289685</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289685</ExpertLink>
+                        <Name lang="en">Myopericytoma</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2944,7 +2980,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3394</ExpertLink>
                         <Name lang="en">Soft tissue sarcoma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="20">
+                      <ClassificationNodeChildList count="19">
                         <ClassificationNode>
                           <Disorder id="24185">
                             <OrphaNumber>466962</OrphaNumber>
@@ -2960,7 +2996,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=780</ExpertLink>
                             <Name lang="en">Rhabdomyosarcoma</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="14329">
                                 <OrphaNumber>99756</OrphaNumber>
@@ -2975,6 +3011,15 @@
                                 <OrphaNumber>99757</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99757</ExpertLink>
                                 <Name lang="en">Embryonal rhabdomyosarcoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20843">
+                                <OrphaNumber>293199</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293199</ExpertLink>
+                                <Name lang="en">Pleomorphic rhabdomyosarcoma</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3184,15 +3229,6 @@
                             <OrphaNumber>263413</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263413</ExpertLink>
                             <Name lang="en">Angiosarcoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="20843">
-                            <OrphaNumber>293199</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293199</ExpertLink>
-                            <Name lang="en">Pleomorphic rhabdomyosarcoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3880,7 +3916,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294057</ExpertLink>
                         <Name lang="en">Rare nevus</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="25">
+                      <ClassificationNodeChildList count="26">
                         <ClassificationNode>
                           <Disorder id="243">
                             <OrphaNumber>201</OrphaNumber>
@@ -4129,6 +4165,15 @@
                             <OrphaNumber>497757</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497757</ExpertLink>
                             <Name lang="en">MME-related autosomal dominant Charcot Marie Tooth disease type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25865">
+                            <OrphaNumber>497737</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=497737</ExpertLink>
+                            <Name lang="en">Epidermolytic nevus</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5140,23 +5185,14 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180824</ExpertLink>
                         <Name lang="en">Rare tumor of pancreas</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
-                        <ClassificationNode>
-                          <Disorder id="12229">
-                            <OrphaNumber>93292</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93292</ExpertLink>
-                            <Name lang="en">Adenoma of the pancreas</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="23188">
                             <OrphaNumber>424033</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424033</ExpertLink>
                             <Name lang="en">Rare epithelial tumor of pancreas</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="844">
                                 <OrphaNumber>677</OrphaNumber>
@@ -5380,6 +5416,15 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12229">
+                                <OrphaNumber>93292</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93292</ExpertLink>
+                                <Name lang="en">Adenoma of the pancreas</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -8315,7 +8360,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100101</ExpertLink>
                             <Name lang="en">Neuroendocrine tumor with other location</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="10">
+                          <ClassificationNodeChildList count="12">
                             <ClassificationNode>
                               <Disorder id="11166">
                                 <OrphaNumber>79140</OrphaNumber>
@@ -8431,6 +8476,24 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20605">
+                                <OrphaNumber>284400</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284400</ExpertLink>
+                                <Name lang="en">Small cell carcinoma of the bladder</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="6023">
+                                <OrphaNumber>178</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178</ExpertLink>
+                                <Name lang="en">Chordoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -10083,7 +10146,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=183422</ExpertLink>
                     <Name lang="en">Polymalformative genetic syndrome with increased risk of developing cancer</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="47">
+                  <ClassificationNodeChildList count="48">
                     <ClassificationNode>
                       <Disorder id="104">
                         <OrphaNumber>100</OrphaNumber>
@@ -10746,6 +10809,15 @@
                         <OrphaNumber>438134</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438134</ExpertLink>
                         <Name lang="en">PCNA-related progressive neurodegenerative photosensitivity syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2390">
+                        <OrphaNumber>2608</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2608</ExpertLink>
+                        <Name lang="en">N syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

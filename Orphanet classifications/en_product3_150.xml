@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:07:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:13:42" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -1241,7 +1241,7 @@
                       <Disorder id="21506">
                         <OrphaNumber>314632</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314632</ExpertLink>
-                        <Name lang="en">Parkinsonism due to ATP13A2 deficiency</Name>
+                        <Name lang="en">ATP13A2-related juvenile neuronal ceroid lipofuscinosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4512,7 +4512,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79201</ExpertLink>
                     <Name lang="en">Glycogen storage disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="20">
+                  <ClassificationNodeChildList count="21">
                     <ClassificationNode>
                       <Disorder id="14">
                         <OrphaNumber>365</OrphaNumber>
@@ -4851,6 +4851,15 @@
                         <OrphaNumber>439854</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439854</ExpertLink>
                         <Name lang="en">Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21686">
+                        <OrphaNumber>319646</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319646</ExpertLink>
+                        <Name lang="en">PGM1-CDG</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6423,7 +6432,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254776</ExpertLink>
                                 <Name lang="en">Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="13">
+                              <ClassificationNodeChildList count="14">
                                 <ClassificationNode>
                                   <Disorder id="63">
                                     <OrphaNumber>550</OrphaNumber>
@@ -6573,6 +6582,15 @@
                                     <OrphaNumber>397750</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397750</ExpertLink>
                                     <Name lang="en">Periodic paralysis with later-onset distal motor neuropathy</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="315">
+                                    <OrphaNumber>1349</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1349</ExpertLink>
+                                    <Name lang="en">Maternally-inherited cardiomyopathy and hearing loss</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6751,7 +6769,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254837</ExpertLink>
                         <Name lang="en">Unspecified mitochondrial disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="25849">
                             <OrphaNumber>496790</OrphaNumber>
@@ -6788,6 +6806,24 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="16704">
+                            <OrphaNumber>137675</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137675</ExpertLink>
+                            <Name lang="en">Histiocytoid cardiomyopathy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1212">
+                            <OrphaNumber>2597</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2597</ExpertLink>
+                            <Name lang="en">Mitochondrial myopathy-lactic acidosis-deafness syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -6796,7 +6832,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401854</ExpertLink>
                         <Name lang="en">Lipoic acid biosynthesis defect</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="5520">
                             <OrphaNumber>2394</OrphaNumber>
@@ -6874,6 +6910,15 @@
                             <OrphaNumber>401866</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401866</ExpertLink>
                             <Name lang="en">Childhood-onset spasticity with hyperglycinemia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26544">
+                            <OrphaNumber>508093</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508093</ExpertLink>
+                            <Name lang="en">MEPAN syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7363,32 +7408,41 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309819</ExpertLink>
                         <Name lang="en">Disorder of pterin metabolism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
-                          <Disorder id="10965">
-                            <OrphaNumber>70594</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70594</ExpertLink>
-                            <Name lang="en">Dopa-responsive dystonia due to sepiapterin reductase deficiency</Name>
+                          <Disorder id="484">
+                            <OrphaNumber>255</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255</ExpertLink>
+                            <Name lang="en">Dopa-responsive dystonia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="13825">
-                            <OrphaNumber>98808</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98808</ExpertLink>
-                            <Name lang="en">Autosomal dominant dopa-responsive dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14826">
-                            <OrphaNumber>101150</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101150</ExpertLink>
-                            <Name lang="en">Autosomal recessive dopa-responsive dystonia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="3">
+                            <ClassificationNode>
+                              <Disorder id="14826">
+                                <OrphaNumber>101150</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101150</ExpertLink>
+                                <Name lang="en">Autosomal recessive dopa-responsive dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="10965">
+                                <OrphaNumber>70594</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70594</ExpertLink>
+                                <Name lang="en">Dopa-responsive dystonia due to sepiapterin reductase deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="13825">
+                                <OrphaNumber>98808</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98808</ExpertLink>
+                                <Name lang="en">Autosomal dominant dopa-responsive dystonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -7434,6 +7488,15 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26574">
+                            <OrphaNumber>508523</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508523</ExpertLink>
+                            <Name lang="en">Hyperphenylalaninemia due to DNAJC12 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>

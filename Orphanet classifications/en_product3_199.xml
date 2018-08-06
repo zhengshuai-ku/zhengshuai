@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:14" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -14,7 +14,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68411</ExpertLink>
                 <Name lang="en">Rare bone tumor</Name>
               </Disorder>
-              <ClassificationNodeChildList count="12">
+              <ClassificationNodeChildList count="13">
+                <ClassificationNode>
+                  <Disorder id="6023">
+                    <OrphaNumber>178</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178</ExpertLink>
+                    <Name lang="en">Chordoma</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="25218">
                     <OrphaNumber>480553</OrphaNumber>
@@ -2127,7 +2136,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93434</ExpertLink>
                     <Name lang="en">Spondylodysplastic dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="12">
                     <ClassificationNode>
                       <Disorder id="553">
                         <OrphaNumber>2746</OrphaNumber>
@@ -2295,6 +2304,15 @@
                         <OrphaNumber>401979</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=401979</ExpertLink>
                         <Name lang="en">Autosomal recessive spondylometaphyseal dysplasia, Mégarbané type</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26576">
+                        <OrphaNumber>508533</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508533</ExpertLink>
+                        <Name lang="en">Skeletal dysplasia-T-cell immunodeficiency-developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2559,7 +2577,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93438</ExpertLink>
                     <Name lang="en">Mesomelic and rhizo-mesomelic dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="21">
+                  <ClassificationNodeChildList count="22">
                     <ClassificationNode>
                       <Disorder id="1043">
                         <OrphaNumber>240</OrphaNumber>
@@ -2799,6 +2817,15 @@
                         <OrphaNumber>440354</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=440354</ExpertLink>
                         <Name lang="en">Autosomal dominant myopia-midfacial retrusion-sensorineural hearing loss-rhizomelic dysplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="17556">
+                        <OrphaNumber>163966</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163966</ExpertLink>
+                        <Name lang="en">X-linked dominant chondrodysplasia, Chassaing-Lacombe type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5833,7 +5860,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140997</ExpertLink>
                         <Name lang="en">Orofaciodigital syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="14">
                         <ClassificationNode>
                           <Disorder id="2506">
                             <OrphaNumber>2750</OrphaNumber>
@@ -5947,6 +5974,15 @@
                             <OrphaNumber>434179</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=434179</ExpertLink>
                             <Name lang="en">Orofaciodigital syndrome type 14</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26571">
+                            <OrphaNumber>508501</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508501</ExpertLink>
+                            <Name lang="en">Oral-facial-digital syndrome with short stature and brachymesophalangy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8002,7 +8038,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="45">
+                      <ClassificationNodeChildList count="47">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -8418,6 +8454,24 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="26578">
+                            <OrphaNumber>508542</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508542</ExpertLink>
+                            <Name lang="en">Congenital progressive bone marrow failure-B-cell immunodeficiency-skeletal dysplasia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18947">
+                            <OrphaNumber>221139</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221139</ExpertLink>
+                            <Name lang="en">Combined immunodeficiency with faciooculoskeletal anomalies</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="1549">
                             <OrphaNumber>1326</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1326</ExpertLink>
@@ -8540,7 +8594,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140997</ExpertLink>
                             <Name lang="en">Orofaciodigital syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="13">
+                          <ClassificationNodeChildList count="14">
                             <ClassificationNode>
                               <Disorder id="2506">
                                 <OrphaNumber>2750</OrphaNumber>
@@ -8654,6 +8708,15 @@
                                 <OrphaNumber>434179</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=434179</ExpertLink>
                                 <Name lang="en">Orofaciodigital syndrome type 14</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26571">
+                                <OrphaNumber>508501</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508501</ExpertLink>
+                                <Name lang="en">Oral-facial-digital syndrome with short stature and brachymesophalangy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

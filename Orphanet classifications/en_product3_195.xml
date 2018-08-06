@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:08" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13022">
       <OrphaNumber>98004</OrphaNumber>
@@ -1745,7 +1745,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=331244</ExpertLink>
                             <Name lang="en">Other immunodeficiency syndrome with predominantly antibody defects</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="5">
                             <ClassificationNode>
                               <Disorder id="412">
                                 <OrphaNumber>1006</OrphaNumber>
@@ -1778,15 +1778,6 @@
                                 <OrphaNumber>293978</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293978</ExpertLink>
                                 <Name lang="en">Deficiency in anterior pituitary function-variable immunodeficiency syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="22133">
-                                <OrphaNumber>353298</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353298</ExpertLink>
-                                <Name lang="en">Roifman syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2357,7 +2348,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=169349</ExpertLink>
                             <Name lang="en">Immuno-osseous dysplasia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="6">
+                            <ClassificationNode>
+                              <Disorder id="18947">
+                                <OrphaNumber>221139</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221139</ExpertLink>
+                                <Name lang="en">Combined immunodeficiency with faciooculoskeletal anomalies</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="1812">
                                 <OrphaNumber>1830</OrphaNumber>
@@ -2372,6 +2372,33 @@
                                 <OrphaNumber>175</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=175</ExpertLink>
                                 <Name lang="en">Cartilage-hair hypoplasia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26576">
+                                <OrphaNumber>508533</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508533</ExpertLink>
+                                <Name lang="en">Skeletal dysplasia-T-cell immunodeficiency-developmental delay syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="26578">
+                                <OrphaNumber>508542</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508542</ExpertLink>
+                                <Name lang="en">Congenital progressive bone marrow failure-B-cell immunodeficiency-skeletal dysplasia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22133">
+                                <OrphaNumber>353298</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353298</ExpertLink>
+                                <Name lang="en">Roifman syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

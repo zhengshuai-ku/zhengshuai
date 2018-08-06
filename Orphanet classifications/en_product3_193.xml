@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:05" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -318,7 +318,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100101</ExpertLink>
                     <Name lang="en">Neuroendocrine tumor with other location</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="12">
                     <ClassificationNode>
                       <Disorder id="11166">
                         <OrphaNumber>79140</OrphaNumber>
@@ -434,6 +434,24 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20605">
+                        <OrphaNumber>284400</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284400</ExpertLink>
+                        <Name lang="en">Small cell carcinoma of the bladder</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="6023">
+                        <OrphaNumber>178</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178</ExpertLink>
+                        <Name lang="en">Chordoma</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -735,7 +753,7 @@
                           <Disorder id="2110">
                             <OrphaNumber>2237</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2237</ExpertLink>
-                            <Name lang="en">Hypoparathyroidism-deafness-renal disease syndrome</Name>
+                            <Name lang="en">Hypoparathyroidism-sensorineural deafness-renal disease syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1238,10 +1256,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="1232">
-                        <OrphaNumber>3376</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3376</ExpertLink>
-                        <Name lang="en">Triploidy</Name>
+                      <Disorder id="20393">
+                        <OrphaNumber>276630</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276630</ExpertLink>
+                        <Name lang="en">Symptomatic form of Coffin-Lowry syndrome in female carriers</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1385,14 +1403,14 @@
                       <Disorder id="19756">
                         <OrphaNumber>254516</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254516</ExpertLink>
-                        <Name lang="en">Motor developmental delay due to 14q32.2 paternally expressed gene defect</Name>
+                        <Name lang="en">Temple syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="12808">
                             <OrphaNumber>96184</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=96184</ExpertLink>
-                            <Name lang="en">Maternal uniparental disomy of chromosome 14</Name>
+                            <Name lang="en">Temple syndrome due to maternal uniparental disomy of chromosome 14</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1401,7 +1419,7 @@
                           <Disorder id="19758">
                             <OrphaNumber>254525</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254525</ExpertLink>
-                            <Name lang="en">Paternal 14q32.2 microdeletion syndrome</Name>
+                            <Name lang="en">Temple syndrome due to paternal 14q32.2 microdeletion</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1410,7 +1428,7 @@
                           <Disorder id="19760">
                             <OrphaNumber>254531</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254531</ExpertLink>
-                            <Name lang="en">Paternal 14q32.2 hypomethylation syndrome</Name>
+                            <Name lang="en">Temple syndrome due to paternal 14q32.2 hypomethylation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

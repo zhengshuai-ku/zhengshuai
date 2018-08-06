@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:07:47" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:13:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12948">
       <OrphaNumber>97929</OrphaNumber>
@@ -1151,7 +1151,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217619</ExpertLink>
                             <Name lang="en">Syndrome associated with dilated cardiomyopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="14">
+                          <ClassificationNodeChildList count="15">
                             <ClassificationNode>
                               <Disorder id="1328">
                                 <OrphaNumber>64</OrphaNumber>
@@ -1274,6 +1274,15 @@
                                 <OrphaNumber>476096</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476096</ExpertLink>
                                 <Name lang="en">Erythrokeratodermia-cardiomyopathy syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="2434">
+                                <OrphaNumber>2663</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2663</ExpertLink>
+                                <Name lang="en">Nathalie syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

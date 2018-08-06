@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:03" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -969,7 +969,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=202948</ExpertLink>
                                 <Name lang="en">Syndromic microphthalmia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="16">
+                              <ClassificationNodeChildList count="17">
                                 <ClassificationNode>
                                   <Disorder id="281">
                                     <OrphaNumber>568</OrphaNumber>
@@ -1114,6 +1114,15 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="2251">
+                                    <OrphaNumber>2432</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2432</ExpertLink>
+                                    <Name lang="en">Macrosomia-microphthalmia-cleft palate syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -1135,7 +1144,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98558</ExpertLink>
                         <Name lang="en">Rare eye disease due to a differentiation anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="16">
+                      <ClassificationNodeChildList count="17">
                         <ClassificationNode>
                           <Disorder id="16899">
                             <OrphaNumber>139450</OrphaNumber>
@@ -1321,6 +1330,15 @@
                             <OrphaNumber>88632</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88632</ExpertLink>
                             <Name lang="en">Anterior segment dysgenesis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="988">
+                            <OrphaNumber>1473</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1473</ExpertLink>
+                            <Name lang="en">Uveal coloboma-cleft lip and palate-intellectual disability</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4641,7 +4659,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98642</ExpertLink>
                                 <Name lang="en">Chromosomal anomaly with cataract</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="21">
+                              <ClassificationNodeChildList count="20">
                                 <ClassificationNode>
                                   <Disorder id="44">
                                     <OrphaNumber>881</OrphaNumber>
@@ -4782,15 +4800,6 @@
                                     <OrphaNumber>1742</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1742</ExpertLink>
                                     <Name lang="en">Trisomy 5p</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="1232">
-                                    <OrphaNumber>3376</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3376</ExpertLink>
-                                    <Name lang="en">Triploidy</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5449,7 +5458,7 @@
                               <Disorder id="23536">
                                 <OrphaNumber>447753</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447753</ExpertLink>
-                                <Name lang="en">Autosomal dominant complex spastic paraplegia type 9A</Name>
+                                <Name lang="en">Autosomal dominant spastic paraplegia type 9A</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -7588,7 +7597,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=441434</ExpertLink>
                         <Name lang="en">Syndromic hereditary optic neuropathy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="30">
+                      <ClassificationNodeChildList count="31">
                         <ClassificationNode>
                           <Disorder id="25256">
                             <OrphaNumber>482606</OrphaNumber>
@@ -7891,6 +7900,15 @@
                             <OrphaNumber>457205</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457205</ExpertLink>
                             <Name lang="en">Infantile-onset axonal motor and sensory neuropathy-optic atrophy-neurodegenerative syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26544">
+                            <OrphaNumber>508093</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508093</ExpertLink>
+                            <Name lang="en">MEPAN syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8679,7 +8697,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98702</ExpertLink>
                     <Name lang="en">Connective tissue disease with eye involvement</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="109">
                         <OrphaNumber>558</OrphaNumber>
@@ -8730,6 +8748,24 @@
                         <OrphaNumber>90354</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90354</ExpertLink>
                         <Name lang="en">Brittle cornea syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="3033">
+                        <OrphaNumber>3449</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3449</ExpertLink>
+                        <Name lang="en">Weill-Marchesani syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="4043">
+                        <OrphaNumber>1900</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
+                        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

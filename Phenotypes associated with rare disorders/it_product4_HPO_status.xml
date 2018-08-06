@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:04:58" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3202">
+<JDBOR date="2018-08-01 04:05:04" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3235">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -5541,17 +5541,6 @@
       <CreationDate>2016-05-31 11:49:01.8</CreationDate>
       <UpdateDate>2016-05-31 11:49:01.8</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="567">
-      <Disorder id="1341">
-        <OrphaNumber>1034</OrphaNumber>
-        <Name lang="it">Bande amniotiche</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:02.84</CreationDate>
-      <UpdateDate>2016-05-31 11:49:02.84</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="566">
       <Disorder id="1339">
         <OrphaNumber>1031</OrphaNumber>
@@ -5969,17 +5958,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:59.656</CreationDate>
       <UpdateDate>2016-05-31 11:48:59.656</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="530">
-      <Disorder id="1277">
-        <OrphaNumber>956</OrphaNumber>
-        <Name lang="it">Displasia acro-toraco-renale</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:48:59.516</CreationDate>
-      <UpdateDate>2016-05-31 11:48:59.516</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="541">
       <Disorder id="1292">
@@ -8749,17 +8727,6 @@
       <CreationDate>2016-05-31 11:49:21.426</CreationDate>
       <UpdateDate>2016-05-31 11:49:21.426</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="779">
-      <Disorder id="1744">
-        <OrphaNumber>1654</OrphaNumber>
-        <Name lang="it">Denti neonatali - pseudo-ostruzione intestinale - dotto arterioso pervio</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:21.563</CreationDate>
-      <UpdateDate>2016-05-31 11:49:21.563</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="776">
       <Disorder id="1738">
         <OrphaNumber>1606</OrphaNumber>
@@ -10190,17 +10157,6 @@
       <CreationDate>2016-05-31 11:49:41.693</CreationDate>
       <UpdateDate>2016-05-31 11:49:41.693</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1021">
-      <Disorder id="2268">
-        <OrphaNumber>2454</OrphaNumber>
-        <Name lang="it">Malrotazione intestinale familiare - anomalie facciali</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:41.77</CreationDate>
-      <UpdateDate>2016-05-31 11:49:41.77</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1022">
       <Disorder id="2270">
         <OrphaNumber>2456</OrphaNumber>
@@ -10552,17 +10508,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:49:38.933</CreationDate>
       <UpdateDate>2016-05-31 11:49:38.933</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="989">
-      <Disorder id="2153">
-        <OrphaNumber>2286</OrphaNumber>
-        <Name lang="it">Sindrome dell'incisivo centrale mascellare mediano solitario</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:39.016</CreationDate>
-      <UpdateDate>2016-05-31 11:49:39.016</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="978">
       <Disorder id="2111">
@@ -12729,17 +12674,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:01.94</CreationDate>
       <UpdateDate>2016-05-31 11:50:01.94</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1267">
-      <Disorder id="3135">
-        <OrphaNumber>3360</OrphaNumber>
-        <Name lang="it">Sindrome tricodermica - ritardo mentale</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:50:02.01</CreationDate>
-      <UpdateDate>2016-05-31 11:50:02.01</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1264">
       <Disorder id="3117">
@@ -32891,6 +32825,50 @@
       <CreationDate>2018-06-20 10:27:49.546</CreationDate>
       <UpdateDate>2018-06-20 10:27:49.546</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3292">
+      <Disorder id="17833">
+        <OrphaNumber>169186</OrphaNumber>
+        <Name lang="it">Miopatia centronucleare autosomica recessiva</Name>
+      </Disorder>
+      <Source>20142620[PMID],25087613[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-05 10:18:21.956</CreationDate>
+      <UpdateDate>2018-07-05 10:18:21.956</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3293">
+      <Disorder id="14517">
+        <OrphaNumber>99944</OrphaNumber>
+        <Name lang="it">Malattia di Charcot-Marie-Tooth autosomica dominante, tipo 2K</Name>
+      </Disorder>
+      <Source>18231710[PMID],21753178[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-05 10:37:52.03</CreationDate>
+      <UpdateDate>2018-07-05 10:37:52.03</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3294">
+      <Disorder id="10337">
+        <OrphaNumber>34515</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2I</Name>
+      </Disorder>
+      <Source>11592034[PMID],12666124[PMID],14523375[PMID],15505776[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-05 11:18:57.043</CreationDate>
+      <UpdateDate>2018-07-05 11:18:57.043</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3295">
+      <Disorder id="17949">
+        <OrphaNumber>171881</OrphaNumber>
+        <Name lang="it">Miopatia a cappello</Name>
+      </Disorder>
+      <Source>19345583[PMID],19553118[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-09 10:16:23.4</CreationDate>
+      <UpdateDate>2018-07-09 10:16:23.4</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3288">
       <Disorder id="23705">
         <OrphaNumber>457193</OrphaNumber>
@@ -32901,6 +32879,39 @@
       <Online>y</Online>
       <CreationDate>2018-06-25 12:00:14.856</CreationDate>
       <UpdateDate>2018-06-25 12:00:14.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3289">
+      <Disorder id="21621">
+        <OrphaNumber>319182</OrphaNumber>
+        <Name lang="it">Sindrome di Wiedemann-Steiner</Name>
+      </Disorder>
+      <Source>29574747[PMID],2738900[PMID],2773989[PMID],10826636[PMID],12558109[PMID],18019374[PMID],20803650[PMID],25810209[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-03 13:48:00.623</CreationDate>
+      <UpdateDate>2018-07-03 13:48:00.623</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3290">
+      <Disorder id="22329">
+        <OrphaNumber>363623</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli autosomica recessiva, tipo 2T</Name>
+      </Disorder>
+      <Source>23768512[PMID],26133662[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-03 14:31:20.196</CreationDate>
+      <UpdateDate>2018-07-03 14:31:20.196</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3291">
+      <Disorder id="22307">
+        <OrphaNumber>363454</OrphaNumber>
+        <Name lang="it">Atrofia muscolare spinale prossimale, autosomica dominante, a esordio nell'infanzia, con contratture</Name>
+      </Disorder>
+      <Source>22628388[PMID],23664120[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-03 14:40:09.09</CreationDate>
+      <UpdateDate>2018-07-03 14:40:09.09</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3269">
       <Disorder id="18007">
@@ -33077,6 +33088,358 @@
       <Online>y</Online>
       <CreationDate>2018-06-13 15:31:39.186</CreationDate>
       <UpdateDate>2018-06-13 15:31:39.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3318">
+      <Disorder id="870">
+        <OrphaNumber>267</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2A</Name>
+      </Disorder>
+      <Source>15694138[PMID],10069710[PMID],19364062[pmid]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 15:11:44.243</CreationDate>
+      <UpdateDate>2018-07-18 15:11:44.243</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3319">
+      <Disorder id="8715">
+        <OrphaNumber>119</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2E</Name>
+      </Disorder>
+      <Source>15684453[PMID],11369190[PMID],10662809[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-19 14:23:15.04</CreationDate>
+      <UpdateDate>2018-07-19 14:23:15.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3316">
+      <Disorder id="10724">
+        <OrphaNumber>53583</OrphaNumber>
+        <Name lang="it">Coreoatetosi distonica parossistica con atassia episodica e spasticità</Name>
+      </Disorder>
+      <Source>20482602[PMID]_8808284[PMID]_21832227[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 14:18:08.15</CreationDate>
+      <UpdateDate>2018-07-18 14:18:08.15</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3317">
+      <Disorder id="22511">
+        <OrphaNumber>370980</OrphaNumber>
+        <Name lang="it">Distrofia muscolare congenita senza deficit cognitivo</Name>
+      </Disorder>
+      <Source>11592034[PMID]_19299310[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 14:33:42.176</CreationDate>
+      <UpdateDate>2018-07-18 14:33:42.176</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3314">
+      <Disorder id="17834">
+        <OrphaNumber>169189</OrphaNumber>
+        <Name lang="it">Miopatia centronucleare autosomica dominante</Name>
+      </Disorder>
+      <Source>18817572[PMID]_16227997[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 13:15:16.423</CreationDate>
+      <UpdateDate>2018-07-18 13:15:16.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3315">
+      <Disorder id="102">
+        <OrphaNumber>307</OrphaNumber>
+        <Name lang="it">Epilessia mioclonica giovanile</Name>
+      </Disorder>
+      <Source>10648364[PMID]_3140737[PMID]_8503795[PMID]_9259280[PMID]_1638202[PMID]_1619419[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 13:53:00.456</CreationDate>
+      <UpdateDate>2018-07-18 13:53:00.456</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3312">
+      <Disorder id="26566">
+        <OrphaNumber>508410</OrphaNumber>
+        <Name lang="it">Familial intestinal malrotation</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-17 15:46:46.806</CreationDate>
+      <UpdateDate>2018-07-17 15:46:46.806</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3313">
+      <Disorder id="11732">
+        <OrphaNumber>86812</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2K</Name>
+      </Disorder>
+      <Source>14678799[PMID],20065251[PMID],22549409[PMID].</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-18 11:05:07.576</CreationDate>
+      <UpdateDate>2018-07-18 11:05:07.576</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3326">
+      <Disorder id="18808">
+        <OrphaNumber>217012</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 31</Name>
+      </Disorder>
+      <Source>16780885[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-23 17:52:23.893</CreationDate>
+      <UpdateDate>2018-07-23 17:52:23.893</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3327">
+      <Disorder id="20436">
+        <OrphaNumber>280200</OrphaNumber>
+        <Name lang="it">Oloprosencefalia microforma</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-24 11:25:42.33</CreationDate>
+      <UpdateDate>2018-07-24 11:25:42.33</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3324">
+      <Disorder id="13789">
+        <OrphaNumber>98772</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 19/22</Name>
+      </Disorder>
+      <Source>23280837[PMID],12764052[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-23 17:38:54.53</CreationDate>
+      <UpdateDate>2018-07-23 17:38:54.53</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3325">
+      <Disorder id="18704">
+        <OrphaNumber>211017</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 30</Name>
+      </Disorder>
+      <Source>18996908[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-23 17:49:41.323</CreationDate>
+      <UpdateDate>2018-07-23 17:49:41.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3322">
+      <Disorder id="14793">
+        <OrphaNumber>101082</OrphaNumber>
+        <Name lang="it">Malattia di Charcot-Marie-Tooth, tipo 1B</Name>
+      </Disorder>
+      <Source>12477701[PMID], 14711881[PMID],18337304[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-20 17:43:06.89</CreationDate>
+      <UpdateDate>2018-07-20 17:43:06.89</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3323">
+      <Disorder id="23152">
+        <OrphaNumber>423296</OrphaNumber>
+        <Name lang="it">Atassia spinocerebellare, tipo 38</Name>
+      </Disorder>
+      <Source>25065913[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-23 17:36:00.69</CreationDate>
+      <UpdateDate>2018-07-23 17:36:00.69</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3320">
+      <Disorder id="25917">
+        <OrphaNumber>498461</OrphaNumber>
+        <Name lang="it">Terminal transverse limb defects</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-20 11:51:00.866</CreationDate>
+      <UpdateDate>2018-07-20 11:51:00.866</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3321">
+      <Disorder id="14792">
+        <OrphaNumber>101081</OrphaNumber>
+        <Name lang="it">Malattia di Charcot-Marie-Tooth, tipo 1A</Name>
+      </Disorder>
+      <Source>8682501[PMID],17353481[PMID],15703022[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-20 17:35:09.523</CreationDate>
+      <UpdateDate>2018-07-20 17:35:09.523</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3303">
+      <Disorder id="23717">
+        <OrphaNumber>457260</OrphaNumber>
+        <Name lang="it">X-linked intellectual disability-hypotonia-movement disorder syndrome</Name>
+      </Disorder>
+      <Source>26235985[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 11:18:23.57</CreationDate>
+      <UpdateDate>2018-07-12 11:18:23.57</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3302">
+      <Disorder id="678">
+        <OrphaNumber>62</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2D</Name>
+      </Disorder>
+      <Source>22303798[PMID],9585331[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 11:11:29.85</CreationDate>
+      <UpdateDate>2018-07-12 11:11:29.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3301">
+      <Disorder id="13919">
+        <OrphaNumber>98902</OrphaNumber>
+        <Name lang="it">Miopatia nemalinica, tipo Amish</Name>
+      </Disorder>
+      <Source>10952871[PMID]_25712079[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-11 15:38:26.15</CreationDate>
+      <UpdateDate>2018-07-11 15:38:26.15</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3300">
+      <Disorder id="8737">
+        <OrphaNumber>590</OrphaNumber>
+        <Name lang="it">Sindrome miastenica congenita</Name>
+      </Disorder>
+      <Source>22353287[PMID]_15145336[PMID]_18707767[PMID]_25381298[PMID]_11172068[PMID]_25192047[PMID]_19631309[PMID]_26626625[PMID]_27569547[PMID]_27590285[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-11 15:25:49.436</CreationDate>
+      <UpdateDate>2018-07-11 15:25:49.436</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3299">
+      <Disorder id="8730">
+        <OrphaNumber>609</OrphaNumber>
+        <Name lang="it">Distrofia muscolare della tibia</Name>
+      </Disorder>
+      <Source>22197426[PMID]_15728284[PMID]_9855539[PMID]_9497249[PMID]_12891679[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-11 14:29:34.79</CreationDate>
+      <UpdateDate>2018-07-11 14:29:34.79</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3298">
+      <Disorder id="649">
+        <OrphaNumber>423</OrphaNumber>
+        <Name lang="it">Ipertermia maligna</Name>
+      </Disorder>
+      <Source>26238698[PMID]_13885389[PMID]_9508059[PMID]_7951247[PMID]_7887423[PMID]_9175745[PMID]_9175745[PMID]_2121248738[PMID]_6072352[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-11 12:12:33.08</CreationDate>
+      <UpdateDate>2018-07-11 12:12:33.08</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3297">
+      <Disorder id="182">
+        <OrphaNumber>644</OrphaNumber>
+        <Name lang="it">Sindrome NARP</Name>
+      </Disorder>
+      <Source>19124644[PMID]_2137962[PMID]_19124644[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-09 15:45:59.826</CreationDate>
+      <UpdateDate>2018-07-09 15:45:59.826</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3296">
+      <Disorder id="76">
+        <OrphaNumber>684</OrphaNumber>
+        <Name lang="it">Paramiotonia congenita di von Eulenburg</Name>
+      </Disorder>
+      <Source>8424309[PMID]_19015483[PMID]_18337100[PMID]_10727489[PMID]_21220685[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-09 15:05:03.503</CreationDate>
+      <UpdateDate>2018-07-09 15:05:03.503</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3311">
+      <Disorder id="17907">
+        <OrphaNumber>171433</OrphaNumber>
+        <Name lang="it">Miopatia nemalinica di grado intermedio</Name>
+      </Disorder>
+      <Source>22431881[PMID]_24268659[PMID]_20554445[PMID]_25205138[PMID]_11333380[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-16 15:53:23.63</CreationDate>
+      <UpdateDate>2018-07-16 15:53:23.63</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3310">
+      <Disorder id="23197">
+        <OrphaNumber>424107</OrphaNumber>
+        <Name lang="it">Miopatia congenita a esordio simil-miastenico</Name>
+      </Disorder>
+      <Source>24951453[PMID]_21482111[PMID]_29556213[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-16 15:23:41.633</CreationDate>
+      <UpdateDate>2018-07-16 15:23:41.633</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3309">
+      <Disorder id="14384">
+        <OrphaNumber>99811</OrphaNumber>
+        <Name lang="it">Pseudo-ostruzione intestinale neuronale</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-13 15:54:23.393</CreationDate>
+      <UpdateDate>2018-07-13 15:54:23.393</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3308">
+      <Disorder id="10856">
+        <OrphaNumber>64752</OrphaNumber>
+        <Name lang="it">Neuropatia autonomica e sensoriale ereditaria, tipo 5</Name>
+      </Disorder>
+      <Source>20978020[PMID],14976160[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-13 12:00:14.896</CreationDate>
+      <UpdateDate>2018-07-13 12:00:14.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3307">
+      <Disorder id="8717">
+        <OrphaNumber>219</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli, autosomica recessiva, tipo 2F</Name>
+      </Disorder>
+      <Source>10735275[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 13:55:39.473</CreationDate>
+      <UpdateDate>2018-07-12 13:55:39.473</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3306">
+      <Disorder id="21788">
+        <OrphaNumber>324581</OrphaNumber>
+        <Name lang="it">Miopatia congenita benigna del samaritano</Name>
+      </Disorder>
+      <Source>16959509[PMID],22752422[pmid]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 11:49:31.673</CreationDate>
+      <UpdateDate>2018-07-12 11:49:31.673</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3305">
+      <Disorder id="22199">
+        <OrphaNumber>357043</OrphaNumber>
+        <Name lang="it">Sclerosi laterale amiotrofica, tipo 4</Name>
+      </Disorder>
+      <Source>15106121[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 11:45:33.74</CreationDate>
+      <UpdateDate>2018-07-12 11:45:33.74</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3304">
+      <Disorder id="22434">
+        <OrphaNumber>369840</OrphaNumber>
+        <Name lang="it">Distrofia muscolare dei cingoli autosomica recessiva, tipo 2S</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-07-12 11:36:08.46</CreationDate>
+      <UpdateDate>2018-07-12 11:36:08.46</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3216">
       <Disorder id="14822">

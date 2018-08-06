@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10557">
       <OrphaNumber>68416</OrphaNumber>
@@ -14,7 +14,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163582</ExpertLink>
                 <Name lang="en">Rare bacterial infectious disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="42">
+              <ClassificationNodeChildList count="41">
                 <ClassificationNode>
                   <Disorder id="725">
                     <OrphaNumber>1304</OrphaNumber>
@@ -281,15 +281,6 @@
                     <OrphaNumber>3392</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3392</ExpertLink>
                     <Name lang="en">Tularemia</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="3596">
-                    <OrphaNumber>1223</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1223</ExpertLink>
-                    <Name lang="en">Balantidiasis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -732,7 +723,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=341</ExpertLink>
                     <Name lang="en">Viral hemorrhagic fever</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="16">
                     <ClassificationNode>
                       <Disorder id="3411">
                         <OrphaNumber>340</OrphaNumber>
@@ -864,6 +855,15 @@
                         <OrphaNumber>319266</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319266</ExpertLink>
                         <Name lang="en">Omsk hemorrhagic fever</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14402">
+                        <OrphaNumber>99829</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99829</ExpertLink>
+                        <Name lang="en">Yellow fever</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1175,7 +1175,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163588</ExpertLink>
                 <Name lang="en">Rare parasitic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="34">
+              <ClassificationNodeChildList count="35">
+                <ClassificationNode>
+                  <Disorder id="3596">
+                    <OrphaNumber>1223</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1223</ExpertLink>
+                    <Name lang="en">Balantidiasis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="210">
                     <OrphaNumber>673</OrphaNumber>

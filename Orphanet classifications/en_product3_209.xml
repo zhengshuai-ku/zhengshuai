@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-07-01 04:08:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-08-01 04:14:25" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -233,7 +233,7 @@
                       <Disorder id="17074">
                         <OrphaNumber>141276</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141276</ExpertLink>
-                        <Name lang="en">Commissural facial cleft</Name>
+                        <Name lang="en">Tessier number 7 facial cleft</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -595,7 +595,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140997</ExpertLink>
                         <Name lang="en">Orofaciodigital syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="14">
                         <ClassificationNode>
                           <Disorder id="2506">
                             <OrphaNumber>2750</OrphaNumber>
@@ -709,6 +709,15 @@
                             <OrphaNumber>434179</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=434179</ExpertLink>
                             <Name lang="en">Orofaciodigital syndrome type 14</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="26571">
+                            <OrphaNumber>508501</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508501</ExpertLink>
+                            <Name lang="en">Oral-facial-digital syndrome with short stature and brachymesophalangy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1443,7 +1452,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139039</ExpertLink>
                     <Name lang="en">Orofacial clefting syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="75">
+                  <ClassificationNodeChildList count="76">
                     <ClassificationNode>
                       <Disorder id="280">
                         <OrphaNumber>564</OrphaNumber>
@@ -2119,6 +2128,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26568">
+                        <OrphaNumber>508476</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508476</ExpertLink>
+                        <Name lang="en">Cleft lip and palate-craniofacial dysmorphism-congenital heart defect-hearing loss syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -2127,7 +2145,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140997</ExpertLink>
                     <Name lang="en">Orofaciodigital syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="2506">
                         <OrphaNumber>2750</OrphaNumber>
@@ -2241,6 +2259,15 @@
                         <OrphaNumber>434179</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=434179</ExpertLink>
                         <Name lang="en">Orofaciodigital syndrome type 14</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26571">
+                        <OrphaNumber>508501</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508501</ExpertLink>
+                        <Name lang="en">Oral-facial-digital syndrome with short stature and brachymesophalangy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
