@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-08-01 04:05:02" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3235">
+<JDBOR date="2018-09-01 04:04:59" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3239">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -12526,7 +12526,7 @@
         <OrphaNumber>1827</OrphaNumber>
         <Name lang="fr">Dysplasie fronto-nasale acromélique</Name>
       </Disorder>
-      <Source/>
+      <Source>1733166[PMID]_25105228[PMID]_26706854[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:00.39</CreationDate>
@@ -20464,7 +20464,7 @@
     <HPODisorderSetStatus id="2017">
       <Disorder id="16690">
         <OrphaNumber>137608</OrphaNumber>
-        <Name lang="fr">Syndrome de croissance disproportionnée-lipomatose-malformation vasculaire-naevus épidermique</Name>
+        <Name lang="fr">Syndrome d'hypertrophie segmentaire-lipomatose-malformation artérioveineuse-naevus épidermique</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -29473,7 +29473,7 @@
     <HPODisorderSetStatus id="2663">
       <Disorder id="12608">
         <OrphaNumber>95484</OrphaNumber>
-        <Name lang="fr">Dilatation ou anévrysme congénital de l'aorte ascendante</Name>
+        <Name lang="fr">Dilatation ou anévrisme congénital de l'aorte ascendante</Name>
       </Disorder>
       <Source>20301299[PMID]_19409525[PMID]_17994018[PMID]_16996941[PMID]_24243736[PMID]_21055718[PMID]_17666408[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30091,7 +30091,7 @@
         <OrphaNumber>2593</OrphaNumber>
         <Name lang="fr">Myopathie avec agrégats tubulaires</Name>
       </Disorder>
-      <Source/>
+      <Source>15452313[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2017-11-08 10:17:16.566</CreationDate>
@@ -30650,7 +30650,7 @@
     <HPODisorderSetStatus id="3048">
       <Disorder id="19166">
         <OrphaNumber>231160</OrphaNumber>
-        <Name lang="fr">Anévysme intracrânien sacculaire familial</Name>
+        <Name lang="fr">Anévrisme intracrânien sacculaire familial</Name>
       </Disorder>
       <Source>16736093[PMID]_24646873[PMID]_23054244[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33380,7 +33380,7 @@
         <OrphaNumber>99811</OrphaNumber>
         <Name lang="fr">Pseudo-obstruction intestinale type neuronal</Name>
       </Disorder>
-      <Source/>
+      <Source>1269170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-13 15:54:23.393</CreationDate>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2S</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -33611,7 +33611,7 @@
         <OrphaNumber>209951</OrphaNumber>
         <Name lang="fr">Paraplégie spastique autosomique récessive type 18</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-05-17 16:24:14.496</CreationDate>
@@ -35541,6 +35541,50 @@
       <Online>y</Online>
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3330">
+      <Disorder id="22625">
+        <OrphaNumber>391474</OrphaNumber>
+        <Name lang="fr">Frontorhinie</Name>
+      </Disorder>
+      <Source>19409524[PMID]_9689987[PMID]_17955515[PMID]_5444583[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:59:43.773</CreationDate>
+      <UpdateDate>2018-08-22 15:59:43.773</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3331">
+      <Disorder id="22731">
+        <OrphaNumber>398156</OrphaNumber>
+        <Name lang="fr">Syndrome oculo-auriculo-fronto-nasal</Name>
+      </Disorder>
+      <Source>18388775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 16:52:44.96</CreationDate>
+      <UpdateDate>2018-08-22 16:52:44.96</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3328">
+      <Disorder id="1688">
+        <OrphaNumber>1521</OrphaNumber>
+        <Name lang="fr">Syndrome de dysplasie cranio-fronto-nasale-anomalie de Poland</Name>
+      </Disorder>
+      <Source>9240748[PMID]_7747768[PMID]_2225532[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-20 14:45:33.903</CreationDate>
+      <UpdateDate>2018-08-20 14:45:33.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3329">
+      <Disorder id="21228">
+        <OrphaNumber>306542</OrphaNumber>
+        <Name lang="fr">Syndrome de dysplasie fronto-nasale-microphtalmie sévère-fente faciale sévère</Name>
+      </Disorder>
+      <Source>20451171[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:23:59.186</CreationDate>
+      <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-08-01 04:14:50" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3235">
+<JDBOR date="2018-09-01 04:14:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3239">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -12526,7 +12526,7 @@
         <OrphaNumber>1827</OrphaNumber>
         <Name lang="en">Acromelic frontonasal dysplasia</Name>
       </Disorder>
-      <Source/>
+      <Source>1733166[PMID]_25105228[PMID]_26706854[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:00.39</CreationDate>
@@ -30091,7 +30091,7 @@
         <OrphaNumber>2593</OrphaNumber>
         <Name lang="en">Tubular aggregate myopathy</Name>
       </Disorder>
-      <Source/>
+      <Source>15452313[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2017-11-08 10:17:16.566</CreationDate>
@@ -33380,7 +33380,7 @@
         <OrphaNumber>99811</OrphaNumber>
         <Name lang="en">Neuronal intestinal pseudoobstruction</Name>
       </Disorder>
-      <Source/>
+      <Source>1269170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-13 15:54:23.393</CreationDate>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2S</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -33611,7 +33611,7 @@
         <OrphaNumber>209951</OrphaNumber>
         <Name lang="en">Autosomal recessive spastic paraplegia type 18</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-05-17 16:24:14.496</CreationDate>
@@ -35541,6 +35541,50 @@
       <Online>y</Online>
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3330">
+      <Disorder id="22625">
+        <OrphaNumber>391474</OrphaNumber>
+        <Name lang="en">Frontorhiny</Name>
+      </Disorder>
+      <Source>19409524[PMID]_9689987[PMID]_17955515[PMID]_5444583[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:59:43.773</CreationDate>
+      <UpdateDate>2018-08-22 15:59:43.773</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3331">
+      <Disorder id="22731">
+        <OrphaNumber>398156</OrphaNumber>
+        <Name lang="en">Oculoauriculofrontonasal syndrome</Name>
+      </Disorder>
+      <Source>18388775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 16:52:44.96</CreationDate>
+      <UpdateDate>2018-08-22 16:52:44.96</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3328">
+      <Disorder id="1688">
+        <OrphaNumber>1521</OrphaNumber>
+        <Name lang="en">Craniofrontonasal dysplasia-Poland anomaly syndrome</Name>
+      </Disorder>
+      <Source>9240748[PMID]_7747768[PMID]_2225532[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-20 14:45:33.903</CreationDate>
+      <UpdateDate>2018-08-20 14:45:33.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3329">
+      <Disorder id="21228">
+        <OrphaNumber>306542</OrphaNumber>
+        <Name lang="en">Frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome</Name>
+      </Disorder>
+      <Source>20451171[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:23:59.186</CreationDate>
+      <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

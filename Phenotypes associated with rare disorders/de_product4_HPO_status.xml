@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-08-01 04:04:57" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3235">
+<JDBOR date="2018-09-01 04:04:54" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3239">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -3025,7 +3025,7 @@
     <HPODisorderSetStatus id="306">
       <Disorder id="582">
         <OrphaNumber>3151</OrphaNumber>
-        <Name lang="de">Multiple Sklerose - Ichthyose - Faktor VIII-Mangel</Name>
+        <Name lang="de">Multiple Sklerose-Ichthyose-Faktor-VIII-Mangel-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5236,7 +5236,7 @@
     <HPODisorderSetStatus id="494">
       <Disorder id="1201">
         <OrphaNumber>1951</OrphaNumber>
-        <Name lang="de">Epilepsie-Telangiektasie-Syndrom</Name>
+        <Name lang="de">Epilepsie-Teleangiektasie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9005,7 +9005,7 @@
     <HPODisorderSetStatus id="871">
       <Disorder id="1913">
         <OrphaNumber>1969</OrphaNumber>
-        <Name lang="de">Gesichtsdysmorphien-Anorexie-Kachexie-Augen- und Hautanomalien-Syndrom</Name>
+        <Name lang="de">Gesichtsdysmorphie-Anorexie-Kachexie-Augen- und Hautanomalien-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10094,7 +10094,7 @@
     <HPODisorderSetStatus id="896">
       <Disorder id="1956">
         <OrphaNumber>2025</OrphaNumber>
-        <Name lang="de">Gingivale Fibromatose - Gesichtsdysmorphien</Name>
+        <Name lang="de">Gingivale Fibromatose-Gesichtsdysmorphie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12526,7 +12526,7 @@
         <OrphaNumber>1827</OrphaNumber>
         <Name lang="de">Dysplasie, akromele frontonasale</Name>
       </Disorder>
-      <Source/>
+      <Source>1733166[PMID]_25105228[PMID]_26706854[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:00.39</CreationDate>
@@ -12590,7 +12590,7 @@
     <HPODisorderSetStatus id="1258">
       <Disorder id="3086">
         <OrphaNumber>1778</OrphaNumber>
-        <Name lang="de">Gesichtsdysmorphien - Schalskrotum - Gelenkschlaffheit</Name>
+        <Name lang="de">Gesichtsdysmorphie-Schalskrotum-Gelenkschlaffheit-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14929,7 +14929,7 @@
     <HPODisorderSetStatus id="1500">
       <Disorder id="10625">
         <OrphaNumber>48431</OrphaNumber>
-        <Name lang="de">Katarakte, kongenitale  - faziale Dysmorphien - Neuropathie</Name>
+        <Name lang="de">Kongenitale Katarakt-Gesichtsdysmorphie-Neuropathie-Syndrom</Name>
       </Disorder>
       <Source>16939648[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -16146,7 +16146,7 @@
     <HPODisorderSetStatus id="1450">
       <Disorder id="9793">
         <OrphaNumber>31709</OrphaNumber>
-        <Name lang="de">Infantile Konvulsionen und Coreoathetose</Name>
+        <Name lang="de">Infantile Konvulsionen und Choreoathetose</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17114,7 +17114,7 @@
     <HPODisorderSetStatus id="1594">
       <Disorder id="11040">
         <OrphaNumber>73246</OrphaNumber>
-        <Name lang="de">Viszerale Neuropathie - Gehirnanomalien - Gesichtsdysmorphien - Entwicklungsverzögerung</Name>
+        <Name lang="de">Viszerale Neuropathie-Gehirnanomalien-Gesichtsdysmorphien-Entwicklungsverzögerung-Syndrom</Name>
       </Disorder>
       <Source>16378921[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -17642,7 +17642,7 @@
     <HPODisorderSetStatus id="1771">
       <Disorder id="11699">
         <OrphaNumber>85329</OrphaNumber>
-        <Name lang="de">Geistige Retardierung, X-chromosomale - Hypotonie - faziale Dysmorphien - aggressives Verhalten</Name>
+        <Name lang="de">X-chromosomale Intelligenzminderung-Hypotonie-Gesichtsdysmorphien-aggressives Verhalten-Syndrom</Name>
       </Disorder>
       <Source>_12599187[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -19716,7 +19716,7 @@
     <HPODisorderSetStatus id="1846">
       <Disorder id="12110">
         <OrphaNumber>91133</OrphaNumber>
-        <Name lang="de">Osteopenie - Myopie - Hörverlust - Intelligenzminderung - Gesichtsdysmorphien</Name>
+        <Name lang="de">Osteopenie-Myopie-Hörverlust-Intelligenzminderung-Gesichtsdysmorphien-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -30091,7 +30091,7 @@
         <OrphaNumber>2593</OrphaNumber>
         <Name lang="de">Myopathie mit tubulären Aggregaten</Name>
       </Disorder>
-      <Source/>
+      <Source>15452313[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2017-11-08 10:17:16.566</CreationDate>
@@ -31937,7 +31937,7 @@
     <HPODisorderSetStatus id="2832">
       <Disorder id="2087">
         <OrphaNumber>2206</OrphaNumber>
-        <Name lang="de">Hyperostose, ankylosierende vertebrale mit Tylose</Name>
+        <Name lang="de">Hyperostose, ankylosierende vertebrale mit Tylosis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -33380,7 +33380,7 @@
         <OrphaNumber>99811</OrphaNumber>
         <Name lang="de">Pseudoobstruktion, intestinale neuronale</Name>
       </Disorder>
-      <Source/>
+      <Source>1269170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-13 15:54:23.393</CreationDate>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="de">Gliedergürtelmuskeldystrophie, autosomal-rezessive, Typ 2S</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -33611,7 +33611,7 @@
         <OrphaNumber>209951</OrphaNumber>
         <Name lang="de">Spastische Paraplegie, autosomal-rezessive, Typ 18</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-05-17 16:24:14.496</CreationDate>
@@ -35541,6 +35541,50 @@
       <Online>y</Online>
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3330">
+      <Disorder id="22625">
+        <OrphaNumber>391474</OrphaNumber>
+        <Name lang="de">Frontorhinie</Name>
+      </Disorder>
+      <Source>19409524[PMID]_9689987[PMID]_17955515[PMID]_5444583[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:59:43.773</CreationDate>
+      <UpdateDate>2018-08-22 15:59:43.773</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3331">
+      <Disorder id="22731">
+        <OrphaNumber>398156</OrphaNumber>
+        <Name lang="de">Okulo-aurikulo-fronto-nasales Syndrom</Name>
+      </Disorder>
+      <Source>18388775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 16:52:44.96</CreationDate>
+      <UpdateDate>2018-08-22 16:52:44.96</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3328">
+      <Disorder id="1688">
+        <OrphaNumber>1521</OrphaNumber>
+        <Name lang="de">Kranio-fronto-nasale Dysplasie - Poland-Anomalie</Name>
+      </Disorder>
+      <Source>9240748[PMID]_7747768[PMID]_2225532[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-20 14:45:33.903</CreationDate>
+      <UpdateDate>2018-08-20 14:45:33.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3329">
+      <Disorder id="21228">
+        <OrphaNumber>306542</OrphaNumber>
+        <Name lang="de">Fronto-nasale Dysplasie-schwere Mikrophthalmie-Gesichtsspalten-Syndrom</Name>
+      </Disorder>
+      <Source>20451171[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:23:59.186</CreationDate>
+      <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

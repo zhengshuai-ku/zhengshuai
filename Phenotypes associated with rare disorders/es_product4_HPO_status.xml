@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-08-01 04:05:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3235">
+<JDBOR date="2018-09-01 04:04:58" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3239">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -5126,7 +5126,7 @@
     <HPODisorderSetStatus id="501">
       <Disorder id="1222">
         <OrphaNumber>624</OrphaNumber>
-        <Name lang="es">Nevus flamígero múltiple familiar</Name>
+        <Name lang="es">Nevus flammeus múltiple familiar</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8235,7 +8235,7 @@
     <HPODisorderSetStatus id="827">
       <Disorder id="1839">
         <OrphaNumber>1865</OrphaNumber>
-        <Name lang="es">Displasia disegmentaria tipo Silverman Handmaker</Name>
+        <Name lang="es">Displasia disegmentaria tipo Silverman-Handmaker</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12526,7 +12526,7 @@
         <OrphaNumber>1827</OrphaNumber>
         <Name lang="es">Displasia frontonasal acromélica</Name>
       </Disorder>
-      <Source/>
+      <Source>1733166[PMID]_25105228[PMID]_26706854[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:00.39</CreationDate>
@@ -20464,7 +20464,7 @@
     <HPODisorderSetStatus id="2017">
       <Disorder id="16690">
         <OrphaNumber>137608</OrphaNumber>
-        <Name lang="es">Excrecencias segmentarias - lipomatosis - malformación arterio-venosa - nevus epidérmicos</Name>
+        <Name lang="es">Síndrome de sobrecrecimiento segmentario - lipomatosis - malformación arterio-venosa - nevos epidérmicos</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22048,7 +22048,7 @@
     <HPODisorderSetStatus id="2239">
       <Disorder id="21817">
         <OrphaNumber>324964</OrphaNumber>
-        <Name lang="es">Osteomielitis crónica no bacteriana / Osteomielitis multifocal recurrente crónica</Name>
+        <Name lang="es">Osteomielitis crónica no bacteriana / Osteomielitis crónica multifocal recurrente</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -25414,7 +25414,7 @@
     <HPODisorderSetStatus id="2517">
       <Disorder id="3404">
         <OrphaNumber>179</OrphaNumber>
-        <Name lang="es">Coriorretinopatía de Birdshot</Name>
+        <Name lang="es">Coriorretinopatía "birdshot"</Name>
       </Disorder>
       <Source>27847627[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30091,7 +30091,7 @@
         <OrphaNumber>2593</OrphaNumber>
         <Name lang="es">Miopatía con agregados tubulares</Name>
       </Disorder>
-      <Source/>
+      <Source>15452313[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2017-11-08 10:17:16.566</CreationDate>
@@ -30903,7 +30903,7 @@
     <HPODisorderSetStatus id="3056">
       <Disorder id="20390">
         <OrphaNumber>276621</OrphaNumber>
-        <Name lang="es">Feocromocitoma/paraganglioma secretante esporádico</Name>
+        <Name lang="es">Feocromocitoma esporádico/paraganglioma secretor</Name>
       </Disorder>
       <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33380,7 +33380,7 @@
         <OrphaNumber>99811</OrphaNumber>
         <Name lang="es">Pseudoobstrucción intestinal neuronal</Name>
       </Disorder>
-      <Source/>
+      <Source>1269170[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-13 15:54:23.393</CreationDate>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="es">Distrofia muscular de cinturas autosómica recesiva tipo 2S</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -33611,7 +33611,7 @@
         <OrphaNumber>209951</OrphaNumber>
         <Name lang="es">Paraplejía espástica autosómica recesiva tipo 18</Name>
       </Disorder>
-      <Source/>
+      <Source>16636240[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-05-17 16:24:14.496</CreationDate>
@@ -34170,7 +34170,7 @@
     <HPODisorderSetStatus id="3167">
       <Disorder id="21758">
         <OrphaNumber>324262</OrphaNumber>
-        <Name lang="es">Ataxia cerebelosa congénita autosómica recesiva por deficiencia de MGLUR1</Name>
+        <Name lang="es">Ataxia cerebelosa congénita por deficiencia de MGLUR1 autosómica recesiva</Name>
       </Disorder>
       <Source>22901947[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35541,6 +35541,50 @@
       <Online>y</Online>
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3330">
+      <Disorder id="22625">
+        <OrphaNumber>391474</OrphaNumber>
+        <Name lang="es">Frontorrinia</Name>
+      </Disorder>
+      <Source>19409524[PMID]_9689987[PMID]_17955515[PMID]_5444583[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:59:43.773</CreationDate>
+      <UpdateDate>2018-08-22 15:59:43.773</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3331">
+      <Disorder id="22731">
+        <OrphaNumber>398156</OrphaNumber>
+        <Name lang="es">Síndrome oculoauriculofrontonasal</Name>
+      </Disorder>
+      <Source>18388775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 16:52:44.96</CreationDate>
+      <UpdateDate>2018-08-22 16:52:44.96</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3328">
+      <Disorder id="1688">
+        <OrphaNumber>1521</OrphaNumber>
+        <Name lang="es">Displasia cráneo-fronto-nasal - anomalía de Poland</Name>
+      </Disorder>
+      <Source>9240748[PMID]_7747768[PMID]_2225532[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-20 14:45:33.903</CreationDate>
+      <UpdateDate>2018-08-20 14:45:33.903</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3329">
+      <Disorder id="21228">
+        <OrphaNumber>306542</OrphaNumber>
+        <Name lang="es">Síndrome de displasia frontonasal - microftalmia grave - fisura facial grave</Name>
+      </Disorder>
+      <Source>20451171[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-08-22 15:23:59.186</CreationDate>
+      <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>
