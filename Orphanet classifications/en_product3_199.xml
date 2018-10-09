@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:14:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:14:25" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -1722,7 +1722,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93426</ExpertLink>
                     <Name lang="en">Ciliopathies with major skeletal involvement</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="537">
                         <OrphaNumber>1505</OrphaNumber>
@@ -1836,6 +1836,15 @@
                         <OrphaNumber>3317</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3317</ExpertLink>
                         <Name lang="en">Thoracolaryngopelvic dysplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="17012">
+                        <OrphaNumber>140969</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140969</ExpertLink>
+                        <Name lang="en">Saldino-Mainzer syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2325,7 +2334,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93436</ExpertLink>
                     <Name lang="en">Acromelic dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="14">
                     <ClassificationNode>
                       <Disorder id="24011">
                         <OrphaNumber>464288</OrphaNumber>
@@ -2421,15 +2430,6 @@
                         <OrphaNumber>88630</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88630</ExpertLink>
                         <Name lang="en">Terminal osseous dysplasia-pigmentary defects syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="17012">
-                        <OrphaNumber>140969</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140969</ExpertLink>
-                        <Name lang="en">Saldino-Mainzer syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6420,7 +6420,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364568</ExpertLink>
                     <Name lang="en">Dysostosis with limb anomaly as a major feature</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="18">
+                  <ClassificationNodeChildList count="20">
                     <ClassificationNode>
                       <Disorder id="25256">
                         <OrphaNumber>482606</OrphaNumber>
@@ -8038,7 +8038,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="47">
+                      <ClassificationNodeChildList count="49">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -8454,6 +8454,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="2305">
+                            <OrphaNumber>2492</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2492</ExpertLink>
+                            <Name lang="en">FATCO syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="26578">
                             <OrphaNumber>508542</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508542</ExpertLink>
@@ -8467,6 +8476,15 @@
                             <OrphaNumber>221139</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221139</ExpertLink>
                             <Name lang="en">Combined immunodeficiency with faciooculoskeletal anomalies</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2956">
+                            <OrphaNumber>3332</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3332</ExpertLink>
+                            <Name lang="en">Hypoplastic tibiae-postaxial polydactyly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8560,7 +8578,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="45">
+                      <ClassificationNodeChildList count="47">
+                        <ClassificationNode>
+                          <Disorder id="2956">
+                            <OrphaNumber>3332</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3332</ExpertLink>
+                            <Name lang="en">Hypoplastic tibiae-postaxial polydactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="11661">
                             <OrphaNumber>85203</OrphaNumber>
@@ -9075,6 +9102,15 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
+                          <Disorder id="2305">
+                            <OrphaNumber>2492</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2492</ExpertLink>
+                            <Name lang="en">FATCO syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
                           <Disorder id="25091">
                             <OrphaNumber>476119</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=476119</ExpertLink>
@@ -9315,6 +9351,24 @@
                         <OrphaNumber>3023</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3023</ExpertLink>
                         <Name lang="en">External auditory canal atresia-vertical talus-hypertelorism syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1544">
+                        <OrphaNumber>1321</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1321</ExpertLink>
+                        <Name lang="en">Camptodactyly-fibrous tissue hyperplasia-skeletal dysplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1546">
+                        <OrphaNumber>1323</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1323</ExpertLink>
+                        <Name lang="en">Camptodactyly-joint contractures-facial skeletal defects syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:13:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:13:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -5451,7 +5451,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35696</ExpertLink>
                                 <Name lang="en">Mitochondrial disorder due to a defect in mitochondrial protein synthesis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="39">
+                              <ClassificationNodeChildList count="40">
                                 <ClassificationNode>
                                   <Disorder id="1213">
                                     <OrphaNumber>2598</OrphaNumber>
@@ -5817,6 +5817,15 @@
                                     <OrphaNumber>466722</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=466722</ExpertLink>
                                     <Name lang="en">Autosomal recessive spastic paraplegia type 77</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="25166">
+                                    <OrphaNumber>478029</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478029</ExpertLink>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 29</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:04:54" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3239">
+<JDBOR date="2018-10-01 04:04:59" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3255">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -468,7 +468,7 @@
         <OrphaNumber>558</OrphaNumber>
         <Name lang="de">Marfan-Syndrom</Name>
       </Disorder>
-      <Source/>
+      <Source>26621648[PMID]_25323262[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:19.933</CreationDate>
@@ -2937,7 +2937,7 @@
     <HPODisorderSetStatus id="265">
       <Disorder id="526">
         <OrphaNumber>502</OrphaNumber>
-        <Name lang="de">Langer-Giedion-Syndrom</Name>
+        <Name lang="de">Tricho-rhino-phalangeales-Syndrom Typ 2</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4807,7 +4807,7 @@
     <HPODisorderSetStatus id="468">
       <Disorder id="1081">
         <OrphaNumber>1450</OrphaNumber>
-        <Name lang="de">Chromosom-8 entstammendes überzähliges Marker/Ring-Chromosom</Name>
+        <Name lang="de">Ringchromosom-8-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4818,7 +4818,7 @@
     <HPODisorderSetStatus id="469">
       <Disorder id="1082">
         <OrphaNumber>1552</OrphaNumber>
-        <Name lang="de">Currarino-Triade</Name>
+        <Name lang="de">Currarino-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4829,7 +4829,7 @@
     <HPODisorderSetStatus id="466">
       <Disorder id="1079">
         <OrphaNumber>1447</OrphaNumber>
-        <Name lang="de">Ringchromosom 4</Name>
+        <Name lang="de">Ringchromosom-4-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4840,7 +4840,7 @@
     <HPODisorderSetStatus id="467">
       <Disorder id="1080">
         <OrphaNumber>1448</OrphaNumber>
-        <Name lang="de">Ringchromosom 6</Name>
+        <Name lang="de">Ringchromosom-6-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4851,7 +4851,7 @@
     <HPODisorderSetStatus id="464">
       <Disorder id="1075">
         <OrphaNumber>1437</OrphaNumber>
-        <Name lang="de">Ringchromosom 1</Name>
+        <Name lang="de">Ringchromosom-1-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -4862,7 +4862,7 @@
     <HPODisorderSetStatus id="465">
       <Disorder id="1076">
         <OrphaNumber>1438</OrphaNumber>
-        <Name lang="de">Ringchromosom 10</Name>
+        <Name lang="de">Ringchromosom-10-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5434,7 +5434,7 @@
     <HPODisorderSetStatus id="547">
       <Disorder id="1303">
         <OrphaNumber>988</OrphaNumber>
-        <Name lang="de">Polydaktylie - Agenesie der Tibia</Name>
+        <Name lang="de">Tibia-Hemimelie-Polysyndaktylie-triphalangealer Daumen-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5777,7 +5777,7 @@
         <OrphaNumber>869</OrphaNumber>
         <Name lang="de">Triple-A-Syndrom</Name>
       </Disorder>
-      <Source/>
+      <Source>78049[PMID]_27707803[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:58.246</CreationDate>
@@ -6809,7 +6809,7 @@
     <HPODisorderSetStatus id="681">
       <Disorder id="1555">
         <OrphaNumber>1336</OrphaNumber>
-        <Name lang="de">Hyperkeratose-Hyperpigmentierungs-Syndrom</Name>
+        <Name lang="de">Hyperkeratose-Hyperpigmentierung-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6897,7 +6897,7 @@
     <HPODisorderSetStatus id="673">
       <Disorder id="1544">
         <OrphaNumber>1321</OrphaNumber>
-        <Name lang="de">Kamptodaktylie - fibröse Gewebshyperplasie - Skelettdysplasie</Name>
+        <Name lang="de">Kamptodaktylie-fibröse Gewebehyperplasie-Skelettdysplasie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6996,7 +6996,7 @@
     <HPODisorderSetStatus id="697">
       <Disorder id="1587">
         <OrphaNumber>1380</OrphaNumber>
-        <Name lang="de">Katarakt - Nephropathie - Enzephalopathie</Name>
+        <Name lang="de">Katarakt-Nephropathie-Enzephalopathie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7183,7 +7183,7 @@
     <HPODisorderSetStatus id="647">
       <Disorder id="1493">
         <OrphaNumber>1252</OrphaNumber>
-        <Name lang="de">Blepharo-naso-faziales Fehlbildungs-Syndrom</Name>
+        <Name lang="de">Blepharo-naso-faziales Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7337,7 +7337,7 @@
     <HPODisorderSetStatus id="661">
       <Disorder id="1525">
         <OrphaNumber>1292</OrphaNumber>
-        <Name lang="de">Brachymorphie - Onychodysplasie - Dysphalangie</Name>
+        <Name lang="de">Brachymorphie-Onychodysplasie-Dysphalangie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7645,7 +7645,7 @@
     <HPODisorderSetStatus id="764">
       <Disorder id="1718">
         <OrphaNumber>1566</OrphaNumber>
-        <Name lang="de">Dandy-Walker-Malformation mit postaxialer Polydaktylie</Name>
+        <Name lang="de">Dandy-Walker-Malformation-postaxiale Polydaktylie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7799,7 +7799,7 @@
     <HPODisorderSetStatus id="719">
       <Disorder id="1634">
         <OrphaNumber>1429</OrphaNumber>
-        <Name lang="de">Chorea, familiäre gutartige</Name>
+        <Name lang="de">Chorea, benigne hereditŠre</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8019,7 +8019,7 @@
     <HPODisorderSetStatus id="722">
       <Disorder id="1639">
         <OrphaNumber>1436</OrphaNumber>
-        <Name lang="de">Skelettdysplasie - Intelligenzminderung</Name>
+        <Name lang="de">Skelettdysplasie-Intelligenzminderung-Syndrom, X-chromosomales</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8488,7 +8488,7 @@
     <HPODisorderSetStatus id="785">
       <Disorder id="1753">
         <OrphaNumber>1665</OrphaNumber>
-        <Name lang="de">Sporasiche Fetal-brain-disruption-Sequenz</Name>
+        <Name lang="de">Sporadische Fetal-brain-disruption-Sequenz</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8499,7 +8499,7 @@
     <HPODisorderSetStatus id="784">
       <Disorder id="1750">
         <OrphaNumber>1661</OrphaNumber>
-        <Name lang="de">Korneales Demoid, X-chromosomales</Name>
+        <Name lang="de">Korneales Dermoid, X-chromosomales</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8763,7 +8763,7 @@
     <HPODisorderSetStatus id="880">
       <Disorder id="1932">
         <OrphaNumber>1995</OrphaNumber>
-        <Name lang="de">Lippenspalte - Retinopathie</Name>
+        <Name lang="de">Lippenspalte-Retinopathie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9280,7 +9280,7 @@
     <HPODisorderSetStatus id="835">
       <Disorder id="1851">
         <OrphaNumber>1883</OrphaNumber>
-        <Name lang="de">Ektodermale Dysplasie-Schallempfindungsschwerhörigkeit-Syndrom</Name>
+        <Name lang="de">Ektodermale Dysplasie-sensorineurale Schwerhšrigkeit-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10083,7 +10083,7 @@
     <HPODisorderSetStatus id="897">
       <Disorder id="1957">
         <OrphaNumber>2026</OrphaNumber>
-        <Name lang="de">Gingivale Fibromatose-Hypertrichose-Syndrom</Name>
+        <Name lang="de">Gingiva-Fibromatose-Hypertrichose-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10479,7 +10479,7 @@
     <HPODisorderSetStatus id="990">
       <Disorder id="2154">
         <OrphaNumber>2287</OrphaNumber>
-        <Name lang="de">Verschmelzung der Schneidezähne im Unterkiefer</Name>
+        <Name lang="de">Fusionierte mandibuläre Inzisoren</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11802,7 +11802,7 @@
     <HPODisorderSetStatus id="1067">
       <Disorder id="2410">
         <OrphaNumber>2633</OrphaNumber>
-        <Name lang="de">Kleinwuchs, mesomeler, Typ Nievergelt</Name>
+        <Name lang="de">Dysplasie, mesomele, Typ Nievergelt</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11813,7 +11813,7 @@
     <HPODisorderSetStatus id="1064">
       <Disorder id="2396">
         <OrphaNumber>2617</OrphaNumber>
-        <Name lang="de">Vogelkopf-Kleinwuchs Typ Montreal</Name>
+        <Name lang="de">Kleinwuchs, mikrozephaler primordialer, Typ Montreal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12777,7 +12777,7 @@
     <HPODisorderSetStatus id="1153">
       <Disorder id="2674">
         <OrphaNumber>2964</OrphaNumber>
-        <Name lang="de">Prognathie, dominante</Name>
+        <Name lang="de">Prognathie, autosomal-dominante</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12832,7 +12832,7 @@
     <HPODisorderSetStatus id="1156">
       <Disorder id="2678">
         <OrphaNumber>2972</OrphaNumber>
-        <Name lang="de">Pseudoanodontie -maxilläre Hypoplasie - Genu valgum</Name>
+        <Name lang="de">Fehlender Zahndurchbruch-Maxillahypoplasie-Genu valgum-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14170,7 +14170,7 @@
     <HPODisorderSetStatus id="1304">
       <Disorder id="3383">
         <OrphaNumber>745</OrphaNumber>
-        <Name lang="de">Hereditäre Thrombophilie durch kongenitalen Protein-C-Mangel</Name>
+        <Name lang="de">Schwere hereditŠre Thrombophilie durch kongenitalen Protein-C-Mangel</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14247,7 +14247,7 @@
     <HPODisorderSetStatus id="1297">
       <Disorder id="3267">
         <OrphaNumber>743</OrphaNumber>
-        <Name lang="de">Hereditäre Thrombophilie durch kongenitalen Protein-S-Mangel</Name>
+        <Name lang="de">Schwere hereditŠre Thrombophilie durch kongenitalen Protein-S-Mangel</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15226,7 +15226,7 @@
     <HPODisorderSetStatus id="1521">
       <Disorder id="10689">
         <OrphaNumber>52056</OrphaNumber>
-        <Name lang="de">Ulna/Fibula-Radiusdefekt - Brachydaktylie</Name>
+        <Name lang="de">Ulna-Fibula-Strahldefekt-Brachydaktylie-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15728,7 +15728,7 @@
     <HPODisorderSetStatus id="1415">
       <Disorder id="8630">
         <OrphaNumber>241</OrphaNumber>
-        <Name lang="de">Dyschromatosis universalis</Name>
+        <Name lang="de">Dyschromatosis universalis hereditaria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16927,7 +16927,7 @@
     <HPODisorderSetStatus id="1578">
       <Disorder id="10913">
         <OrphaNumber>69077</OrphaNumber>
-        <Name lang="de">Tumor, rhabdoider</Name>
+        <Name lang="de">Rhabdoidtumor</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16982,7 +16982,7 @@
     <HPODisorderSetStatus id="1575">
       <Disorder id="10909">
         <OrphaNumber>69028</OrphaNumber>
-        <Name lang="de">Syndrome mit Brachydaktylie</Name>
+        <Name lang="de">Dysostose mit Brachydaktylie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17466,7 +17466,7 @@
     <HPODisorderSetStatus id="1557">
       <Disorder id="10864">
         <OrphaNumber>65282</OrphaNumber>
-        <Name lang="de">Wollhaare-Palmoplantarkeratose-dilatative Kardiomyopathie-Syndrom</Name>
+        <Name lang="de">Carvajal-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18679,7 +18679,7 @@
     <HPODisorderSetStatus id="1679">
       <Disorder id="11422">
         <OrphaNumber>79396</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa simplex Typ Dowling-Meara</Name>
+        <Name lang="de">Epidermolysis bullosa simplex, generalisierte schwere</Name>
       </Disorder>
       <Source>_20301543[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18745,7 +18745,7 @@
     <HPODisorderSetStatus id="1684">
       <Disorder id="11428">
         <OrphaNumber>79402</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa, generalisierte junktionale, non-Herlitz Typ</Name>
+        <Name lang="de">Epidermolysis bullosa, junktionale, generalisierte intermediŠre</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18767,7 +18767,7 @@
     <HPODisorderSetStatus id="1686">
       <Disorder id="11430">
         <OrphaNumber>79404</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa, junktionale, Typ Herlitz</Name>
+        <Name lang="de">Epidermolysis bullosa, junctionale, generalisierte schwere</Name>
       </Disorder>
       <Source>_20301304[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18800,7 +18800,7 @@
     <HPODisorderSetStatus id="1681">
       <Disorder id="11425">
         <OrphaNumber>79399</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa simplex, generalisierte, Non-Dowling-Meara Typ</Name>
+        <Name lang="de">Epidermolysis bullosa simplex, generalisierte intermediŠre</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18954,7 +18954,7 @@
     <HPODisorderSetStatus id="1914">
       <Disorder id="12562">
         <OrphaNumber>94095</OrphaNumber>
-        <Name lang="de">Dysostose, spondylokostale - Anal- und Urogenitalfehlbildungen</Name>
+        <Name lang="de">Spondylokostale Dysostose-Analatresie-Urogenitalfehlbildung-Syndrom</Name>
       </Disorder>
       <Source>_9880219[PMID]_7473656[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -20123,7 +20123,7 @@
     <HPODisorderSetStatus id="1806">
       <Disorder id="11907">
         <OrphaNumber>89842</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa, dystrophe, autosomal-rezessive (non-Hallopeau-Siemens Typ)</Name>
+        <Name lang="de">Epidermolysis bullosa, dystrophe, rezessive, generalisierte intermediŠre</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20167,7 +20167,7 @@
     <HPODisorderSetStatus id="1802">
       <Disorder id="11903">
         <OrphaNumber>89838</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa simplex, autosomal-rezessive</Name>
+        <Name lang="de">Epidermolysis bullosa simplex, autosomal-rezessive, K14</Name>
       </Disorder>
       <Source>_21623745[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -20915,7 +20915,7 @@
     <HPODisorderSetStatus id="1999">
       <Disorder id="14549">
         <OrphaNumber>99976</OrphaNumber>
-        <Name lang="de">Adenokarzinom, ösophageales</Name>
+        <Name lang="de">Adenokarzinom des …sophagus</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22048,7 +22048,7 @@
     <HPODisorderSetStatus id="2239">
       <Disorder id="21817">
         <OrphaNumber>324964</OrphaNumber>
-        <Name lang="de">Osteomyelitis, chronische multifokale rezidivierende</Name>
+        <Name lang="de">Chronische nicht-bakterielle Osteomyelitis/rezidivierende multifokale Osteomyelitis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22411,7 +22411,7 @@
     <HPODisorderSetStatus id="2266">
       <Disorder id="19886">
         <OrphaNumber>261529</OrphaNumber>
-        <Name lang="de">Ringchromosom Y</Name>
+        <Name lang="de">Ringchromosom-Y-Syndrom</Name>
       </Disorder>
       <Source>18555994[PMID]_25381945[PMID]_965013[PMID]_649173[PMID]_16359976[PMID]_24052714[PMID]_10424817[PMID]_16359976[PMID]_ISBN-13: 978-3110116076[BOOK]_24052714[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -22752,7 +22752,7 @@
     <HPODisorderSetStatus id="2299">
       <Disorder id="19879">
         <OrphaNumber>261476</OrphaNumber>
-        <Name lang="de">Monosomie Xp21</Name>
+        <Name lang="de">Mikrodeletionssyndrom Xp21</Name>
       </Disorder>
       <Source>9188656[PMID]_7750200[PMID]_6315281[PMID]_3766905[PMID]_6249182[PMID]_2852474[PMID]_200232[PMID]_25917374[PMID]_2883886[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -23258,7 +23258,7 @@
     <HPODisorderSetStatus id="2051">
       <Disorder id="17234">
         <OrphaNumber>158676</OrphaNumber>
-        <Name lang="de">Epidermolysis bullosa, dystrophe (nur Nägel)</Name>
+        <Name lang="de">Epidermolysis bullosa, dystrophe, dominante, nur NŠgel</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -23885,7 +23885,7 @@
     <HPODisorderSetStatus id="2136">
       <Disorder id="19121">
         <OrphaNumber>228390</OrphaNumber>
-        <Name lang="de">Fronto-nasale Dysplasie - Alopezie - Genitalanomalien</Name>
+        <Name lang="de">Fronto-nasale Dysplasie mit Alopezie und Genitalanomalien</Name>
       </Disorder>
       <Source>19692347[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25733,7 +25733,7 @@
     <HPODisorderSetStatus id="2548">
       <Disorder id="2688">
         <OrphaNumber>2985</OrphaNumber>
-        <Name lang="de">Pseudoprogeria-Syndrom</Name>
+        <Name lang="de">Pseudo-Progerie-Syndrom</Name>
       </Disorder>
       <Source>4418946[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25964,7 +25964,7 @@
     <HPODisorderSetStatus id="2316">
       <Disorder id="16697">
         <OrphaNumber>137634</OrphaNumber>
-        <Name lang="de">Overgrowth-Syndrom - Lernstörungen - Gesichtsdysmorphien</Name>
+        <Name lang="de">Gro§wuchs-Makrozephalie-Gesichtsdysmorphie-Syndrom</Name>
       </Disorder>
       <Source>17632510[PMID]_26368817[PMID]_19291764[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27273,7 +27273,7 @@
     <HPODisorderSetStatus id="2742">
       <Disorder id="1642">
         <OrphaNumber>1449</OrphaNumber>
-        <Name lang="de">Ringchromosom 7</Name>
+        <Name lang="de">Ringchromosom-7-Syndrom</Name>
       </Disorder>
       <Source>15337469[PMID]_15580634[PMID]_21303521[PMID]_2395166[PMID]_23509645[PMID]_24677512[PMID]_26669311[PMID]_10905891[PMID]_10797441[PMID]_8362903[PMID]_8428052[PMID]_1746606[PMID]_4145271[PMID]_7172483[PMID]_6705244[PMID]_3150243[PMID]_2189730[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28098,7 +28098,7 @@
     <HPODisorderSetStatus id="2799">
       <Disorder id="20460">
         <OrphaNumber>280365</OrphaNumber>
-        <Name lang="de">Laminopathie, lipodystrophe schwere, autosomal-kodominant</Name>
+        <Name lang="de">Laminopathie, lipodystrophe, schwere, autosomal-semidominante</Name>
       </Disorder>
       <Source>21346069[PMID]_25819867[PMID]_20421363[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28604,7 +28604,7 @@
     <HPODisorderSetStatus id="2610">
       <Disorder id="19537">
         <OrphaNumber>247691</OrphaNumber>
-        <Name lang="de">Retinale Vaskulopathie und zerebrale Leukoenzephalopathie</Name>
+        <Name lang="de">Retinale Vaskulopathie mit zerebraler Leukoenzephalopathie und systemischen Manifestationen</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -29132,7 +29132,7 @@
     <HPODisorderSetStatus id="2562">
       <Disorder id="12800">
         <OrphaNumber>96176</OrphaNumber>
-        <Name lang="de">Ringchromosom 13</Name>
+        <Name lang="de">Ringchromosom-13-Syndrom</Name>
       </Disorder>
       <Source>7129419[PMID]_9881566[PMID]_1277571[PMID]_7440241[PMID]_5303427[PMID]_11273829[PMID]_23431756[PMID]_9332662[PMID]_1433229[PMID]_25171325[PMID]_24932608[PMID]_25377780[PMID]_717293[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29583,7 +29583,7 @@
     <HPODisorderSetStatus id="2641">
       <Disorder id="1077">
         <OrphaNumber>1439</OrphaNumber>
-        <Name lang="de">Ringchromosom 12</Name>
+        <Name lang="de">Ringchromosom-12-Syndrom</Name>
       </Disorder>
       <Source>12599192</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30914,7 +30914,7 @@
     <HPODisorderSetStatus id="3057">
       <Disorder id="12552">
         <OrphaNumber>94080</OrphaNumber>
-        <Name lang="de">Paragangliom, nicht-sezernierendes</Name>
+        <Name lang="de">Paragangliom, nicht-funktionelles</Name>
       </Disorder>
       <Source>17200167[PMID]_24893135[PMID]_19628817[PMID]_22948026[PMID]_17102067[PMID]_9509062[PMID]_17940110[PMID]_12000821[PMID]_17940110[PMID]_20503330[PMID]_12574179[PMID]_11502790[PMID]_9509062[PMID]_5015920[PMID]_20260947[PMID]_4340974[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -31563,7 +31563,7 @@
     <HPODisorderSetStatus id="2864">
       <Disorder id="2826">
         <OrphaNumber>1479</OrphaNumber>
-        <Name lang="de">Atriumseptumdefekt mit Reizleitungsstörung</Name>
+        <Name lang="de">Atriumseptumdefekt mit atrio-ventrikulären Reizleitungsstörungen</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31849,7 +31849,7 @@
     <HPODisorderSetStatus id="2825">
       <Disorder id="4045">
         <OrphaNumber>1901</OrphaNumber>
-        <Name lang="de">Ehlers-Danlos-Syndrom, Dermatospraxis Typ</Name>
+        <Name lang="de">Ehlers-Danlos-Syndrom, Dermatosparaxis Typ</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32069,7 +32069,7 @@
     <HPODisorderSetStatus id="2915">
       <Disorder id="2545">
         <OrphaNumber>2802</OrphaNumber>
-        <Name lang="de">X-chromosomale sideroblastische Anämie und Ataxie</Name>
+        <Name lang="de">X-chromosomale sideroblastische AnŠmie und spinozerebellŠre Ataxie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32146,7 +32146,7 @@
     <HPODisorderSetStatus id="2922">
       <Disorder id="896">
         <OrphaNumber>1446</OrphaNumber>
-        <Name lang="de">Ringchromosom 22</Name>
+        <Name lang="de">Ringchromosom-22-Syndrom</Name>
       </Disorder>
       <Source>26043508[PMID]_25286802[PMID]_24700634[PMID]_21271667[PMID]_20709628[PMID]_19940762[PMID]_16059935[PMID]_15372517[PMID]_15305353[PMID]_12752574[PMID]_10706359[PMID]_10204853[PMID]_1424240[PMID]_519902[PMID]_912941[PMID]_4697858[PMID]_</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32190,7 +32190,7 @@
     <HPODisorderSetStatus id="2926">
       <Disorder id="10583">
         <OrphaNumber>43393</OrphaNumber>
-        <Name lang="de">Lambert-Eaton-Myasthenisches Syndrom</Name>
+        <Name lang="de">Lambert-Eaton-Myasthenie-Syndrom</Name>
       </Disorder>
       <Source>22094130[PMID].</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32410,7 +32410,7 @@
     <HPODisorderSetStatus id="2880">
       <Disorder id="2331">
         <OrphaNumber>2521</OrphaNumber>
-        <Name lang="de">Mikrozephalie - Gaumenspalte</Name>
+        <Name lang="de">Mikrozephalie-Gaumenspalte-abnorme Retinapigmentierung-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32564,7 +32564,7 @@
     <HPODisorderSetStatus id="2899">
       <Disorder id="2860">
         <OrphaNumber>3194</OrphaNumber>
-        <Name lang="de">Stern-Lubinsky-Durrie-Syndrom</Name>
+        <Name lang="de">Korneo-dermato-ossŠres-Syndrom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="de">Gliedergürtelmuskeldystrophie, autosomal-rezessive, Typ 2S</Name>
       </Disorder>
-      <Source>16636240[PMID]</Source>
+      <Source>26322222[PMID]_23830518[PMID]_27862579[PMID]_27707803[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -33708,7 +33708,7 @@
     <HPODisorderSetStatus id="3209">
       <Disorder id="21449">
         <OrphaNumber>313772</OrphaNumber>
-        <Name lang="de">Spastische Ataxie-Neuropathie-Syndrom, früh beginnend</Name>
+        <Name lang="de">FrŸh beginnende spastische Ataxie-myoklonische Epilepsie-Neuropathie-Syndrom</Name>
       </Disorder>
       <Source>22022284[PMID]_25401298[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34269,7 +34269,7 @@
     <HPODisorderSetStatus id="3158">
       <Disorder id="21934">
         <OrphaNumber>329466</OrphaNumber>
-        <Name lang="de">Dystonie, fokale, autosomal-dominante, DYT25</Name>
+        <Name lang="de">Dystonie, fokale, autosomal-dominante, Typ DYT25</Name>
       </Disorder>
       <Source>8309575[PMID]_23222958[PMID]_24952478[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34434,7 +34434,7 @@
     <HPODisorderSetStatus id="3143">
       <Disorder id="22695">
         <OrphaNumber>397715</OrphaNumber>
-        <Name lang="de">Joubert-Syndrom mit Jeune asphyxiierender Thoraxdystrophie</Name>
+        <Name lang="de">Joubert-Syndrom mit Jeune asphyxierender Thoraxdystrophie</Name>
       </Disorder>
       <Source>20503315[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35380,7 +35380,7 @@
     <HPODisorderSetStatus id="3115">
       <Disorder id="825">
         <OrphaNumber>1177</OrphaNumber>
-        <Name lang="de">Harding-Ataxie</Name>
+        <Name lang="de">Ataxie, zerebelläre, früh beginnende, mit Erhalt der Sehnenreflexe</Name>
       </Disorder>
       <Source>7276963[PMID]_8330454[PMID]_9686785[PMID]_1884166[PMID]_2213043[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35542,6 +35542,94 @@
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3338">
+      <Disorder id="8755">
+        <OrphaNumber>25968</OrphaNumber>
+        <Name lang="de">Epilepsie, benigne okzipitale</Name>
+      </Disorder>
+      <Source>23127259[PMID]_18669497[PMID]_6802526[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 15:51:37.606</CreationDate>
+      <UpdateDate>2018-09-10 15:51:37.606</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3339">
+      <Disorder id="11045">
+        <OrphaNumber>73267</OrphaNumber>
+        <Name lang="de">Nicht-24-Stunden-Schlaf-Wach-Syndrom</Name>
+      </Disorder>
+      <Source>1435929[PMID]_18041479[PMID]_23385698[PMID]_26568125[PMID]_27500861[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 14:51:27.76</CreationDate>
+      <UpdateDate>2018-09-17 14:51:27.76</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3336">
+      <Disorder id="11138">
+        <OrphaNumber>79096</OrphaNumber>
+        <Name lang="de">Pyridoxalphosphat-abhängige Epilepsie</Name>
+      </Disorder>
+      <Source>12747882[PMID]_24645144[PMID]_24658933[PMID]_12200739[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 14:54:49.156</CreationDate>
+      <UpdateDate>2018-09-10 14:54:49.156</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3337">
+      <Disorder id="11181">
+        <OrphaNumber>79155</OrphaNumber>
+        <Name lang="de">Enzephalopathie durch Hydroxykynureninurie</Name>
+      </Disorder>
+      <Source>[PMID]_17334708[PMID]_5586569[PMID]_14169454[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 15:22:39.023</CreationDate>
+      <UpdateDate>2018-09-10 15:22:39.023</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3342">
+      <Disorder id="19190">
+        <OrphaNumber>231445</OrphaNumber>
+        <Name lang="de">Paraparetische Variante des Guillain-Barré-Syndroms</Name>
+      </Disorder>
+      <Source>28514704[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 16:51:08.04</CreationDate>
+      <UpdateDate>2018-09-17 16:51:08.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3343">
+      <Disorder id="18939">
+        <OrphaNumber>221091</OrphaNumber>
+        <Name lang="de">Trigeminusneuralgie</Name>
+      </Disorder>
+      <Source>12940815[PMID]_11960159[PMID]_11565877[PMID]_1983882[PMID]_24534115[PMID]_27306631[PMID]_2716987[PMID]_5334334[PMID]_14315671[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 11:47:33.056</CreationDate>
+      <UpdateDate>2018-09-19 11:47:33.056</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3340">
+      <Disorder id="11571">
+        <OrphaNumber>83452</OrphaNumber>
+        <Name lang="de">Komplexes regionales Schmerzsyndrom</Name>
+      </Disorder>
+      <Source>10522900[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 15:32:43.67</CreationDate>
+      <UpdateDate>2018-09-17 15:32:43.67</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3341">
+      <Disorder id="14865">
+        <OrphaNumber>101685</OrphaNumber>
+        <Name lang="de">Seltene nicht-syndromale Intelligenzminderung</Name>
+      </Disorder>
+      <Source>30167849[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 16:01:49.31</CreationDate>
+      <UpdateDate>2018-09-17 16:01:49.31</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3330">
       <Disorder id="22625">
         <OrphaNumber>391474</OrphaNumber>
@@ -35585,6 +35673,94 @@
       <Online>y</Online>
       <CreationDate>2018-08-22 15:23:59.186</CreationDate>
       <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3334">
+      <Disorder id="8031">
+        <OrphaNumber>396</OrphaNumber>
+        <Name lang="de">Singultus, chronischer</Name>
+      </Disorder>
+      <Source>28759492[PMID]_1477559[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-05 17:40:10.31</CreationDate>
+      <UpdateDate>2018-09-05 17:40:10.31</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3335">
+      <Disorder id="6519">
+        <OrphaNumber>639</OrphaNumber>
+        <Name lang="de">Polyneuropathie mit monoklonaler IgM-Gammopathie mit Anti-MAG</Name>
+      </Disorder>
+      <Source>7953603[PMID]_1706212[PMID]_19720975[PMID]_8673490[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 14:12:32.296</CreationDate>
+      <UpdateDate>2018-09-10 14:12:32.296</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3332">
+      <Disorder id="25401">
+        <OrphaNumber>488437</OrphaNumber>
+        <Name lang="de">SIX2-assoziierte frontonasale Dysplasie</Name>
+      </Disorder>
+      <Source>26581443[PMID]_10773454[PMID]_7720577[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-03 14:37:36.95</CreationDate>
+      <UpdateDate>2018-09-03 14:37:36.95</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3333">
+      <Disorder id="22435">
+        <OrphaNumber>369847</OrphaNumber>
+        <Name lang="de">Intelligenzminderung-Hyperkinetische Bewegungsstörungen-Trunkale Ataxie-Syndrom</Name>
+      </Disorder>
+      <Source>23830518[PMID]_26322222[PMID]_27862579[PMID]_27707803[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-05 14:01:21.636</CreationDate>
+      <UpdateDate>2018-09-05 14:01:21.636</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3347">
+      <Disorder id="16711">
+        <OrphaNumber>137754</OrphaNumber>
+        <Name lang="de">Enzephalopathie mit assoziiertem Aminoacylase 1-Mangel</Name>
+      </Disorder>
+      <Source>17562838[PMID]_16465618[PMID]_24117009[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-24 14:34:20.63</CreationDate>
+      <UpdateDate>2018-09-24 14:34:20.63</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3346">
+      <Disorder id="13933">
+        <OrphaNumber>98916</OrphaNumber>
+        <Name lang="de">Akute demyelinisierende inflammatorische Polyradikuloneuropathie</Name>
+      </Disorder>
+      <Source>12439896[PMID]_1929520[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-24 13:41:25.026</CreationDate>
+      <UpdateDate>2018-09-24 13:41:25.026</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3345">
+      <Disorder id="18616">
+        <OrphaNumber>208981</OrphaNumber>
+        <Name lang="de">Polyradikuloneuropathie mit assoziierter IgG/IgM/IgA monoklonaler Gammopathie ohne bekannte Antikörper</Name>
+      </Disorder>
+      <Source>8232929[PMID]_1603342[PMID]_24980070[PMID]_21040140[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 17:36:35.49</CreationDate>
+      <UpdateDate>2018-09-19 17:36:35.49</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3344">
+      <Disorder id="18621">
+        <OrphaNumber>209004</OrphaNumber>
+        <Name lang="de">Polyneuropathie, axonale, mit assoziierter IgG/IgM/IgA monoklonaler Gammopathie</Name>
+      </Disorder>
+      <Source>14641513[PMID]_10540371[PMID]_8380902[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 17:01:54.023</CreationDate>
+      <UpdateDate>2018-09-19 17:01:54.023</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

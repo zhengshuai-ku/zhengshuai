@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:13:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:14:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13024">
       <OrphaNumber>98006</OrphaNumber>
@@ -2172,7 +2172,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166472</ExpertLink>
                     <Name lang="en">Monogenic disease with epilepsy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="33">
+                  <ClassificationNodeChildList count="34">
                     <ClassificationNode>
                       <Disorder id="5543">
                         <OrphaNumber>428</OrphaNumber>
@@ -2691,6 +2691,15 @@
                         <OrphaNumber>505652</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505652</ExpertLink>
                         <Name lang="en">CDKL5-related epileptic encephalopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26327">
+                        <OrphaNumber>505237</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505237</ExpertLink>
+                        <Name lang="en">Early-onset seizures-distal limb anomalies-facial dysmorphism-global developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -10628,7 +10637,7 @@
                       <Disorder id="11502">
                         <OrphaNumber>79476</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79476</ExpertLink>
-                        <Name lang="en">Griscelli disease type 1</Name>
+                        <Name lang="en">Griscelli syndrome type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -11120,7 +11129,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182070</ExpertLink>
                 <Name lang="en">Rare neurodegenerative disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="54">
+              <ClassificationNodeChildList count="55">
                 <ClassificationNode>
                   <Disorder id="25835">
                     <OrphaNumber>496641</OrphaNumber>
@@ -11135,6 +11144,15 @@
                     <OrphaNumber>480864</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480864</ExpertLink>
                     <Name lang="en">Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="25166">
+                    <OrphaNumber>478029</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478029</ExpertLink>
+                    <Name lang="en">Combined oxidative phosphorylation defect type 29</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -16237,7 +16255,7 @@
                   <Disorder id="3637">
                     <OrphaNumber>2073</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2073</ExpertLink>
-                    <Name lang="en">Narcolepsy-cataplexy syndrome</Name>
+                    <Name lang="en">Narcolepsy type 1</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -16291,7 +16309,7 @@
                   <Disorder id="11576">
                     <OrphaNumber>83465</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83465</ExpertLink>
-                    <Name lang="en">Narcolepsy without cataplexy</Name>
+                    <Name lang="en">Narcolepsy type 2</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -25338,7 +25356,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102369</ExpertLink>
                     <Name lang="en">Rare syndromic intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="428">
+                  <ClassificationNodeChildList count="430">
                     <ClassificationNode>
                       <Disorder id="1160">
                         <OrphaNumber>1713</OrphaNumber>
@@ -27937,7 +27955,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="143">
+                      <ClassificationNodeChildList count="142">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -28699,15 +28717,6 @@
                             <OrphaNumber>67045</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=67045</ExpertLink>
                             <Name lang="en">X-linked intellectual disability with isolated growth hormone deficiency</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11123">
-                            <OrphaNumber>79022</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79022</ExpertLink>
-                            <Name lang="en">Simpson-Golabi-Behmel syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -31703,6 +31712,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="1544">
+                        <OrphaNumber>1321</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1321</ExpertLink>
+                        <Name lang="en">Camptodactyly-fibrous tissue hyperplasia-skeletal dysplasia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="147">
                         <OrphaNumber>280</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280</ExpertLink>
@@ -32481,6 +32499,15 @@
                         <OrphaNumber>3101</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3101</ExpertLink>
                         <Name lang="en">Richieri Costa-da Silva syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26327">
+                        <OrphaNumber>505237</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505237</ExpertLink>
+                        <Name lang="en">Early-onset seizures-distal limb anomalies-facial dysmorphism-global developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

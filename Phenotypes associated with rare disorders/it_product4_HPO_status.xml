@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:05:01" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3239">
+<JDBOR date="2018-10-01 04:05:06" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3255">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -468,7 +468,7 @@
         <OrphaNumber>558</OrphaNumber>
         <Name lang="it">Sindrome di Marfan</Name>
       </Disorder>
-      <Source/>
+      <Source>26621648[PMID]_25323262[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:19.933</CreationDate>
@@ -5777,7 +5777,7 @@
         <OrphaNumber>869</OrphaNumber>
         <Name lang="it">Sindrome della tripla A</Name>
       </Disorder>
-      <Source/>
+      <Source>78049[PMID]_27707803[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:58.246</CreationDate>
@@ -8345,7 +8345,7 @@
     <HPODisorderSetStatus id="812">
       <Disorder id="1805">
         <OrphaNumber>1812</OrphaNumber>
-        <Name lang="it">Displasia ectodermica - ritardo mentale - malformazioni del sistema nervoso centrale</Name>
+        <Name lang="it">Displasia ectodermica - disabilità intellettiva - malformazioni del sistema nervoso centrale</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22422,7 +22422,7 @@
     <HPODisorderSetStatus id="2267">
       <Disorder id="23020">
         <OrphaNumber>411590</OrphaNumber>
-        <Name lang="it">Sindrome Wolfram-like</Name>
+        <Name lang="it">Sindrome Wolfram-simile</Name>
       </Disorder>
       <Source>16648378[PMID]_21538838[PMID]_18544103[PMID]_12107816[PMID]_7490992[PMID]_20301750[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33435,7 +33435,7 @@
         <OrphaNumber>369840</OrphaNumber>
         <Name lang="it">Distrofia muscolare dei cingoli autosomica recessiva, tipo 2S</Name>
       </Disorder>
-      <Source>16636240[PMID]</Source>
+      <Source>26322222[PMID]_23830518[PMID]_27862579[PMID]_27707803[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2018-07-12 11:36:08.46</CreationDate>
@@ -35542,6 +35542,94 @@
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3338">
+      <Disorder id="8755">
+        <OrphaNumber>25968</OrphaNumber>
+        <Name lang="it">Epilessia benigna occipitale</Name>
+      </Disorder>
+      <Source>23127259[PMID]_18669497[PMID]_6802526[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 15:51:37.606</CreationDate>
+      <UpdateDate>2018-09-10 15:51:37.606</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3339">
+      <Disorder id="11045">
+        <OrphaNumber>73267</OrphaNumber>
+        <Name lang="it">Sindrome del ritmo sonno-veglia differente da 24 ore</Name>
+      </Disorder>
+      <Source>1435929[PMID]_18041479[PMID]_23385698[PMID]_26568125[PMID]_27500861[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 14:51:27.76</CreationDate>
+      <UpdateDate>2018-09-17 14:51:27.76</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3336">
+      <Disorder id="11138">
+        <OrphaNumber>79096</OrphaNumber>
+        <Name lang="it">Convulsioni sensibili al piridossal fosfato</Name>
+      </Disorder>
+      <Source>12747882[PMID]_24645144[PMID]_24658933[PMID]_12200739[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 14:54:49.156</CreationDate>
+      <UpdateDate>2018-09-10 14:54:49.156</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3337">
+      <Disorder id="11181">
+        <OrphaNumber>79155</OrphaNumber>
+        <Name lang="it">Encefalopatia da idrossichinureninuria</Name>
+      </Disorder>
+      <Source>[PMID]_17334708[PMID]_5586569[PMID]_14169454[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 15:22:39.023</CreationDate>
+      <UpdateDate>2018-09-10 15:22:39.023</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3342">
+      <Disorder id="19190">
+        <OrphaNumber>231445</OrphaNumber>
+        <Name lang="it">Variante paraparetica della sindrome di Guillain-Barré</Name>
+      </Disorder>
+      <Source>28514704[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 16:51:08.04</CreationDate>
+      <UpdateDate>2018-09-17 16:51:08.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3343">
+      <Disorder id="18939">
+        <OrphaNumber>221091</OrphaNumber>
+        <Name lang="it">Nevralgia del trigemino</Name>
+      </Disorder>
+      <Source>12940815[PMID]_11960159[PMID]_11565877[PMID]_1983882[PMID]_24534115[PMID]_27306631[PMID]_2716987[PMID]_5334334[PMID]_14315671[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 11:47:33.056</CreationDate>
+      <UpdateDate>2018-09-19 11:47:33.056</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3340">
+      <Disorder id="11571">
+        <OrphaNumber>83452</OrphaNumber>
+        <Name lang="it">Sindrome da dolore regionale complesso</Name>
+      </Disorder>
+      <Source>10522900[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 15:32:43.67</CreationDate>
+      <UpdateDate>2018-09-17 15:32:43.67</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3341">
+      <Disorder id="14865">
+        <OrphaNumber>101685</OrphaNumber>
+        <Name lang="it">Deficit cognitivo raro senza dismorfismi</Name>
+      </Disorder>
+      <Source>30167849[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-17 16:01:49.31</CreationDate>
+      <UpdateDate>2018-09-17 16:01:49.31</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3330">
       <Disorder id="22625">
         <OrphaNumber>391474</OrphaNumber>
@@ -35585,6 +35673,94 @@
       <Online>y</Online>
       <CreationDate>2018-08-22 15:23:59.186</CreationDate>
       <UpdateDate>2018-08-22 15:23:59.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3334">
+      <Disorder id="8031">
+        <OrphaNumber>396</OrphaNumber>
+        <Name lang="it">Singhiozzo cronico</Name>
+      </Disorder>
+      <Source>28759492[PMID]_1477559[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-05 17:40:10.31</CreationDate>
+      <UpdateDate>2018-09-05 17:40:10.31</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3335">
+      <Disorder id="6519">
+        <OrphaNumber>639</OrphaNumber>
+        <Name lang="it">Polineuropatia associata a gammopatia monoclonale IgM con anti-MAG</Name>
+      </Disorder>
+      <Source>7953603[PMID]_1706212[PMID]_19720975[PMID]_8673490[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-10 14:12:32.296</CreationDate>
+      <UpdateDate>2018-09-10 14:12:32.296</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3332">
+      <Disorder id="25401">
+        <OrphaNumber>488437</OrphaNumber>
+        <Name lang="it">SIX2-related frontonasal dysplasia</Name>
+      </Disorder>
+      <Source>26581443[PMID]_10773454[PMID]_7720577[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-03 14:37:36.95</CreationDate>
+      <UpdateDate>2018-09-03 14:37:36.95</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3333">
+      <Disorder id="22435">
+        <OrphaNumber>369847</OrphaNumber>
+        <Name lang="it">Sindrome deficit cognitivo-ipercinesia-atassia del tronco</Name>
+      </Disorder>
+      <Source>23830518[PMID]_26322222[PMID]_27862579[PMID]_27707803[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-05 14:01:21.636</CreationDate>
+      <UpdateDate>2018-09-05 14:01:21.636</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3347">
+      <Disorder id="16711">
+        <OrphaNumber>137754</OrphaNumber>
+        <Name lang="it">Neuropatie da deficit di aminoacilasi 1</Name>
+      </Disorder>
+      <Source>17562838[PMID]_16465618[PMID]_24117009[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-24 14:34:20.63</CreationDate>
+      <UpdateDate>2018-09-24 14:34:20.63</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3346">
+      <Disorder id="13933">
+        <OrphaNumber>98916</OrphaNumber>
+        <Name lang="it">Poliradiculoneuropatia demielinizzante infiammatoria acuta</Name>
+      </Disorder>
+      <Source>12439896[PMID]_1929520[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-24 13:41:25.026</CreationDate>
+      <UpdateDate>2018-09-24 13:41:25.026</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3345">
+      <Disorder id="18616">
+        <OrphaNumber>208981</OrphaNumber>
+        <Name lang="it">Poliradiculoneuropatia associata a gammopatia monoclonale IgG/IgA/IgM senza anticorpi conosciuti</Name>
+      </Disorder>
+      <Source>8232929[PMID]_1603342[PMID]_24980070[PMID]_21040140[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 17:36:35.49</CreationDate>
+      <UpdateDate>2018-09-19 17:36:35.49</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3344">
+      <Disorder id="18621">
+        <OrphaNumber>209004</OrphaNumber>
+        <Name lang="it">Polineuropatia assonale associata a gammopatia monoclonale IgG/IgM/IgA</Name>
+      </Disorder>
+      <Source>14641513[PMID]_10540371[PMID]_8380902[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-09-19 17:01:54.023</CreationDate>
+      <UpdateDate>2018-09-19 17:01:54.023</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:14:27" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:14:36" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="10468">
       <OrphaNumber>68329</OrphaNumber>
@@ -401,7 +401,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156207</ExpertLink>
                 <Name lang="en">Macroglossia</Name>
               </Disorder>
-              <ClassificationNodeChildList count="7">
+              <ClassificationNodeChildList count="6">
                 <ClassificationNode>
                   <Disorder id="260">
                     <OrphaNumber>116</OrphaNumber>
@@ -497,15 +497,6 @@
                     <OrphaNumber>2128</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2128</ExpertLink>
                     <Name lang="en">Isolated hemihyperplasia</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="11123">
-                    <OrphaNumber>79022</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79022</ExpertLink>
-                    <Name lang="en">Simpson-Golabi-Behmel syndrome type 2</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -770,7 +761,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156237</ExpertLink>
                 <Name lang="en">Syndrome or malformation associated with head and neck malformations</Name>
               </Disorder>
-              <ClassificationNodeChildList count="30">
+              <ClassificationNodeChildList count="29">
                 <ClassificationNode>
                   <Disorder id="20370">
                     <OrphaNumber>276280</OrphaNumber>
@@ -1028,15 +1019,6 @@
                     <OrphaNumber>90650</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90650</ExpertLink>
                     <Name lang="en">Otopalatodigital syndrome type 1</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="11123">
-                    <OrphaNumber>79022</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79022</ExpertLink>
-                    <Name lang="en">Simpson-Golabi-Behmel syndrome type 2</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

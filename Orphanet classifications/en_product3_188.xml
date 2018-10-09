@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:14:04" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:14:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12456">
       <OrphaNumber>93626</OrphaNumber>
@@ -2525,7 +2525,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93593</ExpertLink>
                 <Name lang="en">Nephropathy secondary to a storage or other metabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="29">
+              <ClassificationNodeChildList count="30">
                 <ClassificationNode>
                   <Disorder id="94">
                     <OrphaNumber>324</OrphaNumber>
@@ -3161,6 +3161,15 @@
                     <OrphaNumber>411634</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=411634</ExpertLink>
                     <Name lang="en">Juvenile nephropathic cystinosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19815">
+                    <OrphaNumber>255249</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255249</ExpertLink>
+                    <Name lang="en">Leigh syndrome with nephrotic syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

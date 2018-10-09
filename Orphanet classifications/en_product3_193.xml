@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-09-01 04:14:07" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-10-01 04:14:15" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -4062,7 +4062,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98305</ExpertLink>
                     <Name lang="en">Genetic lipodystrophy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="13">
                     <ClassificationNode>
                       <Disorder id="1007">
                         <OrphaNumber>528</OrphaNumber>
@@ -4239,6 +4239,60 @@
                         <OrphaNumber>435628</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435628</ExpertLink>
                         <Name lang="en">Keppen-Lubinsky syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22331">
+                        <OrphaNumber>363649</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
+                        <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21819">
+                        <OrphaNumber>324977</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324977</ExpertLink>
+                        <Name lang="en">Proteasome disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="21822">
+                            <OrphaNumber>324999</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324999</ExpertLink>
+                            <Name lang="en">JMP syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21823">
+                            <OrphaNumber>325004</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=325004</ExpertLink>
+                            <Name lang="en">CANDLE syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1223">
+                            <OrphaNumber>2615</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2615</ExpertLink>
+                            <Name lang="en">Nakajo-Nishimura syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20476">
+                        <OrphaNumber>280576</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280576</ExpertLink>
+                        <Name lang="en">Nestor-Guillermo progeria syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5838,7 +5892,7 @@
                           <Disorder id="22449">
                             <OrphaNumber>369929</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369929</ExpertLink>
-                            <Name lang="en">Aldosterone-producing adenoma with seizures and neurological abnormalities</Name>
+                            <Name lang="en">Primary hyperaldosteronism-seizures-neurological abnormalities syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
