@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:13:50" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:13:56" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="16780">
       <OrphaNumber>138221</OrphaNumber>
@@ -2643,7 +2643,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1037</ExpertLink>
                                 <Name lang="en">Arthrogryposis multiplex congenita</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="9">
+                              <ClassificationNodeChildList count="10">
+                                <ClassificationNode>
+                                  <Disorder id="3081">
+                                    <OrphaNumber>2547</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2547</ExpertLink>
+                                    <Name lang="en">Microphthalmia-microtia-fetal akinesia syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="420">
                                     <OrphaNumber>1143</OrphaNumber>

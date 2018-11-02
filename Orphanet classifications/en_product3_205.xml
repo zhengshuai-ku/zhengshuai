@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12845">
       <OrphaNumber>96344</OrphaNumber>
@@ -1643,7 +1643,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180208</ExpertLink>
                 <Name lang="en">Anomaly of puberty or/and menstrual cycle</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="7">
                 <ClassificationNode>
                   <Disorder id="8671">
                     <OrphaNumber>785</OrphaNumber>
@@ -2299,15 +2299,6 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="18018">
-                    <OrphaNumber>178345</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178345</ExpertLink>
-                    <Name lang="en">Aromatase excess syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

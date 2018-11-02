@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:10" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -2571,7 +2571,7 @@
                           <Disorder id="19121">
                             <OrphaNumber>228390</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228390</ExpertLink>
-                            <Name lang="en">Frontonasal dysplasia with alopecia and genital anomaly</Name>
+                            <Name lang="en">Frontonasal dysplasia-alopecia-genital anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2627,7 +2627,7 @@
                       <Disorder id="11391">
                         <OrphaNumber>79365</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79365</ExpertLink>
-                        <Name lang="en">Hypertrichosis</Name>
+                        <Name lang="en">Rare disorder with hypertrichosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="13">
                         <ClassificationNode>
@@ -3306,7 +3306,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="111">
+                  <ClassificationNodeChildList count="110">
                     <ClassificationNode>
                       <Disorder id="3069">
                         <OrphaNumber>3200</OrphaNumber>
@@ -3430,7 +3430,25 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1071</ExpertLink>
                         <Name lang="en">Ankyloblepharon-ectodermal defects-cleft lip/palate syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="1366">
+                            <OrphaNumber>1072</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1072</ExpertLink>
+                            <Name lang="en">Ankyloblepharon filiforme adnatum-cleft palate syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1368">
+                            <OrphaNumber>1074</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
+                            <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -4028,15 +4046,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="2976">
-                        <OrphaNumber>3357</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3357</ExpertLink>
-                        <Name lang="en">Autosomal dominant trichoodontoonychodysplasia-syndactyly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="2981">
                         <OrphaNumber>3363</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3363</ExpertLink>
@@ -4184,7 +4193,7 @@
                       <Disorder id="13626">
                         <OrphaNumber>98609</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98609</ExpertLink>
-                        <Name lang="en">EEC syndrome and related syndrome</Name>
+                        <Name lang="en">EEC syndrome and related disorder</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>

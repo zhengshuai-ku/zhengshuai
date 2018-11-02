@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:29" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:36" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -1957,7 +1957,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171918</ExpertLink>
                                     <Name lang="en">T-cell non-Hodgkin lymphoma</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="13">
+                                  <ClassificationNodeChildList count="11">
                                     <ClassificationNode>
                                       <Disorder id="10952">
                                         <OrphaNumber>70568</OrphaNumber>
@@ -1981,24 +1981,6 @@
                                         <OrphaNumber>86871</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86871</ExpertLink>
                                         <Name lang="en">T-cell prolymphocytic leukemia</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="11768">
-                                        <OrphaNumber>86875</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86875</ExpertLink>
-                                        <Name lang="en">Adult T-cell leukemia/lymphoma</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="11769">
-                                        <OrphaNumber>86879</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86879</ExpertLink>
-                                        <Name lang="en">Extranodal nasal NK/T cell lymphoma</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -2919,7 +2901,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71209</ExpertLink>
                     <Name lang="en">Rare soft tissue tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="14">
+                  <ClassificationNodeChildList count="13">
                     <ClassificationNode>
                       <Disorder id="25142">
                         <OrphaNumber>477742</OrphaNumber>
@@ -2943,15 +2925,6 @@
                         <OrphaNumber>2028</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2028</ExpertLink>
                         <Name lang="en">Juvenile hyaline fibromatosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3530">
-                        <OrphaNumber>2023</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2023</ExpertLink>
-                        <Name lang="en">Undifferentiated pleomorphic sarcoma</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7662,7 +7635,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101950</ExpertLink>
                     <Name lang="en">Rare eye tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="10">
                     <ClassificationNode>
                       <Disorder id="122">
                         <OrphaNumber>790</OrphaNumber>
@@ -7749,6 +7722,42 @@
                         <OrphaNumber>440727</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=440727</ExpertLink>
                         <Name lang="en">Combined hamartoma of the retina and retinal pigment epithelium</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="185">
+                        <OrphaNumber>636</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=636</ExpertLink>
+                        <Name lang="en">Neurofibromatosis type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="12945">
+                            <OrphaNumber>97685</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97685</ExpertLink>
+                            <Name lang="en">17q11 microdeletion syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22341">
+                            <OrphaNumber>363700</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363700</ExpertLink>
+                            <Name lang="en">Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22142">
+                        <OrphaNumber>353356</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353356</ExpertLink>
+                        <Name lang="en">Vasoproliferative tumor of the retina</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -8567,7 +8576,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100088</ExpertLink>
                             <Name lang="en">Thyroid carcinoma</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="5">
                             <ClassificationNode>
                               <Disorder id="905">
                                 <OrphaNumber>146</OrphaNumber>
@@ -8627,15 +8636,6 @@
                                 <OrphaNumber>1332</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1332</ExpertLink>
                                 <Name lang="en">Medullary thyroid carcinoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12883">
-                                <OrphaNumber>97290</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97290</ExpertLink>
-                                <Name lang="en">Familial papillary thyroid carcinoma with renal papillary neoplasia</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9977,7 +9977,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140162</ExpertLink>
                 <Name lang="en">Inherited cancer-predisposing syndrome</Name>
               </Disorder>
-              <ClassificationNodeChildList count="33">
+              <ClassificationNodeChildList count="30">
                 <ClassificationNode>
                   <Disorder id="19732">
                     <OrphaNumber>252206</OrphaNumber>
@@ -9992,15 +9992,6 @@
                     <OrphaNumber>145</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=145</ExpertLink>
                     <Name lang="en">Hereditary breast and ovarian cancer syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="99">
-                    <OrphaNumber>892</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=892</ExpertLink>
-                    <Name lang="en">Von Hippel-Lindau disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10082,15 +10073,6 @@
                     <OrphaNumber>296</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
                     <Name lang="en">Enchondromatosis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="2390">
-                    <OrphaNumber>2608</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2608</ExpertLink>
-                    <Name lang="en">N syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -11146,15 +11128,6 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="21658">
-                    <OrphaNumber>319462</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319462</ExpertLink>
-                    <Name lang="en">Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutations</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

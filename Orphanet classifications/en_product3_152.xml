@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:13:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:13:59" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12954">
       <OrphaNumber>97935</OrphaNumber>
@@ -777,7 +777,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=73014</ExpertLink>
                     <Name lang="en">Intractable diarrhea of infancy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="11">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="2157">
                         <OrphaNumber>2290</OrphaNumber>
@@ -792,15 +792,6 @@
                         <OrphaNumber>1670</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1670</ExpertLink>
                         <Name lang="en">Chronic diarrhea with villous atrophy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10440">
-                        <OrphaNumber>37042</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37042</ExpertLink>
-                        <Name lang="en">Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -824,37 +815,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="14989">
-                        <OrphaNumber>103916</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103916</ExpertLink>
-                        <Name lang="en">Autoimmune enteropathy type 2</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14990">
-                        <OrphaNumber>103917</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103917</ExpertLink>
-                        <Name lang="en">Autoimmune enteropathy type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="16693">
                         <OrphaNumber>137622</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=137622</ExpertLink>
                         <Name lang="en">Intractable diarrhea-choanal atresia-eye anomalies syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19132">
-                        <OrphaNumber>228426</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228426</ExpertLink>
-                        <Name lang="en">Syndromic multisystem autoimmune disease due to Itch deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -877,6 +841,96 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27338">
+                        <OrphaNumber>522037</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=522037</ExpertLink>
+                        <Name lang="en">Primary autoimmune enteropathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27339">
+                        <OrphaNumber>522043</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=522043</ExpertLink>
+                        <Name lang="en">Syndromic autoimmune enteropathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="8">
+                        <ClassificationNode>
+                          <Disorder id="10440">
+                            <OrphaNumber>37042</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37042</ExpertLink>
+                            <Name lang="en">Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23329">
+                            <OrphaNumber>436159</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436159</ExpertLink>
+                            <Name lang="en">Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22628">
+                            <OrphaNumber>391487</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391487</ExpertLink>
+                            <Name lang="en">Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17820">
+                            <OrphaNumber>169100</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=169100</ExpertLink>
+                            <Name lang="en">Immunodeficiency due to CD25 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23366">
+                            <OrphaNumber>438159</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438159</ExpertLink>
+                            <Name lang="en">STAT3-related early-onset multisystem autoimmune disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18913">
+                            <OrphaNumber>220465</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220465</ExpertLink>
+                            <Name lang="en">Laron syndrome with immunodeficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19132">
+                            <OrphaNumber>228426</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228426</ExpertLink>
+                            <Name lang="en">Syndromic multisystem autoimmune disease due to Itch deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3035">
+                            <OrphaNumber>3453</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3453</ExpertLink>
+                            <Name lang="en">Autoimmune polyendocrinopathy type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -885,16 +939,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94075</ExpertLink>
                     <Name lang="en">Severe immune-mediated enteropathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
-                    <ClassificationNode>
-                      <Disorder id="19132">
-                        <OrphaNumber>228426</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228426</ExpertLink>
-                        <Name lang="en">Syndromic multisystem autoimmune disease due to Itch deficiency</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="3279">
                         <OrphaNumber>572</OrphaNumber>
@@ -923,48 +968,93 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="23329">
-                        <OrphaNumber>436159</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436159</ExpertLink>
-                        <Name lang="en">Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency</Name>
+                      <Disorder id="27338">
+                        <OrphaNumber>522037</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=522037</ExpertLink>
+                        <Name lang="en">Primary autoimmune enteropathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="10440">
-                        <OrphaNumber>37042</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37042</ExpertLink>
-                        <Name lang="en">Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome</Name>
+                      <Disorder id="27339">
+                        <OrphaNumber>522043</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=522043</ExpertLink>
+                        <Name lang="en">Syndromic autoimmune enteropathy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14989">
-                        <OrphaNumber>103916</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103916</ExpertLink>
-                        <Name lang="en">Autoimmune enteropathy type 2</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14990">
-                        <OrphaNumber>103917</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103917</ExpertLink>
-                        <Name lang="en">Autoimmune enteropathy type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="22628">
-                        <OrphaNumber>391487</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391487</ExpertLink>
-                        <Name lang="en">Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="8">
+                        <ClassificationNode>
+                          <Disorder id="10440">
+                            <OrphaNumber>37042</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37042</ExpertLink>
+                            <Name lang="en">Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23329">
+                            <OrphaNumber>436159</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436159</ExpertLink>
+                            <Name lang="en">Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22628">
+                            <OrphaNumber>391487</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391487</ExpertLink>
+                            <Name lang="en">Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17820">
+                            <OrphaNumber>169100</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=169100</ExpertLink>
+                            <Name lang="en">Immunodeficiency due to CD25 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23366">
+                            <OrphaNumber>438159</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438159</ExpertLink>
+                            <Name lang="en">STAT3-related early-onset multisystem autoimmune disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="18913">
+                            <OrphaNumber>220465</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220465</ExpertLink>
+                            <Name lang="en">Laron syndrome with immunodeficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19132">
+                            <OrphaNumber>228426</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228426</ExpertLink>
+                            <Name lang="en">Syndromic multisystem autoimmune disease due to Itch deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3035">
+                            <OrphaNumber>3453</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3453</ExpertLink>
+                            <Name lang="en">Autoimmune polyendocrinopathy type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>

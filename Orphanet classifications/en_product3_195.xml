@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:25" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13022">
       <OrphaNumber>98004</OrphaNumber>
@@ -2116,7 +2116,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=331217</ExpertLink>
                         <Name lang="en">Syndrome with combined immunodeficiency</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="24">
+                      <ClassificationNodeChildList count="23">
                         <ClassificationNode>
                           <Disorder id="144">
                             <OrphaNumber>906</OrphaNumber>
@@ -2410,15 +2410,6 @@
                             <OrphaNumber>220465</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220465</ExpertLink>
                             <Name lang="en">Laron syndrome with immunodeficiency</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18947">
-                            <OrphaNumber>221139</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221139</ExpertLink>
-                            <Name lang="en">Combined immunodeficiency with faciooculoskeletal anomalies</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

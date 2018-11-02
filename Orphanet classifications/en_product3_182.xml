@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:03" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:09" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="17578">
       <OrphaNumber>165711</OrphaNumber>
@@ -307,7 +307,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=117573</ExpertLink>
                         <Name lang="en">Syndromic anorectal malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="47">
+                      <ClassificationNodeChildList count="46">
                         <ClassificationNode>
                           <Disorder id="126">
                             <OrphaNumber>567</OrphaNumber>
@@ -394,15 +394,6 @@
                             <OrphaNumber>1590</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1590</ExpertLink>
                             <Name lang="en">Distal monosomy 13q</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1368">
-                            <OrphaNumber>1074</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                            <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1367,7 +1358,7 @@
                       <Disorder id="12502">
                         <OrphaNumber>93942</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93942</ExpertLink>
-                        <Name lang="en">Celosomia</Name>
+                        <Name lang="en">Superior celosomia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

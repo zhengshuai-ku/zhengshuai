@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:23" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13010">
       <OrphaNumber>97992</OrphaNumber>
@@ -1626,7 +1626,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171918</ExpertLink>
                                 <Name lang="en">T-cell non-Hodgkin lymphoma</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="13">
+                              <ClassificationNodeChildList count="11">
                                 <ClassificationNode>
                                   <Disorder id="10952">
                                     <OrphaNumber>70568</OrphaNumber>
@@ -1650,24 +1650,6 @@
                                     <OrphaNumber>86871</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86871</ExpertLink>
                                     <Name lang="en">T-cell prolymphocytic leukemia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="11768">
-                                    <OrphaNumber>86875</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86875</ExpertLink>
-                                    <Name lang="en">Adult T-cell leukemia/lymphoma</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="11769">
-                                    <OrphaNumber>86879</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86879</ExpertLink>
-                                    <Name lang="en">Extranodal nasal NK/T cell lymphoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -3517,7 +3499,7 @@
                                           <Disorder id="22346">
                                             <OrphaNumber>363727</OrphaNumber>
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363727</ExpertLink>
-                                            <Name lang="en">X-linked dyserythropoetic anemia with abnormal platelets and neutropenia</Name>
+                                            <Name lang="en">X-linked dyserythropoietic anemia with abnormal platelets and neutropenia</Name>
                                           </Disorder>
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
@@ -3573,7 +3555,7 @@
                                       <Disorder id="22346">
                                         <OrphaNumber>363727</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363727</ExpertLink>
-                                        <Name lang="en">X-linked dyserythropoetic anemia with abnormal platelets and neutropenia</Name>
+                                        <Name lang="en">X-linked dyserythropoietic anemia with abnormal platelets and neutropenia</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -4614,7 +4596,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98372</ExpertLink>
                                 <Name lang="en">Hemolytic anemia due to a disorder of glycolytic enzymes</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="10">
+                              <ClassificationNodeChildList count="9">
                                 <ClassificationNode>
                                   <Disorder id="19">
                                     <OrphaNumber>371</OrphaNumber>
@@ -4683,15 +4665,6 @@
                                     <OrphaNumber>90031</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90031</ExpertLink>
                                     <Name lang="en">Non-spherocytic hemolytic anemia due to hexokinase deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="19568">
-                                    <OrphaNumber>248305</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=248305</ExpertLink>
-                                    <Name lang="en">Hemolytic anemia due to glyceraldehyde-3-phosphate dehydrogenase deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5433,7 +5406,7 @@
                           <Disorder id="22346">
                             <OrphaNumber>363727</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363727</ExpertLink>
-                            <Name lang="en">X-linked dyserythropoetic anemia with abnormal platelets and neutropenia</Name>
+                            <Name lang="en">X-linked dyserythropoietic anemia with abnormal platelets and neutropenia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

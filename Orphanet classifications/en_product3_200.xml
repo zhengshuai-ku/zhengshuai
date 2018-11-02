@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -2957,7 +2957,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156237</ExpertLink>
                 <Name lang="en">Syndrome or malformation associated with head and neck malformations</Name>
               </Disorder>
-              <ClassificationNodeChildList count="29">
+              <ClassificationNodeChildList count="27">
                 <ClassificationNode>
                   <Disorder id="20370">
                     <OrphaNumber>276280</OrphaNumber>
@@ -3126,16 +3126,25 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1071</ExpertLink>
                     <Name lang="en">Ankyloblepharon-ectodermal defects-cleft lip/palate syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="1368">
-                    <OrphaNumber>1074</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
-                    <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="1368">
+                        <OrphaNumber>1074</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
+                        <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="1366">
+                        <OrphaNumber>1072</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1072</ExpertLink>
+                        <Name lang="en">Ankyloblepharon filiforme adnatum-cleft palate syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -3152,15 +3161,6 @@
                     <OrphaNumber>1248</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1248</ExpertLink>
                     <Name lang="en">Maxillonasal dysplasia</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="1534">
-                    <OrphaNumber>1300</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1300</ExpertLink>
-                    <Name lang="en">Autosomal dominant popliteal pterygium syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3630,7 +3630,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139039</ExpertLink>
                     <Name lang="en">Orofacial clefting syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="75">
+                  <ClassificationNodeChildList count="73">
                     <ClassificationNode>
                       <Disorder id="280">
                         <OrphaNumber>564</OrphaNumber>
@@ -3699,15 +3699,6 @@
                         <OrphaNumber>921</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=921</ExpertLink>
                         <Name lang="en">Abruzzo-Erickson syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1366">
-                        <OrphaNumber>1072</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1072</ExpertLink>
-                        <Name lang="en">Ankyloblepharon filiforme adnatum-cleft palate syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4023,15 +4014,6 @@
                         <OrphaNumber>2888</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2888</ExpertLink>
                         <Name lang="en">Pierre Robin syndrome-faciodigital anomaly syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2622">
-                        <OrphaNumber>2894</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2894</ExpertLink>
-                        <Name lang="en">Pilotto syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:15" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -251,7 +251,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423975</ExpertLink>
                             <Name lang="en">Neuroendocrine tumor of the small intestine</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="3">
+                            <ClassificationNode>
+                              <Disorder id="14650">
+                                <OrphaNumber>100078</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100078</ExpertLink>
+                                <Name lang="en">Ileal neuroendocrine tumor</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="14648">
                                 <OrphaNumber>100076</OrphaNumber>
@@ -6058,7 +6067,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100088</ExpertLink>
                         <Name lang="en">Thyroid carcinoma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="905">
                             <OrphaNumber>146</OrphaNumber>
@@ -6118,15 +6127,6 @@
                             <OrphaNumber>1332</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1332</ExpertLink>
                             <Name lang="en">Medullary thyroid carcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12883">
-                            <OrphaNumber>97290</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97290</ExpertLink>
-                            <Name lang="en">Familial papillary thyroid carcinoma with renal papillary neoplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6573,7 +6573,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181399</ExpertLink>
                     <Name lang="en">Rare hyperthyroidism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="2878">
                         <OrphaNumber>3221</OrphaNumber>
@@ -6606,6 +6606,15 @@
                         <OrphaNumber>165994</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165994</ExpertLink>
                         <Name lang="en">Pituitary resistance to thyroid hormone</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27390">
+                        <OrphaNumber>525731</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=525731</ExpertLink>
+                        <Name lang="en">Pediatric-onset Graves disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6854,7 +6863,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181384</ExpertLink>
                 <Name lang="en">Rare hypothalamic or pituitary disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="7">
+              <ClassificationNodeChildList count="8">
                 <ClassificationNode>
                   <Disorder id="470">
                     <OrphaNumber>1672</OrphaNumber>
@@ -8183,6 +8192,15 @@
                     <OrphaNumber>443101</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443101</ExpertLink>
                     <Name lang="en">Hypothalamic adipsic hypernatraemia syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="27391">
+                    <OrphaNumber>525738</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=525738</ExpertLink>
+                    <Name lang="en">Prepubertal anorexia nervosa</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

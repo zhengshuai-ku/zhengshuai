@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:25" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -748,7 +748,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53715</ExpertLink>
                         <Name lang="en">Familial tumoral calcinosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="21245">
+                            <OrphaNumber>306658</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306658</ExpertLink>
+                            <Name lang="en">Familial normophosphatemic tumoral calcinosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="21246">
                             <OrphaNumber>306661</OrphaNumber>
@@ -4681,7 +4690,25 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=636</ExpertLink>
                         <Name lang="en">Neurofibromatosis type 1</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="12945">
+                            <OrphaNumber>97685</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97685</ExpertLink>
+                            <Name lang="en">17q11 microdeletion syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="22341">
+                            <OrphaNumber>363700</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363700</ExpertLink>
+                            <Name lang="en">Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -5673,7 +5700,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93453</ExpertLink>
                     <Name lang="en">Dysostosis with predominant craniofacial involvement</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="1684">
                         <OrphaNumber>1517</OrphaNumber>
@@ -5757,7 +5784,7 @@
                           <Disorder id="19121">
                             <OrphaNumber>228390</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228390</ExpertLink>
-                            <Name lang="en">Frontonasal dysplasia with alopecia and genital anomaly</Name>
+                            <Name lang="en">Frontonasal dysplasia-alopecia-genital anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5819,28 +5846,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="22207">
-                        <OrphaNumber>357158</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=357158</ExpertLink>
-                        <Name lang="en">Mandibulofacial dysostosis-macroblepharon-macrostomia syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="22342">
                         <OrphaNumber>363705</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363705</ExpertLink>
                         <Name lang="en">Craniofaciofrontodigital syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23472">
-                        <OrphaNumber>443995</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=443995</ExpertLink>
-                        <Name lang="en">Mandibulofacial dysostosis with alopecia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6114,7 +6123,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93454</ExpertLink>
                     <Name lang="en">Dysostosis with predominant vertebral and costal involvement</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="22">
+                  <ClassificationNodeChildList count="23">
                     <ClassificationNode>
                       <Disorder id="1042">
                         <OrphaNumber>2311</OrphaNumber>
@@ -6282,6 +6291,15 @@
                         <OrphaNumber>329252</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329252</ExpertLink>
                         <Name lang="en">Spondylocostal dysostosis-hypospadias-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="10656">
+                        <OrphaNumber>50817</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=50817</ExpertLink>
+                        <Name lang="en">Duane anomaly-myopathy-scoliosis syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7534,7 +7552,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93459</ExpertLink>
                         <Name lang="en">Syndrome with synostosis or other joint formation defect</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="12">
+                      <ClassificationNodeChildList count="13">
                         <ClassificationNode>
                           <Disorder id="1510">
                             <OrphaNumber>1275</OrphaNumber>
@@ -7729,6 +7747,15 @@
                             <OrphaNumber>71289</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71289</ExpertLink>
                             <Name lang="en">Radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="2486">
+                            <OrphaNumber>2725</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2725</ExpertLink>
+                            <Name lang="en">Eye defects-arachnodactyly-cardiopathy syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8126,7 +8153,25 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1071</ExpertLink>
                             <Name lang="en">Ankyloblepharon-ectodermal defects-cleft lip/palate syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="0">
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="1368">
+                                <OrphaNumber>1074</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1074</ExpertLink>
+                                <Name lang="en">Ankyloblepharon filiforme adnatum-imperforate anus syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="1366">
+                                <OrphaNumber>1072</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1072</ExpertLink>
+                                <Name lang="en">Ankyloblepharon filiforme adnatum-cleft palate syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -9383,7 +9428,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399158</ExpertLink>
                 <Name lang="en">Osteonecrosis</Name>
               </Disorder>
-              <ClassificationNodeChildList count="6">
+              <ClassificationNodeChildList count="7">
                 <ClassificationNode>
                   <Disorder id="22759">
                     <OrphaNumber>399319</OrphaNumber>
@@ -9661,6 +9706,15 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="27315">
+                    <OrphaNumber>521127</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521127</ExpertLink>
+                    <Name lang="en">Osteoradionecrosis of the mandible</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>

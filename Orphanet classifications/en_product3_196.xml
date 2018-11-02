@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:20" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13041">
       <OrphaNumber>98023</OrphaNumber>
@@ -102,7 +102,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156140</ExpertLink>
                     <Name lang="en">Predominantly large-vessel vasculitis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
+                    <ClassificationNode>
+                      <Disorder id="8759">
+                        <OrphaNumber>26137</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=26137</ExpertLink>
+                        <Name lang="en">Juvenile temporal arteritis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="703">
                         <OrphaNumber>117</OrphaNumber>
@@ -428,7 +437,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182222</ExpertLink>
                 <Name lang="en">Rare systemic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="31">
+              <ClassificationNodeChildList count="29">
                 <ClassificationNode>
                   <Disorder id="137">
                     <OrphaNumber>3099</OrphaNumber>
@@ -740,15 +749,6 @@
                     <OrphaNumber>797</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=797</ExpertLink>
                     <Name lang="en">Sarcoidosis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="755">
-                    <OrphaNumber>3165</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3165</ExpertLink>
-                    <Name lang="en">Eosinophilic fasciitis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1119,7 +1119,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182228</ExpertLink>
                     <Name lang="en">Systemic autoimmune disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="26">
+                  <ClassificationNodeChildList count="24">
+                    <ClassificationNode>
+                      <Disorder id="124">
+                        <OrphaNumber>536</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536</ExpertLink>
+                        <Name lang="en">Systemic lupus erythematosus</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="25239">
                         <OrphaNumber>481662</OrphaNumber>
@@ -1143,15 +1152,6 @@
                         <OrphaNumber>779</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=779</ExpertLink>
                         <Name lang="en">Reynolds syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8611">
-                        <OrphaNumber>81</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=81</ExpertLink>
-                        <Name lang="en">Antisynthetase syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1368,24 +1368,6 @@
                         <OrphaNumber>93552</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93552</ExpertLink>
                         <Name lang="en">Pediatric systemic lupus erythematosus</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12410">
-                        <OrphaNumber>93568</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93568</ExpertLink>
-                        <Name lang="en">Juvenile polymyositis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12464">
-                        <OrphaNumber>93672</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93672</ExpertLink>
-                        <Name lang="en">Juvenile dermatomyositis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1744,15 +1726,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="19142">
-                    <OrphaNumber>230839</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
-                    <Name lang="en">Ehlers-Danlos syndrome due to tenascin-X deficiency</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="19154">
                     <OrphaNumber>231111</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231111</ExpertLink>
@@ -2084,7 +2057,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182231</ExpertLink>
                 <Name lang="en">Rare rheumatologic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="22">
+              <ClassificationNodeChildList count="20">
                 <ClassificationNode>
                   <Disorder id="11651">
                     <OrphaNumber>85193</OrphaNumber>
@@ -2212,15 +2185,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="746">
-                    <OrphaNumber>2054</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2054</ExpertLink>
-                    <Name lang="en">Osteochondritis of tarsal/metatarsal bone</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="1614">
                     <OrphaNumber>1416</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1416</ExpertLink>
@@ -2252,15 +2216,6 @@
                     <OrphaNumber>29207</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=29207</ExpertLink>
                     <Name lang="en">Reactive arthritis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="10447">
-                    <OrphaNumber>37748</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37748</ExpertLink>
-                    <Name lang="en">Schnitzler syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -2874,7 +2829,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399158</ExpertLink>
                     <Name lang="en">Osteonecrosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="7">
                     <ClassificationNode>
                       <Disorder id="22760">
                         <OrphaNumber>399329</OrphaNumber>
@@ -3043,10 +2998,10 @@
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
-                              <Disorder id="11470">
-                                <OrphaNumber>79444</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79444</ExpertLink>
-                                <Name lang="en">Pseudohypoparathyroidism type 1C</Name>
+                              <Disorder id="11740">
+                                <OrphaNumber>86820</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86820</ExpertLink>
+                                <Name lang="en">Familial avascular necrosis of femoral head</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3070,7 +3025,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399319</ExpertLink>
                         <Name lang="en">Osteochondrosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="10">
                         <ClassificationNode>
                           <Disorder id="579">
                             <OrphaNumber>3135</OrphaNumber>
@@ -3152,6 +3107,24 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10774">
+                            <OrphaNumber>57196</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=57196</ExpertLink>
+                            <Name lang="en">Medial condensing osteitis of the clavicle</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27315">
+                        <OrphaNumber>521127</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521127</ExpertLink>
+                        <Name lang="en">Osteoradionecrosis of the mandible</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>

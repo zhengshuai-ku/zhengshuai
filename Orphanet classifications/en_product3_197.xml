@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13044">
       <OrphaNumber>98026</OrphaNumber>
@@ -21,7 +21,43 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238468</ExpertLink>
                     <Name lang="en">Hypohidrotic ectodermal dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="4">
+                    <ClassificationNode>
+                      <Disorder id="180">
+                        <OrphaNumber>181</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181</ExpertLink>
+                        <Name lang="en">X-linked hypohidrotic ectodermal dysplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="7026">
+                        <OrphaNumber>248</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=248</ExpertLink>
+                        <Name lang="en">Autosomal recessive hypohidrotic ectodermal dysplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="7027">
+                        <OrphaNumber>1810</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1810</ExpertLink>
+                        <Name lang="en">Autosomal dominant hypohidrotic ectodermal dysplasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="13830">
+                        <OrphaNumber>98813</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98813</ExpertLink>
+                        <Name lang="en">Hypohidrotic ectodermal dysplasia with immunodeficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -311,7 +347,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139042</ExpertLink>
                 <Name lang="en">Malformation syndrome with odontal and/or periodontal component</Name>
               </Disorder>
-              <ClassificationNodeChildList count="61">
+              <ClassificationNodeChildList count="60">
                 <ClassificationNode>
                   <Disorder id="931">
                     <OrphaNumber>627</OrphaNumber>
@@ -343,7 +379,7 @@
                   <Disorder id="1339">
                     <OrphaNumber>1031</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1031</ExpertLink>
-                    <Name lang="en">Amelogenesis imperfecta-nephrocalcinosis syndrome</Name>
+                    <Name lang="en">Enamel-renal syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -718,15 +754,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="2976">
-                    <OrphaNumber>3357</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3357</ExpertLink>
-                    <Name lang="en">Autosomal dominant trichoodontoonychodysplasia-syndactyly</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="3052">
                     <OrphaNumber>3473</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3473</ExpertLink>
@@ -905,7 +932,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=164001</ExpertLink>
                 <Name lang="en">Rare odontal or periodontal disorder</Name>
               </Disorder>
-              <ClassificationNodeChildList count="14">
+              <ClassificationNodeChildList count="13">
                 <ClassificationNode>
                   <Disorder id="1371">
                     <OrphaNumber>1077</OrphaNumber>
@@ -1102,15 +1129,6 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="17937">
-                    <OrphaNumber>171836</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171836</ExpertLink>
-                    <Name lang="en">Amelogenesis imperfecta-gingival hyperplasia syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

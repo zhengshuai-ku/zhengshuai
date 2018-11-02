@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:05:01" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3255">
+<JDBOR date="2018-11-01 04:04:59" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+  <HPODisorderSetStatusList count="3278">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -5544,9 +5544,9 @@
     <HPODisorderSetStatus id="566">
       <Disorder id="1339">
         <OrphaNumber>1031</OrphaNumber>
-        <Name lang="en">Amelogenesis imperfecta-nephrocalcinosis syndrome</Name>
+        <Name lang="en">Enamel-renal syndrome</Name>
       </Disorder>
-      <Source/>
+      <Source>12597691[PMID]_3872071[PMID]_21549343[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:49:02.756</CreationDate>
@@ -8562,17 +8562,6 @@
       <CreationDate>2016-05-31 11:49:23.1</CreationDate>
       <UpdateDate>2016-05-31 11:49:23.1</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="794">
-      <Disorder id="1778">
-        <OrphaNumber>1767</OrphaNumber>
-        <Name lang="en">Familial progressive vestibulocochlear dysfunction</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:23.033</CreationDate>
-      <UpdateDate>2016-05-31 11:49:23.033</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="793">
       <Disorder id="1777">
         <OrphaNumber>1766</OrphaNumber>
@@ -9753,7 +9742,7 @@
     <HPODisorderSetStatus id="928">
       <Disorder id="1998">
         <OrphaNumber>2084</OrphaNumber>
-        <Name lang="en">Glaucoma-ectopia-microspherophakia-stiff joints-short stature syndrome</Name>
+        <Name lang="en">Glaucoma-ectopia lentis-microspherophakia-stiff joints-short stature syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11363,17 +11352,6 @@
       <CreationDate>2016-05-31 11:49:51.39</CreationDate>
       <UpdateDate>2016-05-31 11:49:51.39</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1142">
-      <Disorder id="2622">
-        <OrphaNumber>2894</OrphaNumber>
-        <Name lang="en">Pilotto syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:51.3</CreationDate>
-      <UpdateDate>2016-05-31 11:49:51.3</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1141">
       <Disorder id="2619">
         <OrphaNumber>2891</OrphaNumber>
@@ -12344,17 +12322,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:49:59.35</CreationDate>
       <UpdateDate>2016-05-31 11:49:59.35</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1232">
-      <Disorder id="2976">
-        <OrphaNumber>3357</OrphaNumber>
-        <Name lang="en">Autosomal dominant trichoodontoonychodysplasia-syndactyly</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:58.836</CreationDate>
-      <UpdateDate>2016-05-31 11:49:58.836</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1233">
       <Disorder id="2979">
@@ -13506,17 +13473,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:11.26</CreationDate>
       <UpdateDate>2016-05-31 11:50:11.26</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1368">
-      <Disorder id="6018">
-        <OrphaNumber>77</OrphaNumber>
-        <Name lang="en">Aniridia</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:50:11.196</CreationDate>
-      <UpdateDate>2016-05-31 11:50:11.196</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1367">
       <Disorder id="5546">
@@ -17565,7 +17521,7 @@
     <HPODisorderSetStatus id="1762">
       <Disorder id="11685">
         <OrphaNumber>85295</OrphaNumber>
-        <Name lang="en">HSD10 disease, atypical type</Name>
+        <Name lang="en">HSD10 disease, attenuated type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17616,17 +17572,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:44.326</CreationDate>
       <UpdateDate>2016-05-31 11:50:44.326</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1765">
-      <Disorder id="11688">
-        <OrphaNumber>85318</OrphaNumber>
-        <Name lang="en">X-linked intellectual disability-precocious puberty-obesity syndrome</Name>
-      </Disorder>
-      <Source>_3953642[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:50:44.256</CreationDate>
-      <UpdateDate>2016-05-31 11:50:44.256</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1764">
       <Disorder id="11687">
@@ -18670,7 +18615,7 @@
         <OrphaNumber>79373</OrphaNumber>
         <Name lang="en">Ectodermal dysplasia syndrome</Name>
       </Disorder>
-      <Source/>
+      <Source>20691405[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:37.38</CreationDate>
@@ -21396,17 +21341,6 @@
       <CreationDate>2016-05-31 11:51:00.6</CreationDate>
       <UpdateDate>2016-05-31 11:51:00.6</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1948">
-      <Disorder id="13714">
-        <OrphaNumber>98697</OrphaNumber>
-        <Name lang="en">Genetic keratinization disorder associated with ocular features</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:51:00.38</CreationDate>
-      <UpdateDate>2016-05-31 11:51:00.38</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1949">
       <Disorder id="13808">
         <OrphaNumber>98791</OrphaNumber>
@@ -23629,17 +23563,6 @@
       <CreationDate>2016-05-31 11:51:11.066</CreationDate>
       <UpdateDate>2016-05-31 11:51:11.066</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="2087">
-      <Disorder id="17937">
-        <OrphaNumber>171836</OrphaNumber>
-        <Name lang="en">Amelogenesis imperfecta-gingival hyperplasia syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:51:11.153</CreationDate>
-      <UpdateDate>2016-05-31 11:51:11.153</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="2084">
       <Disorder id="17821">
         <OrphaNumber>169105</OrphaNumber>
@@ -23885,7 +23808,7 @@
     <HPODisorderSetStatus id="2136">
       <Disorder id="19121">
         <OrphaNumber>228390</OrphaNumber>
-        <Name lang="en">Frontonasal dysplasia with alopecia and genital anomaly</Name>
+        <Name lang="en">Frontonasal dysplasia-alopecia-genital anomalies syndrome</Name>
       </Disorder>
       <Source>19692347[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30760,7 +30683,7 @@
     <HPODisorderSetStatus id="3042">
       <Disorder id="16922">
         <OrphaNumber>139578</OrphaNumber>
-        <Name lang="en">Hereditary sensory and autonomic neuropathy with spastic paraplegia</Name>
+        <Name lang="en">Mutilating hereditary sensory neuropathy with spastic paraplegia</Name>
       </Disorder>
       <Source>16333315[PMID]_218673[PMID]_7922454[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33972,7 +33895,7 @@
     <HPODisorderSetStatus id="3235">
       <Disorder id="21718">
         <OrphaNumber>320385</OrphaNumber>
-        <Name lang="en">Autosomal recessive spastic paraplegia type 49</Name>
+        <Name lang="en">Hereditary sensory and autonomic neuropathy due to TECPR2 mutation</Name>
       </Disorder>
       <Source>23176824[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34651,17 +34574,6 @@
       <CreationDate>2018-04-25 10:50:04.37</CreationDate>
       <UpdateDate>2018-04-25 10:50:04.37</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="3184">
-      <Disorder id="14701">
-        <OrphaNumber>100990</OrphaNumber>
-        <Name lang="en">Autosomal dominant spastic paraplegia type 9</Name>
-      </Disorder>
-      <Source>26026163[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2018-04-25 10:33:06.503</CreationDate>
-      <UpdateDate>2018-04-25 10:33:06.503</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3182">
       <Disorder id="10444">
         <OrphaNumber>37612</OrphaNumber>
@@ -35193,7 +35105,7 @@
     <HPODisorderSetStatus id="3131">
       <Disorder id="2836">
         <OrphaNumber>3177</OrphaNumber>
-        <Name lang="en">Corneal-cerebellar syndrome</Name>
+        <Name lang="en">Spinocerebellar degeneration-corneal dystrophy syndrome</Name>
       </Disorder>
       <Source>3872072[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35718,6 +35630,94 @@
       <CreationDate>2018-09-05 14:01:21.636</CreationDate>
       <UpdateDate>2018-09-05 14:01:21.636</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3355">
+      <Disorder id="17015">
+        <OrphaNumber>140989</OrphaNumber>
+        <Name lang="en">Primary central nervous system vasculitis</Name>
+      </Disorder>
+      <Source>[PMID]_26020379[PMID]_25708615[PMID]_22575778[PMID]_16575852[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-17 16:13:36.856</CreationDate>
+      <UpdateDate>2018-10-17 16:13:36.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3354">
+      <Disorder id="14230">
+        <OrphaNumber>99657</OrphaNumber>
+        <Name lang="en">Primary dystonia, DYT2 type</Name>
+      </Disorder>
+      <Source>941766[PMID]_20482602[PMID]_2404852[PMID]_11912106[PMID]_25799108[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-17 16:05:48.656</CreationDate>
+      <UpdateDate>2018-10-17 16:05:48.656</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3353">
+      <Disorder id="11017">
+        <OrphaNumber>71517</OrphaNumber>
+        <Name lang="en">Rapid-onset dystonia-parkinsonism</Name>
+      </Disorder>
+      <Source>22030388[PMID]_20482602[PMID]_8255463[PMID]_17282997[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-08 14:35:21.406</CreationDate>
+      <UpdateDate>2018-10-08 14:35:21.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3352">
+      <Disorder id="27024">
+        <OrphaNumber>513436</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 78</Name>
+      </Disorder>
+      <Source>27217339[PMID]_28137957[PMID]_29112700[PMID]_29112699[PMID]_27165006[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-08 12:37:20.063</CreationDate>
+      <UpdateDate>2018-10-08 12:37:20.063</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3359">
+      <Disorder id="12564">
+        <OrphaNumber>94124</OrphaNumber>
+        <Name lang="en">Spinocerebellar ataxia with axonal neuropathy type 1</Name>
+      </Disorder>
+      <Source>15744309[PMID]_12244316[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-22 15:02:29.366</CreationDate>
+      <UpdateDate>2018-10-22 15:02:29.366</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3358">
+      <Disorder id="2558">
+        <OrphaNumber>2816</OrphaNumber>
+        <Name lang="en">Spastic paraplegia-epilepsy-intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>12567407[PMID]_8456849[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-22 14:50:19.953</CreationDate>
+      <UpdateDate>2018-10-22 14:50:19.953</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3357">
+      <Disorder id="20341">
+        <OrphaNumber>275872</OrphaNumber>
+        <Name lang="en">Frontotemporal dementia with motor neuron disease</Name>
+      </Disorder>
+      <Source>17036243[PMID]_25803835[PMID]_23303844[PMID]_24934289[PMID]_16495328[PMID]_19251628[PMID]_ 21145000[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-17 16:44:47.27</CreationDate>
+      <UpdateDate>2018-10-17 16:44:47.27</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3356">
+      <Disorder id="17792">
+        <OrphaNumber>168782</OrphaNumber>
+        <Name lang="en">Childhood disintegrative disorder</Name>
+      </Disorder>
+      <Source>28392909[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-17 16:24:59.31</CreationDate>
+      <UpdateDate>2018-10-17 16:24:59.31</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3347">
       <Disorder id="16711">
         <OrphaNumber>137754</OrphaNumber>
@@ -35761,6 +35761,259 @@
       <Online>y</Online>
       <CreationDate>2018-09-19 17:01:54.023</CreationDate>
       <UpdateDate>2018-09-19 17:01:54.023</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3351">
+      <Disorder id="23536">
+        <OrphaNumber>447753</OrphaNumber>
+        <Name lang="en">Autosomal dominant spastic paraplegia type 9A</Name>
+      </Disorder>
+      <Source>26026163[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-08 10:59:01.136</CreationDate>
+      <UpdateDate>2018-10-08 10:59:01.136</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3349">
+      <Disorder id="17910">
+        <OrphaNumber>171442</OrphaNumber>
+        <Name lang="en">Adult-onset nemaline myopathy</Name>
+      </Disorder>
+      <Source>22431881[PMID]_25205138[PMID]_8552868[PMID]_6855830[PMID]_10417802[PMID]_16148261[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-01 17:07:35.316</CreationDate>
+      <UpdateDate>2018-10-01 17:07:35.316</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3348">
+      <Disorder id="17909">
+        <OrphaNumber>171439</OrphaNumber>
+        <Name lang="en">Childhood-onset nemaline myopathy</Name>
+      </Disorder>
+      <Source>22431881[PMID]_25205138[PMID]_24268659[PMID]_17846275[PMID]_11731279[PMID]_21104864[PMID]_11333380[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-01 10:42:27.24</CreationDate>
+      <UpdateDate>2018-10-01 10:42:27.24</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3368">
+      <Disorder id="24025">
+        <OrphaNumber>464440</OrphaNumber>
+        <Name lang="en">Primary dystonia, DYT27 type</Name>
+      </Disorder>
+      <Source>26004199[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 14:43:05.78</CreationDate>
+      <UpdateDate>2018-10-29 14:43:05.78</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3369">
+      <Disorder id="23109">
+        <OrphaNumber>420492</OrphaNumber>
+        <Name lang="en">Adult-onset cervical dystonia, DYT23 type</Name>
+      </Disorder>
+      <Source>21370267[PMID]_25296916[PMID]_22447717[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 15:00:17.676</CreationDate>
+      <UpdateDate>2018-10-29 15:00:17.676</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3370">
+      <Disorder id="22482">
+        <OrphaNumber>370103</OrphaNumber>
+        <Name lang="en">Primary dystonia, DYT17 type</Name>
+      </Disorder>
+      <Source>18688663[PMID]_24952478[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 15:21:03.97</CreationDate>
+      <UpdateDate>2018-10-29 15:21:03.97</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3371">
+      <Disorder id="18695">
+        <OrphaNumber>210571</OrphaNumber>
+        <Name lang="en">Dystonia 16</Name>
+      </Disorder>
+      <Source>18243799[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 16:17:15.946</CreationDate>
+      <UpdateDate>2018-10-29 16:17:15.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3372">
+      <Disorder id="22830">
+        <OrphaNumber>401795</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 59</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 11:20:00.473</CreationDate>
+      <UpdateDate>2018-10-31 11:20:00.473</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3373">
+      <Disorder id="22831">
+        <OrphaNumber>401800</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 60</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 14:38:59.106</CreationDate>
+      <UpdateDate>2018-10-31 14:38:59.106</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3374">
+      <Disorder id="22834">
+        <OrphaNumber>401815</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 66</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 15:05:00.293</CreationDate>
+      <UpdateDate>2018-10-31 15:05:00.293</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3375">
+      <Disorder id="22835">
+        <OrphaNumber>401820</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 67</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 15:56:54.21</CreationDate>
+      <UpdateDate>2018-10-31 15:56:54.21</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3360">
+      <Disorder id="25681">
+        <OrphaNumber>494526</OrphaNumber>
+        <Name lang="en">Infantile-onset generalized dyskinesia with orofacial involvement</Name>
+      </Disorder>
+      <Source>27058446[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-22 15:44:16.51</CreationDate>
+      <UpdateDate>2018-10-22 15:44:16.51</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3361">
+      <Disorder id="25138">
+        <OrphaNumber>477673</OrphaNumber>
+        <Name lang="en">Postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>27601654[PMID]_25758935[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-22 16:06:10.313</CreationDate>
+      <UpdateDate>2018-10-22 16:06:10.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3362">
+      <Disorder id="24010">
+        <OrphaNumber>464282</OrphaNumber>
+        <Name lang="en">Spastic paraplegia-severe developmental delay-epilepsy syndrome</Name>
+      </Disorder>
+      <Source>26424145[PMID]_26437029[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-24 15:01:45.403</CreationDate>
+      <UpdateDate>2018-10-24 15:01:45.403</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3363">
+      <Disorder id="22848">
+        <OrphaNumber>401901</OrphaNumber>
+        <Name lang="en">Huntington disease-like syndrome due to C9ORF72 expansions</Name>
+      </Disorder>
+      <Source>25248608[PMID]_23934648[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-24 15:40:00.146</CreationDate>
+      <UpdateDate>2018-10-24 15:40:00.146</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3364">
+      <Disorder id="11812">
+        <OrphaNumber>88632</OrphaNumber>
+        <Name lang="en">Anterior segment developmental anomaly</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 10:39:18.77</CreationDate>
+      <UpdateDate>2018-10-29 10:39:18.77</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3365">
+      <Disorder id="21713">
+        <OrphaNumber>320360</OrphaNumber>
+        <Name lang="en">MT-ATP6-related mitochondrial spastic paraplegia</Name>
+      </Disorder>
+      <Source>20656066[PMID]_23897027[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 11:38:44.336</CreationDate>
+      <UpdateDate>2018-10-29 11:38:44.336</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3366">
+      <Disorder id="22084">
+        <OrphaNumber>352596</OrphaNumber>
+        <Name lang="en">Progressive myoclonic epilepsy with dystonia</Name>
+      </Disorder>
+      <Source>21087195[PMID]_23526554[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 12:15:01.783</CreationDate>
+      <UpdateDate>2018-10-29 12:15:01.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3367">
+      <Disorder id="24230">
+        <OrphaNumber>468661</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 74</Name>
+      </Disorder>
+      <Source>25609768[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-29 12:16:55.486</CreationDate>
+      <UpdateDate>2018-10-29 12:16:55.486</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3377">
+      <Disorder id="22837">
+        <OrphaNumber>401830</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 69</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 16:11:22.566</CreationDate>
+      <UpdateDate>2018-10-31 16:11:22.566</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3376">
+      <Disorder id="22836">
+        <OrphaNumber>401825</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 68</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 16:10:43.176</CreationDate>
+      <UpdateDate>2018-10-31 16:10:43.176</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3379">
+      <Disorder id="22839">
+        <OrphaNumber>401840</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 71</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 16:20:34.576</CreationDate>
+      <UpdateDate>2018-10-31 16:20:34.576</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3378">
+      <Disorder id="22838">
+        <OrphaNumber>401835</OrphaNumber>
+        <Name lang="en">Autosomal recessive spastic paraplegia type 70</Name>
+      </Disorder>
+      <Source>24482476[PMID]_27271711[PMID]_27217339[PMID]_24954637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-10-31 16:18:25.926</CreationDate>
+      <UpdateDate>2018-10-31 16:18:25.926</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

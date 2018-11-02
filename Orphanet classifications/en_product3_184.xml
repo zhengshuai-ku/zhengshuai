@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-10-01 04:14:06" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-11-01 04:14:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12974">
       <OrphaNumber>97955</OrphaNumber>
@@ -262,7 +262,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1505</ExpertLink>
                         <Name lang="en">Short rib-polydactyly syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="8">
+                      <ClassificationNodeChildList count="9">
                         <ClassificationNode>
                           <Disorder id="283">
                             <OrphaNumber>474</OrphaNumber>
@@ -335,6 +335,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="25928">
+                            <OrphaNumber>498497</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498497</ExpertLink>
+                            <Name lang="en">Short rib-polydactyly syndrome type 5</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -393,7 +402,7 @@
                           <Disorder id="12502">
                             <OrphaNumber>93942</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93942</ExpertLink>
-                            <Name lang="en">Celosomia</Name>
+                            <Name lang="en">Superior celosomia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1478,7 +1487,25 @@
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85410</ExpertLink>
                                         <Name lang="en">Oligoarticular juvenile idiopathic arthritis</Name>
                                       </Disorder>
-                                      <ClassificationNodeChildList count="0">
+                                      <ClassificationNodeChildList count="2">
+                                        <ClassificationNode>
+                                          <Disorder id="19555">
+                                            <OrphaNumber>247839</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247839</ExpertLink>
+                                            <Name lang="en">Oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
+                                        <ClassificationNode>
+                                          <Disorder id="19556">
+                                            <OrphaNumber>247846</OrphaNumber>
+                                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247846</ExpertLink>
+                                            <Name lang="en">Oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies</Name>
+                                          </Disorder>
+                                          <ClassificationNodeChildList count="0">
+                                          </ClassificationNodeChildList>
+                                        </ClassificationNode>
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                     <ClassificationNode>
@@ -1530,7 +1557,25 @@
                                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85408</ExpertLink>
                                             <Name lang="en">Rheumatoid factor-negative juvenile idiopathic arthritis</Name>
                                           </Disorder>
-                                          <ClassificationNodeChildList count="0">
+                                          <ClassificationNodeChildList count="2">
+                                            <ClassificationNode>
+                                              <Disorder id="19557">
+                                                <OrphaNumber>247854</OrphaNumber>
+                                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247854</ExpertLink>
+                                                <Name lang="en">Rheumatoid factor-negative juvenile idiopathic arthritis with anti-nuclear antibodies</Name>
+                                              </Disorder>
+                                              <ClassificationNodeChildList count="0">
+                                              </ClassificationNodeChildList>
+                                            </ClassificationNode>
+                                            <ClassificationNode>
+                                              <Disorder id="19558">
+                                                <OrphaNumber>247861</OrphaNumber>
+                                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247861</ExpertLink>
+                                                <Name lang="en">Rheumatoid factor-negative juvenile idiopathic arthritis without anti-nuclear antibodies</Name>
+                                              </Disorder>
+                                              <ClassificationNodeChildList count="0">
+                                              </ClassificationNodeChildList>
+                                            </ClassificationNode>
                                           </ClassificationNodeChildList>
                                         </ClassificationNode>
                                         <ClassificationNode>
