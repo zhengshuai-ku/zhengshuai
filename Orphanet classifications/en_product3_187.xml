@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:39" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -526,7 +526,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=281244</ExpertLink>
                                     <Name lang="en">Autosomal ichthyosis syndrome with other associated signs</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="11">
+                                  <ClassificationNodeChildList count="12">
                                     <ClassificationNode>
                                       <Disorder id="520">
                                         <OrphaNumber>477</OrphaNumber>
@@ -622,6 +622,15 @@
                                         <OrphaNumber>363992</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363992</ExpertLink>
                                         <Name lang="en">Ichthyosis-short stature-brachydactyly-microspherophakia syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="22923">
+                                        <OrphaNumber>404454</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404454</ExpertLink>
+                                        <Name lang="en">Alacrimia-choreoathetosis-liver dysfunction syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -1556,7 +1565,7 @@
                       <Disorder id="1840">
                         <OrphaNumber>1867</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1867</ExpertLink>
-                        <Name lang="en">Bullous dystrophy, macular type</Name>
+                        <Name lang="en">Hereditary bullous dystrophy, macular type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6593,7 +6602,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79382</ExpertLink>
                 <Name lang="en">Subcutaneous tissue disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="18">
+              <ClassificationNodeChildList count="19">
                 <ClassificationNode>
                   <Disorder id="12">
                     <OrphaNumber>333</OrphaNumber>
@@ -7076,6 +7085,15 @@
                     <OrphaNumber>487825</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=487825</ExpertLink>
                     <Name lang="en">Pierpont syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="22923">
+                    <OrphaNumber>404454</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404454</ExpertLink>
+                    <Name lang="en">Alacrimia-choreoathetosis-liver dysfunction syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -9496,7 +9514,7 @@
                   <Disorder id="17161">
                     <OrphaNumber>157949</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157949</ExpertLink>
-                    <Name lang="en">Combined immunodeficiency with skin granulomas</Name>
+                    <Name lang="en">Combined immunodeficiency with granulomatosis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

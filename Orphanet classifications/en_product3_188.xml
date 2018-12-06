@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:41" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12456">
       <OrphaNumber>93626</OrphaNumber>
@@ -417,7 +417,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93547</ExpertLink>
                     <Name lang="en">Syndromic renal or urinary tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="66">
+                  <ClassificationNodeChildList count="65">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -761,28 +761,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="1378">
-                        <OrphaNumber>1092</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1092</ExpertLink>
-                        <Name lang="en">Renal-genital-middle ear anomalies</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="1409">
                         <OrphaNumber>1133</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1133</ExpertLink>
                         <Name lang="en">AREDYLD syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1603">
-                        <OrphaNumber>1396</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1396</ExpertLink>
-                        <Name lang="en">Cerebrorenodigital syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1170,6 +1152,15 @@
                         <OrphaNumber>508488</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508488</ExpertLink>
                         <Name lang="en">8q24.3 deletion syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27331">
+                        <OrphaNumber>521438</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521438</ExpertLink>
+                        <Name lang="en">Congenital vertebral-cardiac-renal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1565,7 +1556,7 @@
                       <Disorder id="11722">
                         <OrphaNumber>85450</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85450</ExpertLink>
-                        <Name lang="en">Hereditary amyloidosis with primary renal involement</Name>
+                        <Name lang="en">Hereditary amyloidosis with primary renal involvement</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>
@@ -1952,7 +1943,7 @@
                       <Disorder id="10911">
                         <OrphaNumber>69063</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69063</ExpertLink>
-                        <Name lang="en">Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization</Name>
+                        <Name lang="en">Congenital membranous nephropathy due to fetomaternal anti-neutral endopeptidase alloimmunization</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2033,7 +2024,7 @@
                       <Disorder id="12927">
                         <OrphaNumber>97560</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97560</ExpertLink>
-                        <Name lang="en">Idiopathic membranous glomerulonephritis</Name>
+                        <Name lang="en">Primary membranous glomerulonephritis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2390,7 +2381,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93587</ExpertLink>
                 <Name lang="en">Familial cystic renal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="17">
+              <ClassificationNodeChildList count="16">
                 <ClassificationNode>
                   <Disorder id="97">
                     <OrphaNumber>731</OrphaNumber>
@@ -2423,15 +2414,6 @@
                     <OrphaNumber>805</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=805</ExpertLink>
                     <Name lang="en">Tuberous sclerosis complex</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="1603">
-                    <OrphaNumber>1396</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1396</ExpertLink>
-                    <Name lang="en">Cerebrorenodigital syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3209,7 +3191,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93603</ExpertLink>
                 <Name lang="en">Rare renal tubular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="35">
+              <ClassificationNodeChildList count="36">
                 <ClassificationNode>
                   <Disorder id="1587">
                     <OrphaNumber>1380</OrphaNumber>
@@ -4025,6 +4007,15 @@
                     <OrphaNumber>3156</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3156</ExpertLink>
                     <Name lang="en">Senior-Loken syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="27494">
+                    <OrphaNumber>528105</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=528105</ExpertLink>
+                    <Name lang="en">Hypohidrosis-electrolyte imbalance-lacrimal gland dysfunction-ichthyosis-xerostomia syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

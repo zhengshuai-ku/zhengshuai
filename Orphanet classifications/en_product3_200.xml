@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -48,12 +48,30 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                     <Name lang="en">Syndromic genetic deafness</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="175">
+                  <ClassificationNodeChildList count="177">
                     <ClassificationNode>
                       <Disorder id="26568">
                         <OrphaNumber>508476</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508476</ExpertLink>
                         <Name lang="en">Cleft lip and palate-craniofacial dysmorphism-congenital heart defect-hearing loss syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27331">
+                        <OrphaNumber>521438</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521438</ExpertLink>
+                        <Name lang="en">Congenital vertebral-cardiac-renal anomalies syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27332">
+                        <OrphaNumber>521445</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521445</ExpertLink>
+                        <Name lang="en">Microcephaly-facial dysmorphism-ocular anomalies-multiple congenital anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2141,7 +2159,7 @@
                       <Disorder id="17063">
                         <OrphaNumber>141219</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=141219</ExpertLink>
-                        <Name lang="en">Nasal dorsum fistula/cyst</Name>
+                        <Name lang="en">Nasal dorsum fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3480,7 +3498,7 @@
                           <Disorder id="2093">
                             <OrphaNumber>2216</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2216</ExpertLink>
-                            <Name lang="en">Maternal hyperthermia induced birth defects</Name>
+                            <Name lang="en">Maternal hyperthermia-induced birth defects</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

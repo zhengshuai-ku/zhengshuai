@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:49" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="13041">
       <OrphaNumber>98023</OrphaNumber>
@@ -21,32 +21,50 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91378</ExpertLink>
                     <Name lang="en">Hereditary angioedema</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
-                      <Disorder id="14623">
-                        <OrphaNumber>100050</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100050</ExpertLink>
-                        <Name lang="en">Hereditary angioedema type 1</Name>
+                      <Disorder id="27541">
+                        <OrphaNumber>528623</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=528623</ExpertLink>
+                        <Name lang="en">Hereditary angioedema with C1Inh deficiency</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="14623">
+                            <OrphaNumber>100050</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100050</ExpertLink>
+                            <Name lang="en">Hereditary angioedema type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="14624">
+                            <OrphaNumber>100051</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100051</ExpertLink>
+                            <Name lang="en">Hereditary angioedema type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="14624">
-                        <OrphaNumber>100051</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100051</ExpertLink>
-                        <Name lang="en">Hereditary angioedema type 2</Name>
+                      <Disorder id="27542">
+                        <OrphaNumber>528647</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=528647</ExpertLink>
+                        <Name lang="en">Hereditary angioedema with normal C1Inh</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14627">
-                        <OrphaNumber>100054</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100054</ExpertLink>
-                        <Name lang="en">Hereditary angioedema type 3</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="1">
+                        <ClassificationNode>
+                          <Disorder id="14627">
+                            <OrphaNumber>100054</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100054</ExpertLink>
+                            <Name lang="en">Hereditary angioedema type 3</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -57,23 +75,32 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91385</ExpertLink>
                     <Name lang="en">Acquired angioedema</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
-                      <Disorder id="14628">
-                        <OrphaNumber>100055</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100055</ExpertLink>
-                        <Name lang="en">Acquired angioedema type 2</Name>
+                      <Disorder id="27543">
+                        <OrphaNumber>528663</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=528663</ExpertLink>
+                        <Name lang="en">Acquired angioedema with C1Inh deficiency</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14629">
-                        <OrphaNumber>100056</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100056</ExpertLink>
-                        <Name lang="en">Acquired angioedema type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="14628">
+                            <OrphaNumber>100055</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100055</ExpertLink>
+                            <Name lang="en">Acquired angioedema type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="14629">
+                            <OrphaNumber>100056</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100056</ExpertLink>
+                            <Name lang="en">Acquired angioedema type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -294,7 +321,7 @@
                           <Disorder id="8613">
                             <OrphaNumber>889</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=889</ExpertLink>
-                            <Name lang="en">Cutaneous leukocytoclastic angiitis</Name>
+                            <Name lang="en">Cutaneous small vessel vasculitis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -437,7 +464,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182222</ExpertLink>
                 <Name lang="en">Rare systemic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="29">
+              <ClassificationNodeChildList count="30">
+                <ClassificationNode>
+                  <Disorder id="27333">
+                    <OrphaNumber>521450</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521450</ExpertLink>
+                    <Name lang="en">LAMA5-related multisystemic syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="137">
                     <OrphaNumber>3099</OrphaNumber>
@@ -512,7 +548,7 @@
                       <Disorder id="11722">
                         <OrphaNumber>85450</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85450</ExpertLink>
-                        <Name lang="en">Hereditary amyloidosis with primary renal involement</Name>
+                        <Name lang="en">Hereditary amyloidosis with primary renal involvement</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>
@@ -1902,7 +1938,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=284993</ExpertLink>
                     <Name lang="en">Marfan and Marfan-related disorder</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="109">
                         <OrphaNumber>558</OrphaNumber>
@@ -1993,6 +2029,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="17934">
+                        <OrphaNumber>171719</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171719</ExpertLink>
+                        <Name lang="en">Cutis laxa-Marfanoid syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -2057,7 +2102,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182231</ExpertLink>
                 <Name lang="en">Rare rheumatologic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="20">
+              <ClassificationNodeChildList count="19">
                 <ClassificationNode>
                   <Disorder id="11651">
                     <OrphaNumber>85193</OrphaNumber>
@@ -2803,15 +2848,6 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="14279">
-                    <OrphaNumber>99706</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99706</ExpertLink>
-                    <Name lang="en">Progeria-associated arthropathy</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

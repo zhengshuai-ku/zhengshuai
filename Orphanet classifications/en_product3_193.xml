@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12996">
       <OrphaNumber>97978</OrphaNumber>
@@ -1110,7 +1110,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=240371</ExpertLink>
                     <Name lang="en">Syndromic obesity</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="30">
+                  <ClassificationNodeChildList count="31">
                     <ClassificationNode>
                       <Disorder id="387">
                         <OrphaNumber>819</OrphaNumber>
@@ -1535,6 +1535,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="27324">
+                        <OrphaNumber>521390</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521390</ExpertLink>
+                        <Name lang="en">Spastic paraplegia-intellectual disability-nystagmus-obesity syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="24011">
                         <OrphaNumber>464288</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=464288</ExpertLink>
@@ -1732,7 +1741,7 @@
                               <Disorder id="12670">
                                 <OrphaNumber>95715</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95715</ExpertLink>
-                                <Name lang="en">Congenital hypothyroidism due to transplacental passage of maternal TSH-binding inhibitory antibodies</Name>
+                                <Name lang="en">Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3957,7 +3966,7 @@
                           <Disorder id="21845">
                             <OrphaNumber>325537</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=325537</ExpertLink>
-                            <Name lang="en">46,XY disorder of sex development induced by maternal-exposure to endocrine disruptors</Name>
+                            <Name lang="en">46,XY disorder of sex development induced by maternal exposure to endocrine disruptors</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4602,7 +4611,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181371</ExpertLink>
                     <Name lang="en">Rare diabetes mellitus type 1</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="5">
+                    <ClassificationNode>
+                      <Disorder id="2737">
+                        <OrphaNumber>3044</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3044</ExpertLink>
+                        <Name lang="en">Intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="812">
                         <OrphaNumber>3463</OrphaNumber>
@@ -6203,7 +6221,7 @@
                                   <Disorder id="12670">
                                     <OrphaNumber>95715</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95715</ExpertLink>
-                                    <Name lang="en">Congenital hypothyroidism due to transplacental passage of maternal TSH-binding inhibitory antibodies</Name>
+                                    <Name lang="en">Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -8213,7 +8231,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181441</ExpertLink>
                 <Name lang="en">Rare disorder with hypergonadotropic hypogonadism</Name>
               </Disorder>
-              <ClassificationNodeChildList count="16">
+              <ClassificationNodeChildList count="17">
+                <ClassificationNode>
+                  <Disorder id="2737">
+                    <OrphaNumber>3044</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3044</ExpertLink>
+                    <Name lang="en">Intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="77">
                     <OrphaNumber>273</OrphaNumber>

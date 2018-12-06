@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:09" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="17578">
       <OrphaNumber>165711</OrphaNumber>
@@ -1009,7 +1009,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108969</ExpertLink>
                         <Name lang="en">Syndromic intestinal malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="7">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="2051">
                             <OrphaNumber>2152</OrphaNumber>
@@ -1078,6 +1078,15 @@
                             <OrphaNumber>436252</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436252</ExpertLink>
                             <Name lang="en">Combined immunodeficiency-enteropathy spectrum</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27458">
+                            <OrphaNumber>527468</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=527468</ExpertLink>
+                            <Name lang="en">Diaphragmatic hernia-short bowel-asplenia syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1191,7 +1200,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108973</ExpertLink>
                     <Name lang="en">Syndromic visceral malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="20908">
                         <OrphaNumber>294415</OrphaNumber>
@@ -1260,6 +1269,15 @@
                         <OrphaNumber>2063</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2063</ExpertLink>
                         <Name lang="en">Splenogonadal fusion-limb defects-micrognathia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27458">
+                        <OrphaNumber>527468</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=527468</ExpertLink>
+                        <Name lang="en">Diaphragmatic hernia-short bowel-asplenia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1371,7 +1389,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108979</ExpertLink>
                     <Name lang="en">Syndromic diaphragmatic or abdominal wall malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="24">
+                  <ClassificationNodeChildList count="25">
                     <ClassificationNode>
                       <Disorder id="25843">
                         <OrphaNumber>496693</OrphaNumber>
@@ -1755,6 +1773,15 @@
                         <OrphaNumber>480528</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480528</ExpertLink>
                         <Name lang="en">Lethal hydranencephaly-diaphragmatic hernia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27458">
+                        <OrphaNumber>527468</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=527468</ExpertLink>
+                        <Name lang="en">Diaphragmatic hernia-short bowel-asplenia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

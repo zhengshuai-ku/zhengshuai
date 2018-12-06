@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:54" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -3108,7 +3108,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93441</ExpertLink>
                     <Name lang="en">Primary bone dysplasia with multiple joint dislocations</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="17">
+                  <ClassificationNodeChildList count="18">
                     <ClassificationNode>
                       <Disorder id="12291">
                         <OrphaNumber>93360</OrphaNumber>
@@ -3239,7 +3239,7 @@
                       <Disorder id="20904">
                         <OrphaNumber>294049</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294049</ExpertLink>
-                        <Name lang="en">Reunion Island Larsen syndrome</Name>
+                        <Name lang="en">Reunion Island Larsen-like syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3258,6 +3258,15 @@
                         <OrphaNumber>438117</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438117</ExpertLink>
                         <Name lang="en">Steel syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27457">
+                        <OrphaNumber>527450</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=527450</ExpertLink>
+                        <Name lang="en">Severe myopia-generalized joint laxity-short stature syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5725,7 +5734,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250</ExpertLink>
                         <Name lang="en">Frontonasal dysplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="11">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="1686">
                             <OrphaNumber>1519</OrphaNumber>
@@ -5821,6 +5830,15 @@
                             <OrphaNumber>488437</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488437</ExpertLink>
                             <Name lang="en">SIX2-related frontonasal dysplasia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27323">
+                            <OrphaNumber>521308</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521308</ExpertLink>
+                            <Name lang="en">Frontonasal dysplasia-bifid nose-upper limb anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7552,7 +7570,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93459</ExpertLink>
                         <Name lang="en">Syndrome with synostosis or other joint formation defect</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="14">
                         <ClassificationNode>
                           <Disorder id="1510">
                             <OrphaNumber>1275</OrphaNumber>
@@ -7756,6 +7774,15 @@
                             <OrphaNumber>2725</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2725</ExpertLink>
                             <Name lang="en">Eye defects-arachnodactyly-cardiopathy syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3047">
+                            <OrphaNumber>3466</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3466</ExpertLink>
+                            <Name lang="en">WT limb-blood syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8065,7 +8092,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294955</ExpertLink>
                         <Name lang="en">Syndrome with limb reduction defects</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="49">
+                      <ClassificationNodeChildList count="50">
                         <ClassificationNode>
                           <Disorder id="25392">
                             <OrphaNumber>488232</OrphaNumber>
@@ -8539,6 +8566,15 @@
                             <OrphaNumber>1326</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1326</ExpertLink>
                             <Name lang="en">Camptodactyly syndrome, Guadalajara type 2</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="1070">
+                            <OrphaNumber>1354</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1354</ExpertLink>
+                            <Name lang="en">Heart defects-limb shortening syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

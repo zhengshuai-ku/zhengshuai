@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-11-01 04:14:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-12-01 04:14:42" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -560,7 +560,7 @@
                                   <Disorder id="25954">
                                     <OrphaNumber>499107</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=499107</ExpertLink>
-                                    <Name lang="en">Optic perineuritis</Name>
+                                    <Name lang="en">Idiopathic optic perineuritis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -699,6 +699,15 @@
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                     <ClassificationNode>
+                                      <Disorder id="27329">
+                                        <OrphaNumber>521426</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521426</ExpertLink>
+                                        <Name lang="en">PLAA-associated neurodevelopmental disorder</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
                                       <Disorder id="12868">
                                         <OrphaNumber>97249</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97249</ExpertLink>
@@ -712,15 +721,6 @@
                                         <OrphaNumber>482606</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=482606</ExpertLink>
                                         <Name lang="en">X-linked keloid scarring-reduced joint mobility-increased optic cup-to-disc ratio syndrome</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="25311">
-                                        <OrphaNumber>485421</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=485421</ExpertLink>
-                                        <Name lang="en">Leigh-like basal ganglia disease-optic atrophy-peripheral neuropathy syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -1244,7 +1244,7 @@
                                   <Disorder id="3558">
                                     <OrphaNumber>663</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=663</ExpertLink>
-                                    <Name lang="en">Maternally-inherited progressive external ophthalmoplegia</Name>
+                                    <Name lang="en">Mitochondrial DNA-related progressive external ophthalmoplegia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1632,15 +1632,6 @@
                                     <OrphaNumber>1381</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1381</ExpertLink>
                                     <Name lang="en">Cataract-intellectual disability-anal atresia-urinary defects syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="1603">
-                                    <OrphaNumber>1396</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1396</ExpertLink>
-                                    <Name lang="en">Cerebrorenodigital syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2316,6 +2307,15 @@
                                     <OrphaNumber>467176</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=467176</ExpertLink>
                                     <Name lang="en">Severe hypotonia-psychomotor developmental delay-strabismus-cardiac septal defect syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27340">
+                                    <OrphaNumber>522077</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=522077</ExpertLink>
+                                    <Name lang="en">Infantile hypotonia-oculomotor anomalies-hyperkinetic movements-developmental delay syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -7149,7 +7149,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519272</ExpertLink>
                     <Name lang="en">Structural developmental eye defect</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="24157">
                         <OrphaNumber>466682</OrphaNumber>
@@ -7173,6 +7173,15 @@
                         <OrphaNumber>2484</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2484</ExpertLink>
                         <Name lang="en">Melnick-Needles syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27249">
+                        <OrphaNumber>519384</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519384</ExpertLink>
+                        <Name lang="en">Congenital cystic eye</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -8507,7 +8516,7 @@
                                   <Disorder id="3558">
                                     <OrphaNumber>663</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=663</ExpertLink>
-                                    <Name lang="en">Maternally-inherited progressive external ophthalmoplegia</Name>
+                                    <Name lang="en">Mitochondrial DNA-related progressive external ophthalmoplegia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -8756,7 +8765,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98604</ExpertLink>
                             <Name lang="en">Congenital alacrima</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="7">
                             <ClassificationNode>
                               <Disorder id="11735">
                                 <OrphaNumber>86815</OrphaNumber>
@@ -8843,6 +8852,15 @@
                                 <OrphaNumber>289483</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289483</ExpertLink>
                                 <Name lang="en">Intellectual disability-alacrima-achalasia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22923">
+                                <OrphaNumber>404454</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404454</ExpertLink>
+                                <Name lang="en">Alacrimia-choreoathetosis-liver dysfunction syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9211,7 +9229,7 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98628</ExpertLink>
                                     <Name lang="en">Syndromic corneal dystrophy</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="19">
+                                  <ClassificationNodeChildList count="18">
                                     <ClassificationNode>
                                       <Disorder id="23025">
                                         <OrphaNumber>411641</OrphaNumber>
@@ -9363,15 +9381,6 @@
                                           <ClassificationNodeChildList count="0">
                                           </ClassificationNodeChildList>
                                         </ClassificationNode>
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="2858">
-                                        <OrphaNumber>3191</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3191</ExpertLink>
-                                        <Name lang="en">Subaortic stenosis-short stature syndrome</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
                                     <ClassificationNode>
@@ -10068,7 +10077,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98641</ExpertLink>
                                 <Name lang="en">Syndromic cataract</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="121">
+                              <ClassificationNodeChildList count="122">
                                 <ClassificationNode>
                                   <Disorder id="190">
                                     <OrphaNumber>649</OrphaNumber>
@@ -12099,6 +12108,15 @@
                                     <OrphaNumber>500545</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500545</ExpertLink>
                                     <Name lang="en">Severe neurodevelopmental disorder with feeding difficulties-stereotypic hand movement-bilateral cataract</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27330">
+                                    <OrphaNumber>521432</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521432</ExpertLink>
+                                    <Name lang="en">Congenital cataract-severe neonatal hepatopathy-global developmental delay syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
