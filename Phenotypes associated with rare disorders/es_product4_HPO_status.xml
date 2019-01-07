@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-12-01 04:05:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3298">
+<JDBOR date="2019-01-01 04:05:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+  <HPODisorderSetStatusList count="3311">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2105,7 +2105,7 @@
     <HPODisorderSetStatus id="192">
       <Disorder id="412">
         <OrphaNumber>1006</OrphaNumber>
-        <Name lang="es">Alopecia - inmunodeficiencia</Name>
+        <Name lang="es">Alopecia - deficiencia de anticuerpos</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -2618,7 +2618,7 @@
     <HPODisorderSetStatus id="240">
       <Disorder id="488">
         <OrphaNumber>295</OrphaNumber>
-        <Name lang="es">Embriopatía por parvovirus</Name>
+        <Name lang="es">Síndrome de parvovirus fetal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3245,7 +3245,7 @@
     <HPODisorderSetStatus id="295">
       <Disorder id="564">
         <OrphaNumber>2903</OrphaNumber>
-        <Name lang="es">Neumotorax espontáneo familiar</Name>
+        <Name lang="es">Neumotórax espontáneo familiar</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3630,7 +3630,7 @@
     <HPODisorderSetStatus id="333">
       <Disorder id="637">
         <OrphaNumber>166</OrphaNumber>
-        <Name lang="es">Enfermedad de Charcot-Marie-Tooth</Name>
+        <Name lang="es">Enfermedad de Charcot-Marie-tooth/Neuropatía hereditaria sensitivo-motora</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5533,7 +5533,7 @@
     <HPODisorderSetStatus id="566">
       <Disorder id="1339">
         <OrphaNumber>1031</OrphaNumber>
-        <Name lang="es">Síndrome de amelogénesis imperfecta-nefrocalcinosis</Name>
+        <Name lang="es">Síndrome de amelogénesis imperfecta - nefrocalcinosis</Name>
       </Disorder>
       <Source>12597691[PMID]_3872071[PMID]_21549343[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -6226,7 +6226,7 @@
     <HPODisorderSetStatus id="626">
       <Disorder id="1455">
         <OrphaNumber>1208</OrphaNumber>
-        <Name lang="es">Atresia pulmonar septo ventricular intacto</Name>
+        <Name lang="es">Atresia pulmonar septo interventricular íntegro</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7810,7 +7810,7 @@
     <HPODisorderSetStatus id="707">
       <Disorder id="1605">
         <OrphaNumber>1398</OrphaNumber>
-        <Name lang="es">Hipoplasia/agenesia cerebelosa aislada</Name>
+        <Name lang="es">Agenesia cerebelosa aislada</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10105,7 +10105,7 @@
     <HPODisorderSetStatus id="1020">
       <Disorder id="2261">
         <OrphaNumber>2440</OrphaNumber>
-        <Name lang="es">Malformación de mano hendida - pie hendido</Name>
+        <Name lang="es">Malformación aislada de mano hendida - pie hendido</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10937,7 +10937,7 @@
     <HPODisorderSetStatus id="1112">
       <Disorder id="2538">
         <OrphaNumber>2790</OrphaNumber>
-        <Name lang="es">Osteosclerosis autosómica dominante, tipo Worth</Name>
+        <Name lang="es">Hiperostosis endostal tipo Worth</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11421,7 +11421,7 @@
     <HPODisorderSetStatus id="1035">
       <Disorder id="2305">
         <OrphaNumber>2492</OrphaNumber>
-        <Name lang="es">Anomalía de las extremidades - cardiopatía</Name>
+        <Name lang="es">Síndrome FATCO</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11769,7 +11769,7 @@
     <HPODisorderSetStatus id="1065">
       <Disorder id="2408">
         <OrphaNumber>2631</OrphaNumber>
-        <Name lang="es">Enanismo mesomélico - fisura palatina - camptodactilia</Name>
+        <Name lang="es">Síndrome de enanismo mesomélico - fisura palatina - camptodactilia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12612,7 +12612,7 @@
     <HPODisorderSetStatus id="1264">
       <Disorder id="3117">
         <OrphaNumber>1434</OrphaNumber>
-        <Name lang="es">Coroideremia hipopituitarismo</Name>
+        <Name lang="es">Síndrome de coroideremia - hipopituitarismo</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18800,7 +18800,7 @@
     <HPODisorderSetStatus id="1689">
       <Disorder id="11434">
         <OrphaNumber>79408</OrphaNumber>
-        <Name lang="es">Epidermólisis ampollosa distrófica generalizada grave</Name>
+        <Name lang="es">Epidermólisis ampollosa distrófica recesiva generalizada grave</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24490,7 +24490,7 @@
     <HPODisorderSetStatus id="2436">
       <Disorder id="11987">
         <OrphaNumber>90157</OrphaNumber>
-        <Name lang="es">Lipodistrofia localizada inducida por drogas</Name>
+        <Name lang="es">Lipodistrofia localizada inducida por fármacos</Name>
       </Disorder>
       <Source>24336944[PMID]_8859277[PMID]_2974269[PMID]_1554737[PMID]_16638431[PMID]_24336944[PMID]_24961832[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26800,7 +26800,7 @@
     <HPODisorderSetStatus id="2402">
       <Disorder id="12122">
         <OrphaNumber>91348</OrphaNumber>
-        <Name lang="es">Adenoma gonadotrófico secretor</Name>
+        <Name lang="es">Adenoma gonadotrófico funcionante</Name>
       </Disorder>
       <Source>8656706[PMID]_25166722[PMID]_26072284[PMID]_9768644[PMID]_767353[PMID]_11502789[PMID]_2991325[PMID]_402377[PMID]_334787[PMID]_21196695[PMID]_20960265[PMID]_2627747[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27944,7 +27944,7 @@
     <HPODisorderSetStatus id="2795">
       <Disorder id="16740">
         <OrphaNumber>137902</OrphaNumber>
-        <Name lang="es">Hipoplasia aislada del nervio óptico</Name>
+        <Name lang="es">Hipoplasia/aplasia aislada del nervio óptico</Name>
       </Disorder>
       <Source>1115199[PMID]_12721955[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29407,7 +29407,7 @@
     <HPODisorderSetStatus id="2667">
       <Disorder id="11989">
         <OrphaNumber>90159</OrphaNumber>
-        <Name lang="es">Paniculitis y lipodistrofia localizada</Name>
+        <Name lang="es">Lipodistrofia localizada inducida por paniculitis</Name>
       </Disorder>
       <Source>2613949[PMID]_3510652[PMID]_15554737[PMID]_18333902[PMID]_21865368[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29847,7 +29847,7 @@
     <HPODisorderSetStatus id="2991">
       <Disorder id="12881">
         <OrphaNumber>97287</OrphaNumber>
-        <Name lang="es">Tumor endocrino bronquial</Name>
+        <Name lang="es">Tumor neuroendocrino bronquial</Name>
       </Disorder>
       <Source>27373769[PMID]_18473355[PMID]_2992742[PMID]_12371583[PMID]_22112810[PMID]_11073802[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29858,7 +29858,7 @@
     <HPODisorderSetStatus id="2990">
       <Disorder id="14647">
         <OrphaNumber>100075</OrphaNumber>
-        <Name lang="es">Tumor neuroendocrino gástrico</Name>
+        <Name lang="es">Tumor neuroendocrino de estómago</Name>
       </Disorder>
       <Source>24415864[PMID]_22052063[PMID]_9070484[PMID]_18097129[PMID]_18097129[PMID]_22997445[PMID]_22262004[PMID]_18941127[PMID]_26511392[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29924,7 +29924,7 @@
     <HPODisorderSetStatus id="2980">
       <Disorder id="14651">
         <OrphaNumber>100079</OrphaNumber>
-        <Name lang="es">Tumor neuroendocrino del apéndice</Name>
+        <Name lang="es">Neoplasia neuroendocrina de apéndice</Name>
       </Disorder>
       <Source>12115365[PMID]_21741512[PMID]_25840530[PMID]_8466309[PMID]_25840530[PMID]_22052063[PMID]_28326748[PMID]_27311320[PMID]_27306228[PMID]_26774818[PMID]_23049637[PMID]_20631606[PMID]_19363829[PMID]_17082811[PMID]_10832290[PMID]_10352529[PMID]_10323177[PMID]_14047627[PMID]_18887660[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30738,7 +30738,7 @@
     <HPODisorderSetStatus id="3067">
       <Disorder id="6522">
         <OrphaNumber>537</OrphaNumber>
-        <Name lang="es">Síndrome de Lyell</Name>
+        <Name lang="es">Necrólisis epidérmica tóxica</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32828,7 +32828,7 @@
     <HPODisorderSetStatus id="3270">
       <Disorder id="22931">
         <OrphaNumber>404499</OrphaNumber>
-        <Name lang="es">Síndrome de ataxia cerebelosa autosómica recesiva - epilepsia - discapacidad intelectual por deficiencia de KIAA0226</Name>
+        <Name lang="es">Síndrome de ataxia cerebelosa autosómica recesiva - epilepsia - discapacidad intelectual por deficiencia de RUBCN</Name>
       </Disorder>
       <Source>20826435[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34104,7 +34104,7 @@
     <HPODisorderSetStatus id="3162">
       <Disorder id="2510">
         <OrphaNumber>2754</OrphaNumber>
-        <Name lang="es">Síndrome de Joubert con defecto orofaciodigital</Name>
+        <Name lang="es">Síndrome orofaciodigital tipo 6</Name>
       </Disorder>
       <Source>20615230[PMID]_17377524[PMID]_2309783[PMID]_23523602[PMID]_8256802[PMID]_2309783[PMID]_7381865[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35410,6 +35410,50 @@
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3406">
+      <Disorder id="22065">
+        <OrphaNumber>352470</OrphaNumber>
+        <Name lang="es">Síndrome de deleción del ADN mitocondrial con miopatía progresiva</Name>
+      </Disorder>
+      <Source>23352259[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 15:38:44.576</CreationDate>
+      <UpdateDate>2018-12-03 15:38:44.576</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3407">
+      <Disorder id="22063">
+        <OrphaNumber>352447</OrphaNumber>
+        <Name lang="es">Oftalmoplejía externa progresiva - miopatía - emaciación</Name>
+      </Disorder>
+      <Source>23313956[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 16:00:28.516</CreationDate>
+      <UpdateDate>2018-12-03 16:00:28.516</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3404">
+      <Disorder id="11544">
+        <OrphaNumber>79665</OrphaNumber>
+        <Name lang="es">Síndrome de Gardner</Name>
+      </Disorder>
+      <Source>22525412[PMID]_19822006[PMID]_14902760[PMID]_8747580[PMID]_11156460[PMID]_18046442[PMID]_21209732[PMID]_15300576[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 11:09:42.533</CreationDate>
+      <UpdateDate>2018-12-03 11:09:42.533</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3405">
+      <Disorder id="23691">
+        <OrphaNumber>457050</OrphaNumber>
+        <Name lang="es">Miopatía mitocondrial autosómica dominante con intolerancia al ejercicio</Name>
+      </Disorder>
+      <Source>25193783[PMID]_9324076[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 15:22:23.306</CreationDate>
+      <UpdateDate>2018-12-03 15:22:23.306</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3402">
       <Disorder id="8731">
         <OrphaNumber>600</OrphaNumber>
@@ -35541,6 +35585,105 @@
       <Online>y</Online>
       <CreationDate>2018-11-26 12:20:19.896</CreationDate>
       <UpdateDate>2018-11-26 12:20:19.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3416">
+      <Disorder id="17145">
+        <OrphaNumber>157794</OrphaNumber>
+        <Name lang="es">Síndrome de poliposis mixta hereditaria</Name>
+      </Disorder>
+      <Source>25022750[PMID]_22561515[PMID]_18084292[PMID]_16525031[PMID]_12696020[PMID]_10092300[PMID]_8644741[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:51:54.006</CreationDate>
+      <UpdateDate>2018-12-19 16:51:54.006</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3415">
+      <Disorder id="23548">
+        <OrphaNumber>447877</OrphaNumber>
+        <Name lang="es">Poliposis adenomatosa asociada a la lectura de prueba de la polimerasa</Name>
+      </Disorder>
+      <Source>26133394[PMID]_25370038[PMID]_24501277[PMID]_23263490[PMID]_23447401[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:24:19.01</CreationDate>
+      <UpdateDate>2018-12-19 16:24:19.01</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3414">
+      <Disorder id="22850">
+        <OrphaNumber>401911</OrphaNumber>
+        <Name lang="es">Poliposis adenomatosa familiar atenuada ligada a AXIN2</Name>
+      </Disorder>
+      <Source>23838596[PMID]_11017067[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:03:21.39</CreationDate>
+      <UpdateDate>2018-12-19 16:03:21.39</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3413">
+      <Disorder id="23666">
+        <OrphaNumber>454840</OrphaNumber>
+        <Name lang="es">Poliposis adenomatosa familiar atenuada asociada a NTHL1</Name>
+      </Disorder>
+      <Source>25938944[PMID]_26559593[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-17 15:25:54.536</CreationDate>
+      <UpdateDate>2018-12-17 15:25:54.536</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3412">
+      <Disorder id="25215">
+        <OrphaNumber>480536</OrphaNumber>
+        <Name lang="es">Poliposis adenomatosa familiar atenuada asociada a MSH3</Name>
+      </Disorder>
+      <Source>27476653[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-17 14:47:27.323</CreationDate>
+      <UpdateDate>2018-12-17 14:47:27.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3411">
+      <Disorder id="10782">
+        <OrphaNumber>59135</OrphaNumber>
+        <Name lang="es">Miopatía distal de inicio temprano de Laing</Name>
+      </Disorder>
+      <Source>7847377[PMID]_12975303[PMID]_20733148[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 14:20:44.463</CreationDate>
+      <UpdateDate>2018-12-05 14:20:44.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3410">
+      <Disorder id="22748">
+        <OrphaNumber>399096</OrphaNumber>
+        <Name lang="es">Anoctaminopatía distal</Name>
+      </Disorder>
+      <Source>9673985[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 13:56:21.17</CreationDate>
+      <UpdateDate>2018-12-05 13:56:21.17</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3409">
+      <Disorder id="13928">
+        <OrphaNumber>98911</OrphaNumber>
+        <Name lang="es">Miotilinopatía distal</Name>
+      </Disorder>
+      <Source>16380616[PMID]_3275904[PMID]_12428213[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 12:16:57.4</CreationDate>
+      <UpdateDate>2018-12-05 12:16:57.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3408">
+      <Disorder id="26076">
+        <OrphaNumber>502423</OrphaNumber>
+        <Name lang="es">Síndrome de miopatía mitocondrial - ataxia cerebelosa - retinopatía pigmentaria</Name>
+      </Disorder>
+      <Source>28544275[PMID]_28554942[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 16:26:34.026</CreationDate>
+      <UpdateDate>2018-12-03 16:26:34.026</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3338">
       <Disorder id="8755">
@@ -35805,7 +35948,7 @@
     <HPODisorderSetStatus id="3347">
       <Disorder id="16711">
         <OrphaNumber>137754</OrphaNumber>
-        <Name lang="es">Afección neurológica asociada a la deficiencia de aminoacilasa</Name>
+        <Name lang="es">Afección neurológica asociada a la deficiencia de aminoacilasa 1</Name>
       </Disorder>
       <Source>17562838[PMID]_16465618[PMID]_24117009[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>

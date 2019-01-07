@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-12-01 04:14:14" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2019-01-01 04:14:27" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -87,7 +87,7 @@
                           <Disorder id="12488">
                             <OrphaNumber>93928</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93928</ExpertLink>
-                            <Name lang="en">Epispadias</Name>
+                            <Name lang="en">Isolated epispadias</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5577,7 +5577,7 @@
                           <Disorder id="12488">
                             <OrphaNumber>93928</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93928</ExpertLink>
-                            <Name lang="en">Epispadias</Name>
+                            <Name lang="en">Isolated epispadias</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -13893,7 +13893,7 @@
                           <Disorder id="22433">
                             <OrphaNumber>369837</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369837</ExpertLink>
-                            <Name lang="en">Intellectual disability-seizures-hypotonia-ophthalmologic-skeletal anomalies syndrome</Name>
+                            <Name lang="en">Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -16314,7 +16314,7 @@
                           <Disorder id="22433">
                             <OrphaNumber>369837</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369837</ExpertLink>
-                            <Name lang="en">Intellectual disability-seizures-hypotonia-ophthalmologic-skeletal anomalies syndrome</Name>
+                            <Name lang="en">Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -16485,7 +16485,7 @@
                           <Disorder id="3716">
                             <OrphaNumber>503</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=503</ExpertLink>
-                            <Name lang="en">Autosomal dominant Larsen syndrome</Name>
+                            <Name lang="en">Larsen syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -19572,7 +19572,7 @@
                           <Disorder id="11658">
                             <OrphaNumber>85200</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85200</ExpertLink>
-                            <Name lang="en">Ischio-vertebral syndrome</Name>
+                            <Name lang="en">Ischiovertebral syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -22578,7 +22578,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=364574</ExpertLink>
                                 <Name lang="en">Acrofacial dysostosis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="15">
+                              <ClassificationNodeChildList count="16">
                                 <ClassificationNode>
                                   <Disorder id="407">
                                     <OrphaNumber>245</OrphaNumber>
@@ -22710,6 +22710,15 @@
                                     <OrphaNumber>280651</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280651</ExpertLink>
                                     <Name lang="en">Acrodysostosis with multiple hormone resistance</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="2777">
+                                    <OrphaNumber>3102</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3102</ExpertLink>
+                                    <Name lang="en">Richieri Costa-Pereira syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -26560,7 +26569,7 @@
                   <Disorder id="3716">
                     <OrphaNumber>503</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=503</ExpertLink>
-                    <Name lang="en">Autosomal dominant Larsen syndrome</Name>
+                    <Name lang="en">Larsen syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -30795,7 +30804,7 @@
                           <Disorder id="3716">
                             <OrphaNumber>503</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=503</ExpertLink>
-                            <Name lang="en">Autosomal dominant Larsen syndrome</Name>
+                            <Name lang="en">Larsen syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -35388,7 +35397,7 @@
                                       <Disorder id="18850">
                                         <OrphaNumber>217377</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217377</ExpertLink>
-                                        <Name lang="en">Microduplication Xp11.22-p11.23 syndrome</Name>
+                                        <Name lang="en">Microduplication Xp11.22p11.23 syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -36449,7 +36458,7 @@
                       <Disorder id="18850">
                         <OrphaNumber>217377</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217377</ExpertLink>
-                        <Name lang="en">Microduplication Xp11.22-p11.23 syndrome</Name>
+                        <Name lang="en">Microduplication Xp11.22p11.23 syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -37115,7 +37124,7 @@
                       <Disorder id="22433">
                         <OrphaNumber>369837</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369837</ExpertLink>
-                        <Name lang="en">Intellectual disability-seizures-hypotonia-ophthalmologic-skeletal anomalies syndrome</Name>
+                        <Name lang="en">Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -43060,7 +43069,7 @@
                               <Disorder id="1416">
                                 <OrphaNumber>1149</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1149</ExpertLink>
-                                <Name lang="en">Arthrogryposis-like syndrome</Name>
+                                <Name lang="en">Kuskokwim syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -45303,7 +45312,7 @@
                           <Disorder id="20964">
                             <OrphaNumber>295030</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295030</ExpertLink>
-                            <Name lang="en">Congenital shoulder dislocation</Name>
+                            <Name lang="en">True congenital shoulder dislocation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -47859,7 +47868,7 @@
                           <Disorder id="12662">
                             <OrphaNumber>95707</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95707</ExpertLink>
-                            <Name lang="en">Isolated micropenis</Name>
+                            <Name lang="en">Idiopathic isolated micropenis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -47893,7 +47902,7 @@
                               <Disorder id="12488">
                                 <OrphaNumber>93928</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93928</ExpertLink>
-                                <Name lang="en">Epispadias</Name>
+                                <Name lang="en">Isolated epispadias</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

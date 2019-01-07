@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2018-12-01 04:05:13" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2018">
-  <HPODisorderSetStatusList count="3298">
+<JDBOR date="2019-01-01 04:05:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+  <HPODisorderSetStatusList count="3311">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -6688,7 +6688,7 @@
     <HPODisorderSetStatus id="604">
       <Disorder id="1416">
         <OrphaNumber>1149</OrphaNumber>
-        <Name lang="fr">Syndrome arthrogrypose-like</Name>
+        <Name lang="fr">Syndrome de Kuskokwim</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8873,7 +8873,7 @@
     <HPODisorderSetStatus id="894">
       <Disorder id="1954">
         <OrphaNumber>2022</OrphaNumber>
-        <Name lang="fr">Fibroélastose endomyocardique</Name>
+        <Name lang="fr">Fibroélastose endocardique</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13697,7 +13697,7 @@
     <HPODisorderSetStatus id="1345">
       <Disorder id="3716">
         <OrphaNumber>503</OrphaNumber>
-        <Name lang="fr">Syndrome de Larsen autosomique dominant</Name>
+        <Name lang="fr">Syndrome de Larsen</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15717,7 +15717,7 @@
     <HPODisorderSetStatus id="1417">
       <Disorder id="8634">
         <OrphaNumber>384</OrphaNumber>
-        <Name lang="fr">Syndrome de kératodermie palmoplantaire-sclérodactylie</Name>
+        <Name lang="fr">Syndrome de Huriez</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17759,7 +17759,7 @@
     <HPODisorderSetStatus id="1790">
       <Disorder id="11787">
         <OrphaNumber>86914</OrphaNumber>
-        <Name lang="fr">Syndrome de lymphoedème-anomalie cérébrale artério-veineuse</Name>
+        <Name lang="fr">Syndrome de lymphoedème-anomalie cérébrale artérioveineuse</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18932,7 +18932,7 @@
     <HPODisorderSetStatus id="1904">
       <Disorder id="12488">
         <OrphaNumber>93928</OrphaNumber>
-        <Name lang="fr">Epispadias</Name>
+        <Name lang="fr">Epispadias isolé</Name>
       </Disorder>
       <Source>_18314106[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -23852,7 +23852,7 @@
     <HPODisorderSetStatus id="2112">
       <Disorder id="18850">
         <OrphaNumber>217377</OrphaNumber>
-        <Name lang="fr">Syndrome de microduplication Xp11.22-p11.23</Name>
+        <Name lang="fr">Syndrome de microduplication Xp11.22p11.23</Name>
       </Disorder>
       <Source>_19716111[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27064,7 +27064,7 @@
     <HPODisorderSetStatus id="2427">
       <Disorder id="12662">
         <OrphaNumber>95707</OrphaNumber>
-        <Name lang="fr">Micropénis isolé</Name>
+        <Name lang="fr">Micropénis isolé idiopathique</Name>
       </Disorder>
       <Source>8559204[PMID]_1929508[PMID]_12843198[PMID]_21147889[PMID]_21147889[PMID]_9106076[PMID]_2248513[PMID]_11701709[PMID]_9626653 [PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32641,7 +32641,7 @@
     <HPODisorderSetStatus id="3286">
       <Disorder id="18027">
         <OrphaNumber>178464</OrphaNumber>
-        <Name lang="fr">Myopathie proximale héréditaire avec atteinte respiratoire précoce</Name>
+        <Name lang="fr">Myopathie héréditaire avec atteinte respiratoire précoce</Name>
       </Disorder>
       <Source>22577215[PMID],24575448[PMID)</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32872,7 +32872,7 @@
     <HPODisorderSetStatus id="3266">
       <Disorder id="12910">
         <OrphaNumber>97355</OrphaNumber>
-        <Name lang="fr">Parkinsonisme atypique de Guadeloupe</Name>
+        <Name lang="fr">Parkinsonisme des Caraïbes</Name>
       </Disorder>
       <Source>29525296[PMID]_18941145[PMID]_18816693[PMID]_17303592[PMID]_1210440304[PMID]_217621[PMID]_11912113[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35410,6 +35410,50 @@
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3406">
+      <Disorder id="22065">
+        <OrphaNumber>352470</OrphaNumber>
+        <Name lang="fr">Syndrome de délétion de l'ADN mitochondrial associée à DNA2</Name>
+      </Disorder>
+      <Source>23352259[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 15:38:44.576</CreationDate>
+      <UpdateDate>2018-12-03 15:38:44.576</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3407">
+      <Disorder id="22063">
+        <OrphaNumber>352447</OrphaNumber>
+        <Name lang="fr">Syndrome d'ophtalmoplégie externe progressive-myopathie-émaciation</Name>
+      </Disorder>
+      <Source>23313956[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 16:00:28.516</CreationDate>
+      <UpdateDate>2018-12-03 16:00:28.516</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3404">
+      <Disorder id="11544">
+        <OrphaNumber>79665</OrphaNumber>
+        <Name lang="fr">Syndrome de Gardner</Name>
+      </Disorder>
+      <Source>22525412[PMID]_19822006[PMID]_14902760[PMID]_8747580[PMID]_11156460[PMID]_18046442[PMID]_21209732[PMID]_15300576[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 11:09:42.533</CreationDate>
+      <UpdateDate>2018-12-03 11:09:42.533</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3405">
+      <Disorder id="23691">
+        <OrphaNumber>457050</OrphaNumber>
+        <Name lang="fr">Myopathie mitochondriale autosomique dominante avec intolérance à l'effort</Name>
+      </Disorder>
+      <Source>25193783[PMID]_9324076[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 15:22:23.306</CreationDate>
+      <UpdateDate>2018-12-03 15:22:23.306</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3402">
       <Disorder id="8731">
         <OrphaNumber>600</OrphaNumber>
@@ -35541,6 +35585,105 @@
       <Online>y</Online>
       <CreationDate>2018-11-26 12:20:19.896</CreationDate>
       <UpdateDate>2018-11-26 12:20:19.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3416">
+      <Disorder id="17145">
+        <OrphaNumber>157794</OrphaNumber>
+        <Name lang="fr">Polypose mixte héréditaire</Name>
+      </Disorder>
+      <Source>25022750[PMID]_22561515[PMID]_18084292[PMID]_16525031[PMID]_12696020[PMID]_10092300[PMID]_8644741[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:51:54.006</CreationDate>
+      <UpdateDate>2018-12-19 16:51:54.006</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3415">
+      <Disorder id="23548">
+        <OrphaNumber>447877</OrphaNumber>
+        <Name lang="fr">Polypose adénomateuse associée aux ADN polymérases</Name>
+      </Disorder>
+      <Source>26133394[PMID]_25370038[PMID]_24501277[PMID]_23263490[PMID]_23447401[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:24:19.01</CreationDate>
+      <UpdateDate>2018-12-19 16:24:19.01</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3414">
+      <Disorder id="22850">
+        <OrphaNumber>401911</OrphaNumber>
+        <Name lang="fr">Polypose adénomateuse familiale atténuée liée à AXIN2</Name>
+      </Disorder>
+      <Source>23838596[PMID]_11017067[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-19 16:03:21.39</CreationDate>
+      <UpdateDate>2018-12-19 16:03:21.39</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3413">
+      <Disorder id="23666">
+        <OrphaNumber>454840</OrphaNumber>
+        <Name lang="fr">Polypose adenomateuse familiale attenuée associée à NTHL1</Name>
+      </Disorder>
+      <Source>25938944[PMID]_26559593[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-17 15:25:54.536</CreationDate>
+      <UpdateDate>2018-12-17 15:25:54.536</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3412">
+      <Disorder id="25215">
+        <OrphaNumber>480536</OrphaNumber>
+        <Name lang="fr">Polypose adenomateuse familiale attenuée associée à MSH3</Name>
+      </Disorder>
+      <Source>27476653[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-17 14:47:27.323</CreationDate>
+      <UpdateDate>2018-12-17 14:47:27.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3411">
+      <Disorder id="10782">
+        <OrphaNumber>59135</OrphaNumber>
+        <Name lang="fr">Myopathie distale précoce type Laing</Name>
+      </Disorder>
+      <Source>7847377[PMID]_12975303[PMID]_20733148[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 14:20:44.463</CreationDate>
+      <UpdateDate>2018-12-05 14:20:44.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3410">
+      <Disorder id="22748">
+        <OrphaNumber>399096</OrphaNumber>
+        <Name lang="fr">Anoctaminopathie distale</Name>
+      </Disorder>
+      <Source>9673985[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 13:56:21.17</CreationDate>
+      <UpdateDate>2018-12-05 13:56:21.17</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3409">
+      <Disorder id="13928">
+        <OrphaNumber>98911</OrphaNumber>
+        <Name lang="fr">Myotilinopathie distale</Name>
+      </Disorder>
+      <Source>16380616[PMID]_3275904[PMID]_12428213[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-05 12:16:57.4</CreationDate>
+      <UpdateDate>2018-12-05 12:16:57.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3408">
+      <Disorder id="26076">
+        <OrphaNumber>502423</OrphaNumber>
+        <Name lang="fr">Syndrome de myopathie mitochondriale-ataxie cérébelleuse-rétinopathie pigmentaire</Name>
+      </Disorder>
+      <Source>28544275[PMID]_28554942[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2018-12-03 16:26:34.026</CreationDate>
+      <UpdateDate>2018-12-03 16:26:34.026</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3338">
       <Disorder id="8755">
@@ -35721,7 +35864,7 @@
     <HPODisorderSetStatus id="3355">
       <Disorder id="17015">
         <OrphaNumber>140989</OrphaNumber>
-        <Name lang="fr">Vascularite primaire du système nerveux central</Name>
+        <Name lang="fr">Angéite primaire du système nerveux central</Name>
       </Disorder>
       <Source>[PMID]_26020379[PMID]_25708615[PMID]_22575778[PMID]_16575852[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
