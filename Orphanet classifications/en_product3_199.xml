@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:15:07" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:15:13" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="12333">
       <OrphaNumber>93419</OrphaNumber>
@@ -37,7 +44,7 @@
                   <Disorder id="2257">
                     <OrphaNumber>296</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                    <Name lang="en">Enchondromatosis</Name>
+                    <Name lang="en">Ollier disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -4814,7 +4821,7 @@
                       <Disorder id="2257">
                         <OrphaNumber>296</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                        <Name lang="en">Enchondromatosis</Name>
+                        <Name lang="en">Ollier disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5212,7 +5219,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139393</ExpertLink>
                         <Name lang="en">Syndromic craniosynostosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="41">
+                      <ClassificationNodeChildList count="40">
                         <ClassificationNode>
                           <Disorder id="244">
                             <OrphaNumber>207</OrphaNumber>
@@ -5493,15 +5500,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="3195">
-                            <OrphaNumber>1530</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1530</ExpertLink>
-                            <Name lang="en">Craniosynostosis-cataract syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="3225">
                             <OrphaNumber>1524</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1524</ExpertLink>
@@ -5734,7 +5732,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250</ExpertLink>
                         <Name lang="en">Frontonasal dysplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="12">
+                      <ClassificationNodeChildList count="13">
                         <ClassificationNode>
                           <Disorder id="1686">
                             <OrphaNumber>1519</OrphaNumber>
@@ -5839,6 +5837,15 @@
                             <OrphaNumber>521308</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521308</ExpertLink>
                             <Name lang="en">Frontonasal dysplasia-bifid nose-upper limb anomalies syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17152">
+                            <OrphaNumber>157832</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157832</ExpertLink>
+                            <Name lang="en">Craniorhiny</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

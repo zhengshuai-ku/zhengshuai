@@ -1,4 +1,11 @@
-<JDBOR date="18-7-6 15:59:45" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<JDBOR date="2018-07-06 15:59:45" version="1.2.7 / 4.1.6 [2017-03-09] (orientdb version)" copyright="Orphanet (c) 2018">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="7320">
     <Disorder id="2">
       <DisorderDisorderAssociationList count="0">

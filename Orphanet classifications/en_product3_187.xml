@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:14:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:14:58" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="11896">
       <OrphaNumber>89826</OrphaNumber>
@@ -4202,7 +4209,7 @@
                       <Disorder id="13626">
                         <OrphaNumber>98609</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98609</ExpertLink>
-                        <Name lang="en">EEC syndrome and related disorder</Name>
+                        <Name lang="en">EEC syndrome and related disorders</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>
@@ -6056,7 +6063,7 @@
                       <Disorder id="10743">
                         <OrphaNumber>53721</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53721</ExpertLink>
-                        <Name lang="en">Cobb syndrome</Name>
+                        <Name lang="en">Spinal arteriovenous metameric syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6891,7 +6898,7 @@
                           <Disorder id="22331">
                             <OrphaNumber>363649</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
-                            <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                            <Name lang="en">Mandibular hypoplasia-deafness-progeroid features-lipodystrophy syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9091,7 +9098,7 @@
                   <Disorder id="22331">
                     <OrphaNumber>363649</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
-                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid features-lipodystrophy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -9161,7 +9168,7 @@
                       <Disorder id="2629">
                         <OrphaNumber>2907</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2907</ExpertLink>
-                        <Name lang="en">Hereditary acrokeratotic poikiloderma, Weary type</Name>
+                        <Name lang="en">Hereditary acrokeratotic poikiloderma</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

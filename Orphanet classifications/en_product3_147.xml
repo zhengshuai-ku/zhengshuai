@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:14:27" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:14:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="12469">
       <OrphaNumber>93890</OrphaNumber>
@@ -3365,7 +3372,7 @@
                       <Disorder id="22443">
                         <OrphaNumber>369891</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369891</ExpertLink>
-                        <Name lang="en">Cardiac anomalies-developmental delay-facial dysmorphism syndrome</Name>
+                        <Name lang="en">Developmental delay-facial dysmorphism syndrome due to MED13L deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3718,7 +3725,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139393</ExpertLink>
                         <Name lang="en">Syndromic craniosynostosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="41">
+                      <ClassificationNodeChildList count="40">
                         <ClassificationNode>
                           <Disorder id="244">
                             <OrphaNumber>207</OrphaNumber>
@@ -4003,15 +4010,6 @@
                             <OrphaNumber>1541</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1541</ExpertLink>
                             <Name lang="en">Craniosynostosis, Boston type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3195">
-                            <OrphaNumber>1530</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1530</ExpertLink>
-                            <Name lang="en">Craniosynostosis-cataract syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6589,70 +6587,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98519</ExpertLink>
                         <Name lang="en">Posterior fossa malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="13537">
-                            <OrphaNumber>98520</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98520</ExpertLink>
-                            <Name lang="en">Cystic malformation of the posterior fossa</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="4">
-                            <ClassificationNode>
-                              <Disorder id="456">
-                                <OrphaNumber>217</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217</ExpertLink>
-                                <Name lang="en">Isolated Dandy-Walker malformation</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20246">
-                                    <OrphaNumber>269212</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269212</ExpertLink>
-                                    <Name lang="en">Isolated Dandy-Walker malformation with hydrocephalus</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20247">
-                                    <OrphaNumber>269215</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269215</ExpertLink>
-                                    <Name lang="en">Isolated Dandy-Walker malformation without hydrocephalus</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12869">
-                                <OrphaNumber>97252</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97252</ExpertLink>
-                                <Name lang="en">Mega-cisterna magna</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="13939">
-                                <OrphaNumber>98922</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98922</ExpertLink>
-                                <Name lang="en">Blake pouch cyst</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20242">
-                                <OrphaNumber>269200</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269200</ExpertLink>
-                                <Name lang="en">Retrocerebellar cyst</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="6">
                         <ClassificationNode>
                           <Disorder id="13540">
                             <OrphaNumber>98523</OrphaNumber>
@@ -6901,6 +6836,51 @@
                             <OrphaNumber>269229</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269229</ExpertLink>
                             <Name lang="en">Pontine tegmental cap dysplasia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="456">
+                            <OrphaNumber>217</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217</ExpertLink>
+                            <Name lang="en">Isolated Dandy-Walker malformation</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="20246">
+                                <OrphaNumber>269212</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269212</ExpertLink>
+                                <Name lang="en">Isolated Dandy-Walker malformation with hydrocephalus</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20247">
+                                <OrphaNumber>269215</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269215</ExpertLink>
+                                <Name lang="en">Isolated Dandy-Walker malformation without hydrocephalus</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12869">
+                            <OrphaNumber>97252</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97252</ExpertLink>
+                            <Name lang="en">Mega-cisterna magna</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="13939">
+                            <OrphaNumber>98922</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98922</ExpertLink>
+                            <Name lang="en">Blake pouch cyst</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -7435,7 +7415,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269194</ExpertLink>
                         <Name lang="en">Central nervous system cystic malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="5527">
                             <OrphaNumber>2356</OrphaNumber>
@@ -7443,69 +7423,6 @@
                             <Name lang="en">Arachnoid cyst</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="13537">
-                            <OrphaNumber>98520</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98520</ExpertLink>
-                            <Name lang="en">Cystic malformation of the posterior fossa</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="4">
-                            <ClassificationNode>
-                              <Disorder id="456">
-                                <OrphaNumber>217</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217</ExpertLink>
-                                <Name lang="en">Isolated Dandy-Walker malformation</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="20246">
-                                    <OrphaNumber>269212</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269212</ExpertLink>
-                                    <Name lang="en">Isolated Dandy-Walker malformation with hydrocephalus</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20247">
-                                    <OrphaNumber>269215</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269215</ExpertLink>
-                                    <Name lang="en">Isolated Dandy-Walker malformation without hydrocephalus</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12869">
-                                <OrphaNumber>97252</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97252</ExpertLink>
-                                <Name lang="en">Mega-cisterna magna</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="13939">
-                                <OrphaNumber>98922</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98922</ExpertLink>
-                                <Name lang="en">Blake pouch cyst</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20242">
-                                <OrphaNumber>269200</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269200</ExpertLink>
-                                <Name lang="en">Retrocerebellar cyst</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -9757,7 +9674,7 @@
                   <Disorder id="2257">
                     <OrphaNumber>296</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                    <Name lang="en">Enchondromatosis</Name>
+                    <Name lang="en">Ollier disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10007,7 +9924,7 @@
                       <Disorder id="10399">
                         <OrphaNumber>35737</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35737</ExpertLink>
-                        <Name lang="en">Morning glory syndrome</Name>
+                        <Name lang="en">Morning glory disc anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -18105,7 +18022,7 @@
                           <Disorder id="2257">
                             <OrphaNumber>296</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                            <Name lang="en">Enchondromatosis</Name>
+                            <Name lang="en">Ollier disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -18512,7 +18429,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139393</ExpertLink>
                             <Name lang="en">Syndromic craniosynostosis</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="41">
+                          <ClassificationNodeChildList count="40">
                             <ClassificationNode>
                               <Disorder id="244">
                                 <OrphaNumber>207</OrphaNumber>
@@ -18802,15 +18719,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="3195">
-                                <OrphaNumber>1530</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1530</ExpertLink>
-                                <Name lang="en">Craniosynostosis-cataract syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="3225">
                                 <OrphaNumber>1524</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1524</ExpertLink>
@@ -19034,7 +18942,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=250</ExpertLink>
                             <Name lang="en">Frontonasal dysplasia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="12">
+                          <ClassificationNodeChildList count="13">
                             <ClassificationNode>
                               <Disorder id="1686">
                                 <OrphaNumber>1519</OrphaNumber>
@@ -19130,6 +19038,15 @@
                                 <OrphaNumber>488437</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488437</ExpertLink>
                                 <Name lang="en">SIX2-related frontonasal dysplasia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17152">
+                                <OrphaNumber>157832</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157832</ExpertLink>
+                                <Name lang="en">Craniorhiny</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -22996,7 +22913,7 @@
                   <Disorder id="2376">
                     <OrphaNumber>2576</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2576</ExpertLink>
-                    <Name lang="en">MULIBREY nanism</Name>
+                    <Name lang="en">Mulibrey nanism</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -23552,7 +23469,7 @@
                       <Disorder id="2257">
                         <OrphaNumber>296</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                        <Name lang="en">Enchondromatosis</Name>
+                        <Name lang="en">Ollier disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -23993,7 +23910,7 @@
                       <Disorder id="1638">
                         <OrphaNumber>1435</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1435</ExpertLink>
-                        <Name lang="en">Choroideremia-deafness-obesity syndrome</Name>
+                        <Name lang="en">Xq21 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -25775,7 +25692,7 @@
                       <Disorder id="13626">
                         <OrphaNumber>98609</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98609</ExpertLink>
-                        <Name lang="en">EEC syndrome and related disorder</Name>
+                        <Name lang="en">EEC syndrome and related disorders</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>
@@ -27145,7 +27062,7 @@
                   <Disorder id="22331">
                     <OrphaNumber>363649</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
-                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid features-lipodystrophy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -37133,7 +37050,7 @@
                       <Disorder id="22443">
                         <OrphaNumber>369891</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369891</ExpertLink>
-                        <Name lang="en">Cardiac anomalies-developmental delay-facial dysmorphism syndrome</Name>
+                        <Name lang="en">Developmental delay-facial dysmorphism syndrome due to MED13L deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -47067,7 +46984,7 @@
                           <Disorder id="10743">
                             <OrphaNumber>53721</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=53721</ExpertLink>
-                            <Name lang="en">Cobb syndrome</Name>
+                            <Name lang="en">Spinal arteriovenous metameric syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -48709,7 +48626,7 @@
                   <Disorder id="22331">
                     <OrphaNumber>363649</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
-                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                    <Name lang="en">Mandibular hypoplasia-deafness-progeroid features-lipodystrophy syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -49303,7 +49220,7 @@
                   <Disorder id="1638">
                     <OrphaNumber>1435</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1435</ExpertLink>
-                    <Name lang="en">Choroideremia-deafness-obesity syndrome</Name>
+                    <Name lang="en">Xq21 microdeletion syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

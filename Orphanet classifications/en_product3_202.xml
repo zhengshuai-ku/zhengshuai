@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:15:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:15:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="19592">
       <OrphaNumber>250908</OrphaNumber>
@@ -2735,7 +2742,7 @@
                       <Disorder id="2257">
                         <OrphaNumber>296</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                        <Name lang="en">Enchondromatosis</Name>
+                        <Name lang="en">Ollier disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5663,7 +5670,7 @@
                                   <Disorder id="19665">
                                     <OrphaNumber>251633</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251633</ExpertLink>
-                                    <Name lang="en">Low grade ependymoma</Name>
+                                    <Name lang="en">Low-grade ependymoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="3">
                                     <ClassificationNode>
@@ -10072,7 +10079,7 @@
                   <Disorder id="2257">
                     <OrphaNumber>296</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=296</ExpertLink>
-                    <Name lang="en">Enchondromatosis</Name>
+                    <Name lang="en">Ollier disease</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

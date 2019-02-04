@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:14:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:14:39" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="10507">
       <OrphaNumber>68367</OrphaNumber>
@@ -5964,7 +5971,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309136</ExpertLink>
                                 <Name lang="en">Mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="9">
+                              <ClassificationNodeChildList count="8">
                                 <ClassificationNode>
                                   <Disorder id="5015">
                                     <OrphaNumber>1194</OrphaNumber>
@@ -6024,15 +6031,6 @@
                                     <OrphaNumber>254902</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254902</ExpertLink>
                                     <Name lang="en">Renal tubulopathy-encephalopathy-liver failure syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20735">
-                                    <OrphaNumber>289527</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289527</ExpertLink>
-                                    <Name lang="en">Fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -8302,7 +8300,7 @@
                               <Disorder id="3264">
                                 <OrphaNumber>412</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412</ExpertLink>
-                                <Name lang="en">Hyperlipoproteinemia type 3</Name>
+                                <Name lang="en">Dysbetalipoproteinemia</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8313,7 +8311,7 @@
                           <Disorder id="18186">
                             <OrphaNumber>181425</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181425</ExpertLink>
-                            <Name lang="en">Major hypertriglyceridemia</Name>
+                            <Name lang="en">Rare major hypertriglyceridemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>

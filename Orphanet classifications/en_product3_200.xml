@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:15:08" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:15:15" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="13054">
       <OrphaNumber>98036</OrphaNumber>
@@ -278,7 +285,7 @@
                       <Disorder id="22331">
                         <OrphaNumber>363649</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363649</ExpertLink>
-                        <Name lang="en">Mandibular hypoplasia-deafness-progeroid syndrome</Name>
+                        <Name lang="en">Mandibular hypoplasia-deafness-progeroid features-lipodystrophy syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -881,7 +888,7 @@
                       <Disorder id="1638">
                         <OrphaNumber>1435</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1435</ExpertLink>
-                        <Name lang="en">Choroideremia-deafness-obesity syndrome</Name>
+                        <Name lang="en">Xq21 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

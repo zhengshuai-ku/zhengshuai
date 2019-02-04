@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:14:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:14:30" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="12948">
       <OrphaNumber>97929</OrphaNumber>
@@ -269,7 +276,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217587</ExpertLink>
                             <Name lang="en">Mitochondrial disease with hypertrophic cardiomyopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="15">
+                          <ClassificationNodeChildList count="14">
                             <ClassificationNode>
                               <Disorder id="63">
                                 <OrphaNumber>550</OrphaNumber>
@@ -320,15 +327,6 @@
                                 <OrphaNumber>99718</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99718</ExpertLink>
                                 <Name lang="en">Leber plus disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20735">
-                                <OrphaNumber>289527</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289527</ExpertLink>
-                                <Name lang="en">Fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

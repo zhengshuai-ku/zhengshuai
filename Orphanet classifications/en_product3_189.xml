@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-01-01 04:14:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-02-01 04:15:02" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<Availability> 
+ <Licence>
+    <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+    <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+    <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+ </Licence>
+</Availability>
   <DisorderList count="1">
     <Disorder id="12984">
       <OrphaNumber>97966</OrphaNumber>
@@ -407,7 +414,7 @@
                                   <Disorder id="10399">
                                     <OrphaNumber>35737</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35737</ExpertLink>
-                                    <Name lang="en">Morning glory syndrome</Name>
+                                    <Name lang="en">Morning glory disc anomaly</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1883,7 +1890,7 @@
                                   <Disorder id="10399">
                                     <OrphaNumber>35737</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35737</ExpertLink>
-                                    <Name lang="en">Morning glory syndrome</Name>
+                                    <Name lang="en">Morning glory disc anomaly</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -3793,7 +3800,7 @@
                               <Disorder id="1638">
                                 <OrphaNumber>1435</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1435</ExpertLink>
-                                <Name lang="en">Choroideremia-deafness-obesity syndrome</Name>
+                                <Name lang="en">Xq21 microdeletion syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8871,7 +8878,7 @@
                           <Disorder id="13626">
                             <OrphaNumber>98609</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98609</ExpertLink>
-                            <Name lang="en">EEC syndrome and related disorder</Name>
+                            <Name lang="en">EEC syndrome and related disorders</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="4">
                             <ClassificationNode>
@@ -10077,7 +10084,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98641</ExpertLink>
                                 <Name lang="en">Syndromic cataract</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="122">
+                              <ClassificationNodeChildList count="121">
                                 <ClassificationNode>
                                   <Disorder id="190">
                                     <OrphaNumber>649</OrphaNumber>
@@ -11487,15 +11494,6 @@
                                     <OrphaNumber>50814</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=50814</ExpertLink>
                                     <Name lang="en">Craniolenticulosutural dysplasia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="3195">
-                                    <OrphaNumber>1530</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1530</ExpertLink>
-                                    <Name lang="en">Craniosynostosis-cataract syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
