@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-02-01 04:14:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-03-01 04:53:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1547,7 +1547,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=56044</ExpertLink>
                         <Name lang="en">Carcinoma of gallbladder and extrahepatic biliary tract</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="10951">
                             <OrphaNumber>70567</OrphaNumber>
@@ -1580,6 +1580,15 @@
                             <OrphaNumber>424996</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424996</ExpertLink>
                             <Name lang="en">Squamous cell carcinoma of gallbladder and extrahepatic biliary tract</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27629">
+                            <OrphaNumber>529852</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529852</ExpertLink>
+                            <Name lang="en">Combined hepatocellular carcinoma and cholangiocarcinoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1662,7 +1671,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424936</ExpertLink>
                             <Name lang="en">Carcinoma of liver and intrahepatic biliary tract</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="7">
+                          <ClassificationNodeChildList count="8">
+                            <ClassificationNode>
+                              <Disorder id="27629">
+                                <OrphaNumber>529852</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529852</ExpertLink>
+                                <Name lang="en">Combined hepatocellular carcinoma and cholangiocarcinoma</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="10951">
                                 <OrphaNumber>70567</OrphaNumber>

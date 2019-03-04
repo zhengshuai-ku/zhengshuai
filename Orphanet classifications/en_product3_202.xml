@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-02-01 04:15:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-03-01 04:54:11" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -352,7 +352,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=68347</ExpertLink>
                     <Name lang="en">Tumor of hematopoietic and lymphoid tissues</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
+                  <ClassificationNodeChildList count="6">
                     <ClassificationNode>
                       <Disorder id="430">
                         <OrphaNumber>125</OrphaNumber>
@@ -643,30 +643,21 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86851</ExpertLink>
                                 <Name lang="en">Acute leukemia of ambiguous lineage</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="27686">
+                                    <OrphaNumber>530995</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=530995</ExpertLink>
+                                    <Name lang="en">Mixed phenotype acute leukemia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="13852">
                                     <OrphaNumber>98835</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98835</ExpertLink>
                                     <Name lang="en">Acute undifferentiated leukemia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13853">
-                                    <OrphaNumber>98836</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98836</ExpertLink>
-                                    <Name lang="en">Bilineal acute leukemia</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="13854">
-                                    <OrphaNumber>98837</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98837</ExpertLink>
-                                    <Name lang="en">Acute biphenotypic leukemia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2711,6 +2702,15 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27593">
+                        <OrphaNumber>529468</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529468</ExpertLink>
+                        <Name lang="en">Monoclonal mast cell activation syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -4477,7 +4477,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=56044</ExpertLink>
                                 <Name lang="en">Carcinoma of gallbladder and extrahepatic biliary tract</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="4">
+                              <ClassificationNodeChildList count="5">
                                 <ClassificationNode>
                                   <Disorder id="10951">
                                     <OrphaNumber>70567</OrphaNumber>
@@ -4510,6 +4510,15 @@
                                     <OrphaNumber>424996</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424996</ExpertLink>
                                     <Name lang="en">Squamous cell carcinoma of gallbladder and extrahepatic biliary tract</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27629">
+                                    <OrphaNumber>529852</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529852</ExpertLink>
+                                    <Name lang="en">Combined hepatocellular carcinoma and cholangiocarcinoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -4592,7 +4601,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424936</ExpertLink>
                                     <Name lang="en">Carcinoma of liver and intrahepatic biliary tract</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="7">
+                                  <ClassificationNodeChildList count="8">
+                                    <ClassificationNode>
+                                      <Disorder id="27629">
+                                        <OrphaNumber>529852</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529852</ExpertLink>
+                                        <Name lang="en">Combined hepatocellular carcinoma and cholangiocarcinoma</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                     <ClassificationNode>
                                       <Disorder id="10951">
                                         <OrphaNumber>70567</OrphaNumber>
@@ -5667,46 +5685,19 @@
                               </Disorder>
                               <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
-                                  <Disorder id="19665">
-                                    <OrphaNumber>251633</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251633</ExpertLink>
-                                    <Name lang="en">Low-grade ependymoma</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="3">
-                                    <ClassificationNode>
-                                      <Disorder id="19666">
-                                        <OrphaNumber>251636</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251636</ExpertLink>
-                                        <Name lang="en">Ependymoma</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="19667">
-                                        <OrphaNumber>251639</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251639</ExpertLink>
-                                        <Name lang="en">Subependymoma</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="19668">
-                                        <OrphaNumber>251643</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251643</ExpertLink>
-                                        <Name lang="en">Myxopapillary ependymoma</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
                                   <Disorder id="19669">
                                     <OrphaNumber>251646</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251646</ExpertLink>
                                     <Name lang="en">Anaplastic ependymoma</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27668">
+                                    <OrphaNumber>530792</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=530792</ExpertLink>
+                                    <Name lang="en">RELA fusion-positive ependymoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

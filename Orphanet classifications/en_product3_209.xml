@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-02-01 04:15:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-03-01 04:54:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -768,7 +768,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156237</ExpertLink>
                 <Name lang="en">Syndrome or malformation associated with head and neck malformations</Name>
               </Disorder>
-              <ClassificationNodeChildList count="27">
+              <ClassificationNodeChildList count="28">
                 <ClassificationNode>
                   <Disorder id="20370">
                     <OrphaNumber>276280</OrphaNumber>
@@ -1031,6 +1031,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="1607">
+                    <OrphaNumber>1401</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1401</ExpertLink>
+                    <Name lang="en">CHAND syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="12140">
                     <OrphaNumber>91397</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91397</ExpertLink>
@@ -1124,7 +1133,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=138047</ExpertLink>
                         <Name lang="en">Pierre Robin syndrome associated with a chromosomal anomaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="126">
                             <OrphaNumber>567</OrphaNumber>
@@ -1139,6 +1148,15 @@
                             <OrphaNumber>436003</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436003</ExpertLink>
                             <Name lang="en">Contractures-developmental delay-Pierre Robin syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19874">
+                            <OrphaNumber>261323</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261323</ExpertLink>
+                            <Name lang="en">21q22.11q22.12 microdeletion syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1441,7 +1459,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139039</ExpertLink>
                     <Name lang="en">Orofacial clefting syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="74">
+                  <ClassificationNodeChildList count="73">
                     <ClassificationNode>
                       <Disorder id="280">
                         <OrphaNumber>564</OrphaNumber>
@@ -1888,15 +1906,6 @@
                         <OrphaNumber>3316</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3316</ExpertLink>
                         <Name lang="en">Thomas syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2950">
-                        <OrphaNumber>3323</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3323</ExpertLink>
-                        <Name lang="en">Thrombocytopenia-Robin sequence syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

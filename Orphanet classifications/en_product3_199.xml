@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-02-01 04:15:13" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-03-01 04:54:06" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3356,7 +3356,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=176</ExpertLink>
                         <Name lang="en">Non-rhizomelic chondrodysplasia punctata</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="10376">
                             <OrphaNumber>35173</OrphaNumber>
@@ -3389,15 +3389,6 @@
                             <OrphaNumber>79347</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79347</ExpertLink>
                             <Name lang="en">Chondrodysplasia punctata, Toriello type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11370">
-                            <OrphaNumber>79344</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79344</ExpertLink>
-                            <Name lang="en">Autosomal dominant chondrodysplasia punctata</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6351,14 +6342,14 @@
                       <Disorder id="23645">
                         <OrphaNumber>453499</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=453499</ExpertLink>
-                        <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome</Name>
+                        <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-skeletal anomalies syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="22096">
                             <OrphaNumber>352665</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352665</ExpertLink>
-                            <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to 9q21 microdeletion</Name>
+                            <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-skeletal anomalies syndrome due to 9q21.3 microdeletion</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6367,7 +6358,7 @@
                           <Disorder id="23646">
                             <OrphaNumber>453504</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=453504</ExpertLink>
-                            <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to a point mutation</Name>
+                            <Name lang="en">Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-skeletal anomalies syndrome due to a point mutation</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8666,7 +8657,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="47">
+                      <ClassificationNodeChildList count="46">
                         <ClassificationNode>
                           <Disorder id="2956">
                             <OrphaNumber>3332</OrphaNumber>
@@ -8836,15 +8827,6 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="22068">
-                            <OrphaNumber>352487</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352487</ExpertLink>
-                            <Name lang="en">Digital anomalies-intellectual disability-short stature syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>

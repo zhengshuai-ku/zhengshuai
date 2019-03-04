@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-02-01 04:15:02" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-03-01 04:53:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -9448,7 +9448,7 @@
                                       <Disorder id="13975">
                                         <OrphaNumber>98958</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98958</ExpertLink>
-                                        <Name lang="en">Honey-droplet corneal dystrophy</Name>
+                                        <Name lang="en">Climatic droplet keratopathy</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -10735,7 +10735,7 @@
                                       <Disorder id="13924">
                                         <OrphaNumber>98907</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98907</ExpertLink>
-                                        <Name lang="en">Dorfman-Chanarin disease</Name>
+                                        <Name lang="en">Neutral lipid storage disease with ichthyosis</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
