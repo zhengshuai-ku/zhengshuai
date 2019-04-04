@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:52:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:56:09" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3354,7 +3354,7 @@
                       <Disorder id="19144">
                         <OrphaNumber>230851</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230851</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, cardiac valvular type</Name>
+                        <Name lang="en">Cardiac-valvular Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3397,7 +3397,7 @@
                           <Disorder id="3480">
                             <OrphaNumber>2953</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                            <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5739,7 +5739,7 @@
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, classic type</Name>
+                        <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -6045,7 +6045,7 @@
                       <Disorder id="19142">
                         <OrphaNumber>230839</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome due to tenascin-X deficiency</Name>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -7357,16 +7357,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
                                 <Name lang="en">Microform holoprosencephaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="2153">
-                                    <OrphaNumber>2286</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                                    <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -13693,7 +13684,7 @@
                           <Disorder id="3480">
                             <OrphaNumber>2953</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                            <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -13783,7 +13774,7 @@
                           <Disorder id="11083">
                             <OrphaNumber>75496</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -14692,7 +14683,7 @@
                           <Disorder id="17164">
                             <OrphaNumber>157965</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, spondylocheirodysplastic type</Name>
+                            <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17383,7 +17374,7 @@
                           <Disorder id="11083">
                             <OrphaNumber>75496</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -24202,7 +24193,7 @@
               <Disorder id="16852">
                 <OrphaNumber>139027</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139027</ExpertLink>
-                <Name lang="en">Malformation syndrome with skin/mucosae involvement</Name>
+                <Name lang="en">Rare developmental defect with skin/mucosae involvement</Name>
               </Disorder>
               <ClassificationNodeChildList count="41">
                 <ClassificationNode>
@@ -26115,7 +26106,7 @@
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, classic type</Name>
+                        <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -26142,7 +26133,7 @@
                       <Disorder id="3480">
                         <OrphaNumber>2953</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                        <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26160,7 +26151,7 @@
                       <Disorder id="4042">
                         <OrphaNumber>286</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=286</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, vascular type</Name>
+                        <Name lang="en">Vascular Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26169,7 +26160,7 @@
                       <Disorder id="4043">
                         <OrphaNumber>1900</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic type</Name>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26178,7 +26169,7 @@
                       <Disorder id="4044">
                         <OrphaNumber>1899</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1899</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, arthrochalasis type</Name>
+                        <Name lang="en">Arthrochalasia Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -26205,7 +26196,7 @@
                       <Disorder id="4045">
                         <OrphaNumber>1901</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1901</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, dermatosparaxis type</Name>
+                        <Name lang="en">Dermatosparaxis Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26214,7 +26205,7 @@
                       <Disorder id="11082">
                         <OrphaNumber>75392</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75392</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, periodontitis type</Name>
+                        <Name lang="en">Periodontal Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26223,7 +26214,7 @@
                       <Disorder id="11083">
                         <OrphaNumber>75496</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26268,7 +26259,7 @@
                       <Disorder id="17164">
                         <OrphaNumber>157965</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, spondylocheirodysplastic type</Name>
+                        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26277,7 +26268,7 @@
                       <Disorder id="19142">
                         <OrphaNumber>230839</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome due to tenascin-X deficiency</Name>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26286,7 +26277,7 @@
                       <Disorder id="19143">
                         <OrphaNumber>230845</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, vascular-like type</Name>
+                        <Name lang="en">Vascular-like classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26295,7 +26286,7 @@
                       <Disorder id="19144">
                         <OrphaNumber>230851</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230851</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, cardiac valvular type</Name>
+                        <Name lang="en">Cardiac-valvular Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26313,7 +26304,7 @@
                       <Disorder id="21100">
                         <OrphaNumber>300179</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic and deafness type</Name>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26646,7 +26637,7 @@
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, classic type</Name>
+                        <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -26673,7 +26664,7 @@
                       <Disorder id="3480">
                         <OrphaNumber>2953</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                        <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26691,7 +26682,7 @@
                       <Disorder id="4042">
                         <OrphaNumber>286</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=286</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, vascular type</Name>
+                        <Name lang="en">Vascular Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26700,7 +26691,7 @@
                       <Disorder id="4043">
                         <OrphaNumber>1900</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic type</Name>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26709,7 +26700,7 @@
                       <Disorder id="4044">
                         <OrphaNumber>1899</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1899</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, arthrochalasis type</Name>
+                        <Name lang="en">Arthrochalasia Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -26736,7 +26727,7 @@
                       <Disorder id="4045">
                         <OrphaNumber>1901</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1901</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, dermatosparaxis type</Name>
+                        <Name lang="en">Dermatosparaxis Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26745,7 +26736,7 @@
                       <Disorder id="11082">
                         <OrphaNumber>75392</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75392</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, periodontitis type</Name>
+                        <Name lang="en">Periodontal Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26754,7 +26745,7 @@
                       <Disorder id="11083">
                         <OrphaNumber>75496</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26799,7 +26790,7 @@
                       <Disorder id="17164">
                         <OrphaNumber>157965</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, spondylocheirodysplastic type</Name>
+                        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26808,7 +26799,7 @@
                       <Disorder id="19142">
                         <OrphaNumber>230839</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome due to tenascin-X deficiency</Name>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26817,7 +26808,7 @@
                       <Disorder id="19143">
                         <OrphaNumber>230845</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, vascular-like type</Name>
+                        <Name lang="en">Vascular-like classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26826,7 +26817,7 @@
                       <Disorder id="19144">
                         <OrphaNumber>230851</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230851</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, cardiac valvular type</Name>
+                        <Name lang="en">Cardiac-valvular Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26844,7 +26835,7 @@
                       <Disorder id="21100">
                         <OrphaNumber>300179</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic and deafness type</Name>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27660,7 +27651,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139042</ExpertLink>
                 <Name lang="en">Malformation syndrome with odontal and/or periodontal component</Name>
               </Disorder>
-              <ClassificationNodeChildList count="60">
+              <ClassificationNodeChildList count="59">
                 <ClassificationNode>
                   <Disorder id="931">
                     <OrphaNumber>627</OrphaNumber>
@@ -27837,15 +27828,6 @@
                     <OrphaNumber>2228</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2228</ExpertLink>
                     <Name lang="en">Hypodontia-dysplasia of nails syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="2153">
-                    <OrphaNumber>2286</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                    <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -42959,7 +42941,7 @@
                               <Disorder id="3480">
                                 <OrphaNumber>2953</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                                <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                                <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -48612,7 +48594,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                 <Name lang="en">Syndromic genetic deafness</Name>
               </Disorder>
-              <ClassificationNodeChildList count="172">
+              <ClassificationNodeChildList count="171">
                 <ClassificationNode>
                   <Disorder id="26568">
                     <OrphaNumber>508476</OrphaNumber>
@@ -50328,15 +50310,6 @@
                     <OrphaNumber>163746</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163746</ExpertLink>
                     <Name lang="en">Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="17562">
-                    <OrphaNumber>163988</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163988</ExpertLink>
-                    <Name lang="en">Developmental delay-deafness syndrome, Hildebrand type</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

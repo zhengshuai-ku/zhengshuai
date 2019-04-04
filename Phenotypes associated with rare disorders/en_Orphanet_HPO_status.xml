@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:54:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:57:56" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3375">
+  <HPODisorderSetStatusList count="3435">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -3560,7 +3560,7 @@
     <HPODisorderSetStatus id="325">
       <Disorder id="612">
         <OrphaNumber>287</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, classic type</Name>
+        <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12011,17 +12011,6 @@
       <CreationDate>2016-05-31 11:49:45.666</CreationDate>
       <UpdateDate>2016-05-31 11:49:45.666</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1079">
-      <Disorder id="2447">
-        <OrphaNumber>2679</OrphaNumber>
-        <Name lang="en">Infantile axonal neuropathy</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:46.253</CreationDate>
-      <UpdateDate>2016-05-31 11:49:46.253</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1078">
       <Disorder id="2446">
         <OrphaNumber>2678</OrphaNumber>
@@ -13572,7 +13561,7 @@
     <HPODisorderSetStatus id="1352">
       <Disorder id="4043">
         <OrphaNumber>1900</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic type</Name>
+        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13605,7 +13594,7 @@
     <HPODisorderSetStatus id="1351">
       <Disorder id="4042">
         <OrphaNumber>286</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, vascular type</Name>
+        <Name lang="en">Vascular Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16560,7 +16549,7 @@
     <HPODisorderSetStatus id="1603">
       <Disorder id="11082">
         <OrphaNumber>75392</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, periodontitis type</Name>
+        <Name lang="en">Periodontal Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16571,7 +16560,7 @@
     <HPODisorderSetStatus id="1604">
       <Disorder id="11083">
         <OrphaNumber>75496</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16589,17 +16578,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:50:31.333</CreationDate>
       <UpdateDate>2016-05-31 11:50:31.333</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1606">
-      <Disorder id="11085">
-        <OrphaNumber>75501</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, fibronectinemic type</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:50:31.406</CreationDate>
-      <UpdateDate>2016-05-31 11:50:31.406</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1607">
       <Disorder id="11087">
@@ -19797,17 +19775,6 @@
       <CreationDate>2016-05-31 11:50:49.826</CreationDate>
       <UpdateDate>2016-05-31 11:50:49.826</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1826">
-      <Disorder id="12006">
-        <OrphaNumber>90309</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome type 1</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:50:49.946</CreationDate>
-      <UpdateDate>2016-05-31 11:50:49.946</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1827">
       <Disorder id="12007">
         <OrphaNumber>90318</OrphaNumber>
@@ -20240,7 +20207,7 @@
     <HPODisorderSetStatus id="2039">
       <Disorder id="17164">
         <OrphaNumber>157965</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, spondylocheirodysplastic type</Name>
+        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -20665,28 +20632,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:51:05.67</CreationDate>
       <UpdateDate>2016-05-31 11:51:05.67</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1986">
-      <Disorder id="14449">
-        <OrphaNumber>99876</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome type 7B</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:51:03.536</CreationDate>
-      <UpdateDate>2016-05-31 11:51:03.536</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="1985">
-      <Disorder id="14448">
-        <OrphaNumber>99875</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome type 7A</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:51:03.456</CreationDate>
-      <UpdateDate>2016-05-31 11:51:03.456</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="1984">
       <Disorder id="14447">
@@ -24189,7 +24134,7 @@
     <HPODisorderSetStatus id="2144">
       <Disorder id="19142">
         <OrphaNumber>230839</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome due to tenascin-X deficiency</Name>
+        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -29150,7 +29095,7 @@
     <HPODisorderSetStatus id="2677">
       <Disorder id="21100">
         <OrphaNumber>300179</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, kyphoscoliotic and deafness type</Name>
+        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
       </Disorder>
       <Source>22265013[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -31669,7 +31614,7 @@
     <HPODisorderSetStatus id="2824">
       <Disorder id="4044">
         <OrphaNumber>1899</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, arthrochalasis type</Name>
+        <Name lang="en">Arthrochalasia Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31680,7 +31625,7 @@
     <HPODisorderSetStatus id="2825">
       <Disorder id="4045">
         <OrphaNumber>1901</OrphaNumber>
-        <Name lang="en">Ehlers-Danlos syndrome, dermatosparaxis type</Name>
+        <Name lang="en">Dermatosparaxis Ehlers-Danlos syndrome</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -35362,6 +35307,391 @@
       <CreationDate>2018-03-05 14:07:31.913</CreationDate>
       <UpdateDate>2018-03-05 14:07:31.913</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3527">
+      <Disorder id="27631">
+        <OrphaNumber>529962</OrphaNumber>
+        <Name lang="en">17q24.2 microdeletion syndrome</Name>
+      </Disorder>
+      <Source>22166941[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-20 17:05:19.676</CreationDate>
+      <UpdateDate>2019-03-20 17:05:19.676</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3526">
+      <Disorder id="3165">
+        <OrphaNumber>2756</OrphaNumber>
+        <Name lang="en">Orofaciodigital syndrome type 10</Name>
+      </Disorder>
+      <Source>27141300[PMID]_8261648[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-20 14:08:52.236</CreationDate>
+      <UpdateDate>2019-03-20 14:08:52.236</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3525">
+      <Disorder id="27329">
+        <OrphaNumber>521426</OrphaNumber>
+        <Name lang="en">PLAA-associated neurodevelopmental disorder</Name>
+      </Disorder>
+      <Source>28413018[PMID]_28007986[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-20 13:51:38.713</CreationDate>
+      <UpdateDate>2019-03-20 13:51:38.713</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3524">
+      <Disorder id="3149">
+        <OrphaNumber>2015</OrphaNumber>
+        <Name lang="en">Cleft palate-short stature-vertebral anomalies syndrome</Name>
+      </Disorder>
+      <Source>8110419[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-19 17:01:14.48</CreationDate>
+      <UpdateDate>2019-03-19 17:01:14.48</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3523">
+      <Disorder id="3106">
+        <OrphaNumber>2519</OrphaNumber>
+        <Name lang="en">Microcephaly-seizures-intellectual disability-heart disease syndrome</Name>
+      </Disorder>
+      <Source>8320715[PMID]_2585466[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-19 15:38:12.163</CreationDate>
+      <UpdateDate>2019-03-19 15:38:12.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3522">
+      <Disorder id="3052">
+        <OrphaNumber>3473</OrphaNumber>
+        <Name lang="en">Zimmermann-Laband syndrome</Name>
+      </Disorder>
+      <Source>27282200[PMID]_23994350[PMID]_26818898[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-19 12:54:47.826</CreationDate>
+      <UpdateDate>2019-03-19 12:54:47.826</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3521">
+      <Disorder id="3023">
+        <OrphaNumber>3433</OrphaNumber>
+        <Name lang="en">Microcephaly-brachydactyly-kyphoscoliosis syndrome</Name>
+      </Disorder>
+      <Source>1884519[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-19 10:01:11.293</CreationDate>
+      <UpdateDate>2019-03-19 10:01:11.293</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3520">
+      <Disorder id="2940">
+        <OrphaNumber>3304</OrphaNumber>
+        <Name lang="en">Fallot complex-intellectual disability-growth delay syndrome</Name>
+      </Disorder>
+      <Source>15578610[PMID]_8010348[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-19 08:27:47.636</CreationDate>
+      <UpdateDate>2019-03-19 08:27:47.636</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3535">
+      <Disorder id="27332">
+        <OrphaNumber>521445</OrphaNumber>
+        <Name lang="en">Microcephaly-facial dysmorphism-ocular anomalies-multiple congenital anomalies syndrome</Name>
+      </Disorder>
+      <Source>28722276[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 15:20:23.37</CreationDate>
+      <UpdateDate>2019-03-25 15:20:23.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3534">
+      <Disorder id="1607">
+        <OrphaNumber>1401</OrphaNumber>
+        <Name lang="en">CHAND syndrome</Name>
+      </Disorder>
+      <Source>2012123[PMID]_490586[PMID]_8209899[PMID]_26129644[PMID]_28940926[PMID]_23610050[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 13:39:03.033</CreationDate>
+      <UpdateDate>2019-03-25 13:39:03.033</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3533">
+      <Disorder id="18978">
+        <OrphaNumber>225154</OrphaNumber>
+        <Name lang="en">Familial infantile bilateral striatal necrosis</Name>
+      </Disorder>
+      <Source>8734018[PMID]_16786527[PMID]_23334465[PMID]_29510394[PMID]_8554662[PMID)_12374138[PMID]_14718703[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-22 17:23:14.08</CreationDate>
+      <UpdateDate>2019-03-22 17:23:14.08</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3532">
+      <Disorder id="18977">
+        <OrphaNumber>225147</OrphaNumber>
+        <Name lang="en">Sporadic infantile bilateral striatal necrosis</Name>
+      </Disorder>
+      <Source>17940250[PMID]_7619197[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-22 14:11:43.236</CreationDate>
+      <UpdateDate>2019-03-22 14:11:43.236</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3531">
+      <Disorder id="3521">
+        <OrphaNumber>3240</OrphaNumber>
+        <Name lang="en">Central nervous system calcification-deafness-tubular acidosis-anemia syndrome</Name>
+      </Disorder>
+      <Source>9112970[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-22 09:52:21.463</CreationDate>
+      <UpdateDate>2019-03-22 09:52:21.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3530">
+      <Disorder id="3238">
+        <OrphaNumber>2729</OrphaNumber>
+        <Name lang="en">Okamoto syndrome</Name>
+      </Disorder>
+      <Source>19046188[PMID]_23591295[PMID]_27552167[PMID]_30793470[PMID]_20179579[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-21 16:29:49.39</CreationDate>
+      <UpdateDate>2019-03-21 16:29:49.39</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3529">
+      <Disorder id="3222">
+        <OrphaNumber>1383</OrphaNumber>
+        <Name lang="en">Cataract-deafness-hypogonadism syndrome</Name>
+      </Disorder>
+      <Source>8574417[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-21 10:45:06.32</CreationDate>
+      <UpdateDate>2019-03-21 10:45:06.32</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3528">
+      <Disorder id="3187">
+        <OrphaNumber>1272</OrphaNumber>
+        <Name lang="en">Aymé-Gripp syndrome</Name>
+      </Disorder>
+      <Source>19251507[PMID]_25865493[PMID]_19396831[PMID]_17935251[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-21 08:46:45.39</CreationDate>
+      <UpdateDate>2019-03-21 08:46:45.39</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3542">
+      <Disorder id="10767">
+        <OrphaNumber>56305</OrphaNumber>
+        <Name lang="en">Atelosteogenesis type III</Name>
+      </Disorder>
+      <Source>9133349[PMID]_16752402[PMID]_20301736[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-26 17:40:17.943</CreationDate>
+      <UpdateDate>2019-03-26 17:40:17.943</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3543">
+      <Disorder id="11035">
+        <OrphaNumber>73223</OrphaNumber>
+        <Name lang="en">Global developmental delay-osteopenia-ectodermal defect syndrome</Name>
+      </Disorder>
+      <Source>16368207[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 10:17:02.566</CreationDate>
+      <UpdateDate>2019-03-27 10:17:02.566</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3540">
+      <Disorder id="20226">
+        <OrphaNumber>268940</OrphaNumber>
+        <Name lang="en">Bilateral polymicrogyria</Name>
+      </Disorder>
+      <Source>23750890[PMID]_18991192[PMID]_15863665[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-26 10:47:08.44</CreationDate>
+      <UpdateDate>2019-03-26 10:47:08.44</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3541">
+      <Disorder id="10766">
+        <OrphaNumber>56304</OrphaNumber>
+        <Name lang="en">Atelosteogenesis type II</Name>
+      </Disorder>
+      <Source>21077202[PMID]_20301493[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-26 14:30:25.053</CreationDate>
+      <UpdateDate>2019-03-26 14:30:25.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3538">
+      <Disorder id="1058">
+        <OrphaNumber>557</OrphaNumber>
+        <Name lang="en">Isolated anorectal malformation</Name>
+      </Disorder>
+      <Source>17651510[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 15:41:34.076</CreationDate>
+      <UpdateDate>2019-03-25 15:41:34.076</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3539">
+      <Disorder id="2971">
+        <OrphaNumber>3352</OrphaNumber>
+        <Name lang="en">Tricho-dento-osseous syndrome</Name>
+      </Disorder>
+      <Source>2387085[PMID]_5054226[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 16:06:59.516</CreationDate>
+      <UpdateDate>2019-03-25 16:06:59.516</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3536">
+      <Disorder id="20227">
+        <OrphaNumber>268943</OrphaNumber>
+        <Name lang="en">Unilateral polymicrogyria</Name>
+      </Disorder>
+      <Source>20198472[PMID_26094545[PMID]_15626537[PMID]_20403963[PMID]_11376999[PMID]_29059488[PMID]_30584075[PMID]_28300030[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 15:24:44.483</CreationDate>
+      <UpdateDate>2019-03-25 15:24:44.483</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3537">
+      <Disorder id="12146">
+        <OrphaNumber>91416</OrphaNumber>
+        <Name lang="en">Isolated congenital alacrima</Name>
+      </Disorder>
+      <Source>8740696[PMID]_1815166[PMID]_ 962658[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-25 15:34:40.826</CreationDate>
+      <UpdateDate>2019-03-25 15:34:40.826</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3550">
+      <Disorder id="27460">
+        <OrphaNumber>527497</OrphaNumber>
+        <Name lang="en">NKX6-2-related autosomal recessive hypomyelinating leukodystrophy</Name>
+      </Disorder>
+      <Source>29388673[PMID]_30285346[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 17:31:34.296</CreationDate>
+      <UpdateDate>2019-03-27 17:31:34.296</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3551">
+      <Disorder id="11376">
+        <OrphaNumber>79350</OrphaNumber>
+        <Name lang="en">3-phosphoserine phosphatase deficiency</Name>
+      </Disorder>
+      <Source>28653176[PMID]_19963421[PMID]_8739971[PMID]_16763900[PMID]_25080166[PMID]_9222972[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-28 15:26:22.393</CreationDate>
+      <UpdateDate>2019-03-28 15:26:22.393</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3548">
+      <Disorder id="27327">
+        <OrphaNumber>521411</OrphaNumber>
+        <Name lang="en">Autosomal recessive axonal Charcot-Marie-Tooth disease due to copper metabolism defect</Name>
+      </Disorder>
+      <Source>29351582[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 16:45:32.71</CreationDate>
+      <UpdateDate>2019-03-27 16:45:32.71</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3549">
+      <Disorder id="11806">
+        <OrphaNumber>88619</OrphaNumber>
+        <Name lang="en">Familial acute necrotizing encephalopathy</Name>
+      </Disorder>
+      <Source>19118815[PMID]_12874403[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 17:10:14.236</CreationDate>
+      <UpdateDate>2019-03-27 17:10:14.236</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3546">
+      <Disorder id="27620">
+        <OrphaNumber>529808</OrphaNumber>
+        <Name lang="en">Chronic bilirubin encephalopathy</Name>
+      </Disorder>
+      <Source>20116355[PMID]_20704172[PMID]_20704173[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 16:14:54.016</CreationDate>
+      <UpdateDate>2019-03-27 16:14:54.016</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3547">
+      <Disorder id="11111">
+        <OrphaNumber>77299</OrphaNumber>
+        <Name lang="en">Microphthalmia-brain atrophy syndrome</Name>
+      </Disorder>
+      <Source>16566018[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 16:36:21.88</CreationDate>
+      <UpdateDate>2019-03-27 16:36:21.88</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3544">
+      <Disorder id="11038">
+        <OrphaNumber>73230</OrphaNumber>
+        <Name lang="en">Ossification anomalies-psychomotor developmental delay syndrome</Name>
+      </Disorder>
+      <Source>16086393[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 14:52:16.38</CreationDate>
+      <UpdateDate>2019-03-27 14:52:16.38</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3545">
+      <Disorder id="27619">
+        <OrphaNumber>529799</OrphaNumber>
+        <Name lang="en">Acute bilirubin encephalopathy</Name>
+      </Disorder>
+      <Source>30406356[PMID]_29593357[PMID]_27113379[PMID]_22123452[PMID]_20123952[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-27 15:49:29.33</CreationDate>
+      <UpdateDate>2019-03-27 15:49:29.33</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3553">
+      <Disorder id="11595">
+        <OrphaNumber>83617</OrphaNumber>
+        <Name lang="en">Agammaglobulinemia-microcephaly-craniosynostosis-severe dermatitis syndrome</Name>
+      </Disorder>
+      <Source>16691627[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-29 13:42:35.62</CreationDate>
+      <UpdateDate>2019-03-29 13:42:35.62</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3552">
+      <Disorder id="11377">
+        <OrphaNumber>79351</OrphaNumber>
+        <Name lang="en">3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form</Name>
+      </Disorder>
+      <Source>23463425[PMID]_19963421[PMID]_29269105[PMID]_8758134[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-29 09:55:44.696</CreationDate>
+      <UpdateDate>2019-03-29 09:55:44.696</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3554">
+      <Disorder id="11805">
+        <OrphaNumber>88618</OrphaNumber>
+        <Name lang="en">Psychomotor retardation due to S-adenosylhomocysteine hydrolase deficiency</Name>
+      </Disorder>
+      <Source>2380820[PMID]_28168361[PMID]_27671891[PMID]_26527160[PMID]_15024124[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-29 16:48:35.99</CreationDate>
+      <UpdateDate>2019-03-29 16:48:35.99</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3459">
       <Disorder id="10672">
         <OrphaNumber>51188</OrphaNumber>
@@ -35527,24 +35857,6 @@
       <CreationDate>2019-02-14 12:08:01.206</CreationDate>
       <UpdateDate>2019-02-14 12:08:01.206</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="3474">
-      <Source>29054328[PMID]_29309981[PMID]_30102193[PMID]_24615997[PMID]_25957762[PMID]_28895660[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2019-02-19 17:00:00.48</CreationDate>
-      <UpdateDate>2019-02-19 17:00:00.48</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="3475">
-      <Disorder id="21644">
-        <OrphaNumber>319314</OrphaNumber>
-        <Name lang="en">Renal cell carcinoma associated with neuroblastoma</Name>
-      </Disorder>
-      <Source>12748834[PMID]_29620664[PMID]_27684973[PMID]_24364021[PMID]_26975037[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2019-02-20 14:51:12.676</CreationDate>
-      <UpdateDate>2019-02-20 14:51:12.676</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3472">
       <Disorder id="22505">
         <OrphaNumber>370938</OrphaNumber>
@@ -35698,6 +36010,358 @@
       <Online>y</Online>
       <CreationDate>2019-02-25 16:20:55.126</CreationDate>
       <UpdateDate>2019-02-25 16:20:55.126</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3489">
+      <Disorder id="25399">
+        <OrphaNumber>488333</OrphaNumber>
+        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2W</Name>
+      </Disorder>
+      <Source>26072516[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-01 15:36:11.066</CreationDate>
+      <UpdateDate>2019-03-01 15:36:11.066</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3488">
+      <Disorder id="14520">
+        <OrphaNumber>99947</OrphaNumber>
+        <Name lang="en">Autosomal dominant Charcot-Marie-Tooth disease type 2A2</Name>
+      </Disorder>
+      <Source>30642740[PMID]_30649465[PMID]_27043305[PMID]_27154191[PMID]_9409358[PMID]_18946002[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-01 12:03:10.226</CreationDate>
+      <UpdateDate>2019-03-01 12:03:10.226</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3491">
+      <Disorder id="21778">
+        <OrphaNumber>324442</OrphaNumber>
+        <Name lang="en">Autosomal recessive axonal neuropathy with neuromyotonia</Name>
+      </Disorder>
+      <Source>30001929[PMID]_24131582[PMID]_30006059[PMID]_22961002[PMID]_1851512[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-04 16:51:05.19</CreationDate>
+      <UpdateDate>2019-03-04 16:51:05.19</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3490">
+      <Disorder id="19742">
+        <OrphaNumber>254361</OrphaNumber>
+        <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2Q</Name>
+      </Disorder>
+      <Source>22864774[PMID]_28447722[PMID]_28824526[PMID]_25556389[PMID]_21109228[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-04 11:11:34.85</CreationDate>
+      <UpdateDate>2019-03-04 11:11:34.85</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3493">
+      <Disorder id="2135">
+        <OrphaNumber>2269</OrphaNumber>
+        <Name lang="en">Ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>3829441[PMID]_28976107[PMID]_27377997[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-05 14:02:03.946</CreationDate>
+      <UpdateDate>2019-03-05 14:02:03.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3492">
+      <Disorder id="22066">
+        <OrphaNumber>352479</OrphaNumber>
+        <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2U</Name>
+      </Disorder>
+      <Source>26810373[PMID]_23390185[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-05 10:01:57.703</CreationDate>
+      <UpdateDate>2019-03-05 10:01:57.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3495">
+      <Disorder id="2179">
+        <OrphaNumber>2324</OrphaNumber>
+        <Name lang="en">Osteopenia-intellectual disability-sparse hair syndrome</Name>
+      </Disorder>
+      <Source>1415349[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-05 17:30:02.823</CreationDate>
+      <UpdateDate>2019-03-05 17:30:02.823</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3494">
+      <Disorder id="2151">
+        <OrphaNumber>2282</OrphaNumber>
+        <Name lang="en">Dysmorphism-short stature-deafness-disorder of sex development syndrome</Name>
+      </Disorder>
+      <Source>3757305[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-05 15:59:13.713</CreationDate>
+      <UpdateDate>2019-03-05 15:59:13.713</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3497">
+      <Disorder id="19667">
+        <OrphaNumber>251639</OrphaNumber>
+        <Name lang="en">Subependymoma</Name>
+      </Disorder>
+      <Source>29054328[PMID]_29309981[PMID]_30102193[PMID]_24615997[PMID]_25957762[PMID]_28895660[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-06 10:30:08.996</CreationDate>
+      <UpdateDate>2019-03-06 10:30:08.996</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3496">
+      <Disorder id="19666">
+        <OrphaNumber>251636</OrphaNumber>
+        <Name lang="en">Ependymoma</Name>
+      </Disorder>
+      <Source>29054328[PMID]_29309981[PMID]_30102193[PMID]_24615997[PMID]_25957762[PMID]_28895660[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-06 10:26:30.396</CreationDate>
+      <UpdateDate>2019-03-06 10:26:30.396</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3499">
+      <Disorder id="2235">
+        <OrphaNumber>2409</OrphaNumber>
+        <Name lang="en">Lowry-MacLean syndrome</Name>
+      </Disorder>
+      <Source>9415481[PMID]_281275[PMID]7856667[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-06 12:02:09.156</CreationDate>
+      <UpdateDate>2019-03-06 12:02:09.156</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3498">
+      <Disorder id="19668">
+        <OrphaNumber>251643</OrphaNumber>
+        <Name lang="en">Myxopapillary ependymoma</Name>
+      </Disorder>
+      <Source>16206735[PMID]_6695856[PMID]_18357830[PMID]_29054328[PMID]_6895163[PMID]_29309981[PMID]_30102193[PMID]_24615997[PMID]_25957762[PMID]_28895660[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-06 10:57:26.746</CreationDate>
+      <UpdateDate>2019-03-06 10:57:26.746</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3501">
+      <Disorder id="2276">
+        <OrphaNumber>2463</OrphaNumber>
+        <Name lang="en">Marfanoid habitus-autosomal recessive intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>6705253[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-07 09:36:22.02</CreationDate>
+      <UpdateDate>2019-03-07 09:36:22.02</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3500">
+      <Disorder id="2258">
+        <OrphaNumber>2437</OrphaNumber>
+        <Name lang="en">Czeizel-Losonci syndrome</Name>
+      </Disorder>
+      <Source>18935989[PMID]_8074153[PMID]_3308683[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-06 15:20:23.92</CreationDate>
+      <UpdateDate>2019-03-06 15:20:23.92</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3503">
+      <Disorder id="2496">
+        <OrphaNumber>2736</OrphaNumber>
+        <Name lang="en">Lethal omphalocele-cleft palate syndrome</Name>
+      </Disorder>
+      <Source>17638618[PMID]_26867152[PMID]_6873946[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-08 10:40:16.323</CreationDate>
+      <UpdateDate>2019-03-08 10:40:16.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3502">
+      <Disorder id="2314">
+        <OrphaNumber>2502</OrphaNumber>
+        <Name lang="en">Metaphyseal dysostosis-intellectual disability-conductive deafness syndrome</Name>
+      </Disorder>
+      <Source>5173335[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-07 11:42:50.766</CreationDate>
+      <UpdateDate>2019-03-07 11:42:50.766</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3504">
+      <Disorder id="2507">
+        <OrphaNumber>2751</OrphaNumber>
+        <Name lang="en">Orofaciodigital syndrome type 2</Name>
+      </Disorder>
+      <Source>17963220[PMID]_27141300[PMID]_23459408[PMID]_10482880[PMID]_10521839[PMID]_27530628[PMID]_8835325[PMID]_3608220[PMID]_6478638[PMID]_5293864[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-08 17:02:59.606</CreationDate>
+      <UpdateDate>2019-03-08 17:02:59.606</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3505">
+      <Disorder id="2508">
+        <OrphaNumber>2752</OrphaNumber>
+        <Name lang="en">Orofaciodigital syndrome type 3</Name>
+      </Disorder>
+      <Source>27141300[PMID]_25869670[PMID]_8230165[PMID]_5004413[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-11 12:02:41.04</CreationDate>
+      <UpdateDate>2019-03-11 12:02:41.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3506">
+      <Disorder id="2536">
+        <OrphaNumber>2788</OrphaNumber>
+        <Name lang="en">Osteoporosis-pseudoglioma syndrome</Name>
+      </Disorder>
+      <Source>30499050[PMID]_28145787[PMID]_27245540[PMID]_3698335[PMID]_3955857[PMID]_4028503[PMID]_1025282[PMID]_1261071[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-11 16:09:25.47</CreationDate>
+      <UpdateDate>2019-03-11 16:09:25.47</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3507">
+      <Disorder id="2598">
+        <OrphaNumber>2865</OrphaNumber>
+        <Name lang="en">Short stature-webbed neck-heart disease syndrome</Name>
+      </Disorder>
+      <Source>8905197[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-12 09:17:46.863</CreationDate>
+      <UpdateDate>2019-03-12 09:17:46.863</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3508">
+      <Disorder id="2637">
+        <OrphaNumber>2919</OrphaNumber>
+        <Name lang="en">Orofaciodigital syndrome type 5</Name>
+      </Disorder>
+      <Source>23972372[PMID]_16731396[PMID]_20305860[PMID]_23524810[PMID]_7426821[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-12 11:48:29.486</CreationDate>
+      <UpdateDate>2019-03-12 11:48:29.486</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3509">
+      <Disorder id="2638">
+        <OrphaNumber>2920</OrphaNumber>
+        <Name lang="en">Oliver syndrome</Name>
+      </Disorder>
+      <Source>16278897[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-12 15:21:27.373</CreationDate>
+      <UpdateDate>2019-03-12 15:21:27.373</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3510">
+      <Disorder id="2639">
+        <OrphaNumber>2921</OrphaNumber>
+        <Name lang="en">Preaxial polydactyly-colobomata-intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>3441111[PMID]_30422472[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-12 17:43:55.313</CreationDate>
+      <UpdateDate>2019-03-12 17:43:55.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3511">
+      <Disorder id="2705">
+        <OrphaNumber>3010</OrphaNumber>
+        <Name lang="en">Qazi-Markouizos syndrome</Name>
+      </Disorder>
+      <Source>8064821[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-13 10:52:48.096</CreationDate>
+      <UpdateDate>2019-03-13 10:52:48.096</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3512">
+      <Disorder id="2734">
+        <OrphaNumber>3041</OrphaNumber>
+        <Name lang="en">Intellectual disability-balding-patella luxation-acromicria syndrome</Name>
+      </Disorder>
+      <Source>20624501[PMID]_8487281[PMID]_2002488[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-13 17:23:50.66</CreationDate>
+      <UpdateDate>2019-03-13 17:23:50.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3513">
+      <Disorder id="2737">
+        <OrphaNumber>3044</OrphaNumber>
+        <Name lang="en">Intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome</Name>
+      </Disorder>
+      <Source>2107046[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-14 09:43:53.523</CreationDate>
+      <UpdateDate>2019-03-14 09:43:53.523</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3514">
+      <Disorder id="2776">
+        <OrphaNumber>3101</OrphaNumber>
+        <Name lang="en">Richieri Costa-da Silva syndrome</Name>
+      </Disorder>
+      <Source>[PMID]6716408</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-14 12:30:49.82</CreationDate>
+      <UpdateDate>2019-03-14 12:30:49.82</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3515">
+      <Disorder id="2803">
+        <OrphaNumber>3132</OrphaNumber>
+        <Name lang="en">Say-Barber-Miller syndrome</Name>
+      </Disorder>
+      <Source>19108857[PMID]_10189087[PMID]_10733244[PMID]_8728697[PMID]_3746838[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-14 17:10:53.663</CreationDate>
+      <UpdateDate>2019-03-14 17:10:53.663</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3516">
+      <Disorder id="2807">
+        <OrphaNumber>798</OrphaNumber>
+        <Name lang="en">Schinzel-Giedion syndrome</Name>
+      </Disorder>
+      <Source>28346496[PMID]_25663181[PMID]_25028416[PMID]_21371013[PMID]_18398855[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-15 14:48:32.08</CreationDate>
+      <UpdateDate>2019-03-15 14:48:32.08</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3517">
+      <Disorder id="11525">
+        <OrphaNumber>79499</OrphaNumber>
+        <Name lang="en">Autosomal dominant deafness-onychodystrophy syndrome</Name>
+      </Disorder>
+      <Source>24421866[PMID]_24913193[PMID]_28396750[PMID]_21998865[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-18 10:44:02.73</CreationDate>
+      <UpdateDate>2019-03-18 10:44:02.73</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3518">
+      <Disorder id="11526">
+        <OrphaNumber>79500</OrphaNumber>
+        <Name lang="en">DOORS syndrome</Name>
+      </Disorder>
+      <Source>17994565[PMID]_24291220[PMID]_25719194[PMID]_18438887[PMID]_5516283[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-18 15:32:30.666</CreationDate>
+      <UpdateDate>2019-03-18 15:32:30.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3519">
+      <Disorder id="27632">
+        <OrphaNumber>529965</OrphaNumber>
+        <Name lang="en">Intellectual disability-autism-speech apraxia-craniofacial dysmorphism syndrome</Name>
+      </Disorder>
+      <Source>28866611[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-03-18 18:11:01.506</CreationDate>
+      <UpdateDate>2019-03-18 18:11:01.506</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3406">
       <Disorder id="22065">

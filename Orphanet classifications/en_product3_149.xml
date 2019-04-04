@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:53:03" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:56:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -11,7 +11,7 @@
     <Disorder id="16780">
       <OrphaNumber>138221</OrphaNumber>
       <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=138221</ExpertLink>
-      <Name lang="en">Sucking/swallowing disorder</Name>
+      <Name lang="en">Rare sucking/swallowing disorder</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
           <ClassificationNodeChildList count="5">
@@ -2610,7 +2610,7 @@
                                   <Disorder id="3480">
                                     <OrphaNumber>2953</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                                    <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                                    <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

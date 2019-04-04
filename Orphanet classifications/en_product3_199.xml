@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:54:06" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:57:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1410,7 +1410,7 @@
                       <Disorder id="17164">
                         <OrphaNumber>157965</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, spondylocheirodysplastic type</Name>
+                        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4092,7 +4092,7 @@
                       <Disorder id="11083">
                         <OrphaNumber>75496</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

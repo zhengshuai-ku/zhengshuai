@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:53:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:56:49" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -569,7 +569,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
+                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1334,7 +1334,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
+                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2468,7 +2468,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
+                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2938,7 +2938,7 @@
                           <Disorder id="13801">
                             <OrphaNumber>98784</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                            <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
+                            <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9184,7 +9184,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391711</ExpertLink>
                                 <Name lang="en">Persistent combined dystonia</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="15">
+                              <ClassificationNodeChildList count="14">
                                 <ClassificationNode>
                                   <Disorder id="27326">
                                     <OrphaNumber>521406</OrphaNumber>
@@ -9307,15 +9307,6 @@
                                     <OrphaNumber>370109</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370109</ExpertLink>
                                     <Name lang="en">Ataxia-telangiectasia variant</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="22485">
-                                    <OrphaNumber>370114</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370114</ExpertLink>
-                                    <Name lang="en">Combined cervical dystonia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -17099,16 +17090,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206634</ExpertLink>
                         <Name lang="en">Genetic skeletal muscle disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="10">
-                        <ClassificationNode>
-                          <Disorder id="1194">
-                            <OrphaNumber>1877</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1877</ExpertLink>
-                            <Name lang="en">Muscular dystrophy-white matter spongiosis syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="9">
                         <ClassificationNode>
                           <Disorder id="2442">
                             <OrphaNumber>2674</OrphaNumber>
@@ -23145,7 +23127,7 @@
                       <Disorder id="3480">
                         <OrphaNumber>2953</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                        <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27935,7 +27917,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="140">
+                      <ClassificationNodeChildList count="139">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -29174,15 +29156,6 @@
                             <OrphaNumber>163979</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163979</ExpertLink>
                             <Name lang="en">X-linked intellectual disability-craniofacioskeletal syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17562">
-                            <OrphaNumber>163988</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=163988</ExpertLink>
-                            <Name lang="en">Developmental delay-deafness syndrome, Hildebrand type</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -37525,16 +37498,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280200</ExpertLink>
                                 <Name lang="en">Microform holoprosencephaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="2153">
-                                    <OrphaNumber>2286</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2286</ExpertLink>
-                                    <Name lang="en">Solitary median maxillary central incisor syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>

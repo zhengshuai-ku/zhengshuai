@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-03-01 04:53:04" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-04-01 04:56:20" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -301,7 +301,7 @@
                           <Disorder id="3480">
                             <OrphaNumber>2953</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2953</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, musculocontractural type</Name>
+                            <Name lang="en">Musculocontractural Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -310,7 +310,7 @@
                           <Disorder id="11083">
                             <OrphaNumber>75496</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome, progeroid type</Name>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8290,57 +8290,12 @@
                       </Disorder>
                       <ClassificationNodeChildList count="4">
                         <ClassificationNode>
-                          <Disorder id="11237">
-                            <OrphaNumber>79211</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79211</ExpertLink>
-                            <Name lang="en">Combined hyperlipidemia</Name>
+                          <Disorder id="3264">
+                            <OrphaNumber>412</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412</ExpertLink>
+                            <Name lang="en">Dysbetalipoproteinemia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="3264">
-                                <OrphaNumber>412</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=412</ExpertLink>
-                                <Name lang="en">Dysbetalipoproteinemia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18186">
-                            <OrphaNumber>181425</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181425</ExpertLink>
-                            <Name lang="en">Rare major hypertriglyceridemia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="1">
-                            <ClassificationNode>
-                              <Disorder id="23491">
-                                <OrphaNumber>444490</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444490</ExpertLink>
-                                <Name lang="en">Familial chylomicronemia syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="21336">
-                                    <OrphaNumber>309015</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309015</ExpertLink>
-                                    <Name lang="en">Familial lipoprotein lipase deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21337">
-                                    <OrphaNumber>309020</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309020</ExpertLink>
-                                    <Name lang="en">Familial apolipoprotein C-II deficiency</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -8364,6 +8319,60 @@
                                 <OrphaNumber>140905</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140905</ExpertLink>
                                 <Name lang="en">Hyperlipidemia due to hepatic triacylglycerol lipase deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23491">
+                            <OrphaNumber>444490</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444490</ExpertLink>
+                            <Name lang="en">Familial chylomicronemia syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="5">
+                            <ClassificationNode>
+                              <Disorder id="21336">
+                                <OrphaNumber>309015</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309015</ExpertLink>
+                                <Name lang="en">Familial lipoprotein lipase deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21337">
+                                <OrphaNumber>309020</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309020</ExpertLink>
+                                <Name lang="en">Familial apolipoprotein C-II deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="27791">
+                                <OrphaNumber>535453</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=535453</ExpertLink>
+                                <Name lang="en">Familial lipase maturation factor 1 deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="27792">
+                                <OrphaNumber>535458</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=535458</ExpertLink>
+                                <Name lang="en">Familial GPIHBP1 deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="27672">
+                                <OrphaNumber>530849</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=530849</ExpertLink>
+                                <Name lang="en">Familial apolipoprotein A5 deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
