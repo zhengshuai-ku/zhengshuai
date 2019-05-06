@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-04-01 04:57:08" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-05-01 04:57:42" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3786,7 +3786,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519321</ExpertLink>
                             <Name lang="en">Syndromic chorioretinal dystrophy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="9">
+                          <ClassificationNodeChildList count="8">
                             <ClassificationNode>
                               <Disorder id="2329">
                                 <OrphaNumber>2518</OrphaNumber>
@@ -3801,15 +3801,6 @@
                                 <OrphaNumber>1435</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1435</ExpertLink>
                                 <Name lang="en">Xq21 microdeletion syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="3117">
-                                <OrphaNumber>1434</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1434</ExpertLink>
-                                <Name lang="en">Choroideremia-hypopituitarism syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

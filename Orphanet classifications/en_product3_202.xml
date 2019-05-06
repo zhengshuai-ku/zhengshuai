@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-04-01 04:57:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-05-01 04:58:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -4319,7 +4319,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217071</ExpertLink>
                         <Name lang="en">Renal cell carcinoma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="10">
+                      <ClassificationNodeChildList count="9">
                         <ClassificationNode>
                           <Disorder id="19512">
                             <OrphaNumber>247203</OrphaNumber>
@@ -4379,15 +4379,6 @@
                             <OrphaNumber>319308</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319308</ExpertLink>
                             <Name lang="en">MiT family translocation renal cell carcinoma</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21644">
-                            <OrphaNumber>319314</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=319314</ExpertLink>
-                            <Name lang="en">Renal cell carcinoma associated with neuroblastoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -10088,7 +10079,7 @@
                   <Disorder id="11012">
                     <OrphaNumber>71290</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71290</ExpertLink>
-                    <Name lang="en">Hereditary thrombocytopenia with normal platelets-hematological cancer predisposition syndrome</Name>
+                    <Name lang="en">Familial platelet disorder with associated myeloid malignancy</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -10842,7 +10833,7 @@
                       <Disorder id="19269">
                         <OrphaNumber>238505</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238505</ExpertLink>
-                        <Name lang="en">Autosomal recessive lymphoproliferative disease</Name>
+                        <Name lang="en">Combined immunodeficiency due to CD27 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

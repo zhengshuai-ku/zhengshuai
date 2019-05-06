@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-04-01 04:56:49" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-05-01 04:57:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2249,16 +2249,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2076</ExpertLink>
                         <Name lang="en">X-linked intellectual disability-epilepsy syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="12509">
-                            <OrphaNumber>93951</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93951</ExpertLink>
-                            <Name lang="en">X-linked dominant intellectual disability-epilepsy syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="12510">
                             <OrphaNumber>93952</OrphaNumber>
@@ -5602,7 +5593,7 @@
                           <Disorder id="10999">
                             <OrphaNumber>71277</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71277</ExpertLink>
-                            <Name lang="en">Encephalopathy due to GLUT1 deficiency</Name>
+                            <Name lang="en">Classic glucose transporter type 1 deficiency syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8207,7 +8198,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306666</ExpertLink>
                         <Name lang="en">Rare parkinsonian syndrome due to neurodegenerative disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="21">
+                      <ClassificationNodeChildList count="23">
                         <ClassificationNode>
                           <Disorder id="932">
                             <OrphaNumber>2828</OrphaNumber>
@@ -8411,6 +8402,24 @@
                             <OrphaNumber>1980</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1980</ExpertLink>
                             <Name lang="en">Bilateral striopallidodentate calcinosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19332">
+                            <OrphaNumber>240085</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=240085</ExpertLink>
+                            <Name lang="en">Progressive supranuclear palsy-parkinsonism syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23668">
+                            <OrphaNumber>454887</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=454887</ExpertLink>
+                            <Name lang="en">Corticobasal syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -16957,73 +16966,37 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71864</ExpertLink>
                     <Name lang="en">Muscular channelopathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
-                      <Disorder id="75">
-                        <OrphaNumber>614</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=614</ExpertLink>
-                        <Name lang="en">Thomsen and Becker disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="76">
-                        <OrphaNumber>684</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=684</ExpertLink>
-                        <Name lang="en">Paramyotonia congenita of Von Eulenburg</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="211">
-                        <OrphaNumber>681</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=681</ExpertLink>
-                        <Name lang="en">Hypokalemic periodic paralysis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="212">
-                        <OrphaNumber>682</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=682</ExpertLink>
-                        <Name lang="en">Hyperkalemic periodic paralysis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="610">
-                        <OrphaNumber>612</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=612</ExpertLink>
-                        <Name lang="en">Potassium-aggravated myotonia</Name>
+                      <Disorder id="13767">
+                        <OrphaNumber>98750</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98750</ExpertLink>
+                        <Name lang="en">Autoimmune neurological channelopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>
-                          <Disorder id="14307">
-                            <OrphaNumber>99734</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99734</ExpertLink>
-                            <Name lang="en">Myotonia fluctuans</Name>
+                          <Disorder id="10583">
+                            <OrphaNumber>43393</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=43393</ExpertLink>
+                            <Name lang="en">Lambert-Eaton myasthenic syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="14308">
-                            <OrphaNumber>99735</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99735</ExpertLink>
-                            <Name lang="en">Myotonia permanens</Name>
+                          <Disorder id="11577">
+                            <OrphaNumber>83467</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83467</ExpertLink>
+                            <Name lang="en">Morvan syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="14309">
-                            <OrphaNumber>99736</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99736</ExpertLink>
-                            <Name lang="en">Acetazolamide-responsive myotonia</Name>
+                          <Disorder id="11619">
+                            <OrphaNumber>84142</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84142</ExpertLink>
+                            <Name lang="en">Isaac syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17031,48 +17004,264 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="649">
-                        <OrphaNumber>423</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423</ExpertLink>
-                        <Name lang="en">Malignant hyperthermia of anesthesia</Name>
+                      <Disorder id="13754">
+                        <OrphaNumber>98737</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98737</ExpertLink>
+                        <Name lang="en">Genetic neurological muscular channelopathy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10442">
-                        <OrphaNumber>37553</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37553</ExpertLink>
-                        <Name lang="en">Andersen-Tawil syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11577">
-                        <OrphaNumber>83467</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83467</ExpertLink>
-                        <Name lang="en">Morvan syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11619">
-                        <OrphaNumber>84142</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84142</ExpertLink>
-                        <Name lang="en">Isaac syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="22700">
-                        <OrphaNumber>397755</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397755</ExpertLink>
-                        <Name lang="en">Periodic paralysis with transient compartment-like syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="5">
+                        <ClassificationNode>
+                          <Disorder id="13755">
+                            <OrphaNumber>98738</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98738</ExpertLink>
+                            <Name lang="en">Neurological muscular channelopathy due to a genetic sodium channel defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="5">
+                            <ClassificationNode>
+                              <Disorder id="76">
+                                <OrphaNumber>684</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=684</ExpertLink>
+                                <Name lang="en">Paramyotonia congenita of Von Eulenburg</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="211">
+                                <OrphaNumber>681</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=681</ExpertLink>
+                                <Name lang="en">Hypokalemic periodic paralysis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="212">
+                                <OrphaNumber>682</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=682</ExpertLink>
+                                <Name lang="en">Hyperkalemic periodic paralysis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="610">
+                                <OrphaNumber>612</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=612</ExpertLink>
+                                <Name lang="en">Potassium-aggravated myotonia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="3">
+                                <ClassificationNode>
+                                  <Disorder id="14307">
+                                    <OrphaNumber>99734</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99734</ExpertLink>
+                                    <Name lang="en">Myotonia fluctuans</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="14308">
+                                    <OrphaNumber>99735</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99735</ExpertLink>
+                                    <Name lang="en">Myotonia permanens</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="14309">
+                                    <OrphaNumber>99736</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99736</ExpertLink>
+                                    <Name lang="en">Acetazolamide-responsive myotonia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="13930">
+                                <OrphaNumber>98913</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98913</ExpertLink>
+                                <Name lang="en">Postsynaptic congenital myasthenic syndromes</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="13756">
+                            <OrphaNumber>98739</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98739</ExpertLink>
+                            <Name lang="en">Neurological muscular channelopathy due to a genetic chloride channel defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="1">
+                            <ClassificationNode>
+                              <Disorder id="75">
+                                <OrphaNumber>614</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=614</ExpertLink>
+                                <Name lang="en">Thomsen and Becker disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="13757">
+                            <OrphaNumber>98740</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98740</ExpertLink>
+                            <Name lang="en">Neurological muscular channelopathy due to a genetic calcium channel defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="211">
+                                <OrphaNumber>681</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=681</ExpertLink>
+                                <Name lang="en">Hypokalemic periodic paralysis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="22700">
+                                <OrphaNumber>397755</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397755</ExpertLink>
+                                <Name lang="en">Periodic paralysis with transient compartment-like syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="13758">
+                            <OrphaNumber>98741</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98741</ExpertLink>
+                            <Name lang="en">Neurological muscular channelopathy due to a genetic potassium channel defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="211">
+                                <OrphaNumber>681</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=681</ExpertLink>
+                                <Name lang="en">Hypokalemic periodic paralysis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="10442">
+                                <OrphaNumber>37553</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=37553</ExpertLink>
+                                <Name lang="en">Andersen-Tawil syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="10437">
+                                <OrphaNumber>36899</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36899</ExpertLink>
+                                <Name lang="en">Myoclonus-dystonia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="1292">
+                                <OrphaNumber>972</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=972</ExpertLink>
+                                <Name lang="en">Hereditary continuous muscle fiber activity</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="13759">
+                            <OrphaNumber>98742</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98742</ExpertLink>
+                            <Name lang="en">Neurological muscular channelopathy due to a genetic ryanodine receptor defect</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="8">
+                            <ClassificationNode>
+                              <Disorder id="65">
+                                <OrphaNumber>597</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=597</ExpertLink>
+                                <Name lang="en">Central core disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="649">
+                                <OrphaNumber>423</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423</ExpertLink>
+                                <Name lang="en">Malignant hyperthermia of anesthesia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="17833">
+                                <OrphaNumber>169186</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=169186</ExpertLink>
+                                <Name lang="en">Autosomal recessive centronuclear myopathy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21788">
+                                <OrphaNumber>324581</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324581</ExpertLink>
+                                <Name lang="en">Benign Samaritan congenital myopathy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="13922">
+                                <OrphaNumber>98905</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98905</ExpertLink>
+                                <Name lang="en">Congenital multicore myopathy with external ophthalmoplegia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="23197">
+                                <OrphaNumber>424107</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424107</ExpertLink>
+                                <Name lang="en">Congenital myopathy with myasthenic-like onset</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="14314">
+                                <OrphaNumber>99741</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99741</ExpertLink>
+                                <Name lang="en">King-Denborough syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18007">
+                                <OrphaNumber>178145</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178145</ExpertLink>
+                                <Name lang="en">Moderate multiminicore disease with hand involvement</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -22589,7 +22778,7 @@
                   <Disorder id="10999">
                     <OrphaNumber>71277</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=71277</ExpertLink>
-                    <Name lang="en">Encephalopathy due to GLUT1 deficiency</Name>
+                    <Name lang="en">Classic glucose transporter type 1 deficiency syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -28509,16 +28698,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2076</ExpertLink>
                             <Name lang="en">X-linked intellectual disability-epilepsy syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
-                            <ClassificationNode>
-                              <Disorder id="12509">
-                                <OrphaNumber>93951</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93951</ExpertLink>
-                                <Name lang="en">X-linked dominant intellectual disability-epilepsy syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="12510">
                                 <OrphaNumber>93952</OrphaNumber>
@@ -31749,7 +31929,7 @@
                       <Disorder id="26569">
                         <OrphaNumber>508488</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=508488</ExpertLink>
-                        <Name lang="en">8q24.3 deletion syndrome</Name>
+                        <Name lang="en">8q24.3 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -36195,7 +36375,7 @@
                       <Disorder id="17936">
                         <OrphaNumber>171829</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171829</ExpertLink>
-                        <Name lang="en">6q16 deletion syndrome</Name>
+                        <Name lang="en">6q16 microdeletion syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -40240,7 +40420,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98497</ExpertLink>
                     <Name lang="en">Genetic peripheral neuropathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="16">
+                  <ClassificationNodeChildList count="15">
                     <ClassificationNode>
                       <Disorder id="23767">
                         <OrphaNumber>459033</OrphaNumber>
@@ -40255,15 +40435,6 @@
                         <OrphaNumber>643</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=643</ExpertLink>
                         <Name lang="en">Giant axonal neuropathy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2447">
-                        <OrphaNumber>2679</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2679</ExpertLink>
-                        <Name lang="en">Infantile axonal neuropathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -41800,7 +41971,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91024</ExpertLink>
                                 <Name lang="en">Autosomal recessive axonal hereditary motor and sensory neuropathy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="18">
+                              <ClassificationNodeChildList count="19">
                                 <ClassificationNode>
                                   <Disorder id="24167">
                                     <OrphaNumber>466775</OrphaNumber>
@@ -41941,6 +42112,15 @@
                                     <OrphaNumber>457205</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457205</ExpertLink>
                                     <Name lang="en">Infantile-onset axonal motor and sensory neuropathy-optic atrophy-neurodegenerative syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="11981">
+                                    <OrphaNumber>90120</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90120</ExpertLink>
+                                    <Name lang="en">Hereditary motor and sensory neuropathy type 6</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
