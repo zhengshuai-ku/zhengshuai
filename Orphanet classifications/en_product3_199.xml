@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:57:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:56:50" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3925,7 +3925,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93446</ExpertLink>
                     <Name lang="en">Primary bone dysplasia with decreased bone density</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="25">
+                  <ClassificationNodeChildList count="26">
                     <ClassificationNode>
                       <Disorder id="313">
                         <OrphaNumber>2771</OrphaNumber>
@@ -4089,15 +4089,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="11083">
-                        <OrphaNumber>75496</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="11649">
                         <OrphaNumber>85191</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85191</ExpertLink>
@@ -4228,6 +4219,24 @@
                         <OrphaNumber>498481</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498481</ExpertLink>
                         <Name lang="en">LRP5-related primary osteoporosis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27849">
+                        <OrphaNumber>536467</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536467</ExpertLink>
+                        <Name lang="en">B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="27852">
+                        <OrphaNumber>536532</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536532</ExpertLink>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

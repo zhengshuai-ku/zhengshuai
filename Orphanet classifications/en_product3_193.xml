@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:57:45" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:56:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2798,7 +2798,7 @@
                   <Disorder id="12663">
                     <OrphaNumber>95708</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95708</ExpertLink>
-                    <Name lang="en">Precocious puberty</Name>
+                    <Name lang="en">Rare precocious puberty</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>
@@ -2832,7 +2832,7 @@
                       <Disorder id="18001">
                         <OrphaNumber>178040</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178040</ExpertLink>
-                        <Name lang="en">Peripheral precocious puberty</Name>
+                        <Name lang="en">Rare peripheral precocious puberty</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>

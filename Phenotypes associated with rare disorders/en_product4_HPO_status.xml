@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:13:02" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:13:14" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3528">
+  <HPODisorderSetStatusList count="3575">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -2347,17 +2347,6 @@
       <CreationDate>2016-05-31 11:48:35.153</CreationDate>
       <UpdateDate>2016-05-31 11:48:35.153</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="235">
-      <Disorder id="479">
-        <OrphaNumber>1819</OrphaNumber>
-        <Name lang="en">Epimetaphyseal skeletal dysplasia</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:48:35.113</CreationDate>
-      <UpdateDate>2016-05-31 11:48:35.113</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="234">
       <Disorder id="478">
         <OrphaNumber>246</OrphaNumber>
@@ -3127,17 +3116,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:41.496</CreationDate>
       <UpdateDate>2016-05-31 11:48:41.496</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="317">
-      <Disorder id="600">
-        <OrphaNumber>3390</OrphaNumber>
-        <Name lang="en">Proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:48:41.733</CreationDate>
-      <UpdateDate>2016-05-31 11:48:41.733</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="316">
       <Disorder id="597">
@@ -9724,17 +9702,6 @@
       <CreationDate>2016-05-31 11:49:34.256</CreationDate>
       <UpdateDate>2016-05-31 11:49:34.256</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="926">
-      <Disorder id="1996">
-        <OrphaNumber>2081</OrphaNumber>
-        <Name lang="en">Cerebral gigantism-jaw cysts syndrome</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:34.003</CreationDate>
-      <UpdateDate>2016-05-31 11:49:34.003</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="927">
       <Disorder id="1997">
         <OrphaNumber>2083</OrphaNumber>
@@ -14749,7 +14716,7 @@
     <HPODisorderSetStatus id="1489">
       <Disorder id="10598">
         <OrphaNumber>46487</OrphaNumber>
-        <Name lang="en">Acquired epidermolysis bullosa</Name>
+        <Name lang="en">Epidermolysis bullosa acquisita</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -19877,7 +19844,7 @@
     <HPODisorderSetStatus id="1811">
       <Disorder id="11925">
         <OrphaNumber>90023</OrphaNumber>
-        <Name lang="en">Primary immunodeficiency syndrome due to p14 deficiency</Name>
+        <Name lang="en">Primary immunodeficiency syndrome due to LAMTOR2 deficiency</Name>
       </Disorder>
       <Source>17195838[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38001,6 +37968,523 @@
       <CreationDate>2018-11-07 14:25:13.463</CreationDate>
       <UpdateDate>2018-11-07 14:25:13.463</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3699">
+      <Disorder id="746">
+        <OrphaNumber>2054</OrphaNumber>
+        <Name lang="en">Osteochondritis of tarsal/metatarsal bone</Name>
+      </Disorder>
+      <Source>10709607[PMID]_28846950[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 16:44:40.38</CreationDate>
+      <UpdateDate>2019-05-29 16:44:40.38</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3698">
+      <Disorder id="10832">
+        <OrphaNumber>64280</OrphaNumber>
+        <Name lang="en">Childhood absence epilepsy</Name>
+      </Disorder>
+      <Source>24530152[PMID]_27683026[PMID]_11326275[PMID]_2502382[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 17:09:07.263</CreationDate>
+      <UpdateDate>2019-05-28 17:09:07.263</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3697">
+      <Disorder id="8743">
+        <OrphaNumber>230</OrphaNumber>
+        <Name lang="en">Dopamine beta-hydroxylase deficiency</Name>
+      </Disorder>
+      <Source>27778639[PMID]_20301647[PMID]_2300263[PMID]_3010116[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 15:10:11.966</CreationDate>
+      <UpdateDate>2019-05-28 15:10:11.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3696">
+      <Disorder id="8610">
+        <OrphaNumber>563</OrphaNumber>
+        <Name lang="en">Peripartum cardiomyopathy</Name>
+      </Disorder>
+      <Source>27045128[PMID]_28765406[PMID]_25636745[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 12:35:26.076</CreationDate>
+      <UpdateDate>2019-05-28 12:35:26.076</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3702">
+      <Disorder id="27320">
+        <OrphaNumber>521258</OrphaNumber>
+        <Name lang="en">Xq25 microduplication syndrome</Name>
+      </Disorder>
+      <Source>16840569[PMID]_23637084[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 17:41:06.246</CreationDate>
+      <UpdateDate>2019-05-29 17:41:06.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3701">
+      <Disorder id="22133">
+        <OrphaNumber>353298</OrphaNumber>
+        <Name lang="en">Roifman syndrome</Name>
+      </Disorder>
+      <Source>10905663[PMID]_26522830[PMID]_11293748[PMID]_21910238[PMID]_10189087[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 17:15:06.616</CreationDate>
+      <UpdateDate>2019-05-29 17:15:06.616</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3700">
+      <Disorder id="17162">
+        <OrphaNumber>157954</OrphaNumber>
+        <Name lang="en">ANE syndrome</Name>
+      </Disorder>
+      <Source>20231366[PMID]_18439547[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 16:50:34.936</CreationDate>
+      <UpdateDate>2019-05-29 16:50:34.936</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3690">
+      <Disorder id="10676">
+        <OrphaNumber>51636</OrphaNumber>
+        <Name lang="en">WHIM syndrome</Name>
+      </Disorder>
+      <Source>21595885[PMID]_30716504[PMID]_30819232[PMID]_10767001[PMID]_2239986[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-24 12:10:26.866</CreationDate>
+      <UpdateDate>2019-05-24 12:10:26.866</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3691">
+      <Disorder id="10695">
+        <OrphaNumber>52427</OrphaNumber>
+        <Name lang="en">Retinitis punctata albescens</Name>
+      </Disorder>
+      <Source>23929416[PMID]_28764803[PMID]_14718298[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-24 15:06:36.256</CreationDate>
+      <UpdateDate>2019-05-24 15:06:36.256</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3688">
+      <Disorder id="10440">
+        <OrphaNumber>37042</OrphaNumber>
+        <Name lang="en">Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome</Name>
+      </Disorder>
+      <Source>30805323[PMID]_24240290[PMID]_20301297[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 14:29:06.14</CreationDate>
+      <UpdateDate>2019-05-23 14:29:06.14</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3689">
+      <Disorder id="10637">
+        <OrphaNumber>49041</OrphaNumber>
+        <Name lang="en">IgG4-related retroperitoneal fibrosis</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 17:18:21.79</CreationDate>
+      <UpdateDate>2019-05-23 17:18:21.79</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3694">
+      <Disorder id="10802">
+        <OrphaNumber>60033</OrphaNumber>
+        <Name lang="en">Idiopathic bronchiectasis</Name>
+      </Disorder>
+      <Source>31086836[PMID]_28630359[PMID]_29247616[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 15:07:29.166</CreationDate>
+      <UpdateDate>2019-05-27 15:07:29.166</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3695">
+      <Disorder id="10801">
+        <OrphaNumber>60032</OrphaNumber>
+        <Name lang="en">Recurrent respiratory papillomatosis</Name>
+      </Disorder>
+      <Source>25999724[PMID]_29605367[PMID]_29800325[PMID]_30406011[PMID]_28427542[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 09:08:37.463</CreationDate>
+      <UpdateDate>2019-05-28 09:08:37.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3692">
+      <Disorder id="10755">
+        <OrphaNumber>54370</OrphaNumber>
+        <Name lang="en">Primary membranoproliferative glomerulonephritis</Name>
+      </Disorder>
+      <Source>27056062[PMID]_22798508[PMID]_22802081[PMID]_30854618[PMID]_26972096[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 10:43:45.003</CreationDate>
+      <UpdateDate>2019-05-27 10:43:45.003</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3693">
+      <Disorder id="10774">
+        <OrphaNumber>57196</OrphaNumber>
+        <Name lang="en">Medial condensing osteitis of the clavicle</Name>
+      </Disorder>
+      <Source>15329764[PMID]_25272551[PMID]_27622150[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 11:56:44.506</CreationDate>
+      <UpdateDate>2019-05-27 11:56:44.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3682">
+      <Disorder id="10460">
+        <OrphaNumber>39812</OrphaNumber>
+        <Name lang="en">Graft versus host disease</Name>
+      </Disorder>
+      <Source>30855823[PMID]_31042160[PMID]_31058026[PMID]_31075084[PMID]_31089279[PMID]_31089281[PMID]_30106904[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 10:56:10.583</CreationDate>
+      <UpdateDate>2019-05-22 10:56:10.583</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3683">
+      <Disorder id="10640">
+        <OrphaNumber>49566</OrphaNumber>
+        <Name lang="en">Acquired purpura fulminans</Name>
+      </Disorder>
+      <Source>2142890[PMID]_17679737[PMID]_20034317[PMID]_23582572[PMID]_29157918[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 14:41:04.333</CreationDate>
+      <UpdateDate>2019-05-22 14:41:04.333</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3680">
+      <Disorder id="10366">
+        <OrphaNumber>35078</OrphaNumber>
+        <Name lang="en">T-B+ severe combined immunodeficiency due to JAK3 deficiency</Name>
+      </Disorder>
+      <Source>26769277[PMID]_11668610[PMID]_14615376[PMID]_30778343[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-21 11:59:56.91</CreationDate>
+      <UpdateDate>2019-05-21 11:59:56.91</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3681">
+      <Disorder id="8597">
+        <OrphaNumber>1330</OrphaNumber>
+        <Name lang="en">Partial atrioventricular canal</Name>
+      </Disorder>
+      <Source>29722020[PMID]_14762371[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-21 15:41:12.766</CreationDate>
+      <UpdateDate>2019-05-21 15:41:12.766</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3686">
+      <Disorder id="14684">
+        <OrphaNumber>100973</OrphaNumber>
+        <Name lang="en">FRAXE intellectual disability</Name>
+      </Disorder>
+      <Source>8651274[PMID]_21739600[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 17:21:28.856</CreationDate>
+      <UpdateDate>2019-05-22 17:21:28.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3687">
+      <Disorder id="10403">
+        <OrphaNumber>35878</OrphaNumber>
+        <Name lang="en">Hyperinsulinism-hyperammonemia syndrome</Name>
+      </Disorder>
+      <Source>11241047[PMID_21130127[PMID]_14967154[PMID]_20936362[PMID]_11518822[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 11:14:41.603</CreationDate>
+      <UpdateDate>2019-05-23 11:14:41.603</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3684">
+      <Disorder id="19639">
+        <OrphaNumber>251383</OrphaNumber>
+        <Name lang="en">CK syndrome</Name>
+      </Disorder>
+      <Source>19842190[PMID]_21129721[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 16:51:19.173</CreationDate>
+      <UpdateDate>2019-05-22 16:51:19.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3685">
+      <Disorder id="8561">
+        <OrphaNumber>514</OrphaNumber>
+        <Name lang="en">Acute monoblastic leukemia</Name>
+      </Disorder>
+      <Source>29417354[PMID]_30524762[PMID]_30631409[PMID]_28658145[PMID]_27884836[PMID]_28642361[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 16:59:10.063</CreationDate>
+      <UpdateDate>2019-05-22 16:59:10.063</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3673">
+      <Disorder id="3652">
+        <OrphaNumber>328</OrphaNumber>
+        <Name lang="en">Congenital factor X deficiency</Name>
+      </Disorder>
+      <Source>23560890[PMID]_9695984[PMID]_27124643{PMID]_30901144[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 12:59:27.87</CreationDate>
+      <UpdateDate>2019-05-16 12:59:27.87</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3672">
+      <Disorder id="3418">
+        <OrphaNumber>2086</OrphaNumber>
+        <Name lang="en">Optic pathway glioma</Name>
+      </Disorder>
+      <Source>27082859[PMID]_28847625[PMID]_28984541[PMID]_29246098[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 10:02:05.883</CreationDate>
+      <UpdateDate>2019-05-16 10:02:05.883</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3675">
+      <Disorder id="5535">
+        <OrphaNumber>2688</OrphaNumber>
+        <Name lang="en">Adult idiopathic neutropenia</Name>
+      </Disorder>
+      <Source>23771659[PMID]_28732781[PMID]_27841775[PMID]?26066399[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 10:25:16.5</CreationDate>
+      <UpdateDate>2019-05-17 10:25:16.5</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3674">
+      <Disorder id="3655">
+        <OrphaNumber>288</OrphaNumber>
+        <Name lang="en">Hereditary elliptocytosis</Name>
+      </Disorder>
+      <Source>30369757[PMID]_23664421[PMID]_27667160[PMID]_3818958[PMID]_3708157[PMID]_3801663[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 15:51:38.386</CreationDate>
+      <UpdateDate>2019-05-16 15:51:38.386</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3677">
+      <Disorder id="8751">
+        <OrphaNumber>88</OrphaNumber>
+        <Name lang="en">Idiopathic aplastic anemia</Name>
+      </Disorder>
+      <Source>17214739[PMID]_24790407[PMID]_24424170[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 16:07:47.413</CreationDate>
+      <UpdateDate>2019-05-17 16:07:47.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3676">
+      <Disorder id="8692">
+        <OrphaNumber>853</OrphaNumber>
+        <Name lang="en">Fetal and neonatal alloimmune thrombocytopenia</Name>
+      </Disorder>
+      <Source>30827816[PMID]_17032445[PMID]_30971767[PMID]_30828796[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 13:44:18.37</CreationDate>
+      <UpdateDate>2019-05-17 13:44:18.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3679">
+      <Disorder id="3462">
+        <OrphaNumber>185</OrphaNumber>
+        <Name lang="en">Scimitar syndrome</Name>
+      </Disorder>
+      <Source>29398566[PMID]_28674724[PMID]_29054305[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-20 16:38:48.186</CreationDate>
+      <UpdateDate>2019-05-20 16:38:48.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3678">
+      <Disorder id="3366">
+        <OrphaNumber>470</OrphaNumber>
+        <Name lang="en">Lysinuric protein intolerance</Name>
+      </Disorder>
+      <Source>20301535[PMID]_28057010[PMID]_8163273[PMID]_7204568[PMID]_6076999[PMID]_4158034[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-20 12:28:12.946</CreationDate>
+      <UpdateDate>2019-05-20 12:28:12.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3665">
+      <Disorder id="3252">
+        <OrphaNumber>822</OrphaNumber>
+        <Name lang="en">Hereditary spherocytosis</Name>
+      </Disorder>
+      <Source>30511538[PMID]_30763822[PMID]_30969619[PMID]_28463670[PMID]_24624460[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 13:03:57.413</CreationDate>
+      <UpdateDate>2019-05-14 13:03:57.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3664">
+      <Disorder id="773">
+        <OrphaNumber>3129</OrphaNumber>
+        <Name lang="en">Sarcosinemia</Name>
+      </Disorder>
+      <Source>22825317[PMID]_9323574[PMID]_2420598[PMID]_6207480[PMID]_5504071[PMID]_5936868[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 10:15:33.313</CreationDate>
+      <UpdateDate>2019-05-14 10:15:33.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3667">
+      <Disorder id="3365">
+        <OrphaNumber>212</OrphaNumber>
+        <Name lang="en">Cystathioninuria</Name>
+      </Disorder>
+      <Source>20584029[PMID]_5637757[PMID]_6082903[PMID]_14399948[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 17:00:23.513</CreationDate>
+      <UpdateDate>2019-05-14 17:00:23.513</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3666">
+      <Disorder id="3277">
+        <OrphaNumber>325</OrphaNumber>
+        <Name lang="en">Congenital factor II deficiency</Name>
+      </Disorder>
+      <Source>28222949[PMID]_23190616[PMID]_19412729[PMID]_28762299[PMID]_7740448[PMID]_14489469[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 15:42:37.99</CreationDate>
+      <UpdateDate>2019-05-14 15:42:37.99</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3669">
+      <Disorder id="17055">
+        <OrphaNumber>141179</OrphaNumber>
+        <Name lang="en">Non-involuting congenital hemangioma</Name>
+      </Disorder>
+      <Source>27058448[PMID]_18676554[PMID]_27540637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 12:31:12.973</CreationDate>
+      <UpdateDate>2019-05-15 12:31:12.973</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3668">
+      <Disorder id="3399">
+        <OrphaNumber>2330</OrphaNumber>
+        <Name lang="en">Kasabach-Merritt syndrome</Name>
+      </Disorder>
+      <Source>30085595[PMID]_28767598[PMID]_30096317[PMID]_9108863[PMID]_3588149[PMID]_3108848[PMID]_6660888[PMID]_5950934[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 12:01:07.34</CreationDate>
+      <UpdateDate>2019-05-15 12:01:07.34</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3671">
+      <Disorder id="3403">
+        <OrphaNumber>767</OrphaNumber>
+        <Name lang="en">Polyarteritis nodosa</Name>
+      </Disorder>
+      <Source>29955757[PMID]_30114520[PMID]_30418125[PMID]_30952413[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 15:31:34.94</CreationDate>
+      <UpdateDate>2019-05-15 15:31:34.94</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3670">
+      <Disorder id="17056">
+        <OrphaNumber>141184</OrphaNumber>
+        <Name lang="en">Rapidly involuting congenital hemangioma</Name>
+      </Disorder>
+      <Source>27058448[PMID]_18676554[PMID]_27540637[PMID]_7911127[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 13:39:55.4</CreationDate>
+      <UpdateDate>2019-05-15 13:39:55.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3656">
+      <Disorder id="8560">
+        <OrphaNumber>517</OrphaNumber>
+        <Name lang="en">Acute myelomonocytic leukemia</Name>
+      </Disorder>
+      <Source>18508801[PMID]_29491461[PMID]_26185647[PMID]_6577285[PMID]_28371234[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 11:17:41.1</CreationDate>
+      <UpdateDate>2019-05-03 11:17:41.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3657">
+      <Disorder id="8562">
+        <OrphaNumber>318</OrphaNumber>
+        <Name lang="en">Acute erythroid leukemia</Name>
+      </Disorder>
+      <Source>28006859[PMID]_6589033[PMID]_3471269[PMID]_6948132[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 16:51:24.18</CreationDate>
+      <UpdateDate>2019-05-03 16:51:24.18</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3658">
+      <Disorder id="8022">
+        <OrphaNumber>130</OrphaNumber>
+        <Name lang="en">Brugada syndrome</Name>
+      </Disorder>
+      <Source>29020354[PMID]_29254832[PMID]_26220970[PMID]_20301690[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 18:52:50.58</CreationDate>
+      <UpdateDate>2019-05-03 18:52:50.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3659">
+      <Disorder id="12343">
+        <OrphaNumber>93430</OrphaNumber>
+        <Name lang="en">Multiple metaphyseal dysplasia</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 10:51:46.436</CreationDate>
+      <UpdateDate>2019-05-13 10:51:46.436</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3660">
+      <Disorder id="20702">
+        <OrphaNumber>289157</OrphaNumber>
+        <Name lang="en">Hypocalcemic vitamin D-dependent rickets</Name>
+      </Disorder>
+      <Source>8201479[PMID]_15128933[PMID]_4309963[PMID]_4357855[PMID]_9837822[PMID]_9295274[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 11:48:07.966</CreationDate>
+      <UpdateDate>2019-05-13 11:48:07.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3661">
+      <Disorder id="24027">
+        <OrphaNumber>464453</OrphaNumber>
+        <Name lang="en">Acquired methemoglobinemia</Name>
+      </Disorder>
+      <Source>25637615[PMID]_27412886[PMID]_28667718[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 11:52:58.133</CreationDate>
+      <UpdateDate>2019-05-13 11:52:58.133</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3662">
+      <Disorder id="3506">
+        <OrphaNumber>361</OrphaNumber>
+        <Name lang="en">Familial glucocorticoid deficiency</Name>
+      </Disorder>
+      <Source>4302512[PMID]_7627261[PMID]_1320052[PMID]_15654338[PMID]_12384787[PMID]_22634753[PMID]_27129361[PMID]_24601690[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 12:22:09.113</CreationDate>
+      <UpdateDate>2019-05-13 12:22:09.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3663">
+      <Disorder id="713">
+        <OrphaNumber>134</OrphaNumber>
+        <Name lang="en">Beta-ketothiolase deficiency</Name>
+      </Disorder>
+      <Source>28689740[PMID]_28220263[PMID]_9700610[PMID]_4812006[PMID]_4143539[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 16:18:39.2</CreationDate>
+      <UpdateDate>2019-05-13 16:18:39.2</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3648">
       <Disorder id="3468">
         <OrphaNumber>3261</OrphaNumber>
@@ -38055,6 +38539,39 @@
       <Online>y</Online>
       <CreationDate>2019-04-30 16:25:09.563</CreationDate>
       <UpdateDate>2019-04-30 16:25:09.563</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3653">
+      <Disorder id="8028">
+        <OrphaNumber>552</OrphaNumber>
+        <Name lang="en">MODY</Name>
+      </Disorder>
+      <Source>15784703[PMID]_22701567[PMID]_16369531[PMID}_4212169[PMID]_11575290[PMID]_29792621[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 10:23:42.3</CreationDate>
+      <UpdateDate>2019-05-02 10:23:42.3</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3654">
+      <Disorder id="8745">
+        <OrphaNumber>824</OrphaNumber>
+        <Name lang="en">Primary myelofibrosis</Name>
+      </Disorder>
+      <Source>30683837[PMID]_30805227[PMID]_27830539[PMID]_27870387[PMID]_9766805[PMID]_7436463[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 14:26:00.52</CreationDate>
+      <UpdateDate>2019-05-02 14:26:00.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3655">
+      <Disorder id="8559">
+        <OrphaNumber>520</OrphaNumber>
+        <Name lang="en">Acute promyelocytic leukemia</Name>
+      </Disorder>
+      <Source>30666067[PMID]_30715157[PMID]_30854206[PMID]_26414475[PMID]_28735889[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 17:18:52.556</CreationDate>
+      <UpdateDate>2019-05-02 17:18:52.556</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3647">
       <Disorder id="27326">
@@ -38301,7 +38818,7 @@
     <HPODisorderSetStatus id="3624">
       <Disorder id="3279">
         <OrphaNumber>572</OrphaNumber>
-        <Name lang="en">Immunodeficiency by defective expression of HLA class 2</Name>
+        <Name lang="en">Immunodeficiency by defective expression of MHC class II</Name>
       </Disorder>
       <Source>25001848[PMID]_28676232[PMID]_26634365[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>

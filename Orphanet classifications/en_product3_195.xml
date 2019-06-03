@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:57:48" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:56:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -270,7 +270,7 @@
                                   <Disorder id="11925">
                                     <OrphaNumber>90023</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90023</ExpertLink>
-                                    <Name lang="en">Primary immunodeficiency syndrome due to p14 deficiency</Name>
+                                    <Name lang="en">Primary immunodeficiency syndrome due to LAMTOR2 deficiency</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1257,7 +1257,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480549</ExpertLink>
                             <Name lang="en">Non-severe combined immunodeficiency</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="28">
+                          <ClassificationNodeChildList count="29">
                             <ClassificationNode>
                               <Disorder id="23533">
                                 <OrphaNumber>447731</OrphaNumber>
@@ -1280,7 +1280,7 @@
                               <Disorder id="3279">
                                 <OrphaNumber>572</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=572</ExpertLink>
-                                <Name lang="en">Immunodeficiency by defective expression of HLA class 2</Name>
+                                <Name lang="en">Immunodeficiency by defective expression of MHC class II</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1298,7 +1298,7 @@
                               <Disorder id="10349">
                                 <OrphaNumber>34592</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34592</ExpertLink>
-                                <Name lang="en">Immunodeficiency by defective expression of HLA class 1</Name>
+                                <Name lang="en">Immunodeficiency by defective expression of MHC class I</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1515,6 +1515,15 @@
                                 <OrphaNumber>504530</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=504530</ExpertLink>
                                 <Name lang="en">Combined immunodeficiency due to Moesin deficiency</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="27969">
+                                <OrphaNumber>538963</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538963</ExpertLink>
+                                <Name lang="en">Combined immunodeficiency due to ITK deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1822,7 +1831,25 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2442</ExpertLink>
                                 <Name lang="en">X-linked lymphoproliferative disease</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="27963">
+                                    <OrphaNumber>538931</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538931</ExpertLink>
+                                    <Name lang="en">X-linked lymphoproliferative disease due to SH2D1A deficiency</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27964">
+                                    <OrphaNumber>538934</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538934</ExpertLink>
+                                    <Name lang="en">X-linked lymphoproliferative disease due to XIAP deficiency</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -1995,14 +2022,32 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238510</ExpertLink>
                             <Name lang="en">Lymphoproliferative syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="7">
                             <ClassificationNode>
                               <Disorder id="275">
                                 <OrphaNumber>2442</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2442</ExpertLink>
                                 <Name lang="en">X-linked lymphoproliferative disease</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="27963">
+                                    <OrphaNumber>538931</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538931</ExpertLink>
+                                    <Name lang="en">X-linked lymphoproliferative disease due to SH2D1A deficiency</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="27964">
+                                    <OrphaNumber>538934</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538934</ExpertLink>
+                                    <Name lang="en">X-linked lymphoproliferative disease due to XIAP deficiency</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -2046,6 +2091,15 @@
                                 <OrphaNumber>438159</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438159</ExpertLink>
                                 <Name lang="en">STAT3-related early-onset multisystem autoimmune disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="27968">
+                                <OrphaNumber>538958</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538958</ExpertLink>
+                                <Name lang="en">Severe combined immunodeficiency due to CD70 deficiency</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2591,7 +2645,25 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2442</ExpertLink>
                         <Name lang="en">X-linked lymphoproliferative disease</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="27963">
+                            <OrphaNumber>538931</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538931</ExpertLink>
+                            <Name lang="en">X-linked lymphoproliferative disease due to SH2D1A deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27964">
+                            <OrphaNumber>538934</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538934</ExpertLink>
+                            <Name lang="en">X-linked lymphoproliferative disease due to XIAP deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>

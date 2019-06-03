@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:13:10" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:13:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3528">
+  <HPODisorderSetStatusList count="3575">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -1287,7 +1287,7 @@
     <HPODisorderSetStatus id="123">
       <Disorder id="253">
         <OrphaNumber>52</OrphaNumber>
-        <Name lang="nl">Alagillesyndroom</Name>
+        <Name lang="nl">Syndroom van Alagille</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -2112,7 +2112,7 @@
     <HPODisorderSetStatus id="192">
       <Disorder id="412">
         <OrphaNumber>1006</OrphaNumber>
-        <Name lang="nl">Alopecie met antilichaamdeficiëntie</Name>
+        <Name lang="nl">Alopecie - antilichaamdeficiëntie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -2346,17 +2346,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:48:35.153</CreationDate>
       <UpdateDate>2016-05-31 11:48:35.153</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="235">
-      <Disorder id="479">
-        <OrphaNumber>1819</OrphaNumber>
-        <Name lang="nl">Epimetafysaire skeletdysplasie</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:48:35.113</CreationDate>
-      <UpdateDate>2016-05-31 11:48:35.113</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="234">
       <Disorder id="478">
@@ -3128,17 +3117,6 @@
       <CreationDate>2016-05-31 11:48:41.496</CreationDate>
       <UpdateDate>2016-05-31 11:48:41.496</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="317">
-      <Disorder id="600">
-        <OrphaNumber>3390</OrphaNumber>
-        <Name lang="nl">Proximale tubulopathie - diabetes mellitus - cerebellaire ataxie-syndroom</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:48:41.733</CreationDate>
-      <UpdateDate>2016-05-31 11:48:41.733</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="316">
       <Disorder id="597">
         <OrphaNumber>3346</OrphaNumber>
@@ -3296,7 +3274,7 @@
     <HPODisorderSetStatus id="299">
       <Disorder id="570">
         <OrphaNumber>2983</OrphaNumber>
-        <Name lang="nl">Geslachtsontwikkelingsstoornis - intellectuele achterstand</Name>
+        <Name lang="nl">Geslachtsontwikkelingsstoornis - intellectuele achterstand-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3637,7 +3615,7 @@
     <HPODisorderSetStatus id="333">
       <Disorder id="637">
         <OrphaNumber>166</OrphaNumber>
-        <Name lang="nl">Ziekte van Charcot-Marie-Tooth</Name>
+        <Name lang="nl">Ziekte van Charcot-Marie-Tooth/Erfelijke motorische en sensorische neuropathie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5221,7 +5199,7 @@
     <HPODisorderSetStatus id="495">
       <Disorder id="1206">
         <OrphaNumber>381</OrphaNumber>
-        <Name lang="nl">Ziekte van Griscelli</Name>
+        <Name lang="nl">Syndroom van Griscelli</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5529,7 +5507,7 @@
     <HPODisorderSetStatus id="566">
       <Disorder id="1339">
         <OrphaNumber>1031</OrphaNumber>
-        <Name lang="nl">Amelogenesis imperfecta - nefrocalcinose-syndroom</Name>
+        <Name lang="nl">Tandglazuur - nieren-syndroom</Name>
       </Disorder>
       <Source>12597691[PMID]_3872071[PMID]_21549343[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -5628,7 +5606,7 @@
     <HPODisorderSetStatus id="573">
       <Disorder id="1352">
         <OrphaNumber>1053</OrphaNumber>
-        <Name lang="nl">Vena Galeni-aneurysma</Name>
+        <Name lang="nl">Aneurysmale malformatie van de vena van Galeni</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5991,7 +5969,7 @@
     <HPODisorderSetStatus id="537">
       <Disorder id="1288">
         <OrphaNumber>40</OrphaNumber>
-        <Name lang="nl">Acromesomelische dysplasie, Maroteaux-type</Name>
+        <Name lang="nl">Acromesomele dysplasie, Maroteaux-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6002,7 +5980,7 @@
     <HPODisorderSetStatus id="536">
       <Disorder id="1287">
         <OrphaNumber>968</OrphaNumber>
-        <Name lang="nl">Acromesomelische dysplasie, Hunter-Thomson-type</Name>
+        <Name lang="nl">Acromesomele dysplasie, Hunter-Thomson-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6684,7 +6662,7 @@
     <HPODisorderSetStatus id="604">
       <Disorder id="1416">
         <OrphaNumber>1149</OrphaNumber>
-        <Name lang="nl">Artrogrypose-achtig syndroom</Name>
+        <Name lang="nl">Syndroom van Kuskokwim</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7047,7 +7025,7 @@
     <HPODisorderSetStatus id="689">
       <Disorder id="1569">
         <OrphaNumber>1361</OrphaNumber>
-        <Name lang="nl">Carnosinemie</Name>
+        <Name lang="nl">Carnosinasedeficiëntie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7168,7 +7146,7 @@
     <HPODisorderSetStatus id="646">
       <Disorder id="1490">
         <OrphaNumber>1248</OrphaNumber>
-        <Name lang="nl">Maxillo-nasale dysplasie</Name>
+        <Name lang="nl">Maxillonasale dysplasie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7355,7 +7333,7 @@
     <HPODisorderSetStatus id="658">
       <Disorder id="1510">
         <OrphaNumber>1275</OrphaNumber>
-        <Name lang="nl">Brachydactylie - elleboog-pols-dysplasie</Name>
+        <Name lang="nl">Brachydactylie - elleboog-/polsdysplasie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7806,7 +7784,7 @@
     <HPODisorderSetStatus id="707">
       <Disorder id="1605">
         <OrphaNumber>1398</OrphaNumber>
-        <Name lang="nl">Geïsoleerde cerebellaire hypoplasie/agenesie</Name>
+        <Name lang="nl">Geïsoleerde cerebellaire agenesie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8088,7 +8066,7 @@
     <HPODisorderSetStatus id="817">
       <Disorder id="1815">
         <OrphaNumber>1836</OrphaNumber>
-        <Name lang="nl">Mesomelische dysplasie, Kantaputratype</Name>
+        <Name lang="nl">Mesomele dysplasie, Kantaputratype</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8143,7 +8121,7 @@
     <HPODisorderSetStatus id="828">
       <Disorder id="1840">
         <OrphaNumber>1867</OrphaNumber>
-        <Name lang="nl">Bulleuze dystrofie, maculatype</Name>
+        <Name lang="nl">Erfelijke bulleuze dystrofie, maculair type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -8869,7 +8847,7 @@
     <HPODisorderSetStatus id="894">
       <Disorder id="1954">
         <OrphaNumber>2022</OrphaNumber>
-        <Name lang="nl">Endomyocardiale fibro-elastose</Name>
+        <Name lang="nl">Endocardiale fibro-elastose</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9276,7 +9254,7 @@
     <HPODisorderSetStatus id="836">
       <Disorder id="1853">
         <OrphaNumber>1816</OrphaNumber>
-        <Name lang="nl">Leukomelanoderma - infantilisme - intellectuele achterstand - hypodontie - hypotrichose-syndroom</Name>
+        <Name lang="nl">Leukomelanodermie - infantilisme - intellectuele achterstand - hypodontie - hypotrichose-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9584,7 +9562,7 @@
     <HPODisorderSetStatus id="943">
       <Disorder id="2021">
         <OrphaNumber>2110</OrphaNumber>
-        <Name lang="nl">Hallux varus - pre-axiale polysyndactylie-syndroom</Name>
+        <Name lang="nl">Hallux varus - preaxiale polysyndactylie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9617,7 +9595,7 @@
     <HPODisorderSetStatus id="936">
       <Disorder id="2010">
         <OrphaNumber>2098</OrphaNumber>
-        <Name lang="nl">Acromesomelische dysplasie, Grebe-type</Name>
+        <Name lang="nl">Acromesomele dysplasie, Grebe-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9694,7 +9672,7 @@
     <HPODisorderSetStatus id="928">
       <Disorder id="1998">
         <OrphaNumber>2084</OrphaNumber>
-        <Name lang="nl">Glaucoom - ectopie - microsferofakie - stijve gewrichten - kleine gestalte-syndroom</Name>
+        <Name lang="nl">Glaucoom - ectopia lentis - microsferofakie - stijve gewrichten - kleine gestalte-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -9723,17 +9701,6 @@
       <Online>y</Online>
       <CreationDate>2016-05-31 11:49:34.256</CreationDate>
       <UpdateDate>2016-05-31 11:49:34.256</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="926">
-      <Disorder id="1996">
-        <OrphaNumber>2081</OrphaNumber>
-        <Name lang="nl">Cerebrale reuzengroei - kaakcysten-syndroom</Name>
-      </Disorder>
-      <Source/>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2016-05-31 11:49:34.003</CreationDate>
-      <UpdateDate>2016-05-31 11:49:34.003</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="927">
       <Disorder id="1997">
@@ -10068,7 +10035,7 @@
     <HPODisorderSetStatus id="1018">
       <Disorder id="2257">
         <OrphaNumber>296</OrphaNumber>
-        <Name lang="nl">Enchondromatose</Name>
+        <Name lang="nl">Ziekte van Ollier</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10090,7 +10057,7 @@
     <HPODisorderSetStatus id="1020">
       <Disorder id="2261">
         <OrphaNumber>2440</OrphaNumber>
-        <Name lang="nl">Gespleten hand-gespleten voet-misvorming</Name>
+        <Name lang="nl">Geïsoleerde gespleten hand-gespleten voet malformatie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10691,7 +10658,7 @@
     <HPODisorderSetStatus id="965">
       <Disorder id="2060">
         <OrphaNumber>2165</OrphaNumber>
-        <Name lang="nl">Holoprosencefalie - caudale dysgenesie</Name>
+        <Name lang="nl">Holoprosencefalie - caudale dysgenesie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10922,7 +10889,7 @@
     <HPODisorderSetStatus id="1112">
       <Disorder id="2538">
         <OrphaNumber>2790</OrphaNumber>
-        <Name lang="nl">Autosomaal dominante osteosclerose, Worth-type</Name>
+        <Name lang="nl">Endostale hyperostose, Worth-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11252,7 +11219,7 @@
     <HPODisorderSetStatus id="1147">
       <Disorder id="2645">
         <OrphaNumber>2928</OrphaNumber>
-        <Name lang="nl">Polyneuropathie - intellectuele achterstand - acromicrie - vroegtijdige menopauze</Name>
+        <Name lang="nl">Polyneuropathie - intellectuele achterstand - acromicrie - vroegtijdige menopauze-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11274,7 +11241,7 @@
     <HPODisorderSetStatus id="1145">
       <Disorder id="2634">
         <OrphaNumber>2916</OrphaNumber>
-        <Name lang="nl">Polydactylie postaxiaal - dentale en vertebrale anomalieën</Name>
+        <Name lang="nl">Postaxiale polydactylie - dentale en vertebrale anomalieën-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11296,7 +11263,7 @@
     <HPODisorderSetStatus id="1143">
       <Disorder id="2629">
         <OrphaNumber>2907</OrphaNumber>
-        <Name lang="nl">Erfelijke acrokeratotische poikilodermie, Weary-type</Name>
+        <Name lang="nl">Erfelijke acrokeratotische poikilodermie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11406,7 +11373,7 @@
     <HPODisorderSetStatus id="1035">
       <Disorder id="2305">
         <OrphaNumber>2492</OrphaNumber>
-        <Name lang="nl">Dwars defect van de ledematen - hartanomalie</Name>
+        <Name lang="nl">FATCO-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11417,7 +11384,7 @@
     <HPODisorderSetStatus id="1036">
       <Disorder id="2309">
         <OrphaNumber>2497</OrphaNumber>
-        <Name lang="nl">Mesomelische dysplasie van de bovenste ledematen</Name>
+        <Name lang="nl">Mesomele dysplasie van de bovenste ledematen</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11589,7 +11556,7 @@
     <HPODisorderSetStatus id="1052">
       <Disorder id="2370">
         <OrphaNumber>2570</OrphaNumber>
-        <Name lang="nl">Holoprosencefalie - hypokinesie - congenitale contracturen-syndroom</Name>
+        <Name lang="nl">Letaal intra-uteriene groeirestrictie - corticale malformatie - congenitale contracturen-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11677,7 +11644,7 @@
     <HPODisorderSetStatus id="1044">
       <Disorder id="2329">
         <OrphaNumber>2518</OrphaNumber>
-        <Name lang="nl">Autosomaal recessieve chorioretinopathie - microcefalie-syndroom</Name>
+        <Name lang="nl">Autosomaal recessief chorioretinopathie - microcefalie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11699,7 +11666,7 @@
     <HPODisorderSetStatus id="1046">
       <Disorder id="2333">
         <OrphaNumber>2523</OrphaNumber>
-        <Name lang="nl">Microcefalie - hersendefect - spasticiteit - hypernatriëmie</Name>
+        <Name lang="nl">Microcefalie - hersendefect - spasticiteit - hypernatriëmie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11710,7 +11677,7 @@
     <HPODisorderSetStatus id="1066">
       <Disorder id="2409">
         <OrphaNumber>2632</OrphaNumber>
-        <Name lang="nl">Langer mesomelische dysplasie</Name>
+        <Name lang="nl">Langer mesomele dysplasie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11721,7 +11688,7 @@
     <HPODisorderSetStatus id="1067">
       <Disorder id="2410">
         <OrphaNumber>2633</OrphaNumber>
-        <Name lang="nl">Mesomelische dysplasie, Nievergelt-type</Name>
+        <Name lang="nl">Mesomele dysplasie, Nievergelt-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11743,7 +11710,7 @@
     <HPODisorderSetStatus id="1065">
       <Disorder id="2408">
         <OrphaNumber>2631</OrphaNumber>
-        <Name lang="nl">Mesomelische dwerggroei - gespleten verhemelte - camptodactylie</Name>
+        <Name lang="nl">Mesomele dwerggroei - gespleten verhemelte - camptodactylie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11776,7 +11743,7 @@
     <HPODisorderSetStatus id="1068">
       <Disorder id="2411">
         <OrphaNumber>2634</OrphaNumber>
-        <Name lang="nl">Mesomelische dwerggroei, Reinhardt-Pfeiffer-type</Name>
+        <Name lang="nl">Mesomele dwerggroei, Reinhardt-Pfeiffer-type</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11831,7 +11798,7 @@
     <HPODisorderSetStatus id="1057">
       <Disorder id="2376">
         <OrphaNumber>2576</OrphaNumber>
-        <Name lang="nl">MULIBREY-nanisme</Name>
+        <Name lang="nl">Mulibrey-nanisme</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11864,7 +11831,7 @@
     <HPODisorderSetStatus id="1061">
       <Disorder id="2383">
         <OrphaNumber>2585</OrphaNumber>
-        <Name lang="nl">Ataxie - pancytopenie</Name>
+        <Name lang="nl">Ataxie - pancytopenie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11886,7 +11853,7 @@
     <HPODisorderSetStatus id="1082">
       <Disorder id="2460">
         <OrphaNumber>2698</OrphaNumber>
-        <Name lang="nl">Knuckle pads - leuconychie - sensorineurale doofheid - palmoplantaire hyperkeratose-syndroom</Name>
+        <Name lang="nl">Knokkelkussens - leukonychie - sensorineurale doofheid - palmoplantaire hyperkeratose-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12124,7 +12091,7 @@
     <HPODisorderSetStatus id="1228">
       <Disorder id="2956">
         <OrphaNumber>3332</OrphaNumber>
-        <Name lang="nl">Hypoplastische tibiae - post-axiale polydactylie</Name>
+        <Name lang="nl">Hypoplastische tibiae - postaxiale polydactylie-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12553,7 +12520,7 @@
     <HPODisorderSetStatus id="1266">
       <Disorder id="3134">
         <OrphaNumber>2582</OrphaNumber>
-        <Name lang="nl">Myalgie-eosinofiliesyndroom geassocieerd met tryptofaan</Name>
+        <Name lang="nl">Myalgie - eosinofilie-syndroom geassocieerd met tryptofaan</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12652,7 +12619,7 @@
     <HPODisorderSetStatus id="1153">
       <Disorder id="2674">
         <OrphaNumber>2964</OrphaNumber>
-        <Name lang="nl">Autosomaal dominant prognatisme</Name>
+        <Name lang="nl">Autosomaal dominante prognathie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12663,7 +12630,7 @@
     <HPODisorderSetStatus id="1152">
       <Disorder id="2667">
         <OrphaNumber>2956</OrphaNumber>
-        <Name lang="nl">Prata-Liberal-Goncalvessyndroom</Name>
+        <Name lang="nl">Acrodysplasia scoliosis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12696,7 +12663,7 @@
     <HPODisorderSetStatus id="1157">
       <Disorder id="2679">
         <OrphaNumber>2973</OrphaNumber>
-        <Name lang="nl">46,XX geslachtsontwikkelingsstoornis - anorectale anomalieën</Name>
+        <Name lang="nl">46,XX geslachtsontwikkelingsstoornis - anorectale anomalieën-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13660,7 +13627,7 @@
     <HPODisorderSetStatus id="1404">
       <Disorder id="8613">
         <OrphaNumber>889</OrphaNumber>
-        <Name lang="nl">Cutane leukocytoclastische angiitis</Name>
+        <Name lang="nl">Cutane vasculitis van kleine bloedvaten</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13671,7 +13638,7 @@
     <HPODisorderSetStatus id="1407">
       <Disorder id="8620">
         <OrphaNumber>2908</OrphaNumber>
-        <Name lang="nl">Kindlersyndroom</Name>
+        <Name lang="nl">Syndroom van Kindler</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14397,7 +14364,7 @@
     <HPODisorderSetStatus id="1340">
       <Disorder id="3637">
         <OrphaNumber>2073</OrphaNumber>
-        <Name lang="nl">Narcolepsie - kataplexie-syndroom</Name>
+        <Name lang="nl">Narcolepsie type 1</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14914,7 +14881,7 @@
     <HPODisorderSetStatus id="1473">
       <Disorder id="10399">
         <OrphaNumber>35737</OrphaNumber>
-        <Name lang="nl">Morning glory-syndroom</Name>
+        <Name lang="nl">Morning glory-papilanomalie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15112,7 +15079,7 @@
     <HPODisorderSetStatus id="1533">
       <Disorder id="10743">
         <OrphaNumber>53721</OrphaNumber>
-        <Name lang="nl">Syndroom van Cobb</Name>
+        <Name lang="nl">Spinaal arterioveneus metamerisch syndroom</Name>
       </Disorder>
       <Source>20805687[PMID]_21519966[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -15647,7 +15614,7 @@
     <HPODisorderSetStatus id="1417">
       <Disorder id="8634">
         <OrphaNumber>384</OrphaNumber>
-        <Name lang="nl">Palmoplantaire keratodermie - sclerodactylie-syndroom</Name>
+        <Name lang="nl">Syndroom van Huriez</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15746,7 +15713,7 @@
     <HPODisorderSetStatus id="1460">
       <Disorder id="10329">
         <OrphaNumber>33574</OrphaNumber>
-        <Name lang="nl">Gamma-glutamylcysteïnesynthetasedeficiëntie</Name>
+        <Name lang="nl">Glutamaat-cysteïneligasedeficiëntie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16648,7 +16615,7 @@
     <HPODisorderSetStatus id="1617">
       <Disorder id="11131">
         <OrphaNumber>79087</OrphaNumber>
-        <Name lang="nl">Gedeeltelijk verworven lipodystrofie</Name>
+        <Name lang="nl">Verworven partiële lipodystrofie</Name>
       </Disorder>
       <Source>24788242[PMID]_1246331[PMID]_18854390[PMID]_16826530[PMID]_22768673[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -16802,7 +16769,7 @@
     <HPODisorderSetStatus id="1577">
       <Disorder id="10911">
         <OrphaNumber>69063</OrphaNumber>
-        <Name lang="nl">Congenitale membraneuze nefropathie als gevolg van maternale anti-neutrale endopeptidase-alloimmunisatie</Name>
+        <Name lang="nl">Congenitale membraneuze nefropathie door foetomaternale anti-neutrale endopeptidase-allo-immunisatie</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -17744,7 +17711,7 @@
     <HPODisorderSetStatus id="1731">
       <Disorder id="11637">
         <OrphaNumber>85170</OrphaNumber>
-        <Name lang="nl">Mesomelische dysplasie, Savarirayan-type</Name>
+        <Name lang="nl">Mesomele dysplasie, Savarirayan-type</Name>
       </Disorder>
       <Source>17702012[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -18279,7 +18246,7 @@
     <HPODisorderSetStatus id="1715">
       <Disorder id="11576">
         <OrphaNumber>83465</OrphaNumber>
-        <Name lang="nl">Narcolepsie zonder kataplexie</Name>
+        <Name lang="nl">Narcolepsie type 2</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18840,7 +18807,7 @@
     <HPODisorderSetStatus id="1904">
       <Disorder id="12488">
         <OrphaNumber>93928</OrphaNumber>
-        <Name lang="nl">Epispadie</Name>
+        <Name lang="nl">Geïsoleerde epispadieën</Name>
       </Disorder>
       <Source>18314106[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -20042,7 +20009,7 @@
     <HPODisorderSetStatus id="1797">
       <Disorder id="11814">
         <OrphaNumber>88635</OrphaNumber>
-        <Name lang="nl">Myopathie als gevolg van calsequestrine en SERCA1-eiwitoverbelasting</Name>
+        <Name lang="nl">Vacuolaire myopathie met aggregaten van proteïnen van het sarcoplasmatisch reticulum</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -21263,7 +21230,7 @@
     <HPODisorderSetStatus id="1923">
       <Disorder id="12670">
         <OrphaNumber>95715</OrphaNumber>
-        <Name lang="nl">Congenitale hypothyreoïdie als gevolg van transplacentale passage van maternale TSH-bindende inhiberende antilichamen</Name>
+        <Name lang="nl">Congenitale hypothyreoïdie door transplacentale passage van TSH-bindende inhiberende antilichamen</Name>
       </Disorder>
       <Source>20537182[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -21571,7 +21538,7 @@
     <HPODisorderSetStatus id="2185">
       <Disorder id="19849">
         <OrphaNumber>261102</OrphaNumber>
-        <Name lang="nl">Distale 7q11.23 microduplicatie-syndroom</Name>
+        <Name lang="nl">Distale 7q11.23 microduplicatiesyndroom</Name>
       </Disorder>
       <Source>26109321[PMID]_25428557[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -23419,7 +23386,7 @@
     <HPODisorderSetStatus id="2088">
       <Disorder id="17938">
         <OrphaNumber>171839</OrphaNumber>
-        <Name lang="nl">Craniosynostose - hydrocefalus - Chiari I-malformatie - radio-ulnaire synostose-syndroom</Name>
+        <Name lang="nl">Craniosynostose - hydrocefalus - malformatie van Arnold-Chiari type I - radio-ulnaire synostose-syndroom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24871,7 +24838,7 @@
     <HPODisorderSetStatus id="2487">
       <Disorder id="2107">
         <OrphaNumber>2232</OrphaNumber>
-        <Name lang="nl">Primair hypergonadotropisch hypogonadisme - partiële alopecia</Name>
+        <Name lang="nl">Primair hypergonadotropisch hypogonadisme - partiële alopecie-syndroom</Name>
       </Disorder>
       <Source>19213036[PMID]_12749067[PMID]_4061495[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25047,7 +25014,7 @@
     <HPODisorderSetStatus id="2527">
       <Disorder id="20421">
         <OrphaNumber>279947</OrphaNumber>
-        <Name lang="nl">Post-orgasmische ziekte-syndroom</Name>
+        <Name lang="nl">Postorgastische ziekte-syndroom</Name>
       </Disorder>
       <Source>21241453[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25146,7 +25113,7 @@
     <HPODisorderSetStatus id="2516">
       <Disorder id="315">
         <OrphaNumber>1349</OrphaNumber>
-        <Name lang="nl">Maternaal overgeërfde cardiomyopathie en gehoorverlies</Name>
+        <Name lang="nl">Mitochondriaal DNA-gerelateerde cardiomyopathie en gehoorverlies</Name>
       </Disorder>
       <Source>8651277[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26202,7 +26169,7 @@
     <HPODisorderSetStatus id="2364">
       <Disorder id="3264">
         <OrphaNumber>412</OrphaNumber>
-        <Name lang="nl">Hyperlipoproteïnemie type 3</Name>
+        <Name lang="nl">Dysbètalipoproteïnemie</Name>
       </Disorder>
       <Source>25768710[PMID]_1531990[PMID]_1728471[PMID]_20452521[PMID]_8185134[PMID]_25111166[PMID]_26103610[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26224,7 +26191,7 @@
     <HPODisorderSetStatus id="2366">
       <Disorder id="19036">
         <OrphaNumber>226316</OrphaNumber>
-        <Name lang="nl">Genetische voorbijgaande congenitale hypothyreoïdie</Name>
+        <Name lang="nl">Genetische transiënte congenitale hypothyreoïdie</Name>
       </Disorder>
       <Source>12110737[PMID]_24446653[PMID]_15863666[PMID]_16134168[PMID]_11443211[PMID]_12110737[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26697,7 +26664,7 @@
     <HPODisorderSetStatus id="2415">
       <Disorder id="22449">
         <OrphaNumber>369929</OrphaNumber>
-        <Name lang="nl">Aldosteronproducerend adenoom met insulten en neurologische afwijkingen</Name>
+        <Name lang="nl">Primair hyperaldosteronisme - insulten - neurologische anomalieën-syndroom</Name>
       </Disorder>
       <Source>23913001[PMID]_26934393[PMID]_27036860[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26906,7 +26873,7 @@
     <HPODisorderSetStatus id="2427">
       <Disorder id="12662">
         <OrphaNumber>95707</OrphaNumber>
-        <Name lang="nl">Geïsoleerde micropenis</Name>
+        <Name lang="nl">Idiopathische geïsoleerde micropenis</Name>
       </Disorder>
       <Source>8559204[PMID]_1929508[PMID]_12843198[PMID]_21147889[PMID]_21147889[PMID]_9106076[PMID]_2248513[PMID]_11701709[PMID]_9626653 [PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27137,7 +27104,7 @@
     <HPODisorderSetStatus id="2731">
       <Disorder id="22877">
         <OrphaNumber>402075</OrphaNumber>
-        <Name lang="nl">Familiale bicuspidale aortaklep</Name>
+        <Name lang="nl">Familiale bicuspide aortaklep</Name>
       </Disorder>
       <Source>16025100[PMID]_22275001[PMID]_9631276[PMID]_16025100[PMID]_[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27632,7 +27599,7 @@
     <HPODisorderSetStatus id="2811">
       <Disorder id="3384">
         <OrphaNumber>145</OrphaNumber>
-        <Name lang="nl">Erfelijke borst- en ovariumkankersyndroom</Name>
+        <Name lang="nl">Erfelijk borst- en ovariumkankersyndroom</Name>
       </Disorder>
       <Source>20301425[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -27786,7 +27753,7 @@
     <HPODisorderSetStatus id="2795">
       <Disorder id="16740">
         <OrphaNumber>137902</OrphaNumber>
-        <Name lang="nl">Geïsoleerde nervus opticushypoplasie</Name>
+        <Name lang="nl">Geïsoleerde opticushypoplasie/-aplasie</Name>
       </Disorder>
       <Source>1115199[PMID]_12721955[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28006,7 +27973,7 @@
     <HPODisorderSetStatus id="2781">
       <Disorder id="2681">
         <OrphaNumber>2975</OrphaNumber>
-        <Name lang="nl">46,XX geslachtsontwikkelingsstoornis - skeletale anomalieën</Name>
+        <Name lang="nl">46,XX geslachtsontwikkelingsstoornis - skeletanomalieën-syndroom</Name>
       </Disorder>
       <Source>5042791[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28974,7 +28941,7 @@
     <HPODisorderSetStatus id="2675">
       <Disorder id="2903">
         <OrphaNumber>3246</OrphaNumber>
-        <Name lang="nl">Symfalangisme met meervoudige afwijkingen aan handen en voeten</Name>
+        <Name lang="nl">Symfalangisme met meervoudige anomalieën van handen en voeten</Name>
       </Disorder>
       <Source>6272576[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29766,7 +29733,7 @@
     <HPODisorderSetStatus id="2980">
       <Disorder id="14651">
         <OrphaNumber>100079</OrphaNumber>
-        <Name lang="nl">Neuro-endocriene tumor van de appendix</Name>
+        <Name lang="nl">Neuro-endocrien neoplasma van de appendix</Name>
       </Disorder>
       <Source>12115365[PMID]_21741512[PMID]_25840530[PMID]_8466309[PMID]_25840530[PMID]_22052063[PMID]_28326748[PMID]_27311320[PMID]_27306228[PMID]_26774818[PMID]_23049637[PMID]_20631606[PMID]_19363829[PMID]_17082811[PMID]_10832290[PMID]_10352529[PMID]_10323177[PMID]_14047627[PMID]_18887660[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -29799,7 +29766,7 @@
     <HPODisorderSetStatus id="2977">
       <Disorder id="3002">
         <OrphaNumber>3404</OrphaNumber>
-        <Name lang="nl">Ulbright-Hodessyndroom</Name>
+        <Name lang="nl">Syndroom van Ulbright-Hodes</Name>
       </Disorder>
       <Source>15476130[PMID]_2240030[PMID]_6711618[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30239,7 +30206,7 @@
     <HPODisorderSetStatus id="2970">
       <Disorder id="3530">
         <OrphaNumber>2023</OrphaNumber>
-        <Name lang="nl">Maligne fibreus histiocytoom</Name>
+        <Name lang="nl">Ongedifferentieerd pleomorf sarcoom</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -30492,7 +30459,7 @@
     <HPODisorderSetStatus id="3042">
       <Disorder id="16922">
         <OrphaNumber>139578</OrphaNumber>
-        <Name lang="nl">Erfelijke sensorische en autonome neuropathie met spastische paraplegie</Name>
+        <Name lang="nl">Mutilerende erfelijke sensorische neuropathie met spastische paraplegie</Name>
       </Disorder>
       <Source>16333315[PMID]_218673[PMID]_7922454[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30580,7 +30547,7 @@
     <HPODisorderSetStatus id="3067">
       <Disorder id="6522">
         <OrphaNumber>537</OrphaNumber>
-        <Name lang="nl">Lyellsyndroom</Name>
+        <Name lang="nl">Toxische epidermale necrolyse</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31086,7 +31053,7 @@
     <HPODisorderSetStatus id="2853">
       <Disorder id="20220">
         <OrphaNumber>268882</OrphaNumber>
-        <Name lang="nl">Arnold-Chiarimalformatie type I</Name>
+        <Name lang="nl">Malformatie van Arnold-Chiari type I</Name>
       </Disorder>
       <Source>10232534[PMID]_8988080[PMID]_16765829[PMID]_15449382[PMID]_7482254[PMID]_6668471[PMID]_1141921[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -31515,7 +31482,7 @@
     <HPODisorderSetStatus id="2828">
       <Disorder id="2079">
         <OrphaNumber>312</OrphaNumber>
-        <Name lang="nl">Epidermolytische ichthyosis</Name>
+        <Name lang="nl">Autosomaal dominante epidermolytische ichthyosis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32076,7 +32043,7 @@
     <HPODisorderSetStatus id="2940">
       <Disorder id="2863">
         <OrphaNumber>3199</OrphaNumber>
-        <Name lang="nl">Stimmlersyndroom</Name>
+        <Name lang="nl">Syndroom van Stimmler</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32626,7 +32593,7 @@
     <HPODisorderSetStatus id="3291">
       <Disorder id="22307">
         <OrphaNumber>363454</OrphaNumber>
-        <Name lang="nl">Autosomaal dominante proximale spinale spieratrofie met contracturen met aanvang in de kindertijd</Name>
+        <Name lang="nl">BICD2-gerelateerde autosomaal dominante proximale spinale musculaire atrofie met aanvang in de kindertijd</Name>
       </Disorder>
       <Source>22628388[PMID]_23664120[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32659,7 +32626,7 @@
     <HPODisorderSetStatus id="3271">
       <Disorder id="21506">
         <OrphaNumber>314632</OrphaNumber>
-        <Name lang="nl">Parkinsonisme door ATP13A2-deficiëntie</Name>
+        <Name lang="nl">ATP13A2-gerelateerde juveniele neuronale ceroïdlipofuscinose</Name>
       </Disorder>
       <Source>25197640[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32714,7 +32681,7 @@
     <HPODisorderSetStatus id="3266">
       <Disorder id="12910">
         <OrphaNumber>97355</OrphaNumber>
-        <Name lang="nl">Parkinsonisme met dementie van Guadeloupe</Name>
+        <Name lang="nl">Caribisch parkinsonisme</Name>
       </Disorder>
       <Source>29525296[PMID]_18941145[PMID]_18816693[PMID]_17303592[PMID]_1210440304[PMID]_217621[PMID]_11912113[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32846,7 +32813,7 @@
     <HPODisorderSetStatus id="3317">
       <Disorder id="22511">
         <OrphaNumber>370980</OrphaNumber>
-        <Name lang="nl">Congenitale spierdystrofie zonder intellectuele achterstand</Name>
+        <Name lang="nl">Congenitale musculaire dystrofie zonder intellectuele achterstand</Name>
       </Disorder>
       <Source>11592034[PMID]_19299310[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33693,7 +33660,7 @@
     <HPODisorderSetStatus id="3235">
       <Disorder id="21718">
         <OrphaNumber>320385</OrphaNumber>
-        <Name lang="nl">Autosomaal recessieve spastische paraplegie type 49</Name>
+        <Name lang="nl">Erfelijke sensorische en autonome neuropathie door TECPR2-mutatie</Name>
       </Disorder>
       <Source>23176824[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33748,7 +33715,7 @@
     <HPODisorderSetStatus id="3238">
       <Disorder id="20590">
         <OrphaNumber>284271</OrphaNumber>
-        <Name lang="nl">Autosomaal recessieve cerebellaire ataxie - psychomotorische retardatie-syndroom</Name>
+        <Name lang="nl">Autosomaal recessieve cerebellaire ataxie - psychomotorische achterstand-syndroom</Name>
       </Disorder>
       <Source>21835308[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33836,7 +33803,7 @@
     <HPODisorderSetStatus id="3246">
       <Disorder id="23538">
         <OrphaNumber>447760</OrphaNumber>
-        <Name lang="nl">Autosomaal recessieve complexe spastische paraplegie type 9B</Name>
+        <Name lang="nl">Autosomaal recessieve spastische paraplegie type 9B</Name>
       </Disorder>
       <Source>26026163[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34595,7 +34562,7 @@
     <HPODisorderSetStatus id="3101">
       <Disorder id="22710">
         <OrphaNumber>397946</OrphaNumber>
-        <Name lang="nl">Autosomaal recessieve spastische paraplegie type 58</Name>
+        <Name lang="nl">Autosomaal spastische paraplegie type 58</Name>
       </Disorder>
       <Source>17273843[PMID]_24319291[PMID]_24482476[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35911,7 +35878,7 @@
     <HPODisorderSetStatus id="3576">
       <Disorder id="19809">
         <OrphaNumber>255210</OrphaNumber>
-        <Name lang="nl">Maternaal overgeërfd syndroom van Leigh</Name>
+        <Name lang="nl">Mitochondriaal DNA-geassocieerd syndroom van Leigh</Name>
       </Disorder>
       <Source>29101127[PMID]_21402391[PMID]_20301352[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -36351,7 +36318,7 @@
     <HPODisorderSetStatus id="3494">
       <Disorder id="2151">
         <OrphaNumber>2282</OrphaNumber>
-        <Name lang="nl">Dysmorfie - kleine gestalte - doofheid - verstoorde geslachtsontwikkeling-syndroom</Name>
+        <Name lang="nl">Dysmorfie - kleine gestalte - doofheid - geslachtsontwikkelingsstoornis-syndroom</Name>
       </Disorder>
       <Source>3757305[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -36626,7 +36593,7 @@
     <HPODisorderSetStatus id="3406">
       <Disorder id="22065">
         <OrphaNumber>352470</OrphaNumber>
-        <Name lang="nl">Mitochondriaal DNA-deletiesyndroom met progressieve myopathie</Name>
+        <Name lang="nl">DNA2-gerelateerd mitochondriaal DNA-deletiesyndroom</Name>
       </Disorder>
       <Source>23352259[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -36868,7 +36835,7 @@
     <HPODisorderSetStatus id="3417">
       <Disorder id="11928">
         <OrphaNumber>90026</OrphaNumber>
-        <Name lang="nl">Primaire erythermalgie</Name>
+        <Name lang="nl">Primaire erytromelalgie</Name>
       </Disorder>
       <Source>26920677[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -36978,7 +36945,7 @@
     <HPODisorderSetStatus id="3436">
       <Disorder id="3558">
         <OrphaNumber>663</OrphaNumber>
-        <Name lang="nl">Maternaal overgeërfde progressieve externe oftalmoplegie</Name>
+        <Name lang="nl">Mitochondriaal DNA-gerelateerde progressieve externe oftalmoplegie</Name>
       </Disorder>
       <Source>22189266[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37022,7 +36989,7 @@
     <HPODisorderSetStatus id="3432">
       <Disorder id="22745">
         <OrphaNumber>399058</OrphaNumber>
-        <Name lang="nl">Alfa B-crystallinegerelateerde distale myopathie met late aanvang</Name>
+        <Name lang="nl">Alfa B-crystallinegerelateerde myopathie met late aanvang</Name>
       </Disorder>
       <Source>570292[PMID]_8792816[PMID]_21920752[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37044,7 +37011,7 @@
     <HPODisorderSetStatus id="3434">
       <Disorder id="20002">
         <OrphaNumber>262767</OrphaNumber>
-        <Name lang="nl">Partiële trisomie van de korte arm van chromosoom 9</Name>
+        <Name lang="nl">Partiële trisomie/tetrasomie van de korte arm van chromosoom 9</Name>
       </Disorder>
       <Source>58062[PMID]_422206[PMID]_17515299[PMID]_25365851[PMID]_26689153[PMID]_21823024[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37220,7 +37187,7 @@
     <HPODisorderSetStatus id="3450">
       <Disorder id="23537">
         <OrphaNumber>447757</OrphaNumber>
-        <Name lang="nl">Autosomaal dominante complexe spastische paraplegie type 9B</Name>
+        <Name lang="nl">Autosomaal dominante spastische paraplegie type 9B</Name>
       </Disorder>
       <Source>26026163[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37275,7 +37242,7 @@
     <HPODisorderSetStatus id="3441">
       <Disorder id="13924">
         <OrphaNumber>98907</OrphaNumber>
-        <Name lang="nl">Ziekte van Dorfman-Chanarin</Name>
+        <Name lang="nl">Neutrale vetstapelingsziekte met ichthyosis</Name>
       </Disorder>
       <Source>7362208[PMID]_24836204[PMID]_7362208[PMID]_21045422[PMID]_11251597[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37352,7 +37319,7 @@
     <HPODisorderSetStatus id="3337">
       <Disorder id="11181">
         <OrphaNumber>79155</OrphaNumber>
-        <Name lang="nl">Encefalopathie als gevolg van hydroxykynureninurie</Name>
+        <Name lang="nl">Hydroxykynureninurie</Name>
       </Disorder>
       <Source>17334708[PMID]_5586569[PMID]_14169454[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37495,7 +37462,7 @@
     <HPODisorderSetStatus id="3355">
       <Disorder id="17015">
         <OrphaNumber>140989</OrphaNumber>
-        <Name lang="nl">Primaire vasculitis van het centrale zenuwstelsel</Name>
+        <Name lang="nl">Primaire angiitis van het centrale zenuwstelsel</Name>
       </Disorder>
       <Source>26020379[PMID]_25708615[PMID]_22575778[PMID]_16575852[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37623,7 +37590,7 @@
     <HPODisorderSetStatus id="3351">
       <Disorder id="23536">
         <OrphaNumber>447753</OrphaNumber>
-        <Name lang="nl">Autosomaal dominante complexe spastische paraplegie type 9A</Name>
+        <Name lang="nl">Autosomaal dominante spastische paraplegie type 9A</Name>
       </Disorder>
       <Source>26026163[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38001,6 +37968,523 @@
       <CreationDate>2018-11-07 14:25:13.463</CreationDate>
       <UpdateDate>2018-11-07 14:25:13.463</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3699">
+      <Disorder id="746">
+        <OrphaNumber>2054</OrphaNumber>
+        <Name lang="nl">Osteochondritis van tarsaal/metatarsaal bot</Name>
+      </Disorder>
+      <Source>10709607[PMID]_28846950[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 16:44:40.38</CreationDate>
+      <UpdateDate>2019-05-29 16:44:40.38</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3698">
+      <Disorder id="10832">
+        <OrphaNumber>64280</OrphaNumber>
+        <Name lang="nl">Absence-epilepsie in de kindertijd</Name>
+      </Disorder>
+      <Source>24530152[PMID]_27683026[PMID]_11326275[PMID]_2502382[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 17:09:07.263</CreationDate>
+      <UpdateDate>2019-05-28 17:09:07.263</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3697">
+      <Disorder id="8743">
+        <OrphaNumber>230</OrphaNumber>
+        <Name lang="nl">Dopamine bèta-hydroxylasedeficiëntie</Name>
+      </Disorder>
+      <Source>27778639[PMID]_20301647[PMID]_2300263[PMID]_3010116[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 15:10:11.966</CreationDate>
+      <UpdateDate>2019-05-28 15:10:11.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3696">
+      <Disorder id="8610">
+        <OrphaNumber>563</OrphaNumber>
+        <Name lang="nl">Peripartum cardiomyopathie</Name>
+      </Disorder>
+      <Source>27045128[PMID]_28765406[PMID]_25636745[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 12:35:26.076</CreationDate>
+      <UpdateDate>2019-05-28 12:35:26.076</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3702">
+      <Disorder id="27320">
+        <OrphaNumber>521258</OrphaNumber>
+        <Name lang="nl">Xq25 microduplicatiesyndroom</Name>
+      </Disorder>
+      <Source>16840569[PMID]_23637084[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 17:41:06.246</CreationDate>
+      <UpdateDate>2019-05-29 17:41:06.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3701">
+      <Disorder id="22133">
+        <OrphaNumber>353298</OrphaNumber>
+        <Name lang="nl">Syndroom van Roifman</Name>
+      </Disorder>
+      <Source>10905663[PMID]_26522830[PMID]_11293748[PMID]_21910238[PMID]_10189087[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 17:15:06.616</CreationDate>
+      <UpdateDate>2019-05-29 17:15:06.616</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3700">
+      <Disorder id="17162">
+        <OrphaNumber>157954</OrphaNumber>
+        <Name lang="nl">ANE-syndroom</Name>
+      </Disorder>
+      <Source>20231366[PMID]_18439547[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-29 16:50:34.936</CreationDate>
+      <UpdateDate>2019-05-29 16:50:34.936</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3690">
+      <Disorder id="10676">
+        <OrphaNumber>51636</OrphaNumber>
+        <Name lang="nl">WHIM-syndroom</Name>
+      </Disorder>
+      <Source>21595885[PMID]_30716504[PMID]_30819232[PMID]_10767001[PMID]_2239986[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-24 12:10:26.866</CreationDate>
+      <UpdateDate>2019-05-24 12:10:26.866</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3691">
+      <Disorder id="10695">
+        <OrphaNumber>52427</OrphaNumber>
+        <Name lang="nl">Retinitis punctata albescens</Name>
+      </Disorder>
+      <Source>23929416[PMID]_28764803[PMID]_14718298[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-24 15:06:36.256</CreationDate>
+      <UpdateDate>2019-05-24 15:06:36.256</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3688">
+      <Disorder id="10440">
+        <OrphaNumber>37042</OrphaNumber>
+        <Name lang="nl">X-gebonden immuundisregulatie - polyendocrinopathie - enteropathie-syndroom</Name>
+      </Disorder>
+      <Source>30805323[PMID]_24240290[PMID]_20301297[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 14:29:06.14</CreationDate>
+      <UpdateDate>2019-05-23 14:29:06.14</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3689">
+      <Disorder id="10637">
+        <OrphaNumber>49041</OrphaNumber>
+        <Name lang="nl">IgG4-gerelateerde retroperitoneale fibrose</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 17:18:21.79</CreationDate>
+      <UpdateDate>2019-05-23 17:18:21.79</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3694">
+      <Disorder id="10802">
+        <OrphaNumber>60033</OrphaNumber>
+        <Name lang="nl">Idiopathische bronchiëctasie</Name>
+      </Disorder>
+      <Source>31086836[PMID]_28630359[PMID]_29247616[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 15:07:29.166</CreationDate>
+      <UpdateDate>2019-05-27 15:07:29.166</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3695">
+      <Disorder id="10801">
+        <OrphaNumber>60032</OrphaNumber>
+        <Name lang="nl">Terugkerende respiratoire papillomatose</Name>
+      </Disorder>
+      <Source>25999724[PMID]_29605367[PMID]_29800325[PMID]_30406011[PMID]_28427542[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-28 09:08:37.463</CreationDate>
+      <UpdateDate>2019-05-28 09:08:37.463</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3692">
+      <Disorder id="10755">
+        <OrphaNumber>54370</OrphaNumber>
+        <Name lang="nl">Primaire membranoproliferatieve glomerulonefritis</Name>
+      </Disorder>
+      <Source>27056062[PMID]_22798508[PMID]_22802081[PMID]_30854618[PMID]_26972096[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 10:43:45.003</CreationDate>
+      <UpdateDate>2019-05-27 10:43:45.003</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3693">
+      <Disorder id="10774">
+        <OrphaNumber>57196</OrphaNumber>
+        <Name lang="nl">Mediale condenserende osteïtis van het sleutelbeen</Name>
+      </Disorder>
+      <Source>15329764[PMID]_25272551[PMID]_27622150[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-27 11:56:44.506</CreationDate>
+      <UpdateDate>2019-05-27 11:56:44.506</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3682">
+      <Disorder id="10460">
+        <OrphaNumber>39812</OrphaNumber>
+        <Name lang="nl">Transplantaat-versus-gastheerziekte</Name>
+      </Disorder>
+      <Source>30855823[PMID]_31042160[PMID]_31058026[PMID]_31075084[PMID]_31089279[PMID]_31089281[PMID]_30106904[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 10:56:10.583</CreationDate>
+      <UpdateDate>2019-05-22 10:56:10.583</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3683">
+      <Disorder id="10640">
+        <OrphaNumber>49566</OrphaNumber>
+        <Name lang="nl">Verworven purpura fulminans</Name>
+      </Disorder>
+      <Source>2142890[PMID]_17679737[PMID]_20034317[PMID]_23582572[PMID]_29157918[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 14:41:04.333</CreationDate>
+      <UpdateDate>2019-05-22 14:41:04.333</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3680">
+      <Disorder id="10366">
+        <OrphaNumber>35078</OrphaNumber>
+        <Name lang="nl">Ernstige gecombineerde T-B+ immuundeficiëntie als gevolg van JAK3-deficiëntie</Name>
+      </Disorder>
+      <Source>26769277[PMID]_11668610[PMID]_14615376[PMID]_30778343[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-21 11:59:56.91</CreationDate>
+      <UpdateDate>2019-05-21 11:59:56.91</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3681">
+      <Disorder id="8597">
+        <OrphaNumber>1330</OrphaNumber>
+        <Name lang="nl">Gedeeltelijk atrioventriculair kanaal</Name>
+      </Disorder>
+      <Source>29722020[PMID]_14762371[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-21 15:41:12.766</CreationDate>
+      <UpdateDate>2019-05-21 15:41:12.766</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3686">
+      <Disorder id="14684">
+        <OrphaNumber>100973</OrphaNumber>
+        <Name lang="nl">FRAXE intellectueel defect</Name>
+      </Disorder>
+      <Source>8651274[PMID]_21739600[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 17:21:28.856</CreationDate>
+      <UpdateDate>2019-05-22 17:21:28.856</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3687">
+      <Disorder id="10403">
+        <OrphaNumber>35878</OrphaNumber>
+        <Name lang="nl">Hyperinsulinisme - hyperammoniëmie-syndroom</Name>
+      </Disorder>
+      <Source>11241047[PMID_21130127[PMID]_14967154[PMID]_20936362[PMID]_11518822[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-23 11:14:41.603</CreationDate>
+      <UpdateDate>2019-05-23 11:14:41.603</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3684">
+      <Disorder id="19639">
+        <OrphaNumber>251383</OrphaNumber>
+        <Name lang="nl">CK-syndroom</Name>
+      </Disorder>
+      <Source>19842190[PMID]_21129721[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 16:51:19.173</CreationDate>
+      <UpdateDate>2019-05-22 16:51:19.173</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3685">
+      <Disorder id="8561">
+        <OrphaNumber>514</OrphaNumber>
+        <Name lang="nl">Acute monoblastische leukemie</Name>
+      </Disorder>
+      <Source>29417354[PMID]_30524762[PMID]_30631409[PMID]_28658145[PMID]_27884836[PMID]_28642361[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-22 16:59:10.063</CreationDate>
+      <UpdateDate>2019-05-22 16:59:10.063</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3673">
+      <Disorder id="3652">
+        <OrphaNumber>328</OrphaNumber>
+        <Name lang="nl">Congenitale factor X-deficiëntie</Name>
+      </Disorder>
+      <Source>23560890[PMID]_9695984[PMID]_27124643{PMID]_30901144[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 12:59:27.87</CreationDate>
+      <UpdateDate>2019-05-16 12:59:27.87</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3672">
+      <Disorder id="3418">
+        <OrphaNumber>2086</OrphaNumber>
+        <Name lang="nl">Optische banenglioom</Name>
+      </Disorder>
+      <Source>27082859[PMID]_28847625[PMID]_28984541[PMID]_29246098[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 10:02:05.883</CreationDate>
+      <UpdateDate>2019-05-16 10:02:05.883</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3675">
+      <Disorder id="5535">
+        <OrphaNumber>2688</OrphaNumber>
+        <Name lang="nl">Volwassen idiopathische neutropenie</Name>
+      </Disorder>
+      <Source>23771659[PMID]_28732781[PMID]_27841775[PMID]?26066399[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 10:25:16.5</CreationDate>
+      <UpdateDate>2019-05-17 10:25:16.5</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3674">
+      <Disorder id="3655">
+        <OrphaNumber>288</OrphaNumber>
+        <Name lang="nl">Erfelijke elliptocytose</Name>
+      </Disorder>
+      <Source>30369757[PMID]_23664421[PMID]_27667160[PMID]_3818958[PMID]_3708157[PMID]_3801663[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-16 15:51:38.386</CreationDate>
+      <UpdateDate>2019-05-16 15:51:38.386</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3677">
+      <Disorder id="8751">
+        <OrphaNumber>88</OrphaNumber>
+        <Name lang="nl">Idiopathische aplastische anemie</Name>
+      </Disorder>
+      <Source>17214739[PMID]_24790407[PMID]_24424170[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 16:07:47.413</CreationDate>
+      <UpdateDate>2019-05-17 16:07:47.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3676">
+      <Disorder id="8692">
+        <OrphaNumber>853</OrphaNumber>
+        <Name lang="nl">Foetale en neonatale allo-immune trombocytopenie</Name>
+      </Disorder>
+      <Source>30827816[PMID]_17032445[PMID]_30971767[PMID]_30828796[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-17 13:44:18.37</CreationDate>
+      <UpdateDate>2019-05-17 13:44:18.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3679">
+      <Disorder id="3462">
+        <OrphaNumber>185</OrphaNumber>
+        <Name lang="nl">Scimitarsyndroom</Name>
+      </Disorder>
+      <Source>29398566[PMID]_28674724[PMID]_29054305[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-20 16:38:48.186</CreationDate>
+      <UpdateDate>2019-05-20 16:38:48.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3678">
+      <Disorder id="3366">
+        <OrphaNumber>470</OrphaNumber>
+        <Name lang="nl">Lysinurische proteïne-intolerantie</Name>
+      </Disorder>
+      <Source>20301535[PMID]_28057010[PMID]_8163273[PMID]_7204568[PMID]_6076999[PMID]_4158034[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-20 12:28:12.946</CreationDate>
+      <UpdateDate>2019-05-20 12:28:12.946</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3665">
+      <Disorder id="3252">
+        <OrphaNumber>822</OrphaNumber>
+        <Name lang="nl">Erfelijke sferocytose</Name>
+      </Disorder>
+      <Source>30511538[PMID]_30763822[PMID]_30969619[PMID]_28463670[PMID]_24624460[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 13:03:57.413</CreationDate>
+      <UpdateDate>2019-05-14 13:03:57.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3664">
+      <Disorder id="773">
+        <OrphaNumber>3129</OrphaNumber>
+        <Name lang="nl">Sarcosinemie</Name>
+      </Disorder>
+      <Source>22825317[PMID]_9323574[PMID]_2420598[PMID]_6207480[PMID]_5504071[PMID]_5936868[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 10:15:33.313</CreationDate>
+      <UpdateDate>2019-05-14 10:15:33.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3667">
+      <Disorder id="3365">
+        <OrphaNumber>212</OrphaNumber>
+        <Name lang="nl">Cystathioninurie</Name>
+      </Disorder>
+      <Source>20584029[PMID]_5637757[PMID]_6082903[PMID]_14399948[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 17:00:23.513</CreationDate>
+      <UpdateDate>2019-05-14 17:00:23.513</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3666">
+      <Disorder id="3277">
+        <OrphaNumber>325</OrphaNumber>
+        <Name lang="nl">Congenitale factor II-deficiëntie</Name>
+      </Disorder>
+      <Source>28222949[PMID]_23190616[PMID]_19412729[PMID]_28762299[PMID]_7740448[PMID]_14489469[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-14 15:42:37.99</CreationDate>
+      <UpdateDate>2019-05-14 15:42:37.99</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3669">
+      <Disorder id="17055">
+        <OrphaNumber>141179</OrphaNumber>
+        <Name lang="nl">Niet-involuerend congenitaal hemangioom</Name>
+      </Disorder>
+      <Source>27058448[PMID]_18676554[PMID]_27540637[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 12:31:12.973</CreationDate>
+      <UpdateDate>2019-05-15 12:31:12.973</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3668">
+      <Disorder id="3399">
+        <OrphaNumber>2330</OrphaNumber>
+        <Name lang="nl">Syndroom van Kasabach-Merritt</Name>
+      </Disorder>
+      <Source>30085595[PMID]_28767598[PMID]_30096317[PMID]_9108863[PMID]_3588149[PMID]_3108848[PMID]_6660888[PMID]_5950934[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 12:01:07.34</CreationDate>
+      <UpdateDate>2019-05-15 12:01:07.34</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3671">
+      <Disorder id="3403">
+        <OrphaNumber>767</OrphaNumber>
+        <Name lang="nl">Polyarteritis nodosa</Name>
+      </Disorder>
+      <Source>29955757[PMID]_30114520[PMID]_30418125[PMID]_30952413[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 15:31:34.94</CreationDate>
+      <UpdateDate>2019-05-15 15:31:34.94</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3670">
+      <Disorder id="17056">
+        <OrphaNumber>141184</OrphaNumber>
+        <Name lang="nl">Snel involuerend congenitaal hemangioom</Name>
+      </Disorder>
+      <Source>27058448[PMID]_18676554[PMID]_27540637[PMID]_7911127[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-15 13:39:55.4</CreationDate>
+      <UpdateDate>2019-05-15 13:39:55.4</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3656">
+      <Disorder id="8560">
+        <OrphaNumber>517</OrphaNumber>
+        <Name lang="nl">Acute myelomonocytische leukemie</Name>
+      </Disorder>
+      <Source>18508801[PMID]_29491461[PMID]_26185647[PMID]_6577285[PMID]_28371234[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 11:17:41.1</CreationDate>
+      <UpdateDate>2019-05-03 11:17:41.1</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3657">
+      <Disorder id="8562">
+        <OrphaNumber>318</OrphaNumber>
+        <Name lang="nl">Acute erytroïde leukemie</Name>
+      </Disorder>
+      <Source>28006859[PMID]_6589033[PMID]_3471269[PMID]_6948132[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 16:51:24.18</CreationDate>
+      <UpdateDate>2019-05-03 16:51:24.18</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3658">
+      <Disorder id="8022">
+        <OrphaNumber>130</OrphaNumber>
+        <Name lang="nl">Syndroom van Brugada</Name>
+      </Disorder>
+      <Source>29020354[PMID]_29254832[PMID]_26220970[PMID]_20301690[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-03 18:52:50.58</CreationDate>
+      <UpdateDate>2019-05-03 18:52:50.58</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3659">
+      <Disorder id="12343">
+        <OrphaNumber>93430</OrphaNumber>
+        <Name lang="nl">Meervoudige metafysaire dysplasie</Name>
+      </Disorder>
+      <Source/>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 10:51:46.436</CreationDate>
+      <UpdateDate>2019-05-13 10:51:46.436</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3660">
+      <Disorder id="20702">
+        <OrphaNumber>289157</OrphaNumber>
+        <Name lang="nl">Hypocalciëmische vitamine D-afhankelijke rachitis</Name>
+      </Disorder>
+      <Source>8201479[PMID]_15128933[PMID]_4309963[PMID]_4357855[PMID]_9837822[PMID]_9295274[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 11:48:07.966</CreationDate>
+      <UpdateDate>2019-05-13 11:48:07.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3661">
+      <Disorder id="24027">
+        <OrphaNumber>464453</OrphaNumber>
+        <Name lang="nl">Verworven methemoglobinemie</Name>
+      </Disorder>
+      <Source>25637615[PMID]_27412886[PMID]_28667718[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 11:52:58.133</CreationDate>
+      <UpdateDate>2019-05-13 11:52:58.133</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3662">
+      <Disorder id="3506">
+        <OrphaNumber>361</OrphaNumber>
+        <Name lang="nl">Familiale glucocorticoïddeficiëntie</Name>
+      </Disorder>
+      <Source>4302512[PMID]_7627261[PMID]_1320052[PMID]_15654338[PMID]_12384787[PMID]_22634753[PMID]_27129361[PMID]_24601690[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 12:22:09.113</CreationDate>
+      <UpdateDate>2019-05-13 12:22:09.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3663">
+      <Disorder id="713">
+        <OrphaNumber>134</OrphaNumber>
+        <Name lang="nl">Bèta-ketothiolasedeficiëntie</Name>
+      </Disorder>
+      <Source>28689740[PMID]_28220263[PMID]_9700610[PMID]_4812006[PMID]_4143539[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-13 16:18:39.2</CreationDate>
+      <UpdateDate>2019-05-13 16:18:39.2</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3648">
       <Disorder id="3468">
         <OrphaNumber>3261</OrphaNumber>
@@ -38055,6 +38539,39 @@
       <Online>y</Online>
       <CreationDate>2019-04-30 16:25:09.563</CreationDate>
       <UpdateDate>2019-04-30 16:25:09.563</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3653">
+      <Disorder id="8028">
+        <OrphaNumber>552</OrphaNumber>
+        <Name lang="nl">MODY</Name>
+      </Disorder>
+      <Source>15784703[PMID]_22701567[PMID]_16369531[PMID}_4212169[PMID]_11575290[PMID]_29792621[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 10:23:42.3</CreationDate>
+      <UpdateDate>2019-05-02 10:23:42.3</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3654">
+      <Disorder id="8745">
+        <OrphaNumber>824</OrphaNumber>
+        <Name lang="nl">Primaire myelofibrose</Name>
+      </Disorder>
+      <Source>30683837[PMID]_30805227[PMID]_27830539[PMID]_27870387[PMID]_9766805[PMID]_7436463[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 14:26:00.52</CreationDate>
+      <UpdateDate>2019-05-02 14:26:00.52</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3655">
+      <Disorder id="8559">
+        <OrphaNumber>520</OrphaNumber>
+        <Name lang="nl">Acute promyelocytische leukemie</Name>
+      </Disorder>
+      <Source>30666067[PMID]_30715157[PMID]_30854206[PMID]_26414475[PMID]_28735889[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-05-02 17:18:52.556</CreationDate>
+      <UpdateDate>2019-05-02 17:18:52.556</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3647">
       <Disorder id="27326">

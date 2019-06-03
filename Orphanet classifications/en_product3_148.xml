@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:56:50" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:55:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -78,7 +78,7 @@
                       <Disorder id="3443">
                         <OrphaNumber>2041</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2041</ExpertLink>
-                        <Name lang="en">Coronary arterial fistulas</Name>
+                        <Name lang="en">Coronary arterial fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -121,7 +121,7 @@
                           <Disorder id="14104">
                             <OrphaNumber>99087</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99087</ExpertLink>
-                            <Name lang="en">Congenital stenosis or atresia of the coronary ostium</Name>
+                            <Name lang="en">Congenital stenosis or atresia of a coronary ostium</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -148,7 +148,7 @@
                           <Disorder id="14107">
                             <OrphaNumber>99090</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99090</ExpertLink>
-                            <Name lang="en">Malposition of the coronary ostium</Name>
+                            <Name lang="en">Malposition of a coronary ostium</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

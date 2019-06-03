@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-05-01 04:56:41" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-06-01 04:55:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1273,7 +1273,7 @@
                           <Disorder id="3443">
                             <OrphaNumber>2041</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2041</ExpertLink>
-                            <Name lang="en">Coronary arterial fistulas</Name>
+                            <Name lang="en">Coronary arterial fistula</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1316,7 +1316,7 @@
                               <Disorder id="14104">
                                 <OrphaNumber>99087</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99087</ExpertLink>
-                                <Name lang="en">Congenital stenosis or atresia of the coronary ostium</Name>
+                                <Name lang="en">Congenital stenosis or atresia of a coronary ostium</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1343,7 +1343,7 @@
                               <Disorder id="14107">
                                 <OrphaNumber>99090</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99090</ExpertLink>
-                                <Name lang="en">Malposition of the coronary ostium</Name>
+                                <Name lang="en">Malposition of a coronary ostium</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5741,25 +5741,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
                         <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12006">
-                            <OrphaNumber>90309</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90309</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12007">
-                            <OrphaNumber>90318</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90318</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -13771,15 +13753,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="11083">
-                            <OrphaNumber>75496</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="12290">
                             <OrphaNumber>93359</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93359</ExpertLink>
@@ -13883,6 +13856,15 @@
                             <OrphaNumber>369837</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=369837</ExpertLink>
                             <Name lang="en">Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27849">
+                            <OrphaNumber>536467</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536467</ExpertLink>
+                            <Name lang="en">B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -17207,7 +17189,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93446</ExpertLink>
                         <Name lang="en">Primary bone dysplasia with decreased bone density</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="25">
+                      <ClassificationNodeChildList count="26">
                         <ClassificationNode>
                           <Disorder id="313">
                             <OrphaNumber>2771</OrphaNumber>
@@ -17371,15 +17353,6 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="11083">
-                            <OrphaNumber>75496</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="11649">
                             <OrphaNumber>85191</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85191</ExpertLink>
@@ -17510,6 +17483,24 @@
                             <OrphaNumber>498481</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=498481</ExpertLink>
                             <Name lang="en">LRP5-related primary osteoporosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27849">
+                            <OrphaNumber>536467</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536467</ExpertLink>
+                            <Name lang="en">B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27852">
+                            <OrphaNumber>536532</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536532</ExpertLink>
+                            <Name lang="en">Classical-like Ehlers-Danlos syndrome type 2</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -26101,32 +26092,14 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                     <Name lang="en">Ehlers-Danlos syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="19">
+                  <ClassificationNodeChildList count="16">
                     <ClassificationNode>
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
                         <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12006">
-                            <OrphaNumber>90309</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90309</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12007">
-                            <OrphaNumber>90318</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90318</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26157,12 +26130,30 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="4043">
-                        <OrphaNumber>1900</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
-                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
+                      <Disorder id="27853">
+                        <OrphaNumber>536545</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536545</ExpertLink>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="4043">
+                            <OrphaNumber>1900</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
+                            <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21100">
+                            <OrphaNumber>300179</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
+                            <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26171,25 +26162,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1899</ExpertLink>
                         <Name lang="en">Arthrochalasia Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="14448">
-                            <OrphaNumber>99875</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99875</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 7A</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14449">
-                            <OrphaNumber>99876</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99876</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 7B</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26211,12 +26184,39 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="11083">
-                        <OrphaNumber>75496</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                      <Disorder id="27850">
+                        <OrphaNumber>536471</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536471</ExpertLink>
+                        <Name lang="en">Spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="11083">
+                            <OrphaNumber>75496</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27849">
+                            <OrphaNumber>536467</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536467</ExpertLink>
+                            <Name lang="en">B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17164">
+                            <OrphaNumber>157965</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
+                            <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26224,24 +26224,6 @@
                         <OrphaNumber>75497</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75497</ExpertLink>
                         <Name lang="en">X-linked Ehlers-Danlos syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11085">
-                        <OrphaNumber>75501</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75501</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, fibronectinemic type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11546">
-                        <OrphaNumber>82004</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=82004</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome with periventricular heterotopia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26256,10 +26238,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="17164">
-                        <OrphaNumber>157965</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                      <Disorder id="27851">
+                        <OrphaNumber>536516</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536516</ExpertLink>
+                        <Name lang="en">Myopathic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26269,15 +26251,6 @@
                         <OrphaNumber>230839</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
                         <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19143">
-                        <OrphaNumber>230845</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
-                        <Name lang="en">Vascular-like classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26301,10 +26274,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="21100">
-                        <OrphaNumber>300179</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
-                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
+                      <Disorder id="27852">
+                        <OrphaNumber>536532</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536532</ExpertLink>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26632,32 +26605,14 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                     <Name lang="en">Ehlers-Danlos syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="19">
+                  <ClassificationNodeChildList count="16">
                     <ClassificationNode>
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=287</ExpertLink>
                         <Name lang="en">Classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12006">
-                            <OrphaNumber>90309</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90309</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 1</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12007">
-                            <OrphaNumber>90318</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90318</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 2</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26688,12 +26643,30 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="4043">
-                        <OrphaNumber>1900</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
-                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
+                      <Disorder id="27853">
+                        <OrphaNumber>536545</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536545</ExpertLink>
+                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="4043">
+                            <OrphaNumber>1900</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1900</ExpertLink>
+                            <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21100">
+                            <OrphaNumber>300179</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
+                            <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26702,25 +26675,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1899</ExpertLink>
                         <Name lang="en">Arthrochalasia Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="14448">
-                            <OrphaNumber>99875</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99875</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 7A</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14449">
-                            <OrphaNumber>99876</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99876</ExpertLink>
-                            <Name lang="en">Ehlers-Danlos syndrome type 7B</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26742,12 +26697,39 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="11083">
-                        <OrphaNumber>75496</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
-                        <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                      <Disorder id="27850">
+                        <OrphaNumber>536471</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536471</ExpertLink>
+                        <Name lang="en">Spondylodysplastic Ehlers-Danlos syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="11083">
+                            <OrphaNumber>75496</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="27849">
+                            <OrphaNumber>536467</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536467</ExpertLink>
+                            <Name lang="en">B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17164">
+                            <OrphaNumber>157965</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
+                            <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -26755,24 +26737,6 @@
                         <OrphaNumber>75497</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75497</ExpertLink>
                         <Name lang="en">X-linked Ehlers-Danlos syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11085">
-                        <OrphaNumber>75501</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75501</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, fibronectinemic type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11546">
-                        <OrphaNumber>82004</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=82004</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome with periventricular heterotopia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26787,10 +26751,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="17164">
-                        <OrphaNumber>157965</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=157965</ExpertLink>
-                        <Name lang="en">SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                      <Disorder id="27851">
+                        <OrphaNumber>536516</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536516</ExpertLink>
+                        <Name lang="en">Myopathic Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26800,15 +26764,6 @@
                         <OrphaNumber>230839</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230839</ExpertLink>
                         <Name lang="en">Classical-like Ehlers-Danlos syndrome type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19143">
-                        <OrphaNumber>230845</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230845</ExpertLink>
-                        <Name lang="en">Vascular-like classical Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26832,10 +26787,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="21100">
-                        <OrphaNumber>300179</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300179</ExpertLink>
-                        <Name lang="en">Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency</Name>
+                      <Disorder id="27852">
+                        <OrphaNumber>536532</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536532</ExpertLink>
+                        <Name lang="en">Classical-like Ehlers-Danlos syndrome type 2</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27651,7 +27606,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139042</ExpertLink>
                 <Name lang="en">Malformation syndrome with odontal and/or periodontal component</Name>
               </Disorder>
-              <ClassificationNodeChildList count="59">
+              <ClassificationNodeChildList count="60">
+                <ClassificationNode>
+                  <Disorder id="2481">
+                    <OrphaNumber>2720</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2720</ExpertLink>
+                    <Name lang="en">Oculocerebral hypopigmentation syndrome, Preus type</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="931">
                     <OrphaNumber>627</OrphaNumber>
@@ -35713,7 +35677,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102283</ExpertLink>
                     <Name lang="en">Multiple congenital anomalies/dysmorphic syndrome-intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="371">
+                  <ClassificationNodeChildList count="373">
                     <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
@@ -39589,6 +39553,24 @@
                         <OrphaNumber>1488</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1488</ExpertLink>
                         <Name lang="en">Cooper-Jabs syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2481">
+                        <OrphaNumber>2720</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2720</ExpertLink>
+                        <Name lang="en">Oculocerebral hypopigmentation syndrome, Preus type</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="2480">
+                        <OrphaNumber>2719</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2719</ExpertLink>
+                        <Name lang="en">Oculocerebral hypopigmentation syndrome, Cross type</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
