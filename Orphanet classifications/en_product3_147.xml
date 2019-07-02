@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:55:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:55:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1268,7 +1268,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1081</ExpertLink>
                         <Name lang="en">Coronary artery congenital malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="3443">
                             <OrphaNumber>2041</OrphaNumber>
@@ -1285,69 +1285,6 @@
                             <Name lang="en">Congenital coronary artery aneurysm</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12617">
-                            <OrphaNumber>95493</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95493</ExpertLink>
-                            <Name lang="en">Abnormal origin or aberrant course of coronary artery</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="6">
-                            <ClassificationNode>
-                              <Disorder id="14102">
-                                <OrphaNumber>99085</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99085</ExpertLink>
-                                <Name lang="en">Coronary artery intramyocardial course</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14103">
-                                <OrphaNumber>99086</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99086</ExpertLink>
-                                <Name lang="en">Aortopulmonary coronary arterial course</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14104">
-                                <OrphaNumber>99087</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99087</ExpertLink>
-                                <Name lang="en">Congenital stenosis or atresia of a coronary ostium</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14105">
-                                <OrphaNumber>99088</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99088</ExpertLink>
-                                <Name lang="en">Intramural coronary arterial course</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14106">
-                                <OrphaNumber>99089</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99089</ExpertLink>
-                                <Name lang="en">Abnormal number of coronary ostia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="14107">
-                                <OrphaNumber>99090</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99090</ExpertLink>
-                                <Name lang="en">Malposition of a coronary ostium</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -1584,7 +1521,7 @@
                                   <Disorder id="14067">
                                     <OrphaNumber>99050</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99050</ExpertLink>
-                                    <Name lang="en">Pulmonary artery coming from the aorta</Name>
+                                    <Name lang="en">Abnormal origin of right or left pulmonary artery from the aorta</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -3015,7 +2952,7 @@
                                   <Disorder id="14140">
                                     <OrphaNumber>99123</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99123</ExpertLink>
-                                    <Name lang="en">Inferior vena cava interruption</Name>
+                                    <Name lang="en">Inferior vena cava interruption without azygos continuation</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -5388,7 +5325,7 @@
                       <Disorder id="798">
                         <OrphaNumber>2040</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2040</ExpertLink>
-                        <Name lang="en">Congenital bronchobiliary fistula</Name>
+                        <Name lang="en">Congenital respiratory-biliary fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -8774,7 +8711,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269531</ExpertLink>
                         <Name lang="en">Other syndrome with a central nervous system malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="38">
+                      <ClassificationNodeChildList count="37">
                         <ClassificationNode>
                           <Disorder id="23446">
                             <OrphaNumber>443162</OrphaNumber>
@@ -8861,15 +8798,6 @@
                             <OrphaNumber>2065</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2065</ExpertLink>
                             <Name lang="en">Galloway-Mowat syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1996">
-                            <OrphaNumber>2081</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2081</ExpertLink>
-                            <Name lang="en">Cerebral gigantism-jaw cysts syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9231,7 +9159,7 @@
                       <Disorder id="798">
                         <OrphaNumber>2040</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2040</ExpertLink>
-                        <Name lang="en">Congenital bronchobiliary fistula</Name>
+                        <Name lang="en">Congenital respiratory-biliary fistula</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -9800,7 +9728,7 @@
                   <Disorder id="12482">
                     <OrphaNumber>93921</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93921</ExpertLink>
-                    <Name lang="en">Neurofibromatosis type 3</Name>
+                    <Name lang="en">Schwannomatosis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -13724,7 +13652,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=371195</ExpertLink>
                         <Name lang="en">Congenital disorder of glycosylation-related bone disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="14">
+                      <ClassificationNodeChildList count="15">
                         <ClassificationNode>
                           <Disorder id="1042">
                             <OrphaNumber>2311</OrphaNumber>
@@ -13748,6 +13676,15 @@
                             <OrphaNumber>321</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=321</ExpertLink>
                             <Name lang="en">Multiple osteochondromas</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11083">
+                            <OrphaNumber>75496</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -15299,16 +15236,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93430</ExpertLink>
                         <Name lang="en">Multiple metaphyseal dysplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
-                        <ClassificationNode>
-                          <Disorder id="479">
-                            <OrphaNumber>1819</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1819</ExpertLink>
-                            <Name lang="en">Epimetaphyseal skeletal dysplasia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="1346">
                             <OrphaNumber>1040</OrphaNumber>
@@ -20812,25 +20740,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295002</ExpertLink>
                                 <Name lang="en">Hyperphalangy</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="21017">
-                                    <OrphaNumber>295140</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295140</ExpertLink>
-                                    <Name lang="en">Hyperphalangy, unilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="21018">
-                                    <OrphaNumber>295142</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295142</ExpertLink>
-                                    <Name lang="en">Hyperphalangy, bilateral</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -20841,7 +20751,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93459</ExpertLink>
                             <Name lang="en">Syndrome with synostosis or other joint formation defect</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="14">
+                          <ClassificationNodeChildList count="15">
+                            <ClassificationNode>
+                              <Disorder id="11083">
+                                <OrphaNumber>75496</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                                <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="1265">
                                 <OrphaNumber>946</OrphaNumber>
@@ -24186,7 +24105,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139027</ExpertLink>
                 <Name lang="en">Rare developmental defect with skin/mucosae involvement</Name>
               </Disorder>
-              <ClassificationNodeChildList count="41">
+              <ClassificationNodeChildList count="42">
+                <ClassificationNode>
+                  <Disorder id="19145">
+                    <OrphaNumber>230857</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
+                    <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="104">
                     <OrphaNumber>100</OrphaNumber>
@@ -26092,7 +26020,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                     <Name lang="en">Ehlers-Danlos syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="16">
+                  <ClassificationNodeChildList count="15">
                     <ClassificationNode>
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
@@ -26115,7 +26043,7 @@
                       <Disorder id="4041">
                         <OrphaNumber>285</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=285</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, hypermobility type</Name>
+                        <Name lang="en">Hypermobile Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26265,15 +26193,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="19145">
-                        <OrphaNumber>230857</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="27852">
                         <OrphaNumber>536532</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536532</ExpertLink>
@@ -26346,7 +26265,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139030</ExpertLink>
                 <Name lang="en">Rare developmental defect with connective tissue involvement</Name>
               </Disorder>
-              <ClassificationNodeChildList count="17">
+              <ClassificationNodeChildList count="18">
+                <ClassificationNode>
+                  <Disorder id="19145">
+                    <OrphaNumber>230857</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
+                    <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="109">
                     <OrphaNumber>558</OrphaNumber>
@@ -26605,7 +26533,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                     <Name lang="en">Ehlers-Danlos syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="16">
+                  <ClassificationNodeChildList count="15">
                     <ClassificationNode>
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
@@ -26628,7 +26556,7 @@
                       <Disorder id="4041">
                         <OrphaNumber>285</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=285</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, hypermobility type</Name>
+                        <Name lang="en">Hypermobile Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -26773,15 +26701,6 @@
                         <OrphaNumber>230851</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230851</ExpertLink>
                         <Name lang="en">Cardiac-valvular Ehlers-Danlos syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19145">
-                        <OrphaNumber>230857</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -35341,7 +35260,7 @@
                                       <Disorder id="19882">
                                         <OrphaNumber>261501</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=261501</ExpertLink>
-                                        <Name lang="en">Atypical Norrie disease due to monosomy Xp11.3</Name>
+                                        <Name lang="en">Atypical Norrie disease due to Xp11.3 microdeletion</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -42587,7 +42506,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93459</ExpertLink>
                         <Name lang="en">Syndrome with synostosis or other joint formation defect</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="14">
+                      <ClassificationNodeChildList count="15">
+                        <ClassificationNode>
+                          <Disorder id="11083">
+                            <OrphaNumber>75496</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1265">
                             <OrphaNumber>946</OrphaNumber>
@@ -45078,25 +45006,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295002</ExpertLink>
                             <Name lang="en">Hyperphalangy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="21017">
-                                <OrphaNumber>295140</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295140</ExpertLink>
-                                <Name lang="en">Hyperphalangy, unilateral</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21018">
-                                <OrphaNumber>295142</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295142</ExpertLink>
-                                <Name lang="en">Hyperphalangy, bilateral</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -46143,7 +46053,7 @@
                                   <Disorder id="14140">
                                     <OrphaNumber>99123</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99123</ExpertLink>
-                                    <Name lang="en">Inferior vena cava interruption</Name>
+                                    <Name lang="en">Inferior vena cava interruption without azygos continuation</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

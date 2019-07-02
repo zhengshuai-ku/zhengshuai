@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:56:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:56:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7762,7 +7762,7 @@
                           <Disorder id="12627">
                             <OrphaNumber>95503</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95503</ExpertLink>
-                            <Name lang="en">Pituitary hormone deficiency from tumoral origin</Name>
+                            <Name lang="en">Pituitary hormone deficiency of tumoral origin</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="8">
                             <ClassificationNode>
@@ -7978,7 +7978,7 @@
                           <Disorder id="12629">
                             <OrphaNumber>95505</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95505</ExpertLink>
-                            <Name lang="en">Pituitary hormone deficiency from meningeal origin</Name>
+                            <Name lang="en">Pituitary hormone deficiency of meningeal origin</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
@@ -8041,7 +8041,7 @@
                           <Disorder id="12639">
                             <OrphaNumber>95611</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95611</ExpertLink>
-                            <Name lang="en">Pituitary hormone defiency from vascular origin</Name>
+                            <Name lang="en">Pituitary hormone deficiency of vascular origin</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="1">
                             <ClassificationNode>

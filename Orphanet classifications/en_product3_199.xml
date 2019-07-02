@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:56:50" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:56:43" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2035,16 +2035,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93430</ExpertLink>
                     <Name lang="en">Multiple metaphyseal dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
-                    <ClassificationNode>
-                      <Disorder id="479">
-                        <OrphaNumber>1819</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1819</ExpertLink>
-                        <Name lang="en">Epimetaphyseal skeletal dysplasia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="12">
                     <ClassificationNode>
                       <Disorder id="1346">
                         <OrphaNumber>1040</OrphaNumber>
@@ -7548,25 +7539,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295002</ExpertLink>
                             <Name lang="en">Hyperphalangy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="21017">
-                                <OrphaNumber>295140</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295140</ExpertLink>
-                                <Name lang="en">Hyperphalangy, unilateral</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21018">
-                                <OrphaNumber>295142</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=295142</ExpertLink>
-                                <Name lang="en">Hyperphalangy, bilateral</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -7577,7 +7550,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93459</ExpertLink>
                         <Name lang="en">Syndrome with synostosis or other joint formation defect</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="14">
+                      <ClassificationNodeChildList count="15">
+                        <ClassificationNode>
+                          <Disorder id="11083">
+                            <OrphaNumber>75496</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=75496</ExpertLink>
+                            <Name lang="en">B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="1510">
                             <OrphaNumber>1275</OrphaNumber>

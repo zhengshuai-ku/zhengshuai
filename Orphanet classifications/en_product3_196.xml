@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:56:45" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:56:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -489,7 +489,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182222</ExpertLink>
                 <Name lang="en">Rare systemic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="30">
+              <ClassificationNodeChildList count="31">
+                <ClassificationNode>
+                  <Disorder id="19145">
+                    <OrphaNumber>230857</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
+                    <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="27333">
                     <OrphaNumber>521450</OrphaNumber>
@@ -955,7 +964,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98249</ExpertLink>
                     <Name lang="en">Ehlers-Danlos syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="16">
+                  <ClassificationNodeChildList count="15">
                     <ClassificationNode>
                       <Disorder id="612">
                         <OrphaNumber>287</OrphaNumber>
@@ -978,7 +987,7 @@
                       <Disorder id="4041">
                         <OrphaNumber>285</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=285</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos syndrome, hypermobility type</Name>
+                        <Name lang="en">Hypermobile Ehlers-Danlos syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1123,15 +1132,6 @@
                         <OrphaNumber>230851</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230851</ExpertLink>
                         <Name lang="en">Cardiac-valvular Ehlers-Danlos syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="19145">
-                        <OrphaNumber>230857</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
-                        <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

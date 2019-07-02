@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:56:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:56:10" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -8446,7 +8446,7 @@
                           <Disorder id="21252">
                             <OrphaNumber>306686</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306686</ExpertLink>
-                            <Name lang="en">Carbon monoxide-induced parkinsonism</Name>
+                            <Name lang="en">Delayed encephalopathy due to carbon monoxide poisoning</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8455,7 +8455,7 @@
                           <Disorder id="21253">
                             <OrphaNumber>306692</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306692</ExpertLink>
-                            <Name lang="en">Cyanide-induced parkinsonism</Name>
+                            <Name lang="en">Cyanide-induced parkinsonism-dystonia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -16028,7 +16028,7 @@
                   <Disorder id="12482">
                     <OrphaNumber>93921</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93921</ExpertLink>
-                    <Name lang="en">Neurofibromatosis type 3</Name>
+                    <Name lang="en">Schwannomatosis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -28124,7 +28124,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98464</ExpertLink>
                         <Name lang="en">X-linked syndromic intellectual disability</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="139">
+                      <ClassificationNodeChildList count="138">
                         <ClassificationNode>
                           <Disorder id="91">
                             <OrphaNumber>778</OrphaNumber>
@@ -28877,15 +28877,6 @@
                             <OrphaNumber>67045</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=67045</ExpertLink>
                             <Name lang="en">X-linked intellectual disability with isolated growth hormone deficiency</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11603">
-                            <OrphaNumber>83648</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=83648</ExpertLink>
-                            <Name lang="en">X-linked recessive intellectual disability-macrocephaly-ciliary dysfunction syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -31875,7 +31866,7 @@
                       <Disorder id="25849">
                         <OrphaNumber>496790</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496790</ExpertLink>
-                        <Name lang="en">Optic atrophy-peripheral neuropathy-developmental delay syndrome</Name>
+                        <Name lang="en">Ocular anomalies-axonal neuropathy-developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -39149,7 +39140,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269531</ExpertLink>
                         <Name lang="en">Other syndrome with a central nervous system malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="38">
+                      <ClassificationNodeChildList count="37">
                         <ClassificationNode>
                           <Disorder id="23446">
                             <OrphaNumber>443162</OrphaNumber>
@@ -39245,15 +39236,6 @@
                             <OrphaNumber>2065</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2065</ExpertLink>
                             <Name lang="en">Galloway-Mowat syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="1996">
-                            <OrphaNumber>2081</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2081</ExpertLink>
-                            <Name lang="en">Cerebral gigantism-jaw cysts syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -41681,7 +41663,7 @@
                               <Disorder id="25849">
                                 <OrphaNumber>496790</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496790</ExpertLink>
-                                <Name lang="en">Optic atrophy-peripheral neuropathy-developmental delay syndrome</Name>
+                                <Name lang="en">Ocular anomalies-axonal neuropathy-developmental delay syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

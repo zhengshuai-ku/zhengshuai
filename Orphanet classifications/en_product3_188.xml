@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:56:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:56:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1189,7 +1189,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93550</ExpertLink>
                     <Name lang="en">Basement membrane disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="19537">
                         <OrphaNumber>247691</OrphaNumber>
@@ -1205,7 +1205,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=63</ExpertLink>
                         <Name lang="en">Alport syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="11849">
                             <OrphaNumber>88917</OrphaNumber>
@@ -1233,15 +1233,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3650">
-                        <OrphaNumber>1018</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1018</ExpertLink>
-                        <Name lang="en">X-linked Alport syndrome-diffuse leiomyomatosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                        <ClassificationNode>
+                          <Disorder id="3650">
+                            <OrphaNumber>1018</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1018</ExpertLink>
+                            <Name lang="en">X-linked Alport syndrome-diffuse leiomyomatosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -2294,14 +2294,14 @@
                   <Disorder id="779">
                     <OrphaNumber>2134</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2134</ExpertLink>
-                    <Name lang="en">Atypical hemolytic-uremic syndrome</Name>
+                    <Name lang="en">Atypical hemolytic uremic syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="22195">
                         <OrphaNumber>357008</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=357008</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with DGKE deficiency</Name>
+                        <Name lang="en">Hemolytic uremic syndrome with DGKE deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2355,7 +2355,7 @@
                       <Disorder id="12421">
                         <OrphaNumber>93581</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93581</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with anti-factor H antibodies</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with anti-factor H antibodies</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

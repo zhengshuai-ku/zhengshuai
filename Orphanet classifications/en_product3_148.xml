@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-06-01 04:55:44" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-07-01 04:55:37" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -73,7 +73,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1081</ExpertLink>
                     <Name lang="en">Coronary artery congenital malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
                       <Disorder id="3443">
                         <OrphaNumber>2041</OrphaNumber>
@@ -90,69 +90,6 @@
                         <Name lang="en">Congenital coronary artery aneurysm</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12617">
-                        <OrphaNumber>95493</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95493</ExpertLink>
-                        <Name lang="en">Abnormal origin or aberrant course of coronary artery</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="6">
-                        <ClassificationNode>
-                          <Disorder id="14102">
-                            <OrphaNumber>99085</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99085</ExpertLink>
-                            <Name lang="en">Coronary artery intramyocardial course</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14103">
-                            <OrphaNumber>99086</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99086</ExpertLink>
-                            <Name lang="en">Aortopulmonary coronary arterial course</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14104">
-                            <OrphaNumber>99087</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99087</ExpertLink>
-                            <Name lang="en">Congenital stenosis or atresia of a coronary ostium</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14105">
-                            <OrphaNumber>99088</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99088</ExpertLink>
-                            <Name lang="en">Intramural coronary arterial course</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14106">
-                            <OrphaNumber>99089</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99089</ExpertLink>
-                            <Name lang="en">Abnormal number of coronary ostia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="14107">
-                            <OrphaNumber>99090</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99090</ExpertLink>
-                            <Name lang="en">Malposition of a coronary ostium</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -389,7 +326,7 @@
                               <Disorder id="14067">
                                 <OrphaNumber>99050</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99050</ExpertLink>
-                                <Name lang="en">Pulmonary artery coming from the aorta</Name>
+                                <Name lang="en">Abnormal origin of right or left pulmonary artery from the aorta</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1820,7 +1757,7 @@
                               <Disorder id="14140">
                                 <OrphaNumber>99123</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99123</ExpertLink>
-                                <Name lang="en">Inferior vena cava interruption</Name>
+                                <Name lang="en">Inferior vena cava interruption without azygos continuation</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
