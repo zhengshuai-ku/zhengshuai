@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:20" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:02" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -138,7 +138,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101939</ExpertLink>
                 <Name lang="en">Rare parenchymal liver disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="23">
+              <ClassificationNodeChildList count="26">
                 <ClassificationNode>
                   <Disorder id="11953">
                     <OrphaNumber>90062</OrphaNumber>
@@ -197,7 +197,7 @@
                   <Disorder id="11921">
                     <OrphaNumber>90003</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90003</ExpertLink>
-                    <Name lang="en">IgG4-related hepatopathy</Name>
+                    <Name lang="en">Inflammatory pseudotumor of the liver</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -311,6 +311,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="28017">
+                    <OrphaNumber>541423</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=541423</ExpertLink>
+                    <Name lang="en">Growth delay-intellectual disability-hepatopathy syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="23408">
                     <OrphaNumber>440427</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=440427</ExpertLink>
@@ -342,6 +351,24 @@
                     <OrphaNumber>217371</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217371</ExpertLink>
                     <Name lang="en">Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28105">
+                    <OrphaNumber>555434</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=555434</ExpertLink>
+                    <Name lang="en">Fibrohistiocytic inflammatory pseudotumor of the liver</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28106">
+                    <OrphaNumber>555437</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=555437</ExpertLink>
+                    <Name lang="en">Lymphoplasmacytic inflammatory pseudotumor of the liver</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

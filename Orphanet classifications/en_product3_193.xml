@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1806,7 +1806,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=177107</ExpertLink>
                             <Name lang="en">Syndromic hypothyroidism</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="10">
+                          <ClassificationNodeChildList count="11">
+                            <ClassificationNode>
+                              <Disorder id="2176">
+                                <OrphaNumber>2321</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2321</ExpertLink>
+                                <Name lang="en">Jung syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="558">
                                 <OrphaNumber>705</OrphaNumber>
@@ -6004,19 +6013,19 @@
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
-                          <Disorder id="14336">
-                            <OrphaNumber>99763</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99763</ExpertLink>
-                            <Name lang="en">Familial hyperreninemic hypoaldosteronism type 1</Name>
+                          <Disorder id="28123">
+                            <OrphaNumber>556030</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556030</ExpertLink>
+                            <Name lang="en">Early-onset familial hypoaldosteronism</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="14337">
-                            <OrphaNumber>99764</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99764</ExpertLink>
-                            <Name lang="en">Familial hyperreninemic hypoaldosteronism type 2</Name>
+                          <Disorder id="28124">
+                            <OrphaNumber>556037</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556037</ExpertLink>
+                            <Name lang="en">Late-onset familial hypoaldosteronism</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6286,7 +6295,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=177107</ExpertLink>
                                 <Name lang="en">Syndromic hypothyroidism</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="10">
+                              <ClassificationNodeChildList count="11">
+                                <ClassificationNode>
+                                  <Disorder id="2176">
+                                    <OrphaNumber>2321</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2321</ExpertLink>
+                                    <Name lang="en">Jung syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="558">
                                     <OrphaNumber>705</OrphaNumber>
@@ -6663,21 +6681,12 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101956</ExpertLink>
                 <Name lang="en">Polyendocrinopathy</Name>
               </Disorder>
-              <ClassificationNodeChildList count="9">
+              <ClassificationNodeChildList count="8">
                 <ClassificationNode>
                   <Disorder id="1471">
                     <OrphaNumber>1227</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1227</ExpertLink>
                     <Name lang="en">Bangstad syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="2445">
-                    <OrphaNumber>2676</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2676</ExpertLink>
-                    <Name lang="en">Neuroectodermal-endocrine syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -8207,7 +8216,7 @@
                   <Disorder id="22691">
                     <OrphaNumber>397685</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397685</ExpertLink>
-                    <Name lang="en">Familial  hyperprolactinemia</Name>
+                    <Name lang="en">Familial hyperprolactinemia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

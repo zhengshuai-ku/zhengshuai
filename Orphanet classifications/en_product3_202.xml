@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:48" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:30" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -396,7 +396,7 @@
                                   <Disorder id="17241">
                                     <OrphaNumber>158775</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158775</ExpertLink>
-                                    <Name lang="en">Smouldering systemic mastocytosis</Name>
+                                    <Name lang="en">Smoldering systemic mastocytosis</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1453,7 +1453,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98289</ExpertLink>
                                 <Name lang="en">Dendritic cell tumor</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="6">
+                              <ClassificationNodeChildList count="5">
                                 <ClassificationNode>
                                   <Disorder id="3768">
                                     <OrphaNumber>389</OrphaNumber>
@@ -1522,15 +1522,6 @@
                                     <OrphaNumber>86900</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86900</ExpertLink>
                                     <Name lang="en">Interdigitating dendritic cell sarcoma</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="11779">
-                                    <OrphaNumber>86902</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86902</ExpertLink>
-                                    <Name lang="en">Follicular dendritic cell sarcoma</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2960,7 +2951,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3394</ExpertLink>
                         <Name lang="en">Soft tissue sarcoma</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="19">
+                      <ClassificationNodeChildList count="20">
                         <ClassificationNode>
                           <Disorder id="24185">
                             <OrphaNumber>466962</OrphaNumber>
@@ -3227,6 +3218,15 @@
                             <OrphaNumber>370334</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=370334</ExpertLink>
                             <Name lang="en">Extraskeletal Ewing sarcoma</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11779">
+                            <OrphaNumber>86902</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86902</ExpertLink>
+                            <Name lang="en">Follicular dendritic cell sarcoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9397,39 +9397,12 @@
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>
-                          <Disorder id="3618">
-                            <OrphaNumber>160</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=160</ExpertLink>
-                            <Name lang="en">Castleman disease</Name>
+                          <Disorder id="12467">
+                            <OrphaNumber>93686</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93686</ExpertLink>
+                            <Name lang="en">Multicentric Castleman disease</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="12465">
-                                <OrphaNumber>93682</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93682</ExpertLink>
-                                <Name lang="en">Pediatric Castleman disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12466">
-                                <OrphaNumber>93685</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93685</ExpertLink>
-                                <Name lang="en">Localized Castleman disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12467">
-                                <OrphaNumber>93686</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93686</ExpertLink>
-                                <Name lang="en">Multicentric Castleman disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -10810,7 +10783,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238510</ExpertLink>
                     <Name lang="en">Lymphoproliferative syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="275">
                         <OrphaNumber>2442</OrphaNumber>
@@ -10915,6 +10888,15 @@
                         <OrphaNumber>538958</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=538958</ExpertLink>
                         <Name lang="en">Severe combined immunodeficiency due to CD70 deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28036">
+                        <OrphaNumber>542301</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542301</ExpertLink>
+                        <Name lang="en">Severe combined immunodeficiency due to CARMIL2 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

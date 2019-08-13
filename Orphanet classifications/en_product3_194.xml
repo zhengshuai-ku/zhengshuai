@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -65,7 +65,7 @@
                               <Disorder id="17241">
                                 <OrphaNumber>158775</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=158775</ExpertLink>
-                                <Name lang="en">Smouldering systemic mastocytosis</Name>
+                                <Name lang="en">Smoldering systemic mastocytosis</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1122,7 +1122,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98289</ExpertLink>
                             <Name lang="en">Dendritic cell tumor</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="5">
                             <ClassificationNode>
                               <Disorder id="3768">
                                 <OrphaNumber>389</OrphaNumber>
@@ -1191,15 +1191,6 @@
                                 <OrphaNumber>86900</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86900</ExpertLink>
                                 <Name lang="en">Interdigitating dendritic cell sarcoma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="11779">
-                                <OrphaNumber>86902</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86902</ExpertLink>
-                                <Name lang="en">Follicular dendritic cell sarcoma</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4295,7 +4286,7 @@
                               <Disorder id="12416">
                                 <OrphaNumber>93575</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93575</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with C3 anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with C3 anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4304,7 +4295,7 @@
                               <Disorder id="12417">
                                 <OrphaNumber>93576</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93576</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with MCP/CD46 anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with MCP/CD46 anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4313,7 +4304,7 @@
                               <Disorder id="12418">
                                 <OrphaNumber>93578</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93578</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with B factor anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with B factor anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4322,7 +4313,7 @@
                               <Disorder id="12419">
                                 <OrphaNumber>93579</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93579</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with H factor anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with H factor anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4331,7 +4322,7 @@
                               <Disorder id="12420">
                                 <OrphaNumber>93580</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93580</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with I factor anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with I factor anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4349,7 +4340,7 @@
                               <Disorder id="18810">
                                 <OrphaNumber>217023</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217023</ExpertLink>
-                                <Name lang="en">Atypical hemolytic-uremic syndrome with thrombomodulin anomaly</Name>
+                                <Name lang="en">Atypical hemolytic uremic syndrome with thrombomodulin anomaly</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

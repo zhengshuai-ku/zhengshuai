@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:09" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -748,7 +748,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79356</ExpertLink>
                     <Name lang="en">Acrokeratoderma</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
+                    <ClassificationNode>
+                      <Disorder id="14283">
+                        <OrphaNumber>99710</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99710</ExpertLink>
+                        <Name lang="en">Punctate acrokeratoderma freckle-like pigmentation</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="3012">
                         <OrphaNumber>3417</OrphaNumber>
@@ -2415,7 +2424,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79362</ExpertLink>
                 <Name lang="en">Epidermal appendage anomaly</Name>
               </Disorder>
-              <ClassificationNodeChildList count="4">
+              <ClassificationNodeChildList count="5">
                 <ClassificationNode>
                   <Disorder id="11389">
                     <OrphaNumber>79363</OrphaNumber>
@@ -3349,12 +3358,12 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="111">
+                  <ClassificationNodeChildList count="112">
                     <ClassificationNode>
                       <Disorder id="3069">
                         <OrphaNumber>3200</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3200</ExpertLink>
-                        <Name lang="en">Arthrogryposis-ectodermal dysplasia-other anomalies syndrome</Name>
+                        <Name lang="en">Arthrogryposis-ectodermal dysplasia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4512,6 +4521,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="2020">
+                        <OrphaNumber>2109</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2109</ExpertLink>
+                        <Name lang="en">Hallermann-Streiff-like syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="20838">
                         <OrphaNumber>293165</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293165</ExpertLink>
@@ -4538,6 +4556,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28056">
+                    <OrphaNumber>542657</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542657</ExpertLink>
+                    <Name lang="en">Isolated hyperchlorhidrosis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -5977,7 +6004,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79379</ExpertLink>
                     <Name lang="en">Skin vascular disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="22">
+                  <ClassificationNodeChildList count="23">
                     <ClassificationNode>
                       <Disorder id="25239">
                         <OrphaNumber>481662</OrphaNumber>
@@ -6194,6 +6221,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28055">
+                        <OrphaNumber>542643</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542643</ExpertLink>
+                        <Name lang="en">Livedoid vasculopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -6202,7 +6238,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79380</ExpertLink>
                     <Name lang="en">Mixed dermis disorder</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="9">
                     <ClassificationNode>
                       <Disorder id="660">
                         <OrphaNumber>805</OrphaNumber>
@@ -6226,15 +6262,6 @@
                         <OrphaNumber>1003</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1003</ExpertLink>
                         <Name lang="en">Scalp defects-postaxial polydactyly syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="1396">
-                        <OrphaNumber>1115</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1115</ExpertLink>
-                        <Name lang="en">Recessive aplasia cutis congenita of limbs</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6301,7 +6328,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79381</ExpertLink>
                     <Name lang="en">Other dermis disorder</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="15">
+                  <ClassificationNodeChildList count="16">
                     <ClassificationNode>
                       <Disorder id="474">
                         <OrphaNumber>1764</OrphaNumber>
@@ -6606,6 +6633,15 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28053">
+                        <OrphaNumber>542592</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542592</ExpertLink>
+                        <Name lang="en">Necrobiosis lipoidica</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -8931,7 +8967,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79389</ExpertLink>
                 <Name lang="en">Premature aging</Name>
               </Disorder>
-              <ClassificationNodeChildList count="16">
+              <ClassificationNodeChildList count="17">
+                <ClassificationNode>
+                  <Disorder id="2020">
+                    <OrphaNumber>2109</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2109</ExpertLink>
+                    <Name lang="en">Hallermann-Streiff-like syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="638">
                     <OrphaNumber>191</OrphaNumber>
@@ -10495,7 +10540,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79669</ExpertLink>
                     <Name lang="en">Autoimmune bullous skin disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="10">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="808">
                         <OrphaNumber>704</OrphaNumber>
@@ -10609,6 +10654,15 @@
                         <OrphaNumber>63455</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=63455</ExpertLink>
                         <Name lang="en">Paraneoplastic pemphigus</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28120">
+                        <OrphaNumber>555905</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=555905</ExpertLink>
+                        <Name lang="en">IgA pemphigus</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:45" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:27" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -55,7 +55,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90642</ExpertLink>
                     <Name lang="en">Syndromic genetic deafness</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="176">
+                  <ClassificationNodeChildList count="180">
+                    <ClassificationNode>
+                      <Disorder id="27595">
+                        <OrphaNumber>529574</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=529574</ExpertLink>
+                        <Name lang="en">Duane retraction syndrome with congenital deafness</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="26568">
                         <OrphaNumber>508476</OrphaNumber>
@@ -1020,6 +1029,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="28085">
+                        <OrphaNumber>544503</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544503</ExpertLink>
+                        <Name lang="en">RNF13-related severe early-onset epileptic encephalopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="22690">
                         <OrphaNumber>397623</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397623</ExpertLink>
@@ -1888,6 +1906,24 @@
                         <OrphaNumber>488232</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=488232</ExpertLink>
                         <Name lang="en">Split-foot malformation-mesoaxial polydactyly syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28052">
+                        <OrphaNumber>542585</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542585</ExpertLink>
+                        <Name lang="en">Auditory neuropathy-optic atrophy syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28061">
+                        <OrphaNumber>543470</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=543470</ExpertLink>
+                        <Name lang="en">Optic atrophy-ataxia-peripheral neuropathy-global developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3705,7 +3741,7 @@
                       <Disorder id="1071">
                         <OrphaNumber>1358</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1358</ExpertLink>
-                        <Name lang="en">Carey-Fineman-Ziter  syndrome</Name>
+                        <Name lang="en">Carey-Fineman-Ziter syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:11" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1921,7 +1921,7 @@
                           <Disorder id="21947">
                             <OrphaNumber>329918</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329918</ExpertLink>
-                            <Name lang="en">Non-immunoglobulin-mediated membranoproliferative glomerulonephritis</Name>
+                            <Name lang="en">C3 glomerulopathy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
@@ -2310,7 +2310,7 @@
                       <Disorder id="12416">
                         <OrphaNumber>93575</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93575</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with C3 anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with C3 anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2319,7 +2319,7 @@
                       <Disorder id="12417">
                         <OrphaNumber>93576</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93576</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with MCP/CD46 anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with MCP/CD46 anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2328,7 +2328,7 @@
                       <Disorder id="12418">
                         <OrphaNumber>93578</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93578</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with B factor anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with B factor anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2337,7 +2337,7 @@
                       <Disorder id="12419">
                         <OrphaNumber>93579</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93579</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with H factor anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with H factor anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2346,7 +2346,7 @@
                       <Disorder id="12420">
                         <OrphaNumber>93580</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93580</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with I factor anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with I factor anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2364,7 +2364,7 @@
                       <Disorder id="18810">
                         <OrphaNumber>217023</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217023</ExpertLink>
-                        <Name lang="en">Atypical hemolytic-uremic syndrome with thrombomodulin anomaly</Name>
+                        <Name lang="en">Atypical hemolytic uremic syndrome with thrombomodulin anomaly</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2541,7 +2541,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93593</ExpertLink>
                 <Name lang="en">Nephropathy secondary to a storage or other metabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="30">
+              <ClassificationNodeChildList count="29">
                 <ClassificationNode>
                   <Disorder id="94">
                     <OrphaNumber>324</OrphaNumber>
@@ -2646,15 +2646,6 @@
                     <OrphaNumber>469</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=469</ExpertLink>
                     <Name lang="en">Hereditary fructose intolerance</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="600">
-                    <OrphaNumber>3390</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3390</ExpertLink>
-                    <Name lang="en">Proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

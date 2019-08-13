@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:55:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:56:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2958,7 +2958,7 @@
                       <Disorder id="11805">
                         <OrphaNumber>88618</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88618</ExpertLink>
-                        <Name lang="en">Psychomotor retardation due to S-adenosylhomocysteine hydrolase deficiency</Name>
+                        <Name lang="en">Psychomotor delay due to S-adenosylhomocysteine hydrolase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3140,12 +3140,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289869</ExpertLink>
                         <Name lang="en">Disorder of ornithine metabolism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="1">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="3349">
                             <OrphaNumber>414</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=414</ExpertLink>
                             <Name lang="en">Gyrate atrophy of choroid and retina</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28083">
+                            <OrphaNumber>544488</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544488</ExpertLink>
+                            <Name lang="en">Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3673,7 +3682,25 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289841</ExpertLink>
                     <Name lang="en">Disorder of glutamine metabolism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="1">
+                  <ClassificationNodeChildList count="3">
+                    <ClassificationNode>
+                      <Disorder id="28141">
+                        <OrphaNumber>557056</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557056</ExpertLink>
+                        <Name lang="en">Spastic ataxia-dysarthria due to glutaminase deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28142">
+                        <OrphaNumber>557064</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557064</ExpertLink>
+                        <Name lang="en">Neonatal epileptic encephalopathy due to glutaminase deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="11000">
                         <OrphaNumber>71278</OrphaNumber>
@@ -5980,7 +6007,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=309136</ExpertLink>
                                 <Name lang="en">Mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="8">
+                              <ClassificationNodeChildList count="10">
+                                <ClassificationNode>
+                                  <Disorder id="28061">
+                                    <OrphaNumber>543470</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=543470</ExpertLink>
+                                    <Name lang="en">Optic atrophy-ataxia-peripheral neuropathy-global developmental delay syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="5015">
                                     <OrphaNumber>1194</OrphaNumber>
@@ -6103,6 +6139,15 @@
                                     <OrphaNumber>397593</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397593</ExpertLink>
                                     <Name lang="en">Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28052">
+                                    <OrphaNumber>542585</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542585</ExpertLink>
+                                    <Name lang="en">Auditory neuropathy-optic atrophy syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6628,16 +6673,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254793</ExpertLink>
                                 <Name lang="en">Mitochondrial oxidative phosphorylation disorder due to a duplication of mitochondrial DNA</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="600">
-                                    <OrphaNumber>3390</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3390</ExpertLink>
-                                    <Name lang="en">Proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -7977,7 +8013,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91088</ExpertLink>
                 <Name lang="en">Other metabolic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="7">
+              <ClassificationNodeChildList count="9">
                 <ClassificationNode>
                   <Disorder id="194">
                     <OrphaNumber>60</OrphaNumber>
@@ -8037,6 +8073,24 @@
                     <OrphaNumber>404454</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404454</ExpertLink>
                     <Name lang="en">Alacrimia-choreoathetosis-liver dysfunction syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28103">
+                    <OrphaNumber>555402</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=555402</ExpertLink>
+                    <Name lang="en">NAD(P)HX dehydratase deficiency</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28104">
+                    <OrphaNumber>555407</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=555407</ExpertLink>
+                    <Name lang="en">NAD(P)HX epimerase deficiency</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

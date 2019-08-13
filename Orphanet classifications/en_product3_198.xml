@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-07-01 04:56:41" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-08-01 04:57:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -235,7 +235,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=496924</ExpertLink>
                     <Name lang="en">Non-inflammatory vasculopathy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="8">
+                    <ClassificationNode>
+                      <Disorder id="28055">
+                        <OrphaNumber>542643</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542643</ExpertLink>
+                        <Name lang="en">Livedoid vasculopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="1762">
                         <OrphaNumber>1682</OrphaNumber>
@@ -1115,6 +1124,15 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
+                              <Disorder id="28051">
+                                <OrphaNumber>542568</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542568</ExpertLink>
+                                <Name lang="en">Quadricuspid aortic valve</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
                               <Disorder id="3435">
                                 <OrphaNumber>1457</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1457</ExpertLink>
@@ -1197,7 +1215,7 @@
                                   <Disorder id="12595">
                                     <OrphaNumber>95448</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95448</ExpertLink>
-                                    <Name lang="en">Aortic valve atresia</Name>
+                                    <Name lang="en">Congenital aortic valve atresia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1206,20 +1224,11 @@
                                   <Disorder id="14754">
                                     <OrphaNumber>101043</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101043</ExpertLink>
-                                    <Name lang="en">Aortic valve dysplasia</Name>
+                                    <Name lang="en">Congenital aortic valve dysplasia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12596">
-                                <OrphaNumber>95449</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95449</ExpertLink>
-                                <Name lang="en">Congenital aortic valve insufficiency</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -1377,7 +1386,7 @@
                                   <Disorder id="12595">
                                     <OrphaNumber>95448</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95448</ExpertLink>
-                                    <Name lang="en">Aortic valve atresia</Name>
+                                    <Name lang="en">Congenital aortic valve atresia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -1386,7 +1395,7 @@
                                   <Disorder id="14754">
                                     <OrphaNumber>101043</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101043</ExpertLink>
-                                    <Name lang="en">Aortic valve dysplasia</Name>
+                                    <Name lang="en">Congenital aortic valve dysplasia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
