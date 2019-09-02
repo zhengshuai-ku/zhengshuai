@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-08-01 04:57:11" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-09-01 04:57:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -93,15 +93,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="2076">
-                        <OrphaNumber>2190</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2190</ExpertLink>
-                        <Name lang="en">Congenital hydronephrosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="2726">
                         <OrphaNumber>3033</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3033</ExpertLink>
@@ -170,7 +161,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=617</ExpertLink>
                         <Name lang="en">Congenital primary megaureter</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="19288">
                             <OrphaNumber>238642</OrphaNumber>
@@ -203,6 +194,15 @@
                             <OrphaNumber>238654</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238654</ExpertLink>
                             <Name lang="en">Congenital primary megaureter, nonrefluxing and unobstructed form</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28089">
+                            <OrphaNumber>544578</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544578</ExpertLink>
+                            <Name lang="en">Congenital primary megaureter, refluxing and obstructed form</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -416,6 +416,15 @@
                         </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20715">
+                        <OrphaNumber>289365</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289365</ExpertLink>
+                        <Name lang="en">Familial vesicoureteral reflux</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -424,7 +433,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93547</ExpertLink>
                     <Name lang="en">Syndromic renal or urinary tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="65">
+                  <ClassificationNodeChildList count="64">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -1047,15 +1056,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="3224">
-                        <OrphaNumber>1849</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1849</ExpertLink>
-                        <Name lang="en">Infundibulopelvic stenosis-multicystic kidney syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="3495">
                         <OrphaNumber>3411</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3411</ExpertLink>
@@ -1086,7 +1086,7 @@
                       <Disorder id="12168">
                         <OrphaNumber>93111</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93111</ExpertLink>
-                        <Name lang="en">Renal cysts and diabetes syndrome</Name>
+                        <Name lang="en">HNF1B-related autosomal dominant tubulointerstitial kidney disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1183,96 +1183,6 @@
                 <Name lang="en">Glomerular disease</Name>
               </Disorder>
               <ClassificationNodeChildList count="3">
-                <ClassificationNode>
-                  <Disorder id="12392">
-                    <OrphaNumber>93550</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93550</ExpertLink>
-                    <Name lang="en">Basement membrane disease</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="5">
-                    <ClassificationNode>
-                      <Disorder id="19537">
-                        <OrphaNumber>247691</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247691</ExpertLink>
-                        <Name lang="en">Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="630">
-                        <OrphaNumber>63</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=63</ExpertLink>
-                        <Name lang="en">Alport syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="11849">
-                            <OrphaNumber>88917</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88917</ExpertLink>
-                            <Name lang="en">X-linked Alport syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11850">
-                            <OrphaNumber>88918</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88918</ExpertLink>
-                            <Name lang="en">Autosomal dominant Alport syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11851">
-                            <OrphaNumber>88919</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88919</ExpertLink>
-                            <Name lang="en">Autosomal recessive Alport syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3650">
-                            <OrphaNumber>1018</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1018</ExpertLink>
-                            <Name lang="en">X-linked Alport syndrome-diffuse leiomyomatosis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11037">
-                        <OrphaNumber>73229</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=73229</ExpertLink>
-                        <Name lang="en">HANAC syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21112">
-                        <OrphaNumber>300333</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300333</ExpertLink>
-                        <Name lang="en">Nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="21219">
-                        <OrphaNumber>306504</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
-                        <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="12393">
                     <OrphaNumber>93551</OrphaNumber>
@@ -1837,7 +1747,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102373</ExpertLink>
                     <Name lang="en">Primary glomerular disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="20">
+                  <ClassificationNodeChildList count="19">
                     <ClassificationNode>
                       <Disorder id="392">
                         <OrphaNumber>2614</OrphaNumber>
@@ -2055,15 +1965,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="20475">
-                        <OrphaNumber>280569</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280569</ExpertLink>
-                        <Name lang="en">Rapidly progressive glomerulonephritis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="21939">
                         <OrphaNumber>329481</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329481</ExpertLink>
@@ -2227,6 +2128,69 @@
                     </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28090">
+                    <OrphaNumber>544590</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544590</ExpertLink>
+                    <Name lang="en">Collagen-related glomerular basement membrane disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="630">
+                        <OrphaNumber>63</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=63</ExpertLink>
+                        <Name lang="en">Alport syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="11849">
+                            <OrphaNumber>88917</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88917</ExpertLink>
+                            <Name lang="en">X-linked Alport syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11850">
+                            <OrphaNumber>88918</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88918</ExpertLink>
+                            <Name lang="en">Autosomal dominant Alport syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11851">
+                            <OrphaNumber>88919</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=88919</ExpertLink>
+                            <Name lang="en">Autosomal recessive Alport syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3650">
+                            <OrphaNumber>1018</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1018</ExpertLink>
+                            <Name lang="en">X-linked Alport syndrome-diffuse leiomyomatosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11037">
+                        <OrphaNumber>73229</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=73229</ExpertLink>
+                        <Name lang="en">HANAC syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -2235,7 +2199,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93573</ExpertLink>
                 <Name lang="en">Thrombotic microangiopathy</Name>
               </Disorder>
-              <ClassificationNodeChildList count="6">
+              <ClassificationNodeChildList count="4">
                 <ClassificationNode>
                   <Disorder id="10746">
                     <OrphaNumber>54057</OrphaNumber>
@@ -2264,15 +2228,6 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="11935">
-                    <OrphaNumber>90038</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90038</ExpertLink>
-                    <Name lang="en">Shiga toxin-associated hemolytic uremic syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="12394">
                     <OrphaNumber>93552</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93552</ExpertLink>
@@ -2291,12 +2246,66 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="779">
-                    <OrphaNumber>2134</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2134</ExpertLink>
-                    <Name lang="en">Atypical hemolytic uremic syndrome</Name>
+                  <Disorder id="28079">
+                    <OrphaNumber>544458</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544458</ExpertLink>
+                    <Name lang="en">Hemolytic uremic syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="4">
+                    <ClassificationNode>
+                      <Disorder id="28082">
+                        <OrphaNumber>544482</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544482</ExpertLink>
+                        <Name lang="en">Infection-related hemolytic uremic syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="11935">
+                            <OrphaNumber>90038</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90038</ExpertLink>
+                            <Name lang="en">Shiga toxin-associated hemolytic uremic syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28084">
+                            <OrphaNumber>544493</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544493</ExpertLink>
+                            <Name lang="en">Streptococcus pneumoniae-associated hemolytic uremic syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="779">
+                        <OrphaNumber>2134</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2134</ExpertLink>
+                        <Name lang="en">Atypical hemolytic uremic syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="12421">
+                            <OrphaNumber>93581</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93581</ExpertLink>
+                            <Name lang="en">Atypical hemolytic uremic syndrome with anti-factor H antibodies</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28081">
+                            <OrphaNumber>544472</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544472</ExpertLink>
+                            <Name lang="en">Atypical hemolytic uremic syndrome with complement gene abnormality</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="22195">
                         <OrphaNumber>357008</OrphaNumber>
@@ -2307,77 +2316,14 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="12416">
-                        <OrphaNumber>93575</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93575</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with C3 anomaly</Name>
+                      <Disorder id="11308">
+                        <OrphaNumber>79282</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79282</ExpertLink>
+                        <Name lang="en">Methylmalonic acidemia with homocystinuria, type cblC</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12417">
-                        <OrphaNumber>93576</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93576</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with MCP/CD46 anomaly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12418">
-                        <OrphaNumber>93578</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93578</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with B factor anomaly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12419">
-                        <OrphaNumber>93579</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93579</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with H factor anomaly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12420">
-                        <OrphaNumber>93580</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93580</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with I factor anomaly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12421">
-                        <OrphaNumber>93581</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93581</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with anti-factor H antibodies</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="18810">
-                        <OrphaNumber>217023</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217023</ExpertLink>
-                        <Name lang="en">Atypical hemolytic uremic syndrome with thrombomodulin anomaly</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="3351">
-                    <OrphaNumber>2170</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2170</ExpertLink>
-                    <Name lang="en">Methylcobalamin deficiency type cblG</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -2388,7 +2334,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93587</ExpertLink>
                 <Name lang="en">Familial cystic renal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="16">
+              <ClassificationNodeChildList count="15">
                 <ClassificationNode>
                   <Disorder id="97">
                     <OrphaNumber>731</OrphaNumber>
@@ -2475,15 +2421,6 @@
                     <OrphaNumber>294415</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294415</ExpertLink>
                     <Name lang="en">Renal-hepatic-pancreatic dysplasia</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="18663">
-                    <OrphaNumber>209886</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=209886</ExpertLink>
-                    <Name lang="en">Familial juvenile hyperuricemic nephropathy type 1</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3189,12 +3126,21 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93603</ExpertLink>
                 <Name lang="en">Rare renal tubular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="36">
+              <ClassificationNodeChildList count="40">
                 <ClassificationNode>
                   <Disorder id="1587">
                     <OrphaNumber>1380</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1380</ExpertLink>
                     <Name lang="en">Cataract-nephropathy-encephalopathy syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="22076">
+                    <OrphaNumber>352540</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352540</ExpertLink>
+                    <Name lang="en">Oncogenic osteomalacia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3240,6 +3186,24 @@
                     <OrphaNumber>140976</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140976</ExpertLink>
                     <Name lang="en">RHYNS syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="12113">
+                    <OrphaNumber>91136</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91136</ExpertLink>
+                    <Name lang="en">Acquired monoclonal Ig light chain-associated Fanconi syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28092">
+                    <OrphaNumber>544628</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544628</ExpertLink>
+                    <Name lang="en">Atypical Fanconi syndrome-neonatal hyperinsulinism syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -3646,7 +3610,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34149</ExpertLink>
                     <Name lang="en">Autosomal dominant tubulointerstitial kidney disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
+                    <ClassificationNode>
+                      <Disorder id="12168">
+                        <OrphaNumber>93111</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93111</ExpertLink>
+                        <Name lang="en">HNF1B-related autosomal dominant tubulointerstitial kidney disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="11881">
                         <OrphaNumber>88949</OrphaNumber>
@@ -3947,6 +3920,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="823">
+                    <OrphaNumber>730</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=730</ExpertLink>
+                    <Name lang="en">Autosomal dominant polycystic kidney disease</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="283">
                     <OrphaNumber>474</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=474</ExpertLink>
@@ -4035,7 +4017,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93614</ExpertLink>
                 <Name lang="en">Hematological disorder with renal involvement</Name>
               </Disorder>
-              <ClassificationNodeChildList count="4">
+              <ClassificationNodeChildList count="3">
                 <ClassificationNode>
                   <Disorder id="51">
                     <OrphaNumber>848</OrphaNumber>
@@ -4090,15 +4072,6 @@
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="12113">
-                    <OrphaNumber>91136</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91136</ExpertLink>
-                    <Name lang="en">Acquired monoclonal Ig light chain-associated Fanconi syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -4130,9 +4103,9 @@
                   <Disorder id="17131">
                     <OrphaNumber>156629</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156629</ExpertLink>
-                    <Name lang="en">Genetic hypertension</Name>
+                    <Name lang="en">Rare genetic cause of hypertension</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="12">
+                  <ClassificationNodeChildList count="13">
                     <ClassificationNode>
                       <Disorder id="145">
                         <OrphaNumber>904</OrphaNumber>
@@ -4302,6 +4275,33 @@
                         <Name lang="en">Familial gestational hyperthyroidism</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="8739">
+                        <OrphaNumber>756</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=756</ExpertLink>
+                        <Name lang="en">Pseudohypoaldosteronism type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="17947">
+                            <OrphaNumber>171871</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171871</ExpertLink>
+                            <Name lang="en">Renal pseudohypoaldosteronism type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="17948">
+                            <OrphaNumber>171876</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171876</ExpertLink>
+                            <Name lang="en">Generalized pseudohypoaldosteronism type 1</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-08-01 04:56:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-09-01 04:57:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -256,7 +256,7 @@
                           <Disorder id="20841">
                             <OrphaNumber>293181</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293181</ExpertLink>
-                            <Name lang="en">Malignant migrating partial seizures of infancy</Name>
+                            <Name lang="en">Malignant migrating focal seizures of infancy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -578,7 +578,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
+                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1343,7 +1343,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
+                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2468,7 +2468,7 @@
                               <Disorder id="13801">
                                 <OrphaNumber>98784</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                                <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
+                                <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2551,7 +2551,7 @@
                           <Disorder id="20841">
                             <OrphaNumber>293181</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293181</ExpertLink>
-                            <Name lang="en">Malignant migrating partial seizures of infancy</Name>
+                            <Name lang="en">Malignant migrating focal seizures of infancy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2947,7 +2947,7 @@
                           <Disorder id="13801">
                             <OrphaNumber>98784</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98784</ExpertLink>
-                            <Name lang="en">Autosomal dominant sleep-related hypermotor epilepsy</Name>
+                            <Name lang="en">Autosomal dominant nocturnal frontal lobe epilepsy</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -28005,7 +28005,7 @@
                       <Disorder id="10630">
                         <OrphaNumber>48652</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=48652</ExpertLink>
-                        <Name lang="en">Monosomy 22q13</Name>
+                        <Name lang="en">Monosomy 22q13.3</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

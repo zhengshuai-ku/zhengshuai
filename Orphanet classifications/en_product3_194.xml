@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-08-01 04:57:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-09-01 04:57:37" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -85,7 +85,7 @@
                           <Disorder id="13866">
                             <OrphaNumber>98849</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98849</ExpertLink>
-                            <Name lang="en">Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease</Name>
+                            <Name lang="en">Systemic mastocytosis with associated hematologic neoplasm</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4267,12 +4267,66 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="779">
-                            <OrphaNumber>2134</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2134</ExpertLink>
-                            <Name lang="en">Atypical hemolytic uremic syndrome</Name>
+                          <Disorder id="28079">
+                            <OrphaNumber>544458</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544458</ExpertLink>
+                            <Name lang="en">Hemolytic uremic syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="8">
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="28082">
+                                <OrphaNumber>544482</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544482</ExpertLink>
+                                <Name lang="en">Infection-related hemolytic uremic syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="11935">
+                                    <OrphaNumber>90038</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90038</ExpertLink>
+                                    <Name lang="en">Shiga toxin-associated hemolytic uremic syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28084">
+                                    <OrphaNumber>544493</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544493</ExpertLink>
+                                    <Name lang="en">Streptococcus pneumoniae-associated hemolytic uremic syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="779">
+                                <OrphaNumber>2134</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2134</ExpertLink>
+                                <Name lang="en">Atypical hemolytic uremic syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="12421">
+                                    <OrphaNumber>93581</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93581</ExpertLink>
+                                    <Name lang="en">Atypical hemolytic uremic syndrome with anti-factor H antibodies</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28081">
+                                    <OrphaNumber>544472</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544472</ExpertLink>
+                                    <Name lang="en">Atypical hemolytic uremic syndrome with complement gene abnormality</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="22195">
                                 <OrphaNumber>357008</OrphaNumber>
@@ -4283,64 +4337,10 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="12416">
-                                <OrphaNumber>93575</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93575</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with C3 anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12417">
-                                <OrphaNumber>93576</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93576</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with MCP/CD46 anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12418">
-                                <OrphaNumber>93578</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93578</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with B factor anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12419">
-                                <OrphaNumber>93579</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93579</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with H factor anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12420">
-                                <OrphaNumber>93580</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93580</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with I factor anomaly</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12421">
-                                <OrphaNumber>93581</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93581</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with anti-factor H antibodies</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="18810">
-                                <OrphaNumber>217023</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217023</ExpertLink>
-                                <Name lang="en">Atypical hemolytic uremic syndrome with thrombomodulin anomaly</Name>
+                              <Disorder id="11308">
+                                <OrphaNumber>79282</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79282</ExpertLink>
+                                <Name lang="en">Methylmalonic acidemia with homocystinuria, type cblC</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -4724,21 +4724,12 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182047</ExpertLink>
                         <Name lang="en">Rare acquired hemolytic anemia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="4">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="21">
                             <OrphaNumber>447</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=447</ExpertLink>
                             <Name lang="en">Paroxysmal nocturnal hemoglobinuria</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11935">
-                            <OrphaNumber>90038</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90038</ExpertLink>
-                            <Name lang="en">Shiga toxin-associated hemolytic uremic syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
