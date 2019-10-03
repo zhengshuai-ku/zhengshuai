@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-09-01 04:57:56" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-10-01 04:59:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -21,7 +21,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521132</ExpertLink>
                 <Name lang="en">Radiation-induced disorder</Name>
               </Disorder>
-              <ClassificationNodeChildList count="2">
+              <ClassificationNodeChildList count="5">
                 <ClassificationNode>
                   <Disorder id="27315">
                     <OrphaNumber>521127</OrphaNumber>
@@ -36,6 +36,33 @@
                     <OrphaNumber>521123</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=521123</ExpertLink>
                     <Name lang="en">Radiation-induced plexopathy</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="11923">
+                    <OrphaNumber>90021</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90021</ExpertLink>
+                    <Name lang="en">Radiation myelitis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="10948">
+                    <OrphaNumber>70475</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=70475</ExpertLink>
+                    <Name lang="en">Radiation proctitis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="17567">
+                    <OrphaNumber>164726</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=164726</ExpertLink>
+                    <Name lang="en">Acute myeloid leukemia and myelodysplastic syndromes related to radiation</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

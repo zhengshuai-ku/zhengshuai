@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-09-01 04:11:20" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-10-01 04:11:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3673">
+  <HPODisorderSetStatusList count="3714">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -30019,7 +30019,7 @@
     <HPODisorderSetStatus id="2964">
       <Disorder id="3444">
         <OrphaNumber>422</OrphaNumber>
-        <Name lang="en">Idiopathic and/or familial pulmonary arterial hypertension</Name>
+        <Name lang="en">Idiopathic/heritable pulmonary arterial hypertension</Name>
       </Disorder>
       <Source>20301658[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37704,6 +37704,28 @@
       <CreationDate>2018-11-07 14:25:13.463</CreationDate>
       <UpdateDate>2018-11-07 14:25:13.463</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3826">
+      <Disorder id="22621">
+        <OrphaNumber>391417</OrphaNumber>
+        <Name lang="en">HSD10 disease</Name>
+      </Disorder>
+      <Source>27295195[PMID]_26950678[PMID]_22132097[PMID]_16148061[PMID]_14729408[PMID]_12555940[PMID]_11102558[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 10:06:43.31</CreationDate>
+      <UpdateDate>2019-09-10 10:06:43.31</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3827">
+      <Disorder id="22707">
+        <OrphaNumber>397933</OrphaNumber>
+        <Name lang="en">Severe intellectual disability-progressive postnatal microcephaly-midline stereotypic hand movements syndrome</Name>
+      </Disorder>
+      <Source>28815955[PMID]_27010919[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 12:01:08.663</CreationDate>
+      <UpdateDate>2019-09-10 12:01:08.663</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3824">
       <Disorder id="21774">
         <OrphaNumber>324410</OrphaNumber>
@@ -37714,6 +37736,149 @@
       <Online>y</Online>
       <CreationDate>2019-08-16 16:52:26.98</CreationDate>
       <UpdateDate>2019-08-16 16:52:26.98</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3825">
+      <Disorder id="22360">
+        <OrphaNumber>364028</OrphaNumber>
+        <Name lang="en">X-linked intellectual disability due to GRIA3 mutations</Name>
+      </Disorder>
+      <Source>22124977[PMID]_23637084[PMID]_24721225[PMID]_19449417[PMID]_17989220[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-09 15:14:34.896</CreationDate>
+      <UpdateDate>2019-09-09 15:14:34.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3830">
+      <Disorder id="24169">
+        <OrphaNumber>466791</OrphaNumber>
+        <Name lang="en">Macrocephaly-intellectual disability-left ventricular non compaction syndrome</Name>
+      </Disorder>
+      <Source>30773818[PMID]_27550220[PMID]_27329731[PMID]_26571461[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-11 12:13:26.483</CreationDate>
+      <UpdateDate>2019-09-11 12:13:26.483</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3831">
+      <Disorder id="25228">
+        <OrphaNumber>480880</OrphaNumber>
+        <Name lang="en">X-linked female restricted facial dysmorphism-short stature-choanal atresia-intellectual disability</Name>
+      </Disorder>
+      <Source>28377321[PMID]_30828969[PMID]_24690944[PMID]_26833328[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-11 17:07:16.303</CreationDate>
+      <UpdateDate>2019-09-11 17:07:16.303</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3828">
+      <Disorder id="23678">
+        <OrphaNumber>456328</OrphaNumber>
+        <Name lang="en">X-linked myotubular myopathy-abnormal genitalia syndrome</Name>
+      </Disorder>
+      <Source>10449925[PMID]_8789451[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 14:50:18.753</CreationDate>
+      <UpdateDate>2019-09-10 14:50:18.753</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3829">
+      <Disorder id="23714">
+        <OrphaNumber>457240</OrphaNumber>
+        <Name lang="en">X-linked intellectual disability-short stature-overweight syndrome</Name>
+      </Disorder>
+      <Source>26166480[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 16:39:48.686</CreationDate>
+      <UpdateDate>2019-09-10 16:39:48.686</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3834">
+      <Disorder id="17604">
+        <OrphaNumber>166035</OrphaNumber>
+        <Name lang="en">Brachydactyly-short stature-retinitis pigmentosa syndrome</Name>
+      </Disorder>
+      <Source>7252997[PMID]_10420199[PMID]_28285769[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 17:49:44.783</CreationDate>
+      <UpdateDate>2019-09-12 17:49:44.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3835">
+      <Disorder id="17776">
+        <OrphaNumber>168577</OrphaNumber>
+        <Name lang="en">Hereditary cryohydrocytosis with reduced stomatin</Name>
+      </Disorder>
+      <Source>7174793[PMID]_21791420[PMID]_15071792[PMID]_22492876[PMID]_15180870[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 10:44:32.443</CreationDate>
+      <UpdateDate>2019-09-13 10:44:32.443</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3832">
+      <Disorder id="25230">
+        <OrphaNumber>480907</OrphaNumber>
+        <Name lang="en">X-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome</Name>
+      </Disorder>
+      <Source>30805980[PMID]_26637982[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 11:36:45.443</CreationDate>
+      <UpdateDate>2019-09-12 11:36:45.443</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3833">
+      <Disorder id="25306">
+        <OrphaNumber>485350</OrphaNumber>
+        <Name lang="en">CLCN4-related X-linked intellectual disability syndrome</Name>
+      </Disorder>
+      <Source>27550844[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 15:02:13.646</CreationDate>
+      <UpdateDate>2019-09-12 15:02:13.646</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3838">
+      <Disorder id="1726">
+        <OrphaNumber>382</OrphaNumber>
+        <Name lang="en">Guanidinoacetate methyltransferase deficiency</Name>
+      </Disorder>
+      <Source>78088440[PMID]_8651275[PMID]_9386672[PMID]_15651030[PMID]_20301745[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 15:59:17.726</CreationDate>
+      <UpdateDate>2019-09-13 15:59:17.726</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3839">
+      <Disorder id="16739">
+        <OrphaNumber>137898</OrphaNumber>
+        <Name lang="en">Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome</Name>
+      </Disorder>
+      <Source>20506600[PMID]_24566671[PMID]_28431594[PMID]_30352563[PMID]_30635318[PMID]_21815884[PMID]_19592391[PMID]_16788019[PMID]_15002045[PMID]_15326244[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 12:00:57.283</CreationDate>
+      <UpdateDate>2019-09-16 12:00:57.283</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3836">
+      <Disorder id="17930">
+        <OrphaNumber>171703</OrphaNumber>
+        <Name lang="en">Microcephaly-polymicrogyria-corpus callosum agenesis syndrome</Name>
+      </Disorder>
+      <Source>17353897</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 12:26:47.706</CreationDate>
+      <UpdateDate>2019-09-13 12:26:47.706</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3837">
+      <Disorder id="17944">
+        <OrphaNumber>171860</OrphaNumber>
+        <Name lang="en">Intellectual disability-cataracts-kyphosis syndrome</Name>
+      </Disorder>
+      <Source>18781183[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 14:11:36.16</CreationDate>
+      <UpdateDate>2019-09-13 14:11:36.16</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3811">
       <Disorder id="13907">
@@ -40354,6 +40519,292 @@
       <Online>y</Online>
       <CreationDate>2019-04-11 08:37:25.82</CreationDate>
       <UpdateDate>2019-04-11 08:37:25.82</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3854">
+      <Disorder id="8766">
+        <OrphaNumber>26791</OrphaNumber>
+        <Name lang="en">Multiple acyl-CoA dehydrogenase deficiency</Name>
+      </Disorder>
+      <Source>2658591[PMID]_19249206[PMID]_20370797[PMID]_26403312[PMID]_18289905[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 13:20:17.24</CreationDate>
+      <UpdateDate>2019-09-24 13:20:17.24</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3855">
+      <Disorder id="8781">
+        <OrphaNumber>30391</OrphaNumber>
+        <Name lang="en">Isolated biliary atresia</Name>
+      </Disorder>
+      <Source>26775892[PMID]_31437071[PMID]_28688594[PMID]_27346637[PMID]_8456846[PMID]_14928160[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 16:34:03.186</CreationDate>
+      <UpdateDate>2019-09-24 16:34:03.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3852">
+      <Disorder id="22709">
+        <OrphaNumber>397941</OrphaNumber>
+        <Name lang="en">MAN1B1-CDG</Name>
+      </Disorder>
+      <Source>24348268[PMID]_2990835[PMID]_21763484[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-23 11:50:48.13</CreationDate>
+      <UpdateDate>2019-09-23 11:50:48.13</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3853">
+      <Disorder id="23468">
+        <OrphaNumber>443811</OrphaNumber>
+        <Name lang="en">PGM3-CDG</Name>
+      </Disorder>
+      <Source>24931394[PMID]_31095764[PMID]_24698316[PMID]_24589341[PMID]_14981714[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-23 16:21:19.623</CreationDate>
+      <UpdateDate>2019-09-23 16:21:19.623</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3850">
+      <Disorder id="22503">
+        <OrphaNumber>370930</OrphaNumber>
+        <Name lang="en">XYLT1-CDG</Name>
+      </Disorder>
+      <Source>28484880[PMID]_23982343[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 13:46:39.963</CreationDate>
+      <UpdateDate>2019-09-20 13:46:39.963</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3851">
+      <Disorder id="17933">
+        <OrphaNumber>171714</OrphaNumber>
+        <Name lang="en">Amish infantile epilepsy syndrome</Name>
+      </Disorder>
+      <Source>26649472[PMID]_17050284[PMID]_22990144[PMID]?27232954[PMID]_23436467[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 16:07:16.313</CreationDate>
+      <UpdateDate>2019-09-20 16:07:16.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3848">
+      <Disorder id="21904">
+        <OrphaNumber>329178</OrphaNumber>
+        <Name lang="en">Congenital muscular dystrophy with intellectual disability and severe epilepsy</Name>
+      </Disorder>
+      <Source>26453362[PMID]_23109149[PMID]_19901254[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-19 18:22:46.66</CreationDate>
+      <UpdateDate>2019-09-19 18:22:46.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3849">
+      <Disorder id="22298">
+        <OrphaNumber>363417</OrphaNumber>
+        <Name lang="en">Temtamy preaxial brachydactyly syndrome</Name>
+      </Disorder>
+      <Source>24269551[PMID]_21129727[PMID]_19952732[PMID]_9823490[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 11:16:10.043</CreationDate>
+      <UpdateDate>2019-09-20 11:16:10.043</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3846">
+      <Disorder id="20455">
+        <OrphaNumber>280333</OrphaNumber>
+        <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2P</Name>
+      </Disorder>
+      <Source>22677325[PMID]_25503980[PMID]_14678799[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 14:16:36.366</CreationDate>
+      <UpdateDate>2019-09-18 14:16:36.366</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3847">
+      <Disorder id="21803">
+        <OrphaNumber>324737</OrphaNumber>
+        <Name lang="en">SRD5A3-CDG</Name>
+      </Disorder>
+      <Source>27480077[PMID]_20637498[PMID]_18271001[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 16:14:10.873</CreationDate>
+      <UpdateDate>2019-09-18 16:14:10.873</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3844">
+      <Disorder id="20065">
+        <OrphaNumber>263508</OrphaNumber>
+        <Name lang="en">COG1-CDG</Name>
+      </Disorder>
+      <Source>20301507[PMID]_19008299PMID]_16537452[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 09:09:26.413</CreationDate>
+      <UpdateDate>2019-09-18 09:09:26.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3845">
+      <Disorder id="20425">
+        <OrphaNumber>280071</OrphaNumber>
+        <Name lang="en">ALG11-CDG</Name>
+      </Disorder>
+      <Source>28122681[PMID]_3067669[PMID]_22213132[PMID]_20080937[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 11:46:10.11</CreationDate>
+      <UpdateDate>2019-09-18 11:46:10.11</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3842">
+      <Disorder id="20062">
+        <OrphaNumber>263487</OrphaNumber>
+        <Name lang="en">COG5-CDG</Name>
+      </Disorder>
+      <Source>23228021[PMID]_20301507[PMID]_19690088[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-17 13:43:27.046</CreationDate>
+      <UpdateDate>2019-09-17 13:43:27.046</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3843">
+      <Disorder id="17517">
+        <OrphaNumber>163665</OrphaNumber>
+        <Name lang="en">Spondyloepiphyseal dysplasia tarda, Kohn type</Name>
+      </Disorder>
+      <Source>3612708[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-17 15:36:43.02</CreationDate>
+      <UpdateDate>2019-09-17 15:36:43.02</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3840">
+      <Disorder id="12587">
+        <OrphaNumber>95428</OrphaNumber>
+        <Name lang="en">COG8-CDG</Name>
+      </Disorder>
+      <Source>17220172[PMID]_17331980[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 14:40:32.37</CreationDate>
+      <UpdateDate>2019-09-16 14:40:32.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3841">
+      <Disorder id="18522">
+        <OrphaNumber>206559</OrphaNumber>
+        <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2N</Name>
+      </Disorder>
+      <Source>29175898[PMID]_17878207[PMID]_20301582[PMID]_17923109[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 16:54:15.41</CreationDate>
+      <UpdateDate>2019-09-16 16:54:15.41</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3865">
+      <Disorder id="18950">
+        <OrphaNumber>221150</OrphaNumber>
+        <Name lang="en">Pitt-Hopkins-like syndrome</Name>
+      </Disorder>
+      <Source>19896112[PMID]_30873608[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-30 16:50:32.706</CreationDate>
+      <UpdateDate>2019-09-30 16:50:32.706</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3864">
+      <Disorder id="18945">
+        <OrphaNumber>221120</OrphaNumber>
+        <Name lang="en">Pseudoaminopterin syndrome</Name>
+      </Disorder>
+      <Source>3621652[PMID]_7888136[PMID]_19938091[PMID]_22811276[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-30 11:51:02.053</CreationDate>
+      <UpdateDate>2019-09-30 11:51:02.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3863">
+      <Disorder id="18809">
+        <OrphaNumber>217017</OrphaNumber>
+        <Name lang="en">Zechi-Ceide syndrome</Name>
+      </Disorder>
+      <Source>17907157[PMID]_22585531[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 16:31:20.2</CreationDate>
+      <UpdateDate>2019-09-27 16:31:20.2</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3862">
+      <Disorder id="18666">
+        <OrphaNumber>209905</OrphaNumber>
+        <Name lang="en">Brain-lung-thyroid syndrome</Name>
+      </Disorder>
+      <Source>25412988[PMID]_24714694[PMID]_23430038[PMID]_22832740[PMID]_19336474[PMID]_24555207[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 14:15:03.103</CreationDate>
+      <UpdateDate>2019-09-27 14:15:03.103</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3861">
+      <Disorder id="25150">
+        <OrphaNumber>477774</OrphaNumber>
+        <Name lang="en">Combined oxidative phosphorylation defect type 27</Name>
+      </Disorder>
+      <Source>30139652[PMID]_25787132[PMID]_25361775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 09:56:04.22</CreationDate>
+      <UpdateDate>2019-09-27 09:56:04.22</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3860">
+      <Disorder id="24236">
+        <OrphaNumber>468699</OrphaNumber>
+        <Name lang="en">SLC39A8-CDG</Name>
+      </Disorder>
+      <Source>27995398[PMID]_26637979[PMID]_26637978[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 17:54:12.083</CreationDate>
+      <UpdateDate>2019-09-26 17:54:12.083</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3859">
+      <Disorder id="17831">
+        <OrphaNumber>169160</OrphaNumber>
+        <Name lang="en">T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta</Name>
+      </Disorder>
+      <Source>21883749[PMID]_16672702[PMID]_26235889[PMID]_15546002[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 15:53:24.423</CreationDate>
+      <UpdateDate>2019-09-26 15:53:24.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3858">
+      <Disorder id="17829">
+        <OrphaNumber>169154</OrphaNumber>
+        <Name lang="en">T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency</Name>
+      </Disorder>
+      <Source>9843216[PMID]_25046553[PMID]_27593400[PMID]_29167666[PMID]_31379863[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 13:22:23.833</CreationDate>
+      <UpdateDate>2019-09-26 13:22:23.833</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3857">
+      <Disorder id="14807">
+        <OrphaNumber>101096</OrphaNumber>
+        <Name lang="en">Aregenerative anemia</Name>
+      </Disorder>
+      <Source>29141943[PMID]_25837779[PMID]_28452257[PMID]_31166440[PMID]_31315542[PMID]_24424170[PMID]_25228559[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 09:27:26.593</CreationDate>
+      <UpdateDate>2019-09-26 09:27:26.593</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3856">
+      <Disorder id="11185">
+        <OrphaNumber>79159</OrphaNumber>
+        <Name lang="en">Isobutyryl-CoA dehydrogenase deficiency</Name>
+      </Disorder>
+      <Source>12736383[PMID]_15505379[PMID]_16857760[PMID]_30253142[PMID]_28053874[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 17:40:56.803</CreationDate>
+      <UpdateDate>2019-09-24 17:40:56.803</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

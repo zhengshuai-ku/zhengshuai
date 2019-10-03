@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-09-01 04:11:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-10-01 04:11:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3673">
+  <HPODisorderSetStatusList count="3714">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -1991,7 +1991,7 @@
     <HPODisorderSetStatus id="204">
       <Disorder id="429">
         <OrphaNumber>124</OrphaNumber>
-        <Name lang="es">Enfermedad de Blackfan-Diamond</Name>
+        <Name lang="es">Anemia de Blackfan-Diamond</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3527,7 +3527,7 @@
     <HPODisorderSetStatus id="325">
       <Disorder id="612">
         <OrphaNumber>287</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo clásico</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos clásico</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3802,7 +3802,7 @@
     <HPODisorderSetStatus id="379">
       <Disorder id="798">
         <OrphaNumber>2040</OrphaNumber>
-        <Name lang="es">Fístula broncobiliar congénita</Name>
+        <Name lang="es">Fístula respiratorio-biliar congénita</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -3978,7 +3978,7 @@
     <HPODisorderSetStatus id="362">
       <Disorder id="711">
         <OrphaNumber>32</OrphaNumber>
-        <Name lang="es">Deficiencia de glutation sintetasa</Name>
+        <Name lang="es">Deficiencia de glutatión sintetasa</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5430,7 +5430,7 @@
     <HPODisorderSetStatus id="557">
       <Disorder id="1318">
         <OrphaNumber>1005</OrphaNumber>
-        <Name lang="es">Síndrome de alopecia - contracturas - enanismo - discapacidad intelectual</Name>
+        <Name lang="es">Síndrome de alopecia-contracturas-talla baja-discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5771,7 +5771,7 @@
     <HPODisorderSetStatus id="521">
       <Disorder id="1263">
         <OrphaNumber>27</OrphaNumber>
-        <Name lang="es">Acidemia metilmalónica resistente a vitamina B12</Name>
+        <Name lang="es">Acidemia metilmalónica resistente a la vitamina B12</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6695,7 +6695,7 @@
     <HPODisorderSetStatus id="682">
       <Disorder id="1557">
         <OrphaNumber>1338</OrphaNumber>
-        <Name lang="es">Síndrome de cardiopatía - hamartomas linguales - polisindactilia</Name>
+        <Name lang="es">Síndrome de cardiopatía-hamartomas linguales-polisindactilia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -6772,7 +6772,7 @@
     <HPODisorderSetStatus id="675">
       <Disorder id="1548">
         <OrphaNumber>1325</OrphaNumber>
-        <Name lang="es">Camptodactilia - taurinúria</Name>
+        <Name lang="es">Síndrome de camptodactilia-taurinúria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -7740,7 +7740,7 @@
     <HPODisorderSetStatus id="706">
       <Disorder id="1604">
         <OrphaNumber>1397</OrphaNumber>
-        <Name lang="es">Síndrome de hidrocefalia - agenesia cerebelosa</Name>
+        <Name lang="es">Síndrome de hidrocefalia-agenesia cerebelosa</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -10581,7 +10581,7 @@
     <HPODisorderSetStatus id="965">
       <Disorder id="2060">
         <OrphaNumber>2165</OrphaNumber>
-        <Name lang="es">Síndrome de holoprosencefalia - disgenesia caudal</Name>
+        <Name lang="es">Síndrome de holoprosencefalia-disgenesia caudal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11578,7 +11578,7 @@
     <HPODisorderSetStatus id="1046">
       <Disorder id="2333">
         <OrphaNumber>2523</OrphaNumber>
-        <Name lang="es">Microcefalia - hipoplasia cerebral - espasticidad</Name>
+        <Name lang="es">Síndrome de microcefalia-hipoplasia cerebral-espasticidad-hipernatremia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11611,7 +11611,7 @@
     <HPODisorderSetStatus id="1064">
       <Disorder id="2396">
         <OrphaNumber>2617</OrphaNumber>
-        <Name lang="es">Enanismo primordial microcefálico tipo Montreal</Name>
+        <Name lang="es">Talla baja primordial microcefálica tipo Montreal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11622,7 +11622,7 @@
     <HPODisorderSetStatus id="1065">
       <Disorder id="2408">
         <OrphaNumber>2631</OrphaNumber>
-        <Name lang="es">Síndrome de enanismo mesomélico - fisura palatina - camptodactilia</Name>
+        <Name lang="es">Síndrome de displasia mesomélica-fisura palatina-camptodactilia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11633,7 +11633,7 @@
     <HPODisorderSetStatus id="1070">
       <Disorder id="2417">
         <OrphaNumber>2643</OrphaNumber>
-        <Name lang="es">Enanismo primordial osteodisplásico tipo Toriello</Name>
+        <Name lang="es">Talla primordial microcefálica tipo Toriello</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -11655,7 +11655,7 @@
     <HPODisorderSetStatus id="1068">
       <Disorder id="2411">
         <OrphaNumber>2634</OrphaNumber>
-        <Name lang="es">Enanismo mesomélico tipo Reinhardt-Pfeiffer</Name>
+        <Name lang="es">Displasia mesomélica tipo Reinhardt-Pfeiffer</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12069,7 +12069,7 @@
     <HPODisorderSetStatus id="1236">
       <Disorder id="2990">
         <OrphaNumber>3377</OrphaNumber>
-        <Name lang="es">Síndrome de trismo - pseudocamptodactilia</Name>
+        <Name lang="es">Síndrome de trismo-pseudocamptodactilia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12300,7 +12300,7 @@
     <HPODisorderSetStatus id="1261">
       <Disorder id="3101">
         <OrphaNumber>2151</OrphaNumber>
-        <Name lang="es">Síndrome de enfermedad de Hirschsprung - ganglioneuroma</Name>
+        <Name lang="es">Síndrome de enfermedad de Hirschsprung-ganglioneuroma</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12432,7 +12432,7 @@
     <HPODisorderSetStatus id="1274">
       <Disorder id="3171">
         <OrphaNumber>2619</OrphaNumber>
-        <Name lang="es">Enanismo con braquidactilia tipo Mseleni</Name>
+        <Name lang="es">Talla baja con braquidactilia tipo Mseleni</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -12454,7 +12454,7 @@
     <HPODisorderSetStatus id="1272">
       <Disorder id="3157">
         <OrphaNumber>3207</OrphaNumber>
-        <Name lang="es">White matter hypoplasia-corpus callosum agenesis-intellectual disability syndrome</Name>
+        <Name lang="es">Síndrome de hipoplasia de la sustancia blanca - agenesia del cuerpo calloso - discapacidad intelectual</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13253,7 +13253,7 @@
     <HPODisorderSetStatus id="1363">
       <Disorder id="5532">
         <OrphaNumber>176</OrphaNumber>
-        <Name lang="es">Condrodisplasia punctata no-rizomélica</Name>
+        <Name lang="es">Condrodisplasia punctata no rizomélica</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13363,7 +13363,7 @@
     <HPODisorderSetStatus id="1352">
       <Disorder id="4043">
         <OrphaNumber>1900</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo cifoscoliosis</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos cifoescoliótico por deficiencia de lisil hidroxilasa 1</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13385,7 +13385,7 @@
     <HPODisorderSetStatus id="1350">
       <Disorder id="4041">
         <OrphaNumber>285</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo hipermóvil</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos hipermóvil</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -13396,7 +13396,7 @@
     <HPODisorderSetStatus id="1351">
       <Disorder id="4042">
         <OrphaNumber>286</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo vascular</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos vascular</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14177,7 +14177,7 @@
     <HPODisorderSetStatus id="1341">
       <Disorder id="3643">
         <OrphaNumber>256</OrphaNumber>
-        <Name lang="es">Distonía generalizada de inicio temprano de las extremidades</Name>
+        <Name lang="es">Distonía generalizada de las extremidades de inicio temprano</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -14716,7 +14716,7 @@
     <HPODisorderSetStatus id="1472">
       <Disorder id="10391">
         <OrphaNumber>35701</OrphaNumber>
-        <Name lang="es">Deficiencia de 3-hidroxi 3-metilglutaril-CoA (HMG) sintetasa</Name>
+        <Name lang="es">Deficiencia de 3-hidroxi 3-metilglutaril-CoA (HMG) sintasa</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15057,7 +15057,7 @@
     <HPODisorderSetStatus id="1506">
       <Disorder id="10643">
         <OrphaNumber>49827</OrphaNumber>
-        <Name lang="es">Síndrome de anemia megaloblástica sensible a tiamina</Name>
+        <Name lang="es">Síndrome de anemia megaloblástica sensible a la tiamina</Name>
       </Disorder>
       <Source>20301459[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -15134,7 +15134,7 @@
     <HPODisorderSetStatus id="1515">
       <Disorder id="10663">
         <OrphaNumber>50943</OrphaNumber>
-        <Name lang="es">Eritema queratolítico de invierno</Name>
+        <Name lang="es">Eritema queratolítico invernal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -15306,7 +15306,7 @@
     <HPODisorderSetStatus id="1436">
       <Disorder id="8700">
         <OrphaNumber>617</OrphaNumber>
-        <Name lang="es">Megauréter primario congénito</Name>
+        <Name lang="es">Megauréter congénito primario</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16032,7 +16032,7 @@
     <HPODisorderSetStatus id="1657">
       <Disorder id="11338">
         <OrphaNumber>79312</OrphaNumber>
-        <Name lang="es">Acidemia metilmalónica resistente a vitamina B12 tipo mut-</Name>
+        <Name lang="es">Acidemia metilmalónica resistente a la vitamina B12 tipo mut-</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16307,7 +16307,7 @@
     <HPODisorderSetStatus id="1603">
       <Disorder id="11082">
         <OrphaNumber>75392</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo periodontitis</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos periodontal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -16318,7 +16318,7 @@
     <HPODisorderSetStatus id="1604">
       <Disorder id="11083">
         <OrphaNumber>75496</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo progeroide</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos espondilodisplásico asociado a B4GALT7</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -18840,7 +18840,7 @@
     <HPODisorderSetStatus id="1883">
       <Disorder id="12290">
         <OrphaNumber>93359</OrphaNumber>
-        <Name lang="es">Displasia espondiloepimetafisaria con articulaciones laxas</Name>
+        <Name lang="es">Displasia espondiloepimetafisaria con laxitud articular</Name>
       </Disorder>
       <Source>8182720[PMID]_23664117[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -19635,7 +19635,7 @@
     <HPODisorderSetStatus id="1811">
       <Disorder id="11925">
         <OrphaNumber>90023</OrphaNumber>
-        <Name lang="es">Síndrome de inmunodeficiencia primaria por deficiencia de p14</Name>
+        <Name lang="es">Síndrome de inmunodeficiencia primaria por deficiencia de LAMTOR2</Name>
       </Disorder>
       <Source>17195838[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -21571,7 +21571,7 @@
     <HPODisorderSetStatus id="2226">
       <Disorder id="20854">
         <OrphaNumber>293355</OrphaNumber>
-        <Name lang="es">Acidemia metilmalónica</Name>
+        <Name lang="es">Acidemia metilmalónica sin homocistinuria</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -21593,7 +21593,7 @@
     <HPODisorderSetStatus id="2224">
       <Disorder id="20777">
         <OrphaNumber>289916</OrphaNumber>
-        <Name lang="es">Acidemia metilmalónica resistente a vitamina B12 tipo mut 0</Name>
+        <Name lang="es">Acidemia metilmalónica resistente a la vitamina B12 tipo mut 0</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -23111,7 +23111,7 @@
     <HPODisorderSetStatus id="2086">
       <Disorder id="17936">
         <OrphaNumber>171829</OrphaNumber>
-        <Name lang="es">Síndrome de deleción 6q16</Name>
+        <Name lang="es">Síndrome de microdeleción 6q16</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -23804,7 +23804,7 @@
     <HPODisorderSetStatus id="2144">
       <Disorder id="19142">
         <OrphaNumber>230839</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos por deficiencia de tenascina-X</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos similar al tipo clásico 1</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24255,7 +24255,7 @@
     <HPODisorderSetStatus id="2473">
       <Disorder id="23333">
         <OrphaNumber>436182</OrphaNumber>
-        <Name lang="es">Síndrome de enanismo primordial microcefálico - resistencia a la insulina</Name>
+        <Name lang="es">Síndrome de talla baja primordial microcefálica-resistencia a la insulina</Name>
       </Disorder>
       <Source>25105364[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -24398,7 +24398,7 @@
     <HPODisorderSetStatus id="2468">
       <Disorder id="23412">
         <OrphaNumber>440713</OrphaNumber>
-        <Name lang="es">Deficiencia aislada de sedoheptulosa</Name>
+        <Name lang="es">Deficiencia aislada de sedoheptulokinasa</Name>
       </Disorder>
       <Source>25647543[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -25025,7 +25025,7 @@
     <HPODisorderSetStatus id="2532">
       <Disorder id="21461">
         <OrphaNumber>313892</OrphaNumber>
-        <Name lang="es">Retraso del desarrollo y del habla por deficiencia de SOX5</Name>
+        <Name lang="es">Retraso del desarrollo y del lenguaje por deficiencia de SOX5</Name>
       </Disorder>
       <Source>22290657[PMID]_26111154[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -26741,7 +26741,7 @@
     <HPODisorderSetStatus id="2740">
       <Disorder id="10999">
         <OrphaNumber>71277</OrphaNumber>
-        <Name lang="es">Encefalopatía por deficiencia de GLUT1</Name>
+        <Name lang="es">Síndrome de deficiencia del transportador de glucosa tipo 1 clásico</Name>
       </Disorder>
       <Source>17718830[PMID]_15132717[PMID]_19304421[PMID]_NBK1430[PMID]_20063428[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28094,7 +28094,7 @@
     <HPODisorderSetStatus id="2622">
       <Disorder id="21911">
         <OrphaNumber>329228</OrphaNumber>
-        <Name lang="es">Enanismo primordial microcefálico por deficiencia de ZNF335</Name>
+        <Name lang="es">Talla baja primordial microcefálica por deficiencia de ZNF335</Name>
       </Disorder>
       <Source>23178126[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -28754,7 +28754,7 @@
     <HPODisorderSetStatus id="2677">
       <Disorder id="21100">
         <OrphaNumber>300179</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo cifoescoliótico y sordera</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos cifoescoliótico por deficiencia de FKBP22</Name>
       </Disorder>
       <Source>22265013[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -30041,7 +30041,7 @@
     <HPODisorderSetStatus id="2962">
       <Disorder id="2147">
         <OrphaNumber>2278</OrphaNumber>
-        <Name lang="es">Sindrome de ictiosis - discapacidad intelectual - enanismo - afectación renal</Name>
+        <Name lang="es">Sindrome de ictiosis-discapacidad intelectual-talla baja-afectación renal</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31185,7 +31185,7 @@
     <HPODisorderSetStatus id="2816">
       <Disorder id="2418">
         <OrphaNumber>2636</OrphaNumber>
-        <Name lang="es">Enanismo primordial osteodisplásico microcefálico tipos I y III</Name>
+        <Name lang="es">Microcephalic osteodysplastic primordial dwarfism types I and III</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31273,7 +31273,7 @@
     <HPODisorderSetStatus id="2824">
       <Disorder id="4044">
         <OrphaNumber>1899</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo artrocalásico</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos artrocalasia</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31284,7 +31284,7 @@
     <HPODisorderSetStatus id="2825">
       <Disorder id="4045">
         <OrphaNumber>1901</OrphaNumber>
-        <Name lang="es">Síndrome de Ehlers-Danlos tipo dermatosparaxis</Name>
+        <Name lang="es">Síndrome de Ehlers-Danlos dermatosparaxis</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -31966,7 +31966,7 @@
     <HPODisorderSetStatus id="2895">
       <Disorder id="2697">
         <OrphaNumber>2997</OrphaNumber>
-        <Name lang="es">Síndrome de ptosis - parálisis de las cuerdas vocales</Name>
+        <Name lang="es">Síndrome de ptosis-parálisis de las cuerdas vocales</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -32098,7 +32098,7 @@
     <HPODisorderSetStatus id="2906">
       <Disorder id="20556">
         <OrphaNumber>282166</OrphaNumber>
-        <Name lang="es">Enfermedad de Creutzfeldt-Jakob heredada</Name>
+        <Name lang="es">Enfermedad de Creutzfeldt-Jakob hereditaria</Name>
       </Disorder>
       <Source>14088252[PMID]_3094007[PMID]_1677164[PMID]_1675319[PMID]_14522862[PMID]_10360778[PMID]_12197632[PMID]_9279329[PMID]_1469441[PMID]_16301504[PMID]_16682677[PMID]_15314808[PMID]_16434680[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32494,7 +32494,7 @@
     <HPODisorderSetStatus id="3272">
       <Disorder id="22332">
         <OrphaNumber>363654</OrphaNumber>
-        <Name lang="es">Síndrome de parkinsonismo ligado al cromosoma X - espasticidad</Name>
+        <Name lang="es">Síndrome de parkinsonismo ligado al cromosoma X-espasticidad</Name>
       </Disorder>
       <Source>20629132[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33121,7 +33121,7 @@
     <HPODisorderSetStatus id="3207">
       <Disorder id="22844">
         <OrphaNumber>401866</OrphaNumber>
-        <Name lang="es">Espasticidad de inicio en la infancia con hiperglicinemia</Name>
+        <Name lang="es">Espasticidad de inicio infantil con hiperglicinemia</Name>
       </Disorder>
       <Source>26100117[PMID]_24334290[PMID]_[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33759,7 +33759,7 @@
     <HPODisorderSetStatus id="3148">
       <Disorder id="21252">
         <OrphaNumber>306686</OrphaNumber>
-        <Name lang="es">Parkinsonismo inducido por monóxido de carbono</Name>
+        <Name lang="es">Encefalopatía retardada por intoxicación por monóxido de carbono</Name>
       </Disorder>
       <Source>10927805[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33803,7 +33803,7 @@
     <HPODisorderSetStatus id="3144">
       <Disorder id="22450">
         <OrphaNumber>369939</OrphaNumber>
-        <Name lang="es">Síndrome de discapacidad motora e intelectual grave-sordera neurosensorial-distonía</Name>
+        <Name lang="es">Síndrome de discapacidad motora e intelectual grave-hipoacusia neurosensorial-distonía</Name>
       </Disorder>
       <Source>24011989[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33825,7 +33825,7 @@
     <HPODisorderSetStatus id="3146">
       <Disorder id="21253">
         <OrphaNumber>306692</OrphaNumber>
-        <Name lang="es">Parkinsonismo inducido por cianuro</Name>
+        <Name lang="es">Distonía-parkinsonismo inducido por cianuro</Name>
       </Disorder>
       <Source>2733710[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34056,7 +34056,7 @@
     <HPODisorderSetStatus id="3187">
       <Disorder id="22930">
         <OrphaNumber>404493</OrphaNumber>
-        <Name lang="es">Síndrome de ataxia cerebelosa autosómica recesiva - epilepsia - discapacidad intelectual por deficiencia de TUD</Name>
+        <Name lang="es">Síndrome de ataxia cerebelosa-epilepsia-discapacidad intelectual autosómico recesivo por deficiencia de TUD</Name>
       </Disorder>
       <Source>24658003[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35343,7 +35343,7 @@
     <HPODisorderSetStatus id="3559">
       <Disorder id="2191">
         <OrphaNumber>2339</OrphaNumber>
-        <Name lang="es">Síndrome de queratosis folicular - enanismo - atrofia cerebral</Name>
+        <Name lang="es">Síndrome de queratosis folicular-talla baja- atrofia cerebral</Name>
       </Disorder>
       <Source>4834251[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35574,7 +35574,7 @@
     <HPODisorderSetStatus id="3571">
       <Disorder id="11994">
         <OrphaNumber>90280</OrphaNumber>
-        <Name lang="es">Lupus sabañón</Name>
+        <Name lang="es">Lupus perniótico</Name>
       </Disorder>
       <Source>24285807[PMID]_18543054[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35746,7 +35746,7 @@
     <HPODisorderSetStatus id="3460">
       <Disorder id="26569">
         <OrphaNumber>508488</OrphaNumber>
-        <Name lang="es">Síndrome de deleción 8q24.3</Name>
+        <Name lang="es">Síndrome de microdeleción 8q24.3</Name>
       </Disorder>
       <Source>3047248[PMID]_29738340[PMID]_28990276[PMID]_27804958[PMID]_26437074[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35812,7 +35812,7 @@
     <HPODisorderSetStatus id="3470">
       <Disorder id="25166">
         <OrphaNumber>478029</OrphaNumber>
-        <Name lang="es">Defecto combinado de la fosforilación oxidativa tipo 29</Name>
+        <Name lang="es">Deficiencia combinada de la fosforilación oxidativa tipo 29</Name>
       </Disorder>
       <Source>26626369[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -36868,7 +36868,7 @@
     <HPODisorderSetStatus id="3452">
       <Disorder id="25849">
         <OrphaNumber>496790</OrphaNumber>
-        <Name lang="es">Síndrome de atrofia óptica - neuropatía periférica - retraso del desarrollo</Name>
+        <Name lang="es">Síndrome de anomalías ocualares-neuropatía axonal-retraso en el desarrollo</Name>
       </Disorder>
       <Source>27640307[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -37704,6 +37704,28 @@
       <CreationDate>2018-11-07 14:25:13.463</CreationDate>
       <UpdateDate>2018-11-07 14:25:13.463</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3826">
+      <Disorder id="22621">
+        <OrphaNumber>391417</OrphaNumber>
+        <Name lang="es">Enfermedad de HSD10</Name>
+      </Disorder>
+      <Source>27295195[PMID]_26950678[PMID]_22132097[PMID]_16148061[PMID]_14729408[PMID]_12555940[PMID]_11102558[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 10:06:43.31</CreationDate>
+      <UpdateDate>2019-09-10 10:06:43.31</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3827">
+      <Disorder id="22707">
+        <OrphaNumber>397933</OrphaNumber>
+        <Name lang="es">Síndrome de discapacidad intelectual grave - microcefalia postnatal progresiva - movimientos estereotipados de las manos en la línea media</Name>
+      </Disorder>
+      <Source>28815955[PMID]_27010919[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 12:01:08.663</CreationDate>
+      <UpdateDate>2019-09-10 12:01:08.663</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3824">
       <Disorder id="21774">
         <OrphaNumber>324410</OrphaNumber>
@@ -37714,6 +37736,149 @@
       <Online>y</Online>
       <CreationDate>2019-08-16 16:52:26.98</CreationDate>
       <UpdateDate>2019-08-16 16:52:26.98</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3825">
+      <Disorder id="22360">
+        <OrphaNumber>364028</OrphaNumber>
+        <Name lang="es">Discapacidad intelectual ligada al cromosoma X por mutaciones en GRIA3</Name>
+      </Disorder>
+      <Source>22124977[PMID]_23637084[PMID]_24721225[PMID]_19449417[PMID]_17989220[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-09 15:14:34.896</CreationDate>
+      <UpdateDate>2019-09-09 15:14:34.896</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3830">
+      <Disorder id="24169">
+        <OrphaNumber>466791</OrphaNumber>
+        <Name lang="es">Síndrome de macrocefalia - discapacidad intelectual - no compactación del ventrículo izquierdo</Name>
+      </Disorder>
+      <Source>30773818[PMID]_27550220[PMID]_27329731[PMID]_26571461[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-11 12:13:26.483</CreationDate>
+      <UpdateDate>2019-09-11 12:13:26.483</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3831">
+      <Disorder id="25228">
+        <OrphaNumber>480880</OrphaNumber>
+        <Name lang="es">Dismorfia facial restringida a mujeres ligada al cromosoma X - talla baja - atresia de coanas - discapacidad intelectual</Name>
+      </Disorder>
+      <Source>28377321[PMID]_30828969[PMID]_24690944[PMID]_26833328[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-11 17:07:16.303</CreationDate>
+      <UpdateDate>2019-09-11 17:07:16.303</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3828">
+      <Disorder id="23678">
+        <OrphaNumber>456328</OrphaNumber>
+        <Name lang="es">Síndrome de miopatía miotubular - anomalías genitales ligado al X</Name>
+      </Disorder>
+      <Source>10449925[PMID]_8789451[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 14:50:18.753</CreationDate>
+      <UpdateDate>2019-09-10 14:50:18.753</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3829">
+      <Disorder id="23714">
+        <OrphaNumber>457240</OrphaNumber>
+        <Name lang="es">Síndrome de discapacidad intelectual - talla baja - sobrepeso ligado al cromosoma X</Name>
+      </Disorder>
+      <Source>26166480[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-10 16:39:48.686</CreationDate>
+      <UpdateDate>2019-09-10 16:39:48.686</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3834">
+      <Disorder id="17604">
+        <OrphaNumber>166035</OrphaNumber>
+        <Name lang="es">Síndrome de braquidactilia - talla baja - retinosis pigmentaria</Name>
+      </Disorder>
+      <Source>7252997[PMID]_10420199[PMID]_28285769[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 17:49:44.783</CreationDate>
+      <UpdateDate>2019-09-12 17:49:44.783</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3835">
+      <Disorder id="17776">
+        <OrphaNumber>168577</OrphaNumber>
+        <Name lang="es">Criohidrocitosis hereditaria con estomatina reducida</Name>
+      </Disorder>
+      <Source>7174793[PMID]_21791420[PMID]_15071792[PMID]_22492876[PMID]_15180870[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 10:44:32.443</CreationDate>
+      <UpdateDate>2019-09-13 10:44:32.443</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3832">
+      <Disorder id="25230">
+        <OrphaNumber>480907</OrphaNumber>
+        <Name lang="es">Síndrome de discapacidad intelectual - retraso global del desarrollo - dismorfia facial - remanente caudal del sacro ligado al cromosoma X</Name>
+      </Disorder>
+      <Source>30805980[PMID]_26637982[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 11:36:45.443</CreationDate>
+      <UpdateDate>2019-09-12 11:36:45.443</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3833">
+      <Disorder id="25306">
+        <OrphaNumber>485350</OrphaNumber>
+        <Name lang="es">Síndrome de discapacidad intelectual ligada al cromosoma X asociado a CLCN4</Name>
+      </Disorder>
+      <Source>27550844[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-12 15:02:13.646</CreationDate>
+      <UpdateDate>2019-09-12 15:02:13.646</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3838">
+      <Disorder id="1726">
+        <OrphaNumber>382</OrphaNumber>
+        <Name lang="es">Deficiencia de guanidinoacetato metiltransferasa</Name>
+      </Disorder>
+      <Source>78088440[PMID]_8651275[PMID]_9386672[PMID]_15651030[PMID]_20301745[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 15:59:17.726</CreationDate>
+      <UpdateDate>2019-09-13 15:59:17.726</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3839">
+      <Disorder id="16739">
+        <OrphaNumber>137898</OrphaNumber>
+        <Name lang="es">Síndrome de leucoencefalopatía con afectación del tronco del encéfalo y a la médula espinal - lactato elevado</Name>
+      </Disorder>
+      <Source>20506600[PMID]_24566671[PMID]_28431594[PMID]_30352563[PMID]_30635318[PMID]_21815884[PMID]_19592391[PMID]_16788019[PMID]_15002045[PMID]_15326244[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 12:00:57.283</CreationDate>
+      <UpdateDate>2019-09-16 12:00:57.283</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3836">
+      <Disorder id="17930">
+        <OrphaNumber>171703</OrphaNumber>
+        <Name lang="es">Síndrome de microcefalia-polimicrogiria-agenesia del cuerpo calloso</Name>
+      </Disorder>
+      <Source>17353897</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 12:26:47.706</CreationDate>
+      <UpdateDate>2019-09-13 12:26:47.706</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3837">
+      <Disorder id="17944">
+        <OrphaNumber>171860</OrphaNumber>
+        <Name lang="es">Discapacidad intelectual - catarata - cifosis</Name>
+      </Disorder>
+      <Source>18781183[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-13 14:11:36.16</CreationDate>
+      <UpdateDate>2019-09-13 14:11:36.16</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3811">
       <Disorder id="13907">
@@ -38026,7 +38191,7 @@
     <HPODisorderSetStatus id="3804">
       <Disorder id="932">
         <OrphaNumber>2828</OrphaNumber>
-        <Name lang="es">Enfermedad de Parkinson de inicio juvenil</Name>
+        <Name lang="es">Enfermedad de Parkinson de inicio temprano</Name>
       </Disorder>
       <Source>24631501[PMID]_25744440[PMID]_31176633[PMID]_20301792[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38345,7 +38510,7 @@
     <HPODisorderSetStatus id="3775">
       <Disorder id="24234">
         <OrphaNumber>468678</OrphaNumber>
-        <Name lang="es">Síndrome de discapacidad intelectual - microcefalia - estrabismo - alteraciones de la conducta</Name>
+        <Name lang="es">Síndrome de discapacidad intelectual-microcefalia-estrabismo-alteraciones de la conducta</Name>
       </Disorder>
       <Source>30136090[PMID]_26739615[PMID]_26942287[PMID]_25533962[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38400,7 +38565,7 @@
     <HPODisorderSetStatus id="3768">
       <Disorder id="28123">
         <OrphaNumber>556030</OrphaNumber>
-        <Name lang="es">Early-onset familial hypoaldosteronism</Name>
+        <Name lang="es">Hipoaldosteronismo familiar de inicio temprano</Name>
       </Disorder>
       <Source>6991942[PMID]_1594605[PMID]_1601005[PMID]_9360501[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38411,7 +38576,7 @@
     <HPODisorderSetStatus id="3769">
       <Disorder id="28124">
         <OrphaNumber>556037</OrphaNumber>
-        <Name lang="es">Late-onset familial hypoaldosteronism</Name>
+        <Name lang="es">Hipoaldosteronismo familiar de inicio tardío</Name>
       </Disorder>
       <Source>6991942[PMID]_1594605[PMID]_1601005[PMID]_9360501[PMID]_11701710[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38444,7 +38609,7 @@
     <HPODisorderSetStatus id="3749">
       <Disorder id="11935">
         <OrphaNumber>90038</OrphaNumber>
-        <Name lang="es">Síndrome hemolítico-urémico típico</Name>
+        <Name lang="es">Síndrome hemolítico urémico asociado a la toxina Shiga</Name>
       </Disorder>
       <Source>29961127[PMID]_30561409[PMID]_27768015[PMID]_22802583[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38906,7 +39071,7 @@
     <HPODisorderSetStatus id="3721">
       <Disorder id="13844">
         <OrphaNumber>98827</OrphaNumber>
-        <Name lang="es">Síndrome mielodisplásico inclasificable</Name>
+        <Name lang="es">Síndrome mielodisplásico no clasificado</Name>
       </Disorder>
       <Source>26799610[PMID]_28297619[PMID]_27039723[PMID]_17709138[PMID]_30091023[PMID]_30555034[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -39896,7 +40061,7 @@
     <HPODisorderSetStatus id="3624">
       <Disorder id="3279">
         <OrphaNumber>572</OrphaNumber>
-        <Name lang="es">Inmunodeficiencia por expresión deficiente del HLA de clase II</Name>
+        <Name lang="es">Inmunodeficiencia por expresión deficiente del CMH de clase II</Name>
       </Disorder>
       <Source>25001848[PMID]_28676232[PMID]_26634365[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -40354,6 +40519,292 @@
       <Online>y</Online>
       <CreationDate>2019-04-11 08:37:25.82</CreationDate>
       <UpdateDate>2019-04-11 08:37:25.82</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3854">
+      <Disorder id="8766">
+        <OrphaNumber>26791</OrphaNumber>
+        <Name lang="es">Deficiencia múltiple de acil-CoA deshidrogenasa</Name>
+      </Disorder>
+      <Source>2658591[PMID]_19249206[PMID]_20370797[PMID]_26403312[PMID]_18289905[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 13:20:17.24</CreationDate>
+      <UpdateDate>2019-09-24 13:20:17.24</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3855">
+      <Disorder id="8781">
+        <OrphaNumber>30391</OrphaNumber>
+        <Name lang="es">Atresia biliar</Name>
+      </Disorder>
+      <Source>26775892[PMID]_31437071[PMID]_28688594[PMID]_27346637[PMID]_8456846[PMID]_14928160[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 16:34:03.186</CreationDate>
+      <UpdateDate>2019-09-24 16:34:03.186</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3852">
+      <Disorder id="22709">
+        <OrphaNumber>397941</OrphaNumber>
+        <Name lang="es">MAN1B1-CDG</Name>
+      </Disorder>
+      <Source>24348268[PMID]_2990835[PMID]_21763484[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-23 11:50:48.13</CreationDate>
+      <UpdateDate>2019-09-23 11:50:48.13</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3853">
+      <Disorder id="23468">
+        <OrphaNumber>443811</OrphaNumber>
+        <Name lang="es">PGM3-CDG</Name>
+      </Disorder>
+      <Source>24931394[PMID]_31095764[PMID]_24698316[PMID]_24589341[PMID]_14981714[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-23 16:21:19.623</CreationDate>
+      <UpdateDate>2019-09-23 16:21:19.623</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3850">
+      <Disorder id="22503">
+        <OrphaNumber>370930</OrphaNumber>
+        <Name lang="es">XYLT1-CDG</Name>
+      </Disorder>
+      <Source>28484880[PMID]_23982343[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 13:46:39.963</CreationDate>
+      <UpdateDate>2019-09-20 13:46:39.963</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3851">
+      <Disorder id="17933">
+        <OrphaNumber>171714</OrphaNumber>
+        <Name lang="es">Síndrome epiléptico infantil de los Amish</Name>
+      </Disorder>
+      <Source>26649472[PMID]_17050284[PMID]_22990144[PMID]?27232954[PMID]_23436467[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 16:07:16.313</CreationDate>
+      <UpdateDate>2019-09-20 16:07:16.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3848">
+      <Disorder id="21904">
+        <OrphaNumber>329178</OrphaNumber>
+        <Name lang="es">Distrofia muscular congénita con discapacidad intelectual y epilepsia grave</Name>
+      </Disorder>
+      <Source>26453362[PMID]_23109149[PMID]_19901254[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-19 18:22:46.66</CreationDate>
+      <UpdateDate>2019-09-19 18:22:46.66</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3849">
+      <Disorder id="22298">
+        <OrphaNumber>363417</OrphaNumber>
+        <Name lang="es">Síndrome de braquidactilia preaxial de Temtamy</Name>
+      </Disorder>
+      <Source>24269551[PMID]_21129727[PMID]_19952732[PMID]_9823490[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-20 11:16:10.043</CreationDate>
+      <UpdateDate>2019-09-20 11:16:10.043</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3846">
+      <Disorder id="20455">
+        <OrphaNumber>280333</OrphaNumber>
+        <Name lang="es">Distrofia muscular de cinturas autosómica recesiva tipo 2P</Name>
+      </Disorder>
+      <Source>22677325[PMID]_25503980[PMID]_14678799[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 14:16:36.366</CreationDate>
+      <UpdateDate>2019-09-18 14:16:36.366</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3847">
+      <Disorder id="21803">
+        <OrphaNumber>324737</OrphaNumber>
+        <Name lang="es">SRD5A3-CDG</Name>
+      </Disorder>
+      <Source>27480077[PMID]_20637498[PMID]_18271001[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 16:14:10.873</CreationDate>
+      <UpdateDate>2019-09-18 16:14:10.873</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3844">
+      <Disorder id="20065">
+        <OrphaNumber>263508</OrphaNumber>
+        <Name lang="es">COG1-CDG</Name>
+      </Disorder>
+      <Source>20301507[PMID]_19008299PMID]_16537452[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 09:09:26.413</CreationDate>
+      <UpdateDate>2019-09-18 09:09:26.413</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3845">
+      <Disorder id="20425">
+        <OrphaNumber>280071</OrphaNumber>
+        <Name lang="es">ALG11-CDG</Name>
+      </Disorder>
+      <Source>28122681[PMID]_3067669[PMID]_22213132[PMID]_20080937[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-18 11:46:10.11</CreationDate>
+      <UpdateDate>2019-09-18 11:46:10.11</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3842">
+      <Disorder id="20062">
+        <OrphaNumber>263487</OrphaNumber>
+        <Name lang="es">COG5-CDG</Name>
+      </Disorder>
+      <Source>23228021[PMID]_20301507[PMID]_19690088[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-17 13:43:27.046</CreationDate>
+      <UpdateDate>2019-09-17 13:43:27.046</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3843">
+      <Disorder id="17517">
+        <OrphaNumber>163665</OrphaNumber>
+        <Name lang="es">Displasia espondiloepifisaria tarda tipo Kohn</Name>
+      </Disorder>
+      <Source>3612708[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-17 15:36:43.02</CreationDate>
+      <UpdateDate>2019-09-17 15:36:43.02</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3840">
+      <Disorder id="12587">
+        <OrphaNumber>95428</OrphaNumber>
+        <Name lang="es">COG8-CDG</Name>
+      </Disorder>
+      <Source>17220172[PMID]_17331980[PMID]_20301507[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 14:40:32.37</CreationDate>
+      <UpdateDate>2019-09-16 14:40:32.37</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3841">
+      <Disorder id="18522">
+        <OrphaNumber>206559</OrphaNumber>
+        <Name lang="es">Distrofia muscular de cinturas autosómica recesiva tipo 2N</Name>
+      </Disorder>
+      <Source>29175898[PMID]_17878207[PMID]_20301582[PMID]_17923109[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-16 16:54:15.41</CreationDate>
+      <UpdateDate>2019-09-16 16:54:15.41</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3865">
+      <Disorder id="18950">
+        <OrphaNumber>221150</OrphaNumber>
+        <Name lang="es">Síndrome similar a Pitt-Hopkins</Name>
+      </Disorder>
+      <Source>19896112[PMID]_30873608[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-30 16:50:32.706</CreationDate>
+      <UpdateDate>2019-09-30 16:50:32.706</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3864">
+      <Disorder id="18945">
+        <OrphaNumber>221120</OrphaNumber>
+        <Name lang="es">Síndrome de pseudoaminopterina</Name>
+      </Disorder>
+      <Source>3621652[PMID]_7888136[PMID]_19938091[PMID]_22811276[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-30 11:51:02.053</CreationDate>
+      <UpdateDate>2019-09-30 11:51:02.053</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3863">
+      <Disorder id="18809">
+        <OrphaNumber>217017</OrphaNumber>
+        <Name lang="es">Síndrome de Zechi-Ceide</Name>
+      </Disorder>
+      <Source>17907157[PMID]_22585531[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 16:31:20.2</CreationDate>
+      <UpdateDate>2019-09-27 16:31:20.2</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3862">
+      <Disorder id="18666">
+        <OrphaNumber>209905</OrphaNumber>
+        <Name lang="es">Síndrome cerebro-pulmón-tiroides</Name>
+      </Disorder>
+      <Source>25412988[PMID]_24714694[PMID]_23430038[PMID]_22832740[PMID]_19336474[PMID]_24555207[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 14:15:03.103</CreationDate>
+      <UpdateDate>2019-09-27 14:15:03.103</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3861">
+      <Disorder id="25150">
+        <OrphaNumber>477774</OrphaNumber>
+        <Name lang="es">Deficiencia combinada de la fosforilación oxidativa tipo 27</Name>
+      </Disorder>
+      <Source>30139652[PMID]_25787132[PMID]_25361775[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-27 09:56:04.22</CreationDate>
+      <UpdateDate>2019-09-27 09:56:04.22</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3860">
+      <Disorder id="24236">
+        <OrphaNumber>468699</OrphaNumber>
+        <Name lang="es">SLC39A8-CDG</Name>
+      </Disorder>
+      <Source>27995398[PMID]_26637979[PMID]_26637978[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 17:54:12.083</CreationDate>
+      <UpdateDate>2019-09-26 17:54:12.083</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3859">
+      <Disorder id="17831">
+        <OrphaNumber>169160</OrphaNumber>
+        <Name lang="es">Inmunodeficiencia combinada grave T-B+ por CD3delta/CD3epsilon/CD3zeta</Name>
+      </Disorder>
+      <Source>21883749[PMID]_16672702[PMID]_26235889[PMID]_15546002[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 15:53:24.423</CreationDate>
+      <UpdateDate>2019-09-26 15:53:24.423</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3858">
+      <Disorder id="17829">
+        <OrphaNumber>169154</OrphaNumber>
+        <Name lang="es">Inmunodeficiencia combinada grave T-B+ por deficiencia de IL-7Ralpha</Name>
+      </Disorder>
+      <Source>9843216[PMID]_25046553[PMID]_27593400[PMID]_29167666[PMID]_31379863[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 13:22:23.833</CreationDate>
+      <UpdateDate>2019-09-26 13:22:23.833</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3857">
+      <Disorder id="14807">
+        <OrphaNumber>101096</OrphaNumber>
+        <Name lang="es">Anemia arregenerativa</Name>
+      </Disorder>
+      <Source>29141943[PMID]_25837779[PMID]_28452257[PMID]_31166440[PMID]_31315542[PMID]_24424170[PMID]_25228559[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-26 09:27:26.593</CreationDate>
+      <UpdateDate>2019-09-26 09:27:26.593</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3856">
+      <Disorder id="11185">
+        <OrphaNumber>79159</OrphaNumber>
+        <Name lang="es">Deficiencia de isobutiril-CoA-deshidrogenasa</Name>
+      </Disorder>
+      <Source>12736383[PMID]_15505379[PMID]_16857760[PMID]_30253142[PMID]_28053874[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-09-24 17:40:56.803</CreationDate>
+      <UpdateDate>2019-09-24 17:40:56.803</UpdateDate>
     </HPODisorderSetStatus>
   </HPODisorderSetStatusList>
 </JDBOR>

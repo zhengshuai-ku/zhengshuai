@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-09-01 04:57:12" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-10-01 04:58:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -10469,7 +10469,7 @@
                               <Disorder id="13936">
                                 <OrphaNumber>98919</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98919</ExpertLink>
-                                <Name lang="en">Miller-Fisher syndrome</Name>
+                                <Name lang="en">Miller Fisher syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -12777,12 +12777,21 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=320342</ExpertLink>
                             <Name lang="en">Pure or complex autosomal dominant spastic paraplegia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="9">
+                          <ClassificationNodeChildList count="10">
                             <ClassificationNode>
                               <Disorder id="14721">
                                 <OrphaNumber>101010</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101010</ExpertLink>
                                 <Name lang="en">Autosomal spastic paraplegia type 30</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21221">
+                                <OrphaNumber>306511</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306511</ExpertLink>
+                                <Name lang="en">Autosomal recessive spastic paraplegia type 48</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -32613,7 +32622,7 @@
                       <Disorder id="28037">
                         <OrphaNumber>542306</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=542306</ExpertLink>
-                        <Name lang="en">Intellectual disability-cardiac arrhythmia syndrome due to GNB5 deficiency</Name>
+                        <Name lang="en">GNB5-related intellectual disability-cardiac arrhythmia syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -43342,7 +43351,7 @@
                                       <Disorder id="13936">
                                         <OrphaNumber>98919</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98919</ExpertLink>
-                                        <Name lang="en">Miller-Fisher syndrome</Name>
+                                        <Name lang="en">Miller Fisher syndrome</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
