@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:43" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3019,7 +3019,7 @@
                           <Disorder id="3735">
                             <OrphaNumber>2126</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2126</ExpertLink>
-                            <Name lang="en">Solitary fibrous tumor</Name>
+                            <Name lang="en">Solitary fibrous tumour/hemangiopericytoma</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5026,7 +5026,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423771</ExpertLink>
                                 <Name lang="en">Rare carcinoma of stomach</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="6">
+                              <ClassificationNodeChildList count="5">
                                 <ClassificationNode>
                                   <Disorder id="10415">
                                     <OrphaNumber>36273</OrphaNumber>
@@ -5079,15 +5079,6 @@
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="23169">
-                                    <OrphaNumber>423781</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=423781</ExpertLink>
-                                    <Name lang="en">Carcinoma of stomach, salivary gland type</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -7094,7 +7085,7 @@
                               <Disorder id="18499">
                                 <OrphaNumber>206470</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206470</ExpertLink>
-                                <Name lang="en">Serous or mucinous cystadenoma of childhood</Name>
+                                <Name lang="en">Cystadenoma of childhood</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8864,7 +8855,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100094</ExpertLink>
                         <Name lang="en">Multiple polyglandular tumor</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="6">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
                           <Disorder id="99">
                             <OrphaNumber>892</OrphaNumber>
@@ -8902,21 +8893,12 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="20350">
-                            <OrphaNumber>276152</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276152</ExpertLink>
-                            <Name lang="en">Multiple endocrine neoplasia type 4</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
                           <Disorder id="20351">
                             <OrphaNumber>276161</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276161</ExpertLink>
                             <Name lang="en">Multiple endocrine neoplasia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="121">
                                 <OrphaNumber>652</OrphaNumber>
@@ -8960,6 +8942,15 @@
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="20350">
+                                <OrphaNumber>276152</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276152</ExpertLink>
+                                <Name lang="en">Multiple endocrine neoplasia type 4</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>

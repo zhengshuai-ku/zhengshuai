@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2344,7 +2344,7 @@
                           <Disorder id="17998">
                             <OrphaNumber>178025</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178025</ExpertLink>
-                            <Name lang="en">Non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations</Name>
+                            <Name lang="en">Non-acquired combined pituitary hormone deficiencies without extrapituitary malformations</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="2">
                             <ClassificationNode>
@@ -3242,7 +3242,7 @@
                               <Disorder id="8672">
                                 <OrphaNumber>786</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=786</ExpertLink>
-                                <Name lang="en">Glucocorticoid resistance</Name>
+                                <Name lang="en">Generalized glucocorticoid resistance syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5874,7 +5874,7 @@
                       <Disorder id="8672">
                         <OrphaNumber>786</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=786</ExpertLink>
-                        <Name lang="en">Glucocorticoid resistance</Name>
+                        <Name lang="en">Generalized glucocorticoid resistance syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6715,7 +6715,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=100094</ExpertLink>
                     <Name lang="en">Multiple polyglandular tumor</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="6">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="99">
                         <OrphaNumber>892</OrphaNumber>
@@ -6753,21 +6753,12 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="20350">
-                        <OrphaNumber>276152</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276152</ExpertLink>
-                        <Name lang="en">Multiple endocrine neoplasia type 4</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="20351">
                         <OrphaNumber>276161</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276161</ExpertLink>
                         <Name lang="en">Multiple endocrine neoplasia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
                           <Disorder id="121">
                             <OrphaNumber>652</OrphaNumber>
@@ -6811,6 +6802,15 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="20350">
+                            <OrphaNumber>276152</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276152</ExpertLink>
+                            <Name lang="en">Multiple endocrine neoplasia type 4</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -7301,7 +7301,7 @@
                               <Disorder id="17998">
                                 <OrphaNumber>178025</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=178025</ExpertLink>
-                                <Name lang="en">Non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations</Name>
+                                <Name lang="en">Non-acquired combined pituitary hormone deficiencies without extrapituitary malformations</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
@@ -8131,7 +8131,7 @@
                           <Disorder id="12645">
                             <OrphaNumber>95619</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95619</ExpertLink>
-                            <Name lang="en">Iatrogenic or traumatic pituitary deficiency</Name>
+                            <Name lang="en">Post-traumatic pituitary deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8180,27 +8180,9 @@
                   <Disorder id="21116">
                     <OrphaNumber>300373</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300373</ExpertLink>
-                    <Name lang="en">Familial infantile gigantism</Name>
+                    <Name lang="en">X-linked acrogigantism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="2">
-                    <ClassificationNode>
-                      <Disorder id="23570">
-                        <OrphaNumber>448348</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=448348</ExpertLink>
-                        <Name lang="en">X-linked acrogigantism due to a point mutation</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23573">
-                        <OrphaNumber>448372</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=448372</ExpertLink>
-                        <Name lang="en">X-linked acrogigantism due to Xq26 microduplication</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:30" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:17" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -245,7 +245,7 @@
                               <Disorder id="18100">
                                 <OrphaNumber>180142</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180142</ExpertLink>
-                                <Name lang="en">Agenesis and aplasia of uterine body</Name>
+                                <Name lang="en">Absence of uterine body</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -323,7 +323,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182121</ExpertLink>
                         <Name lang="en">Non-syndromic urogenital tract malformation of male</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="8">
+                      <ClassificationNodeChildList count="7">
                         <ClassificationNode>
                           <Disorder id="1000">
                             <OrphaNumber>48</OrphaNumber>
@@ -338,15 +338,6 @@
                             <OrphaNumber>2842</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2842</ExpertLink>
                             <Name lang="en">Penoscrotal transposition</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3299">
-                            <OrphaNumber>440</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=440</ExpertLink>
-                            <Name lang="en">Familial hypospadias</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1064,7 +1055,7 @@
                               <Disorder id="8672">
                                 <OrphaNumber>786</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=786</ExpertLink>
-                                <Name lang="en">Glucocorticoid resistance</Name>
+                                <Name lang="en">Generalized glucocorticoid resistance syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

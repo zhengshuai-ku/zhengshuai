@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1993,7 +1993,7 @@
                           <Disorder id="3551">
                             <OrphaNumber>656</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=656</ExpertLink>
-                            <Name lang="en">Familial idiopathic steroid-resistant nephrotic syndrome</Name>
+                            <Name lang="en">Genetic steroid-resistant nephrotic syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="4">
                             <ClassificationNode>
@@ -3428,7 +3428,7 @@
                   <Disorder id="10344">
                     <OrphaNumber>34526</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34526</ExpertLink>
-                    <Name lang="en">Familial primary hypomagnesemia</Name>
+                    <Name lang="en">Genetic primary hypomagnesemia</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="3">
                     <ClassificationNode>
@@ -3462,7 +3462,7 @@
                       <Disorder id="21223">
                         <OrphaNumber>306519</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306519</ExpertLink>
-                        <Name lang="en">Familial primary hypomagnesemia with hypocalcuria</Name>
+                        <Name lang="en">Genetic primary hypomagnesemia with hypocalciuria</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="1">
                         <ClassificationNode>
@@ -3480,7 +3480,7 @@
                       <Disorder id="21224">
                         <OrphaNumber>306522</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306522</ExpertLink>
-                        <Name lang="en">Familial primary hypomagnesemia with normocalcuria</Name>
+                        <Name lang="en">Genetic primary hypomagnesemia with normocalciuria</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="3">
                         <ClassificationNode>

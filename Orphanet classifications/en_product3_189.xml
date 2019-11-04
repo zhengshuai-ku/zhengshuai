@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:37" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2295,7 +2295,7 @@
                                   <Disorder id="10378">
                                     <OrphaNumber>35612</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35612</ExpertLink>
-                                    <Name lang="en">Nanophthalmia</Name>
+                                    <Name lang="en">Nanophthalmos</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6489,7 +6489,7 @@
                                   <Disorder id="10378">
                                     <OrphaNumber>35612</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35612</ExpertLink>
-                                    <Name lang="en">Nanophthalmia</Name>
+                                    <Name lang="en">Nanophthalmos</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6525,7 +6525,7 @@
                                   <Disorder id="13651">
                                     <OrphaNumber>98634</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98634</ExpertLink>
-                                    <Name lang="en">Anterior segment developmental anomaly without extraocular manifestation</Name>
+                                    <Name lang="en">Anterior segment developmental anomaly without extraocular manifestations</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="6">
                                     <ClassificationNode>
@@ -7238,7 +7238,7 @@
                               <Disorder id="10378">
                                 <OrphaNumber>35612</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35612</ExpertLink>
-                                <Name lang="en">Nanophthalmia</Name>
+                                <Name lang="en">Nanophthalmos</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -9799,7 +9799,7 @@
                                       <Disorder id="10903">
                                         <OrphaNumber>67043</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=67043</ExpertLink>
-                                        <Name lang="en">Acanthamoeba keratitis</Name>
+                                        <Name lang="en">Amoebic keratitis</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -13117,7 +13117,7 @@
                           <Disorder id="13651">
                             <OrphaNumber>98634</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98634</ExpertLink>
-                            <Name lang="en">Anterior segment developmental anomaly without extraocular manifestation</Name>
+                            <Name lang="en">Anterior segment developmental anomaly without extraocular manifestations</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="6">
                             <ClassificationNode>

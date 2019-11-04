@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-10-01 04:58:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-11-01 04:59:19" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -181,16 +181,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2017</ExpertLink>
                     <Name lang="en">Sternal cleft</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="1">
-                    <ClassificationNode>
-                      <Disorder id="12502">
-                        <OrphaNumber>93942</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93942</ExpertLink>
-                        <Name lang="en">Superior celosomia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
